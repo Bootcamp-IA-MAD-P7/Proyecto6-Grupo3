@@ -1,0 +1,13 @@
+{
+  "company": "El Corte Inglés",
+  "sector": "Retail",
+  "country": "España",
+  "privacy_policy_url": "https://cuenta.elcorteingles.es/politica-de-privacidad-general/?locale=es",
+  "language": "es",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "REVIEW_REQUIRED",
+  "observations": "Página oficial ('Política de privacidad general') con descarga en PDF, pero el contenido se renderiza con JavaScript y no es extraíble sin navegador."
+}

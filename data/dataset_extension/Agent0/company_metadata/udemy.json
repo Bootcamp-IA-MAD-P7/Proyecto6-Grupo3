@@ -1,0 +1,13 @@
+{
+  "company": "Udemy",
+  "sector": "Educación",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://www.udemy.com/terms/privacy/",
+  "language": "en",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "REVIEW_REQUIRED",
+  "observations": "URL oficial conocida pero el servidor devuelve 403 al acceso automatizado; requiere validación con navegador real."
+}
