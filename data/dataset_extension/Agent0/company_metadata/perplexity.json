@@ -1,0 +1,13 @@
+{
+  "company": "Perplexity",
+  "sector": "Inteligencia Artificial",
+  "country": "EE. UU.",
+  "privacy_policy_url": "https://www.perplexity.ai/hub/legal/privacy-policy",
+  "language": "en",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 1500,
+  "estimated_paragraphs": 30,
+  "status": "REVIEW_REQUIRED",
+  "observations": "URL oficial en dominio perplexity.ai, pero el fetch devuelve 403 (protección anti-bot, no login); no se pudo verificar contenido ni fecha. Verificar manualmente con navegador."
+}

@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-001",
+  "company": "Amazon",
+  "sector": "Ecommerce",
+  "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2025-12-22",
+  "document_hash": "dd957473a6e9a9a97c62e4cd5d8780a03994c6b173fe29fd26cecb756db76353",
+  "original_length": 48000,
+  "clean_length": 41401,
+  "clean_words": 6118,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "widget de valoración",
+    "barra lateral de ayuda",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-008",
+  "company": "Coursera",
+  "sector": "Educación",
+  "url": "https://www.coursera.org/about/privacy",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2025-12-03",
+  "document_hash": "5ee8730c25b0e9e550ab0625557e6caba195d0f812f78932f2c8ae13df309186",
+  "original_length": 50417,
+  "clean_length": 48449,
+  "clean_words": 7378,
+  "removed_elements": [
+    "cabecera y navegación",
+    "menú lateral legal",
+    "enlaces de login/registro",
+    "scripts y estilos",
+    "pie de página"
+  ],
+  "processing_status": "OK"
+}

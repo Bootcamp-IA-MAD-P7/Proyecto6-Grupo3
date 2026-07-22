@@ -1,0 +1,13 @@
+{
+  "company": "Bolt",
+  "sector": "Transporte",
+  "country": "Estonia",
+  "privacy_policy_url": "https://bolt.eu/es-es/privacy/",
+  "language": "es",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 2500,
+  "estimated_paragraphs": 60,
+  "status": "REVIEW_REQUIRED",
+  "observations": "Hub oficial en español accesible que enlaza los avisos de privacidad por servicio, pero el contenido se renderiza con JavaScript (Next.js) y no es extraíble sin navegador."
+}

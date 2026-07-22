@@ -1,0 +1,22 @@
+{
+  "document_id": "PLX-2026-030",
+  "company": "Trello (Atlassian)",
+  "sector": "Productividad",
+  "url": "https://www.atlassian.com/legal/privacy-policy",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2026-08-17",
+  "document_hash": "2e25e0a159d1151deb146ba2d804c953937999ef836229cfb408a00fa9d74552",
+  "original_length": 65363,
+  "clean_length": 58550,
+  "clean_words": 8940,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "contenido relacionado",
+    "bloque newsletter",
+    "pie de página",
+    "scripts y estilos",
+    "título duplicado"
+  ],
+  "processing_status": "OK"
+}

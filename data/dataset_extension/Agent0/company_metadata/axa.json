@@ -1,0 +1,13 @@
+{
+  "company": "AXA",
+  "sector": "Seguros",
+  "country": "Francia",
+  "privacy_policy_url": "https://www.axa.es/politica-de-privacidad",
+  "language": "es",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 1500,
+  "estimated_paragraphs": 35,
+  "status": "REVIEW_REQUIRED",
+  "observations": "axa.es devuelve HTTP 406 a la extracción automatizada; requiere navegador real."
+}

@@ -1,0 +1,13 @@
+{
+  "company": "TikTok",
+  "sector": "Redes Sociales",
+  "country": "Singapur (grupo ByteDance)",
+  "privacy_policy_url": "https://www.tiktok.com/legal/page/row/privacy-policy/es",
+  "language": "es",
+  "last_update": "2025-06-02",
+  "download_date": "2026-07-22",
+  "estimated_length": 3500,
+  "estimated_paragraphs": 60,
+  "status": "VALIDATED",
+  "observations": "Versión 'ROW' (resto del mundo) en español, con fecha visible 'Última actualización: 2 de junio de 2025'. Para el EEE/Reino Unido existe una política separada (/legal/page/eea/privacy-policy/), relevante si el dataset se orienta al RGPD."
+}

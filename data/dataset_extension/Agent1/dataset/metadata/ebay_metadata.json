@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-011",
+  "company": "eBay",
+  "sector": "Ecommerce",
+  "url": "https://www.ebay.es/help/policies/member-behaviour-policies/user-privacy-notice?id=4260",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2025-04-21",
+  "document_hash": "77dd806e9425844e9b3926b81697adad906c6a892fa1405c91e9c6df80e6a1b9",
+  "original_length": 147270,
+  "clean_length": 143980,
+  "clean_words": 21638,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "widget de valoración",
+    "artículos relacionados",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

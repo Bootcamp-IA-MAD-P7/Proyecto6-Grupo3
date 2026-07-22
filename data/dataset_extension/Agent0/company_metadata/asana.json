@@ -1,0 +1,13 @@
+{
+  "company": "Asana",
+  "sector": "Productividad",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://asana.com/terms#privacy-policy",
+  "language": "en",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "REVIEW_REQUIRED",
+  "observations": "La Privacy Statement oficial es una pestaña dentro de la página de términos; la extracción automática devolvió los Términos de Servicio en lugar de la política de privacidad. Verificar manualmente."
+}

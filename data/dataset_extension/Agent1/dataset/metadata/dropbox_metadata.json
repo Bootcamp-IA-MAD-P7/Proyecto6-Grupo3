@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-009",
+  "company": "Dropbox",
+  "sector": "Cloud",
+  "url": "https://www.dropbox.com/privacy",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2025-05-30",
+  "document_hash": "87657fcb82845c51fa56da8c81174d3a0e548f6edfc93dc1aec9d2609fc1a0ac",
+  "original_length": 17784,
+  "clean_length": 17681,
+  "clean_words": 2867,
+  "removed_elements": [
+    "enlace a política anterior",
+    "navegación del sitio",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

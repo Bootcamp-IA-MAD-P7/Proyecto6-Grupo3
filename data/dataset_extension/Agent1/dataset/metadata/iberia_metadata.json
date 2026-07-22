@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-017",
+  "company": "Iberia",
+  "sector": "Viajes",
+  "url": "https://www.iberia.com/es/informacion-sobre-privacidad/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "7500108c59df93b787e5247a03b1d33f3539f54a82ae765608d3792d1c4f1d14",
+  "original_length": 67794,
+  "clean_length": 57288,
+  "clean_words": 8588,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "menús",
+    "pie de página",
+    "artefacto de carga",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

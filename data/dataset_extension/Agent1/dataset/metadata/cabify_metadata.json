@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-005",
+  "company": "Cabify",
+  "sector": "Transporte",
+  "url": "https://cabify.com/es/legal/politica-de-privacidad/pasajeros",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "d3dff3a4704d8c47562ecf5e6412d375e91d20e82713c3a4a71c6bce6f1346c0",
+  "original_length": 48242,
+  "clean_length": 34247,
+  "clean_words": 5175,
+  "removed_elements": [
+    "cabeceras y menús",
+    "selector de idioma",
+    "botones login/registro",
+    "banner de cookies",
+    "pies de página"
+  ],
+  "processing_status": "OK"
+}

@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-020",
+  "company": "Just Eat",
+  "sector": "Delivery",
+  "url": "https://www.just-eat.es/privacy-policy",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2026-06-01",
+  "document_hash": "fef0efa2d4b1b8f7c4c3eb00ddb0843a1ce3e7979a9f22c0b1ed75efb96de501",
+  "original_length": 49675,
+  "clean_length": 47982,
+  "clean_words": 6973,
+  "removed_elements": [
+    "cabecera y navegación",
+    "enlaces de login",
+    "botón imprimir/guardar PDF",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

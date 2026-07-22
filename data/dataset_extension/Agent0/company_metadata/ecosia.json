@@ -1,0 +1,13 @@
+{
+  "company": "Ecosia",
+  "sector": "Buscadores",
+  "country": "Alemania",
+  "privacy_policy_url": "https://info.ecosia.org/privacy",
+  "language": "en",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 1000,
+  "estimated_paragraphs": 20,
+  "status": "REVIEW_REQUIRED",
+  "observations": "URL oficial confirmada por múltiples fuentes, pero el fetch devuelve 403 (protección anti-bot). El texto también está versionado en el repositorio público github.com/ecosia/ecosia-privacy-policy. Verificar manualmente."
+}

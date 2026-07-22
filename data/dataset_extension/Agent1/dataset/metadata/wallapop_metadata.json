@@ -1,0 +1,22 @@
+{
+  "document_id": "PLX-2026-032",
+  "company": "Wallapop",
+  "sector": "Marketplace segunda mano",
+  "url": "https://about.wallapop.com/politica-privacidad/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2026-02-24",
+  "document_hash": "ee91b9bc7f040f20e945688a842a58e516570ce7882a71d7765fcb3ac6d0741c",
+  "original_length": 23842,
+  "clean_length": 23332,
+  "clean_words": 3421,
+  "removed_elements": [
+    "cabecera y navegación",
+    "selectores de idioma",
+    "botones de descarga de app",
+    "login",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

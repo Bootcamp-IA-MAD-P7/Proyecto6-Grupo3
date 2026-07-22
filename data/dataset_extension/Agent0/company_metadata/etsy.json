@@ -1,0 +1,13 @@
+{
+  "company": "Etsy",
+  "sector": "Ecommerce",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://www.etsy.com/legal/privacy/",
+  "language": "en",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 8000,
+  "estimated_paragraphs": 100,
+  "status": "REVIEW_REQUIRED",
+  "observations": "Global Privacy Policy oficial con selector de idiomas. La versión en español devolvió HTTP 403 al fetch; la URL en inglés es accesible. Fecha no visible. Varias tablas se renderizan como imágenes."
+}

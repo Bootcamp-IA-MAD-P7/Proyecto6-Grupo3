@@ -1,0 +1,20 @@
+{
+  "document_id": "PLX-2026-033",
+  "company": "Zalando",
+  "sector": "Retail",
+  "url": "https://en.zalando.de/zalando-privacy-policy/",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2026-05-01",
+  "document_hash": "5004aa719a1e88d1cf8bc5de526ae4ba6510208e43f6203e4fd3fc5eb2ced099",
+  "original_length": 131533,
+  "clean_length": 130485,
+  "clean_words": 20436,
+  "removed_elements": [
+    "navegación",
+    "enlace PDF-Version",
+    "scripts y estilos",
+    "elementos de interfaz"
+  ],
+  "processing_status": "OK"
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Inditex / Zara",
+  "sector": "Retail",
+  "country": "España",
+  "privacy_policy_url": "https://www.zara.com/es/es/privacy-policy.html",
+  "language": "es",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "REVIEW_REQUIRED",
+  "observations": "zara.com está protegido por Akamai y no es extraíble. El PDF estático accesible es de 07/08/2018: post-RGPD pero desactualizado (menciona Privacy Shield). Localizar la versión vigente con navegador real."
+}

@@ -1,0 +1,13 @@
+{
+  "company": "Expedia",
+  "sector": "Viajes",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://www.expediagroup.com/privacy-policy/",
+  "language": "en",
+  "last_update": "2026-01-30",
+  "download_date": "2026-07-22",
+  "estimated_length": 2200,
+  "estimated_paragraphs": 55,
+  "status": "VALIDATED",
+  "observations": "Privacy Statement corporativa de Expedia Group (Last Updated: January 30, 2026); la versión local expedia.es devolvía HTTP 429 de forma reiterada."
+}

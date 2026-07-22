@@ -1,0 +1,104 @@
+[
+  {
+    "company": "Qwant",
+    "sector": "Buscadores",
+    "country": "Francia",
+    "reason": "Buscador europeo diseñado para cumplir el RGPD; contraste regulatorio frente a Google/Bing."
+  },
+  {
+    "company": "DeepSeek",
+    "sector": "Inteligencia Artificial",
+    "country": "China",
+    "reason": "IA generativa china regida por PIPL; diversidad jurídica muy distinta."
+  },
+  {
+    "company": "Baidu",
+    "sector": "Buscadores",
+    "country": "China",
+    "reason": "Principal buscador chino; ecosistema regulatorio y lingüístico distinto."
+  },
+  {
+    "company": "Telegram",
+    "sector": "Redes Sociales",
+    "country": "EAU",
+    "reason": "Política notablemente breve y minimalista; contraste de longitud y estilo."
+  },
+  {
+    "company": "OVHcloud",
+    "sector": "Cloud",
+    "country": "Francia",
+    "reason": "Cloud europeo con soberanía de datos y RGPD como marco principal."
+  },
+  {
+    "company": "Proton",
+    "sector": "Productividad",
+    "country": "Suiza",
+    "reason": "Modelo privacy-first bajo jurisdicción suiza."
+  },
+  {
+    "company": "Mercado Libre",
+    "sector": "Ecommerce",
+    "country": "Argentina",
+    "reason": "Mayor marketplace de LATAM con políticas nativas en español."
+  },
+  {
+    "company": "DAZN",
+    "sector": "Streaming",
+    "country": "Reino Unido",
+    "reason": "Streaming deportivo con política en español; modelo distinto al generalista."
+  },
+  {
+    "company": "Revolut",
+    "sector": "Bancos / Fintech",
+    "country": "Reino Unido / Lituania (UE)",
+    "reason": "Banca digital con AML/KYC y scoring; propuesta por dos agentes."
+  },
+  {
+    "company": "N26",
+    "sector": "Bancos",
+    "country": "Alemania",
+    "reason": "Neobanco paneuropeo que opera en España."
+  },
+  {
+    "company": "Vueling",
+    "sector": "Viajes",
+    "country": "España",
+    "reason": "Aerolínea low-cost del grupo IAG; comparable con Iberia."
+  },
+  {
+    "company": "Línea Directa Aseguradora",
+    "sector": "Seguros",
+    "country": "España",
+    "reason": "Aseguradora directa/digital española."
+  },
+  {
+    "company": "MásMóvil",
+    "sector": "Telecomunicaciones",
+    "country": "España",
+    "reason": "Estructura multi-marca (MásMóvil, Yoigo, Pepephone)."
+  },
+  {
+    "company": "Khan Academy",
+    "sector": "Educación",
+    "country": "Estados Unidos",
+    "reason": "Educativa sin ánimo de lucro; contraste con Coursera/Udemy."
+  },
+  {
+    "company": "AEPD",
+    "sector": "Administración",
+    "country": "España",
+    "reason": "Autoridad de control en protección de datos; caso meta-referencial único."
+  },
+  {
+    "company": "Doctoralia",
+    "sector": "Salud digital",
+    "country": "España",
+    "reason": "Tratamiento de categorías especiales de datos (art. 9 RGPD)."
+  },
+  {
+    "company": "Supercell",
+    "sector": "Gaming",
+    "country": "Finlandia",
+    "reason": "Sector gaming: datos de menores, compras in-app."
+  }
+]

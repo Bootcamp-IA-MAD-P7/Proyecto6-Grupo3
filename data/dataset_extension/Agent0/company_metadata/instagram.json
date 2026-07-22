@@ -1,0 +1,13 @@
+{
+  "company": "Instagram",
+  "sector": "Redes Sociales",
+  "country": "EE. UU.",
+  "privacy_policy_url": "https://help.instagram.com/519522125107875",
+  "language": "multi",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "DISCARDED",
+  "observations": "Duplicada: Instagram no tiene política de privacidad independiente; su página de ayuda muestra la misma Política de privacidad de Meta ya listada para Facebook. Además, el fetch devuelve HTTP 400 (bloqueo anti-bot)."
+}

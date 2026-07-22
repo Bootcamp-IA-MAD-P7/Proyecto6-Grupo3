@@ -1,0 +1,13 @@
+{
+  "company": "Prime Video",
+  "sector": "Streaming",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010",
+  "language": "es",
+  "last_update": "2025-12-22",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "DISCARDED",
+  "observations": "Duplicada: Prime Video se rige por el Aviso de Privacidad de Amazon (la propia página lo menciona expresamente). Se evita duplicar la entrada de Amazon."
+}
