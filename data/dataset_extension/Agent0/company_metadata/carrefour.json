@@ -1,0 +1,13 @@
+{
+  "company": "Carrefour",
+  "sector": "Retail",
+  "country": "España",
+  "privacy_policy_url": "https://www.carrefour.es/politica-de-privacidad/mas-info/",
+  "language": "es",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "REVIEW_REQUIRED",
+  "observations": "URL oficial identificada, pero el sitio devuelve HTTP 403 a cualquier fetch automatizado; requiere validación manual. Carrefour sectoriza sus políticas; confirmar cuál es la general."
+}

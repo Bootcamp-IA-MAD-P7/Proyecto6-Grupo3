@@ -1,0 +1,13 @@
+{
+  "company": "Netflix",
+  "sector": "Streaming",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://help.netflix.com/legal/privacy",
+  "language": "en",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 7500,
+  "estimated_paragraphs": 95,
+  "status": "REVIEW_REQUIRED",
+  "observations": "Privacy Statement oficial completa y accesible. La fecha de última actualización quedó fuera de la extracción; el contenido es claramente vigente (plan con anuncios, juegos). Existe versión localizada en español."
+}

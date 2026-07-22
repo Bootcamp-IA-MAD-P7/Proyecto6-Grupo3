@@ -1,0 +1,13 @@
+{
+  "company": "Uber",
+  "sector": "Transporte",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://www.uber.com/legal/es/document/?name=privacy-notice&country=spain&lang=es",
+  "language": "es",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 3000,
+  "estimated_paragraphs": 80,
+  "status": "REVIEW_REQUIRED",
+  "observations": "URL oficial del aviso de privacidad para España, pero el dominio devuelve HTTP 406 a la extracción automatizada; requiere navegador real."
+}

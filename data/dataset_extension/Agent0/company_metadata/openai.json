@@ -1,0 +1,13 @@
+{
+  "company": "OpenAI",
+  "sector": "Inteligencia Artificial",
+  "country": "EE. UU.",
+  "privacy_policy_url": "https://openai.com/policies/privacy-policy/",
+  "language": "multi",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 3000,
+  "estimated_paragraphs": 60,
+  "status": "REVIEW_REQUIRED",
+  "observations": "La URL canónica redirige a versiones regionales (eu-privacy-policy / row-privacy-policy) y localizadas; conviene fijar una URL de locale concreta (p. ej. /es-ES/ o /en-GB/). Medios reportan una actualización con efectividad 2026-04-30; fecha no visible en la extracción. Contenido completo de política de privacidad confirmado."
+}

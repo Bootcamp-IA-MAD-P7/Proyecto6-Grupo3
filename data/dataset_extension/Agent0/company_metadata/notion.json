@@ -1,0 +1,13 @@
+{
+  "company": "Notion",
+  "sector": "Productividad",
+  "country": "Estados Unidos",
+  "privacy_policy_url": "https://www.notion.com/privacy",
+  "language": "en",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 0,
+  "estimated_paragraphs": 0,
+  "status": "REVIEW_REQUIRED",
+  "observations": "URL oficial conocida, pero el servidor devuelve HTTP 401 (protección anti-bot); requiere verificación manual con navegador real."
+}

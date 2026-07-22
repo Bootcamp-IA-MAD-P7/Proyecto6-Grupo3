@@ -1,0 +1,13 @@
+{
+  "company": "Skyscanner",
+  "sector": "Viajes",
+  "country": "Reino Unido",
+  "privacy_policy_url": "https://www.skyscanner.es/prensa/politica-de-privacidad",
+  "language": "es",
+  "last_update": "unknown",
+  "download_date": "2026-07-22",
+  "estimated_length": 3000,
+  "estimated_paragraphs": 70,
+  "status": "REVIEW_REQUIRED",
+  "observations": "URL oficial en español localizada e indexada (2025), pero el sitio aplica protección anti-bot que impide extraer el texto."
+}
