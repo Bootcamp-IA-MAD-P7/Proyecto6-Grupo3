@@ -1,0 +1,22 @@
+{
+  "document_id": "PLX-2026-031",
+  "company": "Vodafone España",
+  "sector": "Telecomunicaciones",
+  "url": "https://www.vodafone.es/c/conocenos/es/vodafone-espana/quienes-somos/legal-y-regulatorio/politica-de-privacidad-y-cookies/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2026-01-01",
+  "document_hash": "6428e74cd2a6e611e1fafb7d84453578aa388ebda7c18f8288b181ea1afc13d3",
+  "original_length": 140352,
+  "clean_length": 132944,
+  "clean_words": 19616,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "controles de acordeón",
+    "política de cookies (pestaña separada, excluida)",
+    "otras pestañas no relativas a privacidad",
+    "pies de página",
+    "contenido duplicado parcial"
+  ],
+  "processing_status": "OK"
+}

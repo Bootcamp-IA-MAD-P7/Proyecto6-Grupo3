@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-029",
+  "company": "TikTok",
+  "sector": "Redes Sociales",
+  "url": "https://www.tiktok.com/legal/page/row/privacy-policy/es",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2025-06-02",
+  "document_hash": "f493bdc5c2d56af61b7ed8578e3366c918a50d0147d21c48276138ab9b94073d",
+  "original_length": 36176,
+  "clean_length": 36036,
+  "clean_words": 5285,
+  "removed_elements": [
+    "selector de región",
+    "navegación legal",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

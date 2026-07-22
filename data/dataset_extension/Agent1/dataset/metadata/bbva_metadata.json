@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-003",
+  "company": "BBVA",
+  "sector": "Bancos",
+  "url": "https://www.bbva.es/general/tratamiento-datos.html",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "51bd4c910f95db3ab0b3a153d598fb266dd3ebf8e85f3b5b5999a59953f238f5",
+  "original_length": 18484,
+  "clean_length": 18427,
+  "clean_words": 2775,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "pies de página",
+    "espaciado redundante"
+  ],
+  "processing_status": "OK"
+}

@@ -1,0 +1,246 @@
+{
+  "generated": "2026-07-22",
+  "total_anomalies": 33,
+  "by_severity": {
+    "CRITICAL": 0,
+    "HIGH": 1,
+    "MEDIUM": 9,
+    "LOW": 23
+  },
+  "documents_requiring_human_review": [
+    "Reddit"
+  ],
+  "anomalies": [
+    {
+      "company": "Amazon",
+      "slug": "amazon",
+      "type": "titulo_con_residuo",
+      "severity": "LOW",
+      "description": "El título incluye sufijo de la página de ayuda; no afecta al contenido jurídico"
+    },
+    {
+      "company": "Anthropic",
+      "slug": "anthropic",
+      "type": "tablas_convertidas",
+      "severity": "LOW",
+      "description": "Tablas de divulgaciones regionales convertidas a texto plano; contenido íntegro"
+    },
+    {
+      "company": "BBVA",
+      "slug": "bbva",
+      "type": "error_descarga_parcial",
+      "severity": "LOW",
+      "description": "Descarga directa devolvió 403; contenido íntegro vía extractor"
+    },
+    {
+      "company": "BBVA",
+      "slug": "bbva",
+      "type": "documento_multiple",
+      "severity": "LOW",
+      "description": "La página contiene cuatro textos de tratamiento (web, banca empresas, videovigilancia, llamadas); conservados todos"
+    },
+    {
+      "company": "CaixaBank",
+      "slug": "caixabank",
+      "type": "contenido_largo",
+      "severity": "LOW",
+      "description": "Longitud real de la política (apartados 1-11)"
+    },
+    {
+      "company": "Coursera",
+      "slug": "coursera",
+      "type": "geolocalizacion_idioma",
+      "severity": "LOW",
+      "description": "La primera extracción devolvió la versión en chino por geolocalización; se redescargó forzando inglés (versión original)"
+    },
+    {
+      "company": "eBay",
+      "slug": "ebay",
+      "type": "contenido_excesivamente_largo",
+      "severity": "MEDIUM",
+      "description": "La página oficial incluye el aviso vigente y la versión anterior completa"
+    },
+    {
+      "company": "eBay",
+      "slug": "ebay",
+      "type": "contenido_duplicado",
+      "severity": "MEDIUM",
+      "description": "La versión anterior duplica gran parte del aviso vigente; conservada por formar parte del documento oficial"
+    },
+    {
+      "company": "Generali",
+      "slug": "generali",
+      "type": "contenido_duplicado",
+      "severity": "MEDIUM",
+      "description": "Acordeones con variantes móvil/escritorio; la deduplicación no eliminó todas las repeticiones internas"
+    },
+    {
+      "company": "Generali",
+      "slug": "generali",
+      "type": "contenido_largo",
+      "severity": "LOW",
+      "description": "Cuatro notas informativas por tipo de interesado, todas conservadas"
+    },
+    {
+      "company": "Glovo",
+      "slug": "glovo",
+      "type": "excessive_length",
+      "severity": "LOW",
+      "description": "Política unificada para todos los tipos de interesado, mantenida en el orden original con anexos"
+    },
+    {
+      "company": "Google Cloud",
+      "slug": "google_cloud",
+      "type": "contenido_repetitivo",
+      "severity": "LOW",
+      "description": "Filas de tablas de Service Data repetidas entre categorías (repetición legal legítima)"
+    },
+    {
+      "company": "Iberia",
+      "slug": "iberia",
+      "type": "pagina_incompleta_en_primera_extraccion",
+      "severity": "LOW",
+      "description": "Recuperado completo vía descarga HTML"
+    },
+    {
+      "company": "MAPFRE",
+      "slug": "mapfre",
+      "type": "extraccion_inicial_incompleta",
+      "severity": "LOW",
+      "description": "Primera extracción parcial; recuperado completo (apartados 1-9.3)"
+    },
+    {
+      "company": "Mercadona",
+      "slug": "mercadona",
+      "type": "download_interference",
+      "severity": "LOW",
+      "description": "Descarga directa bloqueada; se usó la extracción de texto principal, documento completo"
+    },
+    {
+      "company": "Mistral AI",
+      "slug": "mistral_ai",
+      "type": "contenido_duplicado",
+      "severity": "LOW",
+      "description": "El HTML duplicaba párrafos por anidamiento li/p; corregido"
+    },
+    {
+      "company": "Reddit",
+      "slug": "reddit",
+      "type": "pagina_incompleta",
+      "severity": "HIGH",
+      "description": "La sección 'How We Share Your Information' no aparece en la extracción; la página exige reto JS anti-bot"
+    },
+    {
+      "company": "Reddit",
+      "slug": "reddit",
+      "type": "error_descarga",
+      "severity": "MEDIUM",
+      "description": "Descarga directa bloqueada por verificación anti-bot de Reddit; se usó el texto del extractor"
+    },
+    {
+      "company": "Renfe",
+      "slug": "renfe",
+      "type": "contenido_no_accesible",
+      "severity": "MEDIUM",
+      "description": "La política del Canal Ético enlazada no contiene texto accesible; no se pudo unir"
+    },
+    {
+      "company": "Renfe",
+      "slug": "renfe",
+      "type": "contenido_no_accesible",
+      "severity": "MEDIUM",
+      "description": "La política de solicitudes de rodaje se renderiza con JS y devolvió contenido vacío; no se pudo unir"
+    },
+    {
+      "company": "Renfe",
+      "slug": "renfe",
+      "type": "fuente_secundaria",
+      "severity": "LOW",
+      "description": "La política de reconocimientos médicos se obtuvo de una versión de solo lectura en caché"
+    },
+    {
+      "company": "Banco Santander",
+      "slug": "santander",
+      "type": "contenido_largo",
+      "severity": "LOW",
+      "description": "Incluye las pestañas Clientes, Potenciales, No Clientes, Herederos/Beneficiarios y Contacto DPD"
+    },
+    {
+      "company": "Banco Santander",
+      "slug": "santander",
+      "type": "tabla_plana",
+      "severity": "LOW",
+      "description": "Tabla de bases de legitimación convertida a texto plano"
+    },
+    {
+      "company": "Banco Santander",
+      "slug": "santander",
+      "type": "restos_navegacion",
+      "severity": "MEDIUM",
+      "description": "Restos del bloque de enlaces de pie de página al final del clean (RECORTADO en post-procesado)"
+    },
+    {
+      "company": "Spotify",
+      "slug": "spotify",
+      "type": "pagina_incompleta_en_primera_extraccion",
+      "severity": "LOW",
+      "description": "Recuperado completo vía descarga HTML"
+    },
+    {
+      "company": "Spotify",
+      "slug": "spotify",
+      "type": "tablas_convertidas_a_texto",
+      "severity": "LOW",
+      "description": "Tablas de derechos y categorías linealizadas conservando contenido"
+    },
+    {
+      "company": "Trello (Atlassian)",
+      "slug": "trello",
+      "type": "pagina_incompleta_en_primera_extraccion",
+      "severity": "LOW",
+      "description": "Recuperado el documento completo descargando el HTML"
+    },
+    {
+      "company": "Vodafone España",
+      "slug": "vodafone_espana",
+      "type": "pagina_compartida",
+      "severity": "LOW",
+      "description": "URL compartida con política de cookies; se separó la pestaña de privacidad"
+    },
+    {
+      "company": "Vodafone España",
+      "slug": "vodafone_espana",
+      "type": "contenido_duplicado",
+      "severity": "MEDIUM",
+      "description": "Persisten duplicados internos de acordeones móvil/escritorio"
+    },
+    {
+      "company": "Vodafone España",
+      "slug": "vodafone_espana",
+      "type": "contenido_largo",
+      "severity": "LOW",
+      "description": "Supera 15000 palabras"
+    },
+    {
+      "company": "Vodafone España",
+      "slug": "vodafone_espana",
+      "type": "version_pdf_desactualizada",
+      "severity": "LOW",
+      "description": "PDF oficial enlazado con fecha 22/05/2025, anterior a la web (01/01/2026); descartado en favor del texto web"
+    },
+    {
+      "company": "Zalando",
+      "slug": "zalando",
+      "type": "excessive_length",
+      "severity": "MEDIUM",
+      "description": "Supera 15000 palabras; política legítimamente extensa con capítulo por países"
+    },
+    {
+      "company": "Zalando",
+      "slug": "zalando",
+      "type": "download_interference",
+      "severity": "LOW",
+      "description": "Primer intento bloqueado por anti-bot; resuelto con cabeceras de navegador"
+    }
+  ]
+}

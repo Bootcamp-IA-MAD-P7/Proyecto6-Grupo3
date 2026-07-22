@@ -1,0 +1,1123 @@
+Información sobre protección de datos
+Encuentra aquí el detalle de cómo tratamos tus datos.
+Clientes
+Clientes Menores
+Potenciales
+No Clientes
+Herederos y Beneficiarios
+Contacto DPD
+Clientes
+Clientes Menores
+Potenciales
+No Clientes
+Herederos y Beneficiarios
+Contacto DPD
+Clientes
+¿Quién es el responsable del tratamiento de sus datos?
+¿Qué tipos de intervención ampara este documento?
+¿Qué tipos de datos personales recopilamos y tratamos?
+¿Cómo obtenemos sus datos?
+¿Para qué tratamos sus datos personales y sobre qué base de legitimación?
+¿Es obligatorio facilitar sus datos?
+¿Qué ocurre si Usted no quiere otorgar su consentimiento?
+¿Durante cuánto tiempo conservaremos sus datos?
+¿A quién comunicaremos sus datos?
+¿Se producirán transferencias de sus datos personales a terceros países?
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+¿Quién es el responsable del tratamiento de sus datos?
+Banco Santander, S.A (en adelante “el Banco” o “Banco Santander”).
+Dirección postal: C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid.
+Contacto Delegado de Protección de Datos/Oficina de Privacidad:
+privacidad@gruposantander.es
+¿Qué tipos de intervención ampara este documento?
+El presente documento aplica a todas las personas que muestran interés o solicitan al Banco la contratación de un producto o servicio (precliente), así como a aquellas que mantengan una relación jurídica con el Banco, con independencia del tipo de intervención, ya sea titular de un contrato (cliente), avalistas/garantes, autorizados o representantes, entre otros.
+La base legal sobre la que se desarrollan los tratamientos de los principales tipos de intervinientes es la siguiente:
+Precliente
+Cliente
+Avalista y Garante
+Autorizados y otros intervinientes
+Representante
+BASE DE LEGÍTIMACIÓN
+Ejecución de un contrato o medidas precontractuales
+Sí
+Sí
+Sí
+Sí
+Sí
+Consentimiento
+Según autorización
+Según autorización
+Según autorización
+Según autorización
+No
+Intereses legítimos
+Si, menos realización de perfil comercial
+Sí
+Si, menos realización de perfil comercial
+Sí
+, menos realización de perfil comercial
+Sí, menos perfil comercial
+Obligación Legal
+Sí
+Sí
+Sí
+Sí
+, menos valoración del riesgo
+Si, menos valoración del riesgo
+¿Qué tipos de datos personales recopilamos y tratamos?
+Si es cliente o ha solicitado serlo (precliente):
+Datos de carácter identificativo y de contacto: Documento de identidad (NIF, DNI, NIE, Documento de identidad no español/CIF), nombre y apellidos, número de cliente, domicilio, residencia, teléfonos, email.
+Datos biométricos: En el caso de que Ud. hubiera hecho uso de la firma manual digitalizada en su relación con el Banco, para solicitar servicios y/o formalizar operaciones, conservaremos sus datos obtenidos mediante la digitalización de la firma manuscrita (como son el orden del trazo, la intensidad, la velocidad, la presión y la aceleración del grafo) que exclusivamente serán tratados como elemento de prueba en caso de repudio, con objeto de verificar, a través del cotejo, que la firma es suya, efectuando así la autenticación del cliente para poder acreditar la autenticidad de la documentación u operación que formalice con el Banco.
+En el caso de que Ud. solicite la videoautenticación para que podamos autenticar su identidad en los procesos de contratación a distancia, o en ocasiones de riesgo alto de fraude, en los que sea necesario para prevenir el uso o acceso no autorizado o fraudulento a la Banca a distancia, y elija hacerlo a través de la videoautenticación, trataremos su patrón de la imagen, extraída de tu fotografía durante el proceso de autenticación y de la de su documento identificativo.
+Datos referentes a sus características personales: sexo, edad, fecha de nacimiento, estado civil, personas a su cargo, lugar de nacimiento, nacionalidad.
+Datos relativos a sus circunstancias sociales: hobbies, propiedades y detalles de la vivienda, finca o local (como tamaño, localización y características energéticas).
+Datos académicos y profesionales o laborales: nivel de estudios, titulación, estado laboral, actividad, profesión, categoría profesional, pertenencia a colegios profesionales.
+Datos económicos, financieros y de solvencia: Cuentas corrientes y saldo, Scoring financiero-crediticio, volumen de facturación (Autónomos), origen de los ingresos, datos económicos de nómina.
+Datos referentes a transacciones de bienes y servicios: catálogo de todos los productos bancarios contratados por el cliente tales como tarjetas de crédito o débito, fondos, hipotecas, la condición de accionista, etc., información de otros bancos o terceras compañías (servicio de agregación o iniciación de pagos -servicio de agregación-, o servicios de agrupación de pagos), medios de pago, y la utilización de los mismos.
+Datos relativos a información comercial: uso de canales, preferencias de contacto.
+Datos transaccionales: ingresos, gastos, saldos, pagos, transferencias, domiciliaciones, recibos, apuntes y movimientos de productos contratados, incluyendo el origen, destino, concepto y tercero relacionado con la transacción, localización donde se realiza y la fecha y hora.
+Datos sobre su localización, si ha consentido activar el servicio de geolocalización de su dispositivo.
+Datos sobre su comportamiento en línea y preferencias: por ejemplo, la IP de su ordenador o el ID de su dispositivo, así como las páginas que visita, hábitos de navegación, modelo de dispositivo, o los identificadores en línea, en los términos descritos en nuestra Política de cookies, disponible en nuestra página web
+https://www.bancosantander.es/politica-de-cookies
+.
+Datos sobre sus intereses que comparte con nosotros: por ejemplo, cuando se pone en contacto con nuestros gestores a través de una llamada de consulta, realiza una simulación de nuestros productos y/o servicios, o cuando se da de alta como usuario del servicio de Newsletter.
+Datos relativos a los dispositivos desde los que accede a su Área de cliente del Banco: modelo del dispositivo y sistema operativo.
+Datos audiovisuales: por ejemplo, cuando grabamos su voz en el marco de una conversación telefónica con nuestros gestores.
+Datos sensibles: en caso de que Usted nos los haya facilitado, en el marco de su relación con el Banco, trataremos sus datos de salud relacionados con su grado de discapacidad, y otra información relativa a su situación de vulnerabilidad, a los efectos y para los fines previstos en la normativa sobre esta materia.
+Datos de fuentes externas, tal y como se detalla en el apartado ¿Cómo obtenemos sus datos?
+Si es avalista/garante:
+Datos identificativos: Documento de identidad (NIF, DNI, NIE, Documento de identidad no español/CIF), nombre y apellidos, número de cliente, domicilio, residencia, teléfonos, email.
+En el caso de que Ud. hubiera hecho uso de la firma manual digitalizada en su relación con el Banco, para solicitar servicios y/o formalizar operaciones, conservaremos sus datos obtenidos mediante la digitalización de la firma manuscrita (como son el orden del trazo, la intensidad, la velocidad, la presión y la aceleración del grafo), que exclusivamente serán tratados como elemento de prueba en caso de repudio, con objeto de verificar, a través del cotejo, que la firma es suya, efectuando así la autenticación del cliente para poder acreditar la autenticidad de la documentación u operación que formalice con el Banco.
+Características personales: fecha de nacimiento, lugar de nacimiento, nacionalidad.
+Circunstancias sociales: propiedades y detalles de la vivienda, finca o local.
+Detalles del empleo: estado laboral, actividad, profesión, categoría profesional.
+Información comercial: uso de canales.
+Económicos financieros y de seguros: Scoring financiero-crediticio, volumen de facturación (Autónomos), origen de los ingresos, datos económicos de nómina.
+Datos de fuentes externas, tal y como se detalla en el apartado ¿Cómo obtenemos sus datos?
+Si es autorizado o representante:
+Carácter identificativo: Documento de identidad (NIF, DNI, NIE, Documento de identidad no español/CIF), nombre y apellidos, número de cliente, domicilio, residencia, teléfonos, email.
+En el caso de que Ud. hubiera hecho uso de la firma manual digitalizada en su relación con el Banco, para solicitar servicios y/o formalizar operaciones, conservaremos sus datos obtenidos mediante la digitalización de la firma manuscrita (como son el orden del trazo, la intensidad, la velocidad, la presión y la aceleración del grafo) y que exclusivamente serán tratados como elemento de prueba en caso de repudio, con objeto de verificar, a través del cotejo, que la firma es suya, efectuando así la autenticación del cliente para poder acreditar la autenticidad de la documentación u operación que formalice con el Banco.
+Características personales: fecha de nacimiento, lugar de nacimiento, nacionalidad
+Académicos y profesionales: estado laboral, actividad, profesión, categoría profesional.
+Información comercial: uso de canales.
+Datos de fuentes externas, tal y como se detalla en el apartado ¿Cómo obtenemos sus datos?
+Con independencia de la naturaleza de su relación con el Banco, éste no recopilará ni tratará categorías especiales de datos sobre usted (por ejemplo, datos relativos a su salud, origen étnico, creencias religiosas u opiniones políticas), a menos que sea estrictamente necesario para poder gestionar el servicio contratado o solicitado, por ejemplo, porque usted haya domiciliado el pago de la cuota sindical en una cuenta de nuestro Banco o tenga condiciones contractuales específicas derivadas de su situación de vulnerabilidad.
+Por último, el Banco no recopilará ni tratará datos de menores, a menos que mantengan contratos con la entidad, ya sea directamente o con la representación de sus padres o tutores. El tratamiento de datos de dichos menores se limitará exclusivamente al mantenimiento y seguimiento del producto o servicio contratado.
+¿Cómo obtenemos sus datos?
+El Banco obtiene sus datos de las siguientes fuentes:
+Directamente de Usted, a través de la información que nos facilita cuando solicita, contrata, mantiene y hace uso de productos y/o servicios con nosotros o comercializados por nosotros, tanto de forma directa como indirecta y a través de cualquiera de los canales que el Banco pone a su disposición (sucursal, canal telefónico, servicios en línea, etc.). Algunos ejemplos son: a través de consultas, transacciones, operaciones, simulaciones o solicitudes de los referidos productos o servicios. Adicionalmente, previa obtención de su consentimiento, podemos obtener datos personales de Usted cuando navega a través de nuestras páginas web y aplicaciones de telefonía móvil, mediante la utilización de cookies o cualquier otro tipo de identificador en línea o a través de la huella digital de su dispositivo o terminal.
+En algunos casos como, por ejemplo, para la contratación de un producto o servicio con pluralidad de intervinientes o en los que el titular es una persona jurídica y usted es apoderado, representante o trabajador de la misma, sus datos podrían ser facilitados por alguno de ellos. En estos supuestos, dichos terceros deben saber que previamente a la comunicación de sus datos vienen obligados a informarle de la cesión y, en su caso, haber obtenido su autorización.
+Excepcionalmente, y para el cumplimiento de las obligaciones de diligencia debida en materia de prevención del blanqueo de capitales y financiación del terrorismo, podremos utilizar la información de la que ya dispusiese el Banco (por ejemplo, las órdenes de pago de nómina que hubiera efectuado al Banco su empleador) para verificar los datos que Usted nos haya facilitado en el formulario de identificación de cliente, así como de información de otras entidades del Grupo Santander de las que Usted es cliente.
+Fuentes de información internas, como aquellos datos inferidos sobre Usted en base a los datos personales disponibles como consecuencia de su posición de cliente, relativos a indicadores de riesgo financiero o de crédito.
+Fuentes de información externas:
+Central de Información de Riesgos del Banco de España (CIRBE), de la que obtenemos información de solvencia sobre usted.
+Sistemas de información crediticia a los que el Banco se encuentra adherido, como Asnef-Equifax Servicios de Información sobre Solvencia y Crédito S.L. (Asnef), Experian Bureau de Crédito, S.A. (Experian) y el Registro de Aceptaciones Impagadas (RAI), que facilitan información sobre solvencia, morosidad y, en general, indicadores de riesgo financiero o de crédito.
+Sistemas de información de prevención del fraude, como Sociedad Española de Sistemas de Pago, S.A. (Iberpay), Confirma Sistemas de Información S.L. (Confirma), FrauDfense y operadoras de telecomunicaciones.
+Ficheros de información especializada o fuentes públicas disponibles en internet relativas a la prevención del blanqueo de capitales y la financiación del terrorismo, de las que el Banco obtiene información sobre sus clientes titulares o intervinientes en las cuentas, representantes legales y titulares reales de las mismas.
+Fuentes públicamente accesibles tales como diarios y boletines oficiales, registros públicos, resoluciones de las Administraciones Públicas, guías telefónicas y listas de personas pertenecientes a colegios profesionales.
+La Tesorería General de la Seguridad Social (TGSS), para verificar su fuente de ingresos.
+La Agencia Estatal de Administración Tributaria, en caso de que Usted nos haya facilitado su Código Seguro de Verificación y nos haya autorizado a que el Banco lo utilice en la oficina virtual de la página web de la Agencia Tributaria (AEAT) con el objetivo de descargar sus datos fiscales, de forma que el Banco pueda comprobar su veracidad a los efectos de analizar la solicitud de la operación de referencia.
+Empresas de servicios de inversión cuando depositen efectivo de sus clientes en el Banco, a los efectos de determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos de Entidades de crédito.
+Terceras empresas a las que Ud. haya prestado su consentimiento para la comunicación de sus datos personales al Banco (por ejemplo, entidades aseguradoras o entidades con las que el Banco suscribe acuerdos de colaboración en el marco de los cuales aquéllas recaban su consentimiento para la comunicación de sus datos personales a Banco Santander, incluyendo Redes Sociales; Universidades españolas a quienes Ud., a través de sus aplicaciones móviles correspondientes, haya otorgado su consentimiento para la comunicación de sus datos personales al Banco con fines comerciales; o entidades a las que Usted ha prestado su consentimiento para el uso de cookies o tecnologías similares que comportan la comunicación al Banco de su información recogida por medio de dichas tecnologías).
+Terceras empresas que le prestan servicios cuando sea necesario para la ejecución de un contrato con el Banco o la aplicación de medidas precontractuales solicitadas por usted, como por ejemplo, el servicio de agregación o iniciación de pagos (servicio de agregación), el servicio de agrupación de pagos, el servicio de prescripción hipotecaria o de algún otro producto financiero o de seguros, una petición de información o agregación de información sobre cuentas o servicios de pago en el marco de una solicitud de crédito, o la comprobación de los requisitos para la bonificación de un producto o servicio contratado o solicitado.
+Colaboradores del Banco con los que Usted haya contratado los servicios prescritos digitalmente desde el Banco, que facilitan sus datos identificativos (nombre, apellidos y NIF y su dirección protocolo de internet (IP) en la medida que sean necesarias para el cumplimiento de obligaciones tributarias del Banco.
+Colaboradores del Banco con los que Usted haya contratado los servicios no financieros prescritos por el Banco, que facilitan sus datos identificativos (número del DNI) con la finalidad de gestionar y verificar la facturación y retribución obtenida por el Banco derivada de los acuerdos suscritos con dichos colaboradores.
+Adicionalmente, en caso de que Usted haya otorgado su consentimiento al efecto, podemos obtener datos personales relativos a su navegación a través de páginas web de empresas del Grupo Santander o empresas proveedoras de información comercial, recabados mediante la utilización de cookies o cualquier otro tipo de identificador en línea o a través de la huella digital de su dispositivo o terminal.
+Su representado, en caso de que Usted actúe como representante o autorizado de una empresa, entidad u otra persona física.
+Empresas tasadoras, en caso de que Usted nos aporte una tasación propia en el contexto de una solicitud de préstamo hipotecario a fin de que podamos verificar a través de la tasadora emisora del informe su autenticidad de forma automatizada.
+Gestorías, en el caso de que Usted solicite nos solicite un préstamo/crédito hipotecario, obtendremos de aquella información relativa a los gastos totales asociados a dicha operación, incluidas operaciones conexas, a fin de que pueda adoptar una decisión informada, todo ello en cumplimiento de las recomendaciones facilitadas por Banco de España.
+En caso de que Usted haya otorgado su consentimiento al efecto, podremos obtener datos relativos a los seguros solicitados o contratados por Usted con la mediación del Banco como red de distribución de Santander Mediación Operador de Banca-seguros vinculados, S.A. En particular:
+Datos referentes a transacciones de bienes y servicios:
+Contratación y simulación (presupuestos) de seguros: información relativa a todos los productos de seguros contratados (por ejemplo: nombre de producto, ramo, tipo y modalidad; datos de prima, forma de pago y recargos; condiciones particulares como capitales, coberturas, exclusiones o carencias; préstamos asociados al seguro; canal de contratación).
+Gestión de la relación contractual: información relacionada con la gestión, situación, evolución y mantenimiento de los productos contratados, incluyendo la gestión de siniestros (por ejemplo: recibos emitidos y su situación; aportaciones y rescates realizados; modificaciones de coberturas, número de asegurados, forma de pago u otras condiciones o detalles de la póliza; solicitudes de cancelación y resultado de acciones de retención; detalles sobre el bien ─vehículo, inmueble─ o actividad asegurados; apertura, coste y situación del siniestro y su pago, cobertura o rechazo y el motivo; fechas asociadas a todos los hitos en la gestión y evolución de la póliza).
+Datos referentes a la interacción entre Usted y las Compañías:
+Verificación de la calidad de los servicios: información relativa a las encuestas de calidad que las Compañías le sometan para verificar la calidad de sus distintos servicios (canal, contenido, fecha y resultado/respuesta de las encuestas).
+Quejas y reclamaciones: información sobre el motivo, fecha y resolución de las quejas y reclamaciones gestionadas.
+Campañas y contactos: información relacionada con las campañas de venta, prevención/fidelización y retención que le realicen las Compañías (público objetivo, contenido/oferta, canal, contacto y resultado y fechas relacionadas), así como los contactos iniciados por Usted (canal, motivo, resultado y fechas de contacto).
+¿Para qué tratamos sus datos personales y sobre qué base de legitimación?
+A continuación, se detallan las distintas finalidades de tratamiento por parte de Banco Santander, diferenciando entre
+(i)
+preclientes y clientes,
+(ii)
+avalistas/garantes y
+(iii)
+autorizados o representantes:
+Si es cliente o ha solicitado serlo:
+Gestionar la relación precontractual y, en su caso, contractual, respecto de los productos y/o servicios del Banco que contrate.
+Cuando usted se interese por alguno de los productos o servicios ofrecidos por el Banco y solicite información acerca de los mismos y/o la iniciación de un proceso de contratación, trataremos sus datos personales con la finalidad de asistirle y atender sus consultas o preguntas, dar curso a su solicitud, llevar a cabo los trámites previos necesarios para proceder a dicha contratación (por ejemplo, proporcionarle información y asesoramiento relativo al producto o servicio por el que se haya interesado o evaluar la viabilidad de su solicitud de contratación) o contactarle para que pueda seguir con el proceso de contratación en caso de que no haya podido finalizar.
+Adicionalmente, comunicaremos sus datos a otras empresas del Grupo Santander y terceras empresas participadas y/o empresas colaboradoras del Grupo Santander (a modo de ejemplo, entidades aseguradoras, gestoras de activos financieros o entidades de capital riesgo), en caso de que Ud., en calidad de cliente del Banco, lleve a cabo procesos de simulación o solicitud de la contratación de alguno de los productos y/o servicios de dichas entidades que son comercializados por el Banco y/o la efectiva contratación de los mismos o en los casos en los que sea Ud. cliente común del Banco y de dichas entidades, cuando la finalidad de comunicación de datos sea el mantenimiento y desarrollo del contrato que usted mantiene con las referidas entidades. En estos casos, la comunicación afectará únicamente a un número limitado de datos que el Banco dispone sobre su persona, en concreto, los estrictamente necesarios para la celebración del contrato y/o para la ejecución/desarrollo del mismo y el cumplimiento por dichas empresas de sus obligaciones legales: NIF, sexo, edad, domicilio y domiciliación bancaria; y, en algunos supuestos, además, su perfil de riesgo, email, teléfono y la información necesaria para el cumplimiento de las obligaciones legales descritas en el apartado 2 siguiente. Se pretende con ello, simplificar y agilizar la contratación a través del Banco de los productos que éste comercializa o distribuye de otras empresas del Grupo o de terceras empresas participadas, habida cuenta de su condición de cliente del Banco; el cumplimiento por tales empresas de las obligaciones legales a las que están sujetas; y que dichas empresas de las que también sea cliente cuenten con sus datos de contacto para remitirle información relevante para el desarrollo de su relación contractual.
+Asimismo, en aquellos supuestos en que un cliente solicite financiación a través de los fondos del Instituto de Crédito Oficial, el Banco Europeo de Inversiones, el Fondo Europeo de Inversiones o de Administraciones Públicas, trataremos sus datos personales con la finalidad de gestionar dicha solicitud y evaluar si tal financiación se tramita a través de fondos del Banco o de las mencionadas entidades. Una vez formalizada, en su caso, la financiación, sus datos personales serán comunicados al Instituto de Crédito Oficial, al Banco Europeo de Inversiones, al Fondo Europeo de Inversiones o a la Administración Pública en cuestión, según corresponda, a fin de conocer qué parte del préstamo está siendo dispuesto por el Banco.
+La
+base de legitimación
+de estos tratamientos es
+su solicitud de adopción de medidas precontractuales
+dirigidas a la contratación de alguno de los productos y/o servicios ofrecidos por el Banco o las empresas de su Grupo.
+Adicionalmente, cuando se proceda a la contratación de alguno de los productos y/o servicios del Banco (activo, pasivo, financieros, de inversión, planes de pensiones, servicios de leasing y renting, etc.), trataremos sus datos personales con las siguientes finalidades:
+Proceder a la firma del contrato, el mantenimiento, desarrollo y ejecución del mismo. Lo anterior incluye, asimismo, el tratamiento de sus datos personales con la finalidad de organizar las carteras de los distintos clientes del Banco y asignar cada una de ellas a un gestor determinado, y el tratamiento de los datos transaccionales de los productos y/o servicios que Usted tenga contratados con el Banco, en los casos en que resulte necesario a fin de comprobar que cumple las condiciones para la suscripción y posterior desarrollo del contrato.
+Realizar comunicaciones informativas estrictamente relacionadas con los productos o servicios contratados por usted y con la operativa de los mismos, incluyendo la verificación de movimientos inusuales.
+En su caso, llevar a cabo las actuaciones necesarias para lograr la recuperación y pago de las deudas que usted pudiera mantener con el Banco, incluyendo la actualización de los datos que ya hubieran sido facilitados por el deudor.
+Llevar a cabo el proceso de alta como nuevo cliente y permitirle el acceso a los canales digitales del Banco.
+Prestarle los servicios que nos solicite o que incorporen los canales digitales del Banco, incluyendo el servicio de agregación o iniciación de pagos (servicio de agregación), servicios de agrupación de pagos y la realización de operaciones y la gestión de (i) cualquier tipo de consulta, reclamación o incidencia que pudiera derivarse de la relación contractual entablada y (ii) los servicios ofrecidos por los cajeros automáticos (por ejemplo, retiradas e ingresos en cuenta, pago de impuestos y recibos, consulta de movimientos, transferencias, recarga de móviles o recuperación de claves).
+La
+base de legitimación
+para estos tratamientos es la
+ejecución del contrato
+suscrito entre Usted y el Banco.
+Adicionalmente, el Banco podrá compartir información asociada a la actualización de sus datos personales con las empresas del Grupo Santander y terceras entidades colaboradoras y/o participadas por dicho Grupo, cuyos productos comercializa y/o le muestra en su Área de cliente del Banco (web y app) o respecto a los que puede solicitar información a su gestor. Es decir, si Ud. actualiza un dato personal a través del Banco, éste podrá facilitar a las demás los datos actualizados. Podrá acceder al listado completo de sociedades del Grupo y terceras entidades colaboradoras y/o participadas por el Grupo Santander a las que comunicaremos sus datos solicitándolo en su Oficina o a través del siguiente enlace:
+https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:c37556a7-fc72-441b-879e-511d5e666c52/original/as/ES-0000018N-informacion-proteccion-datos-cesion_datos_entidades_WebP.pdf
+.
+La
+base de legitimación
+de este tratamiento es el
+interés legítimo
+de tener toda la información actualizada en todas las entidades del Grupo Santander, así como en aquellas colaboradoras y/o participadas por dicho Grupo cuyos productos son comercializados por éste, sin que sea necesario que los Interesados deban solicitar dicha actualización en cada una de ellas.
+El Banco también podrá utilizar sus datos de contacto como cliente para mantener actualizada su información en condición de accionista.
+La
+base de legitimación
+de este tratamiento es el
+interés legítimo
+del Banco en cumplir sus obligaciones legales y en facilitar al accionista el ejercicio de sus derechos como tal.
+Asimismo, en relación con las actividades de recuperación de deuda, es posible que el Banco, tanto directamente como a través de empresas con las que contrate tal servicio, obtenga datos adicionales a los facilitados por el deudor en el momento de la contratación, a fin de facilitar su localización o mejorar el conocimiento de sus posibilidades de pago de la deuda, incluyendo igualmente la realización de actuaciones de averiguación de la solvencia de los deudores, mediante el acceso a información referente a bienes y propiedades de aquéllos, todo ello con el objetivo de lograr la recuperación y pago de la deuda.
+Dicho tratamiento tendría su
+base de legitimación
+en el
+interés legítimo
+del Banco en lograr que se produzca el cumplimiento de las obligaciones de pago previamente contraídas por sus clientes con dicha entidad.
+Cumplimiento de obligaciones legales del Banco
+Trataremos sus datos personales para cumplir las obligaciones legales que resulten aplicables al Banco, tales como:
+Obligaciones en materia de prevención del blanqueo de capitales y financiación del terrorismo.
+Para el cumplimiento de estas obligaciones, el Banco tratará los datos que resultan necesarios para el cumplimiento de las obligaciones de diligencia debida establecidas en la normativa aplicable, incluida la comunicación de datos estrictamente imprescindibles a los bancos corresponsales con los que el Banco tiene suscritos acuerdos y que así lo soliciten, para ejecutar ciertas operaciones concretas que Usted haya instruido. En el caso de que Usted solicite su alta como cliente mediante el sistema de videoautenticación (alta a distancia) el Banco tratará sus datos con la finalidad de verificar su identidad y autenticarle. Igualmente, para estos fines el Banco comunicará sus datos personales a otras empresas del Grupo Santander y terceras entidades participadas y/o colaboradoras de dicho Grupo que hayan delegado en el Banco el cumplimiento de las obligaciones en materia de prevención del blanqueo de capitales y financiación del terrorismo, en los términos previstos en esa normativa.
+Adicionalmente, el Banco tratará sus datos personales a los efectos de llevar a cabo un seguimiento continuo de la relación de negocios, incluyendo procesos de revisión con objeto de asegurar que los datos obtenidos como consecuencia de la aplicación de las medidas de debida diligencia se mantienen actualizados y se encuentran vigentes. Para ello, el Banco comunicará sus datos personales a otras empresas del Grupo Santander de las que Usted es cliente y recabará sus datos personales de dichas empresas para tratarlos con la finalidad mencionada.
+Asimismo, el Banco podrá tratar los datos que resulten necesarios para el examen de las operaciones realizadas que pudieran presentar indicios de ser constitutivas de blanqueo de capitales o financiación del terrorismo y llevará a cabo las correspondientes comunicaciones, en su caso, al Servicio Ejecutivo de la Comisión de Prevención de Blanqueo de Capitales e Infracciones Monetarias (SEPBLAC) con motivo de (i) el envío periódico de operaciones que cumplan con determinados parámetros fijados por el SEPBLAC, o bien (ii) una solicitud de información concreta relativa a alguna operación.
+Por último, el Banco en los casos en los que usted lo haya autorizado y con el fin exclusivo de cumplir con la legislación vigente de blanqueo de capitales, consultará en su nombre a la Tesorería General de las Seguridad Social (TGSS) información sobre su actividad económica y realizará una comprobación de la misma.
+La
+base de legitimación
+para este tratamiento es el
+consentimiento
+prestado mediante la marcación de la casilla habilitada al efecto en el formulario puesto a su disposición.
+A la vista de las obligaciones impuestas por la mencionada legislación sobre prevención de blanqueo de capitales, si usted no consiente la consulta o revoca su consentimiento en cualquier momento y tampoco facilita al Banco la documentación necesaria para acreditar su actividad económica por otros medios, el Banco podrá proceder al bloqueo de su/s cuenta/s para operaciones de abono y a su posterior cancelación. Asimismo, en cumplimiento de dicha legislación, el Banco podrá solicitar documentación acreditativa del origen y destino de los fondos con carácter previo a la realización de operaciones, en cuyo caso, si usted no proporciona la citada documentación, el Banco podrá no ejecutar la operación de que se trate.
+Obligaciones fiscales impuestas por la Ley de cumplimiento fiscal de cuestas extranjeras o Foreign Account Tax (FATCA) y la normativa estándar Común de Reporte (CRS) en relación a la obligación de intercambio automático de la información, que obliga al Banco a identificar, clasificar y reportar determinadas cuentas financieras de clientes que tengan obligaciones legales en EEUU en el caso de FATCA y en el caso de CRS a distintas autoridades financieras ubicadas en las jurisdicciones participantes de dicho estándar. Igualmente, para estos fines el Banco comunicará sus datos personales a otras empresas del Grupo Santander y terceras entidades participadas y/o colaboradoras de dicho Grupo, cuyos productos o servicios comercializa y que hayan delegado expresamente en el Banco el cumplimiento de estas obligaciones en materia fiscal, en los términos previstos en esa normativa.
+Obligaciones en materia de crédito responsable y protección a los deudores hipotecarios, reestructuración de deuda y alquiler social. Para dichos fines, el Banco podrá tratar sus datos para verificar y evaluar su solvencia y riesgo crediticio, establecer medidas en caso de que se encontrarse en situación de vulnerabilidad, valorar el riesgo de impago de las operaciones que mantenga –como en el caso de operaciones nuevas que nos solicite- y la creación de modelos de riesgos, atendiendo incluso a información económica y personal disponible en empresas que facilitan información sobre solvencia, morosidad y en general indicadores de riesgo financiero o de crédito a los que el Banco tenga acceso u obtenida a través del servicio del agregación cuando usted lo haya consentido.
+En ocasiones y para el cumplimiento de las referidas obligaciones de verificación y evaluación de riesgo crediticio, cuando usted sea un socio o accionista de una empresa cliente del banco o que solicite serlo, trataremos sus datos identificativos y de localización profesional para consultar su posible vinculación societaria con terceras entidades. La base de legitimación de este tratamiento es el interés legítimo del Banco en cumplir con las obligaciones normativas de concesión y seguimiento de préstamos, a través de un análisis del riesgo y solvencia de empresas entre las que existan interrelaciones.
+Obligaciones legales impuestas por la normativa sobre los Mercados de Valores y los Servicios de Inversión y demás normativa en materia de inversión aplicable, que persiguen evaluar su conocimiento y experiencia en los mercados financieros, situación financiera y objetivos de inversión y que comprenden la grabación de cualquier conversación telefónica que finalice o pueda finalizar con el cierre de una operación de servicios de inversión. Igualmente, para estos fines el Banco comunicará sus datos personales, en particular el resultado de la evaluación acerca de su conocimiento y experiencia en los mercados financieros a otras empresas del Grupo Santander y terceras entidades participadas y/o colaboradoras de dicho Grupo, cuyos productos o servicios comercializa o distribuye y que hayan delegado expresamente en el Banco el cumplimiento de estas obligaciones en materia de inversión y que hubieran de disponer de esta información, en los términos previstos en esa normativa.
+En ocasiones, para el cumplimiento de las obligaciones mencionadas en los dos puntos anteriores, el Banco se sirve de un sistema automatizado de evaluación del riesgo, que utiliza una lógica de puntuación que tiene en cuenta su información. Dicho sistema se basa en la aplicación a cada interesado de algoritmos previamente diseñados, que asignan automáticamente una puntuación o score conforme a tres niveles de riesgo diferentes, definidos en la política de clasificación de riesgos de clientes del Banco. Esta clasificación nos permite cumplir con las exigencias regulatorias en materia de seguimiento del riesgo, control de solvencia, cálculo de capital regulatorio, normativa contable (provisiones) y normativa de crédito responsable.
+A modo de ejemplo, el Banco podrá utilizar medios íntegramente automatizados para verificar y evaluar su solvencia y riesgo crediticio, tanto para valorar el riesgo de impago de las operaciones que mantenga, como en el caso de operaciones de financiación nuevas que nos solicite.
+Del mismo modo, y también a modo de ejemplo, el Banco podrá tomar decisiones basadas únicamente en el tratamiento automatizado de sus datos cuando Usted cumplimente cuestionarios cuya finalidad es valorar sus conocimientos, experiencia, situación financiera y objetivos de inversión.
+El Banco somete este sistema a revisiones periódicas para evitar que se produzca algún posible desajuste, error o imprecisión en dicha evaluación. Sin perjuicio de lo anterior, si Usted no está de acuerdo con el resultado de la evaluación, podrá impugnar la decisión aportando la información que considere, así como solicitando la intervención personal de uno de nuestros analistas de riesgos.
+Obligaciones mercantiles, societarias, fiscales y de cualquier otro tipo impuestas por los organismos de supervisión y autoridades competentes (por ejemplo, Banco Central Europeo, Banco de España, Comisión Nacional de los Mercados y la Competencia, Comisión Nacional del Mercado de Valores, Agencia Estatal de Administración Tributaria o Agencia Española de Protección de Datos).
+La
+base de legitimación
+de estos tratamientos es el
+cumplimiento de las obligaciones legales
+aplicables al Banco.
+La
+base de legitimación
+para el tratamiento de sus datos biométricos en el alta como cliente mediante el sistema de videoautenticación es el
+consentimiento
+explícito en caso de que lo haya prestado.
+Consulta de sistemas de información crediticia y comunicación de impagos a los mismos
+Cuando usted nos solicite un crédito hipotecario, el Banco podrá consultar la información referente a usted que figure en CIRBE y los sistemas de información crediticia a los que aquél se encuentre adherido (por ejemplo, Experian, Asnef y RAI), a fin de evaluar su solvencia y riesgo crediticio y valorar la viabilidad de su solicitud de contratación.
+Asimismo, consultaremos el contenido de los mencionados sistemas de información crediticia en caso de que lleguen a celebrarse los contratos a los que se acaba de hacer referencia y en tanto no se produzca su finalización.
+Cuando mantenga con el Banco riesgos de crédito, ya sea directamente (titular) o indirectamente (avalista de un producto de riesgo) comunicaremos sus datos, incluidos los datos relativos a las características de los riesgos a la CIRBE.
+La
+base de legitimación
+de la consulta y comunicación a CIRBE y la consulta de los sistemas de información crediticia es el
+cumplimiento de las obligaciones legales
+establecidas por la normativa reguladora del sistema financiero y del crédito inmobiliario para el cumplimiento de los principios de crédito responsable y minimización del riesgo crediticio.
+Asimismo, consultaremos los citados sistemas de información crediticia cuando mantenga con nosotros o nos solicite la celebración de un contrato que suponga financiación, pago aplazado o facturación periódica (por ejemplo, préstamos o créditos) o un contrato que sea soporte de crédito en descubierto (por ejemplo, una cuenta) con idéntica finalidad.
+Adicionalmente, en el caso de producirse impagos por su parte, los mismos podrán ser comunicados a los sistemas de información crediticia a los que se encuentre adherido, tales como Experian, Asnef y RAI, cumpliendo los procedimientos y garantías que en cada momento establezca y le reconozca la legislación vigente.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en cumplir con un adecuado control y prevención de situaciones de impago, colaborando a la salvaguarda del sistema financiero y de la economía en general, en tanto permite el acceso a la información de solvencia a terceras entidades que requieran analizar la solvencia de los solicitantes de operaciones de riesgo, tal y como se establece expresamente en la normativa reguladora de la protección de datos personales.
+Prevención e investigación del fraude
+Trataremos y/o comunicaremos sus datos a terceros, sean o no empresas del Grupo Santander (por ejemplo, Confirma, Iberpay, y operadoras de telecomunicaciones), para detectar y analizar posibles actividades fraudulentas, identificar y conocer a los participantes en las mismas y, en su caso, llevar a cabo las acciones que se consideren necesarias frente a estas actuaciones.
+Para el cumplimiento de esta finalidad, en los casos en los que sea Ud. cliente común del Banco y de otras empresas del Grupo Santander y/o terceras entidades participadas y/o colaboradoras de dicho Grupo, el Banco comunicará sus datos personales a tales empresas y entidades, a fin de garantizar el cumplimiento de las políticas de gestión de Grupo relativas a la prevención e investigación del fraude.
+También con la finalidad de prevenir este tipo de prácticas trataremos sus datos con la finalidad de enviarle comunicaciones relacionadas con operativas de fraude, anticipándonos a posibles situaciones que pudieran causarle un perjuicio como consecuencia por ejemplo de la actuación fraudulenta de terceros.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco o de las entidades adheridas, en los casos de que incluyamos o consultemos sus datos en ficheros comunes de prevención del fraude, en prevenir, investigar y/o descubrir el fraude. Puedes obtener más información acerca de las entidades a las que comunicaremos sus datos para esta finalidad los términos en base a los cuales se va a tratar sus datos y cómo ejercitar sus derechos en el apartado
+“¿a quién comunicamos sus datos?”
+.
+Elaboración de perfiles comerciales
+Trataremos sus datos para elaborar perfiles comerciales suyos, que nos permita:
+Analizar las preferencias, comportamientos y necesidades de los clientes del Banco relacionadas con los productos y servicios ofertados por éste, así como su propensión a la contratación o abandono de productos y servicios.
+Presentarle una oferta personalizada de productos y servicios financieros, así como de productos de seguros comercializados por el Banco y que guarden relación con los productos que ya hubiera contratado teniendo en cuenta aquéllos que haya contratado y sus hábitos como cliente.
+Realizarle observaciones y recomendaciones sobre los productos y servicios que ya tiene contratados y otros que creamos que puedan interesarle.
+Realizar una detección temprana de clientes potencialmente vulnerables a fin de asistirle adoptando medidas de protección y ayuda adaptadas a sus circunstancias personales.
+Realizar un análisis de su operativa y hábitos de gasto para proporcionarle información, consejos o advertencias personalizadas sobre los mismos encaminados a optimizarlos (tales como calcular su huella de carbono, hacer un análisis de cómo está gastando el dinero, calcular su capacidad de ahorro, etc.), así como identificar productos y servicios que pudieran servir para ello.
+Seleccionar eventos culturales, musicales y deportivos patrocinados por el Banco o con empresas con las que el Banco colabore, o las empresas del Grupo Santander que pudieran ser de su interés.
+En el caso de que sea usuario del servicio de Newsletter o boletines de noticias del Banco, analizar sus preferencias y comportamientos a fin de presentarle un contenido personalizado que consideremos que puede ser de su interés.
+A estos efectos, utilizaremos únicamente fuentes internas, es decir, trataremos sólo la información que usted nos facilite y la que se derive de su relación contractual y comercial con el Banco: los datos transaccionales de los productos y/o servicios que Usted tenga contratados con el Banco, la información que sobre sus intereses comparta con nosotros, bien a través de las llamadas telefónicas que mantenga con nuestros gestores, bien a través de su comportamiento en línea (tal y como se detalla en el apartado 13 y en todo caso, habiendo recogido su consentimiento), simulaciones, reglas de ahorro que configure, solicitudes de información o la contratación de nuestros productos y servicios, así como los datos sobre su capacidad de ahorro y endeudamiento, para analizar sus patrones y hábitos de comportamiento, datos relativos a los dispositivos desde los que accede a su Área de cliente del Banco y los datos de geolocalización cuando consienta su recogida. En concreto, consultaremos la información que tengamos por la gestión de los servicios que le prestamos o de los productos que haya contratado o mantenga contratados en el último año, inclusive la resultante de los modelos de riesgo descritos en el apartado 2, así como si Usted es accionista del Banco.
+La
+base de legitimación
+de estos tratamientos encaminados a identificar sus necesidades sobre los productos, servicios, recomendaciones, consejos e información que mejor se adapten a sus características personales y sus hábitos es el
+interés legítimo
+del Banco en conocer mejor su negocio para mejorar sus acciones comerciales y la calidad del servicio que le prestamos, así como mejorar las condiciones en productos o servicios que haya contratado o que pueda contratar en el futuro, ajustándolos a sus necesidades.
+En caso de que usted lo consienta, enriqueceremos su perfil comercial elaborado por el Banco, en ocasiones con información adicional procedente de fuentes externas (incluidos terceros a los que haya consentido comunicarnos sus datos, el servicio de agregación o iniciación de pagos (servicio de agregación) servicios de agregación de pagos; y las restantes fuentes mencionadas en el apartado “¿Cómo obtenemos sus datos?”), de forma que podamos presentarle una oferta de nuestros productos y servicios más personalizada sobre la base de dicho perfil.
+Este tratamiento de la información existente en el Banco, derivada de su relación contractual con el mismo y, en su caso, la adicional recabada de fuentes externas, permite elaborar análisis más detallados de sus preferencias, comportamientos y necesidades que los descritos con base en el interés legítimo del Banco, y serán utilizados para determinar, de forma más precisa, qué productos y servicios se ajustan mejor a Usted.
+La información adicional que trataremos y, en su caso, recabaremos de fuentes externas se referirá a características personales, circunstancias sociales, datos académicos y profesionales, detalles de empleo, información comercial, datos de localización, datos económicos, financieros y de seguros y transacciones de bienes y servicios, incluyendo datos transaccionales del servicio de agregación.
+La
+base de legitimación
+para este tratamiento es el
+consentimiento
+prestado mediante la marcación de la casilla habilitada al efecto en el formulario puesto a su disposición.
+Adicionalmente, si Usted así lo consiente en el marco de un proceso de simulación o contratación de un seguro comercializado por el Banco, autoriza al Banco a elaborar un perfil comercial específico de seguros encaminado a identificar sus necesidades sobre los productos y servicios de seguros que mejor se adapten a sus características personales y sus hábitos, utilizando para ello los datos personales generados por su relación con las compañías aseguradoras que se identifican a continuación junto con el perfil comercial que el Banco pueda tener sobre Usted, de acuerdo con sus preferencias, y utilizarlo conforme a los fines de uso de los perfiles comerciales definidos en esta política de privacidad.
+La información adicional que trataremos se refiere a datos referentes a transacciones de bienes y servicios (como la información relativa a todos los productos de seguros contratados; a la gestión, situación, evolución y mantenimiento de los productos contratados, incluyendo la gestión de siniestros); datos referentes a la interacción entre Usted y las compañías aseguradoras (como la información relativa a la verificación de la calidad de los servicios, quejas y reclamaciones, campañas y contactos).
+Las compañías aseguradoras cuya información tratará el Banco y que distribuyen sus seguros a través del Banco, actuando éste en calidad de Red de Distribución de Santander Mediación Operador de Banca-seguros vinculados, S.A. son: Santander Seguros y Reaseguros, Compañía Aseguradora, S.A.; Santander Generales Seguros y Reaseguros, S.A.; Santander Vida Seguros y Reaseguros, S.A.; y Santander MAPFRE Seguros y Reaseguros, S.A.
+La
+base de legitimación
+para este tratamiento es el
+consentimiento
+prestado mediante la marcación de la casilla habilitada en el proceso de simulación o contratación de un seguro comercializado por el Banco.
+Inclusión en acciones de fidelización, promociones y concursos/sorteos
+Trataremos sus datos para realizar llamadas telefónicas de fidelización, remitirles invitaciones a eventos e incluirle en acciones de fidelización, promociones, ofertas y concursos/sorteos que el Banco promueva entre sus clientes, en base a productos que usted tiene contratados. Por ejemplo, el Banco podrá incluirle en un sorteo en el que puede resultar ganador por el solo hecho de haber utilizado como medio de pago de sus compras una tarjeta emitida por el Banco o por hacer uso de otros servicios ofrecidos por el Banco, durante el periodo que dure la promoción.
+Realizaremos dichos tratamientos tanto de forma general como segmentada, con base en los datos objetivos disponibles para el Banco derivados de su relación con nosotros, incluidos productos de terceros contratados a través del Banco (p.e. seguros), o en su caso, personalizada con base en sus perfiles comerciales (tal y como se detalla en el apartado 5 anterior), conforme a sus preferencias.
+La
+base de legitimación
+de este tratamiento es el
+interés legítimo
+del Banco en fidelizar a sus clientes y aumentar su grado de satisfacción y vinculación.
+Gestión de procedimientos administrativos, prejudiciales y judiciales
+En su caso, trataremos sus datos personales para la defensa de los derechos e intereses del Banco en cualquier tipo de procedimiento administrativo, prejudicial y/o judicial derivado de o vinculado con la relación entablada con usted.
+Dicho tratamiento encontraría su
+base de legitimación
+en el
+interés legítimo
+del Banco en garantizar y hacer efectivo su derecho a la tutela judicial efectiva.
+Verificación de la calidad de los servicios prestados
+Desde el Banco, tratamos los datos personales de nuestros clientes con la finalidad de llevar a cabo procedimientos de revisión, auditoría y mejora de la calidad de los servicios prestados, lo que incluye
+(i)
+la realización de encuestas de satisfacción y el análisis de sus resultados y
+(ii)
+la grabación de su voz y/o imagen y la conservación de la conversación telefónica y/o vídeo, únicamente en aquellos casos en que se lo indiquemos de forma expresa y
+(iii)
+la conducción de investigaciones de mercado a través de encuestas, a fin de conocer la percepción y valoración de los clientes sobre productos existentes o nuevos productos.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en llevar a cabo un proceso de mejora constante de la atención prestada a clientes, potenciales clientes, usuarios y cualquier otra persona interesada que contacte con el Banco y garantizar en todo caso un elevado nivel de calidad de la misma, tanto por parte del Banco como de los proveedores que le prestan el servicio de atención al cliente.
+Elaboración de informes sobre clientes o con datos personales de clientes
+En el Banco tratamos los datos personales de nuestros clientes para elaborar informes de distinta naturaleza:
+Seguimiento de los clientes: impagos, morosidad, refinanciaciones, cambios de scoring, etc. Si bien estos informes, con carácter general, contienen información agregada, puntualmente pueden incluir información de clientes identificados.
+Realizar informes de liquidez e interés a nivel agregado, para uso interno y, en su caso, envío al supervisor.
+Riesgo crediticio y operacional.
+Análisis de la actividad de la admisión de riesgos (financieros, no financieros y operacionales) por parte del Banco.
+Realización de auditorías y revisiones de control interno del Banco.
+Impacto de la morosidad en Pérdidas y Ganancias del Banco.
+Seguimiento de estrategias comerciales y otros análisis de negocio, para el seguimiento y desarrollo del mismo, incluida la finalidad de gestionar y verificar la facturación y retribución obtenida por el Banco derivada de acuerdos con colaboradores del Banco mediante los que éste redirige a clientes para que éstos puedan contratar productos o servicios no financieros.
+Obtener información agregada para la elaboración de estudios estadísticos y análisis de negocio de diversa naturaleza, por ejemplo, acerca del uso de los canales privados que el Banco pone a disposición de sus clientes o de las operaciones más importantes (por ejemplo, las mayores oscilaciones de saldo de entrada o salida) y quejas que han tenido lugar en cada una de las oficinas del Banco.
+Elaborar reportes internos y otros informes de carácter agregado (por ejemplo, indicadores de negocio, riesgo operacional) y estadístico.
+Análisis de sostenibilidad y eficiencia energética. En particular, trataremos los datos para estimar el cálculo de la huella de carbono a partir de las transacciones realizadas, elaborar informes o estadísticas sobre impacto ambiental y eficiencia energética.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en incrementar el conocimiento que posee sobre los clientes, poder ofrecerles un mejor servicio y asesoramiento respecto de los productos que aquéllos tienen contratados y obtener información acerca del estado del negocio que contribuya a una mejor toma de decisiones corporativas, estratégicas y comerciales y en mantener una adecuada gestión interna del mismo y del grupo empresarial al que pertenece.
+Elaborar estadísticas y generar modelos analíticos
+En el Banco tratamos los datos personales de nuestros clientes con la finalidad de elaborar estadísticas y generar modelos analíticos, y en particular:
+Generar y desarrollar modelos analíticos predictivos comerciales.
+Generar y desarrollar modelos de control de calidad de los datos personales y de consistencia de la calidad de los reportes internos.
+Elaborar estudios estadísticos y análisis de negocio que permitan mejorar los procesos y operativas.
+Para el seguimiento y análisis de la cartera de clientes del Banco.
+Al objeto de minimizar el tratamiento de datos personales, el Banco utiliza técnicas de cifrado, agregación, disociación, anonimización y/o seudonimización de los datos, siempre que no perjudiquen la fiabilidad de los resultados.
+La
+base de legitimación
+aplicable a este tratamiento es el
+interés legítimo
+del Banco en lograr un conocimiento de su negocio y ajustar las ofertas de productos y servicios a las necesidades de sus clientes, mejorando la oferta comercial del Banco mediante la elaboración y desarrollo de modelos y algoritmos analíticos predictivos y estimativos, todo ello con el objeto de optimizar los servicios prestados.
+Desarrollo de acciones comerciales
+En el Banco trataremos sus datos personales para informarle de los productos que tiene a su disposición en el Banco, así como para la realización, por medios postales, electrónicos y telefónicos, de acciones comerciales, tanto de forma general como segmentada, con base en los datos objetivos disponibles para el banco que hayan sido facilitados por usted, o en su caso, personalizada con base en sus perfiles comerciales (tal y como se detalla en el apartado 5 anterior), sobre a productos y/o servicios propios y comercializados por el Banco, incluyendo el envío de felicitaciones en fechas señaladas.
+La
+base de legitimación
+para este tratamiento es el interés legítimo de Banco en optimizar y mejorar sus acciones comerciales.
+La
+base de legitimación
+para el envío de las comunicaciones comerciales a clientes por medios electrónicos y respecto de los productos propios del Banco se encuentra en el
+artículo 21.2 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico
+,
+que habilita la realización de tales comunicaciones cuando exista una relación contractual previa, siempre que el remitente hubiera obtenido de forma lícita los datos de contacto del destinatario y los empleara para el envío de comunicaciones comerciales referentes a productos o servicios de su propia empresa que sean similares a los que inicialmente fueron objeto de contratación con el cliente.
+La
+base de legitimación
+para el envío de las comunicaciones comerciales por otros medios es el
+interés legítimo
+del Banco en mantenerle informado de sus productos y servicios y aquellos que estuviera comercializando. Tenga en cuenta que en estos casos y en cumplimiento de la normativa de protección de datos, antes de llevar a cabo la acción comercial el Banco consultará previamente los sistemas de exclusión publicitaria para comprobar si Usted ha registrado su oposición o negativa a recibir publicidad referida al sector financiero y en su caso excluirle, a menos que Usted nos haya facilitado su
+consentimiento
+para tener en cuenta exclusivamente sus preferencias internas mediante la marcación de la casilla habilitada al efecto en el formulario puesto a su disposición. Puede consultar los sistemas de exclusión publicitaria que se encuentran publicados en el siguiente enlace
+https://www.aepd.es/areas-de-actuacion/publicidad-no-deseada
+La
+base de legitimación
+para el desarrollo de acciones comerciales en entornos online (tal y como se detalla en el apartado 13 Uso de cookies y tecnologías similares en la web y la app del Banco) es el consentimiento otorgado por el usuario al permitir el uso de cookies en la web y/o app del Banco.
+A los efectos de esta política de privacidad, se entiende por “productos comercializados” aquellos de naturaleza financiera, como Fondos de inversión, planes de pensiones, productos de factoring y confirming, cuentas de depósitos, hipotecas, TPVs, que son distribuidos por el Banco.
+Asimismo, en caso de que usted lo consienta, trataremos sus datos personales para el desarrollo de acciones comerciales tanto generales o segmentadas como personalizados con base en sus perfiles comerciales (tal y como se detalla en el apartado 5 anterior), tales como
+(i)
+remitirle por medios electrónicos (entre otros, correo electrónico, SMS) información comercial sobre productos y/o servicios comercializados por el Banco,
+(ii)
+ofrecerle productos y servicios de terceros, incluyendo empresas del Grupo Santander, participadas por aquel o comercializados por éstas que no estén distribuidos por el Banco, e informarle de ventajas en productos y/o servicios de terceros de los que pueda beneficiarse por ser cliente del Banco y que no formen parte de la oferta contractual. Estas acciones comerciales podrá recibirlas por cualquier medio, incluida la vía electrónica (correo electrónico, fax, SMS, redes sociales, aplicaciones móviles, etc.). Este consentimiento se mantendrá vigente incluso una vez terminada su relación con el Banco, durante un período de 12 meses, salvo que usted lo revoque.
+Para el desarrollo de las acciones comerciales descritas en el párrafo anterior, utilizaremos sus datos personales de carácter identificativo y los derivados de la Elaboración de perfiles descrita en el apartado 5 anterior, conforme a sus preferencias.
+Las empresas colaboradoras y/o participadas sobre cuyos productos podrán versar las acciones comerciales pertenecen a los siguientes sectores: financiero y seguros, gran consumo, formación, educación y cultura, empleo, hogar, salud y belleza, hotel y viajes, informática, telecomunicaciones y tecnología, automoción, servicios de asesoramiento, inmobiliario y construcción, ocio y tiempo libre, venta de entradas para eventos o similares, seguridad, textil y moda, restauración, alimentación-pesca y ganadería, agroalimentario, deporte, energético, reparación y mantenimiento, transporte, logística, administración, asesoría y consultoría, maquinaria y material de oficina, comercio, industria, sanitaria y servicios sociales.
+La
+base de legitimación
+para estos tratamientos es el
+consentimiento
+prestado mediante la marcación de las casillas habilitadas al efecto en el formulario puesto a su disposición.
+Comunicación de sus datos personales a empresas del Grupo Santander, empresas participadas por dicho Grupo o colaboradoras del mismo para el desarrollo de acciones comerciales
+En caso de que usted preste su consentimiento al efecto, comunicaremos sus datos personales a empresas del Grupo Santander, así como a empresas participadas por el Grupo Santander (a modo de ejemplo, entidades aseguradoras y gestoras de activos financieros) y empresas colaboradoras de los sectores detallados en el punto anterior, para el desarrollo de acciones comerciales por parte de dichas empresas, tanto generales como personalizadas, sobre sus productos y servicios o los del Banco.
+Para que las referidas empresas puedan ofrecerle productos y servicios personalizados, además de sus datos identificativos y de contacto, les comunicaremos los datos relativos a sus perfiles comerciales descritos en el apartado 5 anterior. Estas acciones comerciales podrá recibirlas por cualquier medio, incluida la vía electrónica (correo electrónico, SMS, redes sociales, aplicaciones móviles, etc.). Consulte el apartado “¿A quién comunicaremos sus datos?” para más información.
+La
+base de legitimación
+para este tratamiento es el
+consentimiento
+prestado mediante la marcación de la casilla habilitada al efecto en el formulario puesto a su disposición.
+Uso de cookies y tecnologías similares en la web y la app del Banco
+El Banco hace uso de cookies y tecnologías similares, propias y de terceros, en su web y su app con las siguientes finalidades:
+Recordar información para que el usuario acceda al servicio con determinadas características que pueden diferenciar su experiencia de la de otros usuarios.
+Efectuar el seguimiento de los procesos de ventas online, por medio de la web y la app, con el objetivo de mejorar los procesos de venta de manera que sean más intuitivos para el cliente.
+Realizar pruebas, con diversos segmentos de interesados, para comprobar la efectividad de las modificaciones introducidas en los procesos de venta online.
+Analizar la navegación de los usuarios, para detectar el punto en el cual los mismos abandonan el proceso de contratación, clasificarlos en atención a su propensión a contratar dependiendo de cuánto hayan avanzado en el proceso y, en su caso, contactar con los interesados para que puedan continuar con dicho proceso.
+Llevar a cabo el seguimiento y análisis del comportamiento de los usuarios, incluida la cuantificación de los impactos de los anuncios, para medir de la actividad de la web y la app, con el fin de introducir mejoras en función del análisis de los datos de uso que hacen los usuarios del servicio.
+Almacenar información del dispositivo y comportamiento de los usuarios obtenida a través de la observación continuada de sus hábitos de navegación para desarrollar un perfil específico para mostrar publicidad en función de éste.
+Compartir con terceros un identificador único elaborado a partir de un identificador de cookies u obtenido a partir de sus datos identificativos o de contacto encriptados, para, sobre la base de segmentaciones realizadas con datos objetivos disponibles para el Banco que han sido facilitados por usted y/o, en su caso, sus perfiles comerciales elaborados por el Banco, realizar acciones comerciales online y mostrarle publicidad personalizada sobre nuestros productos y servicios en las plataformas de dichos terceros, realizar el seguimiento y optimización de las acciones comerciales, y para que estos terceros puedan interactuar con usted conforme a sus propias políticas de cookies, en caso de que haya consentido su instalación.
+Realizar un seguimiento y optimización de nuestras acciones comerciales, a fin de medir la efectividad de las mismas.
+Para el cumplimiento de estas finalidades, el Banco hace uso tanto de datos agregados como individualizados.
+Para obtener más información acerca de las cookies utilizadas por el Banco y el tipo de información que se recaba por medio de las mismas, puede consultar la
+Política de cookies
+.
+También puede configurar sus preferencias respecto a la instalación de cookies aquí
+. En caso de que usted acceda a este documento a través de la App para clientes particulares, puede configurar sus preferencias respecto del uso de cookies, desde la sección “Gestión de cookies” accesible desde “Menú-Área personal o si o hace dese la APP para clientes empresa, desde la sección “Configuración de cookies” accesible desde “Menú-Seguridad y privacidad.
+La
+base de legitimación
+de este tratamiento es el
+consentimiento
+otorgado por el usuario al permitir el uso de cookies en la web y/o app del Banco, salvo en el caso de que se traten de cookies técnicas o estrictamente necesarias para prestar un servicio solicitado por el usuario, en cuyo caso la base de legitimación será la aplicación de
+medidas precontractuales
+solicitadas por usted o la
+ejecución de un contrato
+en el que usted es parte.
+Si es avalista/garante:
+Cuando usted se presente como avalista/garante de un cliente o potencial cliente del Banco, trataremos sus datos personales conforme a lo descrito en los apartados 1, 2, 3, 4, 5 (con consentimiento), 7, 8, 9, 10, 11 ,12 y 13 del apartado “I. Si es cliente o ha solicitado serlo”.
+Si es representante, autorizado o interviniente en un contrato:
+Tratamiento de datos de contacto para la gestión de la relación contractual
+Si usted es autorizado, interviniente en un contrato de un cliente del Banco (como fiador, apoderado, usufructuario, tutor, etc.) o actúa como representante de una persona física o jurídica, trataremos su información de contacto para mantener, gestionar y ejecutar la relación contractual entablada con dicha persona.
+La
+base de legitimación
+del tratamiento expuesto es, en relación con aquellas personas que actúen en calidad de representantes de personas físicas, la
+ejecución del contrato
+; y, en el caso de los representantes de personas jurídicas, el
+interés legítimo
+del Banco en el mantenimiento, gestión y ejecución de la relación contractual entablada con dichas entidades.
+Adicionalmente, comunicaremos sus datos a otras empresas del Grupo Santander y terceras empresas participadas y/o empresas colaboradoras del Grupo Santander (a modo de ejemplo, entidades aseguradoras, gestoras de activos financieros o entidades de capital riesgo), en caso de que Ud., en calidad de representante de un cliente del Banco, lleve a cabo procesos de simulación o solicitud de la contratación de alguno de los productos y/o servicios de dichas entidades que son comercializados por el Banco y/o la efectiva contratación de los mismos o en los casos en los que su representado/a sea cliente común del Banco y de dichas entidades, cuando la finalidad de comunicación de datos sea el mantenimiento y desarrollo del contrato que usted, en nombre y por cuenta de su representado/a mantiene con las referidas entidades. En estos casos, la comunicación afectará únicamente a un número limitado de datos que el Banco dispone sobre su persona, en concreto, los estrictamente necesarios para la celebración del contrato y/o para la ejecución/desarrollo del mismo y el cumplimiento por dichas empresas de sus obligaciones legales: código identificador interno, tipo y número del documento identificativo, nombre y apellidos y datos de contacto (dirección postal, teléfono y correo electrónico). Se pretende con ello, simplificar y agilizar la contratación a través del Banco de los productos que éste comercializa o distribuye de otras empresas del Grupo o de terceras empresas participadas, habida cuenta de su condición de representante/apoderado de un cliente del Banco; el cumplimiento por tales empresas de las obligaciones legales a las que están sujetas; y que dichas empresas de las que también sea cliente su representado/a cuenten con sus datos de contacto para remitirle información relevante para el desarrollo de la relación contractual.
+Cuando actúe en representación de una persona física, la
+base de legitimación
+de este tratamiento será su solicitud de
+adopción de medidas precontractuales
+dirigidas a la contratación de alguno de los productos y/o servicios comercializados por el Banco y, en su caso, la ejecución
+de la relación contractual
+formalizada. Cuando actúe en representación de una persona jurídica, la
+base de legitimación
+será el
+interés legítimo
+que tiene la entidad cuyo producto se comercializa en el mantenimiento, gestión y ejecución de la relación contractual entablada.
+Bastanteo de poderes
+Trataremos sus datos personales con la finalidad de verificar sus poderes y facultades de representación por medio de bastanteos.
+La
+base de legitimación
+de este tratamiento es, respecto de aquellas personas que actúen en calidad de autorizados, la
+ejecución del contrato
+; y, en el caso de los representantes de personas jurídicas, el
+interés legítimo
+del Banco en el mantenimiento, gestión y ejecución de la relación contractual entablada con dichas entidades.
+Adicionalmente, trataremos sus datos personales conforme a lo descrito en los apartados 1, 2, 4, 5 (con consentimiento solo para autorizados o intervinientes en un contrato. Se excluye a los representantes), 7, 8, 9, 10, 11 (se excluyen los tratamientos por consentimiento de los representantes o personas de contacto de personas jurídicas), 12 (con consentimiento sólo para autorizados o intervinientes en un contrato) y 13 del apartado “I. Si es cliente o ha solicitado serlo”.
+¿Es obligatorio facilitar sus datos?
+Será obligatorio que Ud. nos facilite sus datos en la medida en que Usted desee contratar un producto o servicio con el Banco, debiendo mantenerlos actualizados, de forma que responda en todo momento a su situación real.
+¿Qué ocurre si Usted no quiere otorgar su consentimiento?
+En caso de que Usted no autorice el tratamiento de sus datos personales en los supuestos en los que se le solicita su consentimiento, o desee revocarlo en cualquier momento, ello no afectará al mantenimiento o cumplimiento de la relación contractual que mantiene con el Banco. Además, tenga en cuenta que, aunque no autorice los referidos tratamientos, pueden existir supuestos concretos en los que podrá recibir comunicaciones comerciales del Banco, ya sea con base en el interés legítimo del mismo (siempre y cuando no se haya opuesto) o en los supuestos en los que exista una habilitación legal.
+¿Durante cuánto tiempo conservaremos sus datos?
+Trataremos sus datos personales mientras la relación contractual se encuentre vigente o sean necesarios para la finalidad para la cual fueron recabados.
+Si cancela todos los contratos, mantendremos sus datos con la finalidad de remitirle por medios electrónicos comunicaciones comerciales referentes a productos o servicios del Banco que sean similares a los que hubiera contratado, salvo que se haya opuesto a este tipo de comunicaciones.
+Asimismo, si así lo hubiera consentido, mantendremos los tratamientos de datos con la finalidad de remitirle comunicaciones comerciales sobre productos y/o servicios comercializados por el Banco; y sobre productos y/o servicios de terceros, incluyendo de empresas del Grupo Santander y participadas por aquel.
+Todo ello, durante un plazo de 12 meses desde la finalización de la relación contractual.
+No obstante, podrá oponerse, así como revocar el consentimiento para el tratamiento con dichas finalidades en cualquier momento, como le detallamos en “¿Cuáles son sus derechos cuando nos facilita sus datos?”.
+Cuando sus datos personales dejen de ser necesarios para las finalidades expuestas en el presente documento, los conservaremos debidamente bloqueados, lo cual implicará que el Banco no llevará a cabo ningún tratamiento distinto de su conservación para la puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal; para la atención de las posibles responsabilidades derivadas de la relación contractual mantenida o de las relacionadas con el tratamiento de los datos. Conservaremos sus datos bloqueados durante los plazos previstos en las disposiciones legales aplicables o, en su caso, por los plazos de prescripción de las acciones derivadas de las relaciones contractuales mantenidas con el Banco, procediendo a la supresión física o completa anonimización de sus datos una vez transcurridos dichos plazos.
+¿A quién comunicaremos sus datos?
+Comunicamos sus datos personales a:
+Empresas del Grupo Banco Santander y terceras entidades colaboradoras y/o participadas por el Grupo Santander
+(a modo de ejemplo, entidades aseguradoras y gestoras de activos financieros). Dependiendo de la finalidad del tratamiento que le hemos informado en este documento, sólo comunicaremos sus datos a dichos terceros: i) cuando sea necesario para la realización de procesos de simulación de la contratación de alguno de los productos y/o servicios de dichas entidades, la efectiva contratación de los mismos y/o el mantenimiento y/o gestión del contrato que mantenga con las referidas entidades; ii) cuando nos facilite su consentimiento; iii) cuando la cesión tenga su base en el interés legítimo del Banco y/o de la empresa tercera a la que comunicamos sus datos, y por último, iv) cuando la cesión responda al cumplimiento de una obligación legal.
+Podrá acceder al listado completo de sociedades del Grupo y terceras entidades colaboradoras y/o participadas por el Grupo Santander a las que comunicaremos sus datos solicitándolo en su Oficina o a través del siguiente enlace:
+https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:c37556a7-fc72-441b-879e-511d5e666c52/original/as/ES-0000018N-informacion-proteccion-datos-cesion_datos_entidades_WebP.pdf
+.
+Terceros con los que se comparte un identificador único para acciones comerciales en entornos online, de acuerdo con lo indicado en el apartado 13. Uso de cookies y tecnologías similares en la web y la app del Banco
+(por ejemplo, plataformas publicitarias): cuando nos facilite su consentimiento a la instalación de cookies en la web y/o app del Banco.
+Podrá acceder al listado completo de terceros a las que comunicaremos sus datos personales a través del siguiente enlace.
+Organismos de la Administración Pública y entidades privadas, cuando tenga la obligación legal de facilitarlos (lista elaborada a título enunciativo y no limitativo):
+3.1) Servicio Central de Información de Riesgos de Banco de España (CIRBE):
+El banco, en cumplimiento de la Ley 44/2002 de Reforma del Sistema Financiero, comunicará sus datos identificativos (ya sea como titular o como garante) y de riesgo de sus operaciones bancarias contratadas con nosotros, y en su caso, su condición de empresario individual.
+3.2) Fichero de titularidades Financieras del Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias:
+El Banco, en cumplimiento de la normativa de prevención de blanqueo de capitales y financiación del terrorismo, tiene la obligación de comunicar a la Secretaria de Estado de Economía y Apoyo a la empresa:
+(i)
+los datos identificativos de todos los titulares, titulares reales, representantes o autorizados y cualesquiera otras personas con poderes de disposición en cuentas corrientes, cuentas de ahorro, depósitos a plazo, y cualquier otro tipo de cuenta de pago, así como los como los contratos de alquiler de cajas de seguridad, con independencia de su nombre comercial, así como las modificaciones que se produzcan en las mismas; y
+(ii)
+la fecha de apertura, cancelación y demás datos obligatorios derivados de los citados contratos.
+3.3) Agencia Tributaria,
+en cumplimiento de la normativa fiscal.
+3.4) Autoridades u organismos oficiales de otros países,
+situados tanto fuera como dentro de la Unión Europea en el marco de la lucha contra la financiación del Terrorismo y formas graves de delincuencia organizada y prevención del blanqueo de capitales, en los casos de órdenes de transferencias de fondos, y para el cumplimiento de obligaciones legales, tributarias y/o fiscales nacionales o internacionales en el caso de que usted hubiera indicado uno o varios países de nacionalidad y/o residencia fiscal distintos de España.
+3.5) Auditores de cuentas,
+cuando el Banco deba ser auditado en cumplimiento de una obligación legal.
+3.6) Fondo de Garantía de Depósitos.
+El Banco, a los efectos de calcular las aportaciones al Fondo de Garantía de Depósitos de Entidades de Crédito, comunicará a aquella información individualizada de saldos correspondientes a los depósitos realizados por clientes.
+3.7) Proveedores de servicios de pago.
+El Banco, para garantizar la verificación del beneficiario en el contexto de la realización de una operación de pago, en cumplimiento de la de normativa europea sobre pagos instantáneos en euros (Reglamento (UE) 2024/886), podrá comunicar los datos identificativos del beneficiario a los proveedores de servicios de pago del ordenante de las transferencias y al propio ordenante, cuando exista una coincidencia casi exacta en el nombre asociado al identificador de la cuenta, a fin de que el ordenante pueda decidir si autoriza o no la operación.
+Juzgados y Tribunales y Fuerzas y Cuerpos de Seguridad del Estado,
+cuando ello venga impuesto por una obligación legal o sea necesario para la formulación, ejercicio o defensa de reclamaciones, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva.
+Abogados y procuradores,
+cuando actúen como representantes procesales en sede judicial, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva y a la asistencia letrada.
+Sistemas comunes de información crediticia:
+el Banco podrá comunicar sus datos identificativos y de impago a los sistemas de información crediticia a los que se encuentre adherido, tales como Experian, Asnef y RAI, siempre cumpliendo los procedimientos y garantías que en cada momento establezca y le reconozca la legislación vigente.
+Terceras entidades para la prevención del fraude, tales como Confirma Sistemas de Información S.L. (Confirma) y operadoras de telefonía móvil.
+En el marco de cualquier solicitud de apertura o contratación de un producto o servicio de pago y/o de una operación de financiación o de pago aplazado, el Banco comunicará sus datos al “Fichero Confirma” para la prevención del fraude.
+La finalidad del Fichero es el cotejo de solicitudes y operaciones allí registradas por parte de las entidades participantes para detectar posibles fraudes en la contratación. Dicha finalidad supone la valoración de la probabilidad de fraude de la solicitud. Los corresponsables del tratamiento son las Entidades Adheridas al Reglamento del Fichero Confirma, siendo el encargado del tratamiento Confirma Sistemas de Información, S.L., con domicilio en la Avda. de la Industria, 18, TRES CANTOS (28760) MADRID. Los solicitantes podrán consultar el listado de Entidades que actualmente están adheridas al Reglamento del Fichero Confirma en la website
+www.confirmasistemas.es
+. La base jurídica del tratamiento de los datos de carácter personal es el interés legítimo de los corresponsables del tratamiento de prevenir el fraude (Considerando 47 RGPD), para evitar posibles consecuencias económicas negativas y eventuales incumplimientos legales por parte de los solicitantes. La consulta al Fichero Confirma resulta idónea en atención al fin perseguido, y proporcional en relación con el beneficio obtenido por los corresponsables del tratamiento y el impacto en la privacidad de los solicitantes. Asimismo, el tratamiento de datos se enmarca en las expectativas razonables de los interesados al tratarse de una práctica común y producirse en el marco de una solicitud de contratación. Para evitar perjuicios y consecuencias negativas para los solicitantes se han adoptado medidas técnicas y organizativas para reforzar la confidencialidad y seguridad de esta información.
+El plazo máximo de conservación de los datos será de cinco años. Los datos comunicados al Fichero Confirma podrán ser consultados por las Entidades Adheridas al Reglamento del Fichero Confirma. No está prevista la transferencia de datos a un tercer país u organización internacional.
+De acuerdo con la normativa vigente en materia de protección de datos, los interesados podrán ejercer sus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento, a no ser objeto de decisiones automatizadas individuales con efectos jurídicos, y portabilidad, dirigiéndose al domicilio del encargado del tratamiento, CONFIRMA SISTEMAS DE INFORMACIÓN, S.L., en la dirección arriba indicada. Asimismo, los interesados podrán hacer uso de su derecho a presentar una reclamación ante la Autoridad de Control.
+CONFIRMA SISTEMAS DE INFORMACIÓN, S.L. ha nombrado un Delegado de Protección de Datos con el que podrá contactar a través del correo electrónico
+dpo@confirmasistemas.es
+, para las solicitudes en materia de privacidad relacionadas con el Fichero Confirma. Asimismo, en el marco de cualquier solicitud de contratación o cuando modifique su número de teléfono, su número de teléfono podrá ser cotejado con los operadores de servicios de telefonía móvil a los efectos de detectar posibles suplantaciones de identidad y prevenir el fraude.
+Sociedad Española de Sistemas de Pago, S.A. (Iberpay):
+En el marco de cualquier solicitud de un producto de activo a través de canales no presenciales, en las que en la que usted haya autorizado al Banco a valorar el riesgo de la operación a través del servicio de agregación, comunicaremos sus datos a la plataforma Iberpay con la finalidad de comprobar su titularidad de la cuenta agregada. Los responsables del tratamiento de la “plataforma Iberpay” son las Entidades participantes en el Sistema Nacional de Compensación Electrónica (SNCE), siendo el encargado del tratamiento Iberpay S.L.
+Por otra parte, con la finalidad de detectar y prevenir el fraude, el Banco podrá incluir sus datos en un fichero común de prevención del fraude en las operaciones bancarias, gestionado por Iberpay, cuyos corresponsables son las entidades adheridas, entre las que se encuentra el Banco, para la detección, investigación, control y eventual denuncia de operaciones sospechosas y fraudulentas cometidas en su cuenta, corriente o de ahorro. Los datos que se incluyan en el citado fichero común serán los relativos al número de IBAN y al titular de la cuenta donde se hubiera detectado la operación sospechosa o fraudulenta y, en su caso, podrán ser conocidos por las entidades financieras adheridas a dicho fichero común, con la única finalidad de detectar, prevenir y controlar el fraude. Puede consultar el listado actualizado de las entidades adheridas a este fichero común en el siguiente link: [https://www.iberpay.es/Secciones/04MasServicios/Paginas/PrevencionFraude.aspx] y solicitar información adicional así como los aspectos esenciales del acuerdo de corresponsabilidad entre aquellas, dirigiéndose a
+privacidad@gruposantander.es
+Solo informaremos al fichero los datos relativos al IBAN y titular de la cuenta donde se hubiera detectado la operación no autorizada o sospechosa de ser fraudulenta, que podrán ser consultados por el resto de entidades adheridas. La base que legitima el tratamiento es el interés legítimo del Banco en la detección y prevención del fraude en las operaciones bancarias que se produzcan a través de su cuenta, que a su vez redunda en el propio interés de los titulares de las cuentas que pudieran resultar afectados por el fraude cometido por un tercero.
+Los datos serán conservados en el fichero durante un máximo de treinta días en el caso de tratarse de operaciones sospechosas, y de un año en el caso de tratarse de operaciones no autorizadas (cuando el fraude hubiera sido confirmado por el afectado). El Banco procederá a la supresión automática de los datos incluidos en el fichero común cuando estos dejen de ser exactos o no respondan con veracidad a la situación real del afectado.
+Fichero FraudFense.
+El Banco podrá incluir sus datos en un fichero común de prevención del fraude en las operaciones bancarias, gestionado por FrauDfense, S.L., cuyos corresponsables del tratamiento son las entidades adheridas a dicho fichero, entre las que se encuentra el Banco, para la detección, investigación, control y posible denuncia de operaciones de pago respecto a las que existan evidencias acerca de su carácter fraudulento cometidas en su cuenta, corriente o de ahorro o a través del uso no autorizado de su tarjeta (en adelante, operaciones fraudulentas). Los datos que se incluyen en el citado fichero común son los relativos al número de IBAN de su cuenta, PAN de su tarjeta, datos relativos a la operación fraudulenta identificada (como, por ejemplo, datos del dispositivo desde el que se ha producido la operación, los datos de la cuenta donde se hubiera detectado la operación o los datos respecto de los que se hayan detectado inconsistencias que implicasen una posible suplantación de identidad). Los datos podrán ser consultados por las entidades financieras adheridas al fichero FrauDfense con la única finalidad de detectar, prevenir y controlar el fraude.
+Puedes consultar el listado actualizado de las entidades adheridas al fichero FrauDfense en el siguiente link: https://916087356-1.servicio-online.net/sobre-nosotros1/nuestros-partners y solicitar información adicional, así como los aspectos esenciales del acuerdo de corresponsabilidad entre las entidades, dirigiéndote a
+privacidad@gruposantander.es
+o contactando con
+DPO@fraudfense.com
+.
+La base que legitima el tratamiento de sus datos es el interés legítimo del Banco en la detección y prevención del fraude en las operaciones bancarias con origen o destino en su cuenta corriente o de ahorro, que a su vez redunda en el propio interés de los titulares de las cuentas que pudieran resultar afectados por el fraude cometido por un tercero.
+Los datos serán conservados en el fichero FrauDfense durante un máximo de un año a contar desde la fecha en la que tuvo lugar la operación y se mantendrán bloqueados hasta que finalicen los plazos de prescripción de las acciones que puedan surgir (como regla general, durante un plazo de 3 años). El Banco procederá a la supresión automática de los datos incluidos en el fichero FrauDfense cuando estos dejen de ser exactos o no respondan con veracidad a la situación real del afectado.
+Por último, además de los canales que el Banco pone a su disposición para que pueda ejercitar sus derechos de protección de datos y que puede consultar en el apartado ¿Cuáles son sus derechos cuando nos facilita sus datos?, si lo desea también podrá dirigirnos su petición a través del encargado a la siguiente dirección
+DPO@fraudfense.com
+.
+Otras entidades de crédito, entidades públicas empresariales, prescriptores, instituciones de inversión colectiva, entidades de capital riesgo y garantías, terceros prestadores de servicios de confianza, proveedores de servicios de pago, agregadores de terceros, así como sistemas de pago y prestadores de servicios tecnológicos, Notarios, Registradores, empresas tasadoras, entidades emisoras de certificados digitales gestorías y operadores del servicio universal postal,
+en los casos en los que resulte necesario para la ejecución de un contrato o prestación de un servicio que usted nos solicite, por ejemplo, cuando ordene una transferencia a otra entidad, situada fuera o dentro de la Unión Europea, transmitiremos necesariamente sus datos para la ejecución de la orden solicitada, o cuando las operaciones de riesgo que le concedamos estén garantizadas y/o subvencionadas por terceras entidades con los que el Banco ha alcanzado un acuerdo de colaboración (por ejemplo, Fondo Europeo de Inversiones, Instituto de Crédito Oficial), cuando nos solicite una operación a través de un tercero (prescriptor) con el que el Banco colabore, o cuando el contrato que usted formaliza con el Banco deba ser intervenido por fedatario público o inscrito en un Registro Mercantil, de Bienes Muebles o de la Propiedad o custodiado por un tercero de confianza o cuando en el contexto de una solicitud de contratación y para aportarnos la documentación o información que resulta necesaria para su estudio nos solicite hacerlo a través de una empresa emisora de certificados digitales. Asimismo, en el contexto de la tramitación de una operación hipotecaria, comunicaremos sus datos a la gestoría para el cálculo y elaboración de la provisión de fondos.
+Proveedores de servicios de Banco Santander:
+el Banco cuenta con la colaboración de algunos terceros proveedores de servicios que tienen acceso a sus datos personales y que tratan los referidos datos, en condición de encargados del tratamiento, en nombre y por cuenta del Banco como consecuencia de su prestación de servicios.
+El Banco sigue unos criterios estrictos de selección de proveedores de servicios con el fin de dar cumplimiento a sus obligaciones en materia de protección de datos y se compromete a suscribir con ellos el correspondiente contrato de tratamiento de datos mediante el que les impondrá, entre otras, las siguientes obligaciones: aplicar medidas técnicas y organizativas apropiadas; tratar los datos personales para las finalidades pactadas y atendiendo únicamente a las instrucciones documentadas del Banco; y suprimir o devolver los datos al Banco una vez finalice la prestación de los servicios.
+En concreto, el Banco contratará la prestación de servicios por parte de terceros proveedores que desempeñan su actividad, a título enunciativo y no limitativo, en los siguientes sectores: servicios de logística, asesoramiento jurídico, gestorías, homologación de proveedores, servicios de transmisión y ejecución de órdenes sobre acciones o participaciones de Instituciones de Inversión colectiva de gestoras no vinculadas al Grupo Santander a través de plataformas tecnológicas especializadas, empresas de servicios profesionales multidisciplinares, empresas proveedoras de servicios tecnológicos, empresas proveedoras de servicios informáticos, empresas de seguridad física, prestadores de servicios de mensajería instantánea, y empresas de servicios de centro de llamadas.
+¿Se producirán transferencias de sus datos personales a terceros países?
+Entre los encargados del tratamiento contratados por el Banco, pueden existir proveedores que no se encuentren en el Espacio Económico Europeo, produciéndose una transferencia internacional de sus datos. A tal efecto, el Banco únicamente transferirá los datos a terceros países
+(i)
+si existe una decisión de adecuación que determina que es un país con nivel equiparable de protección al de la Unión Europea,
+(ii)
+en su defecto, aplicando garantías adecuadas de conformidad con la normativa de protección de datos, tales como la firma de Cláusulas Contractuales Tipo o Normas Corporativas Vinculantes. El interesado podrá solicitar información adicional sobre tales garantías adecuadas a través de los medios de contacto que se indican en el apartado ¿Cuáles son sus derechos cuando nos facilita sus datos?
+Asimismo, cuando Usted nos facilite su consentimiento para compartir con terceros un identificador único conforme a los indicado en el apartado 13 Uso de cookies y tecnologías similares en la web y la app del Banco, dicho identificador único se transferirá a terceros ubicados en (i) Reino Unido, que cuenta con la decisión de adecuación de 28 de junio de 2021, o (ii) Estados Unidos, siempre que dichos terceros se encuentren adheridos al Marco de Privacidad de Datos UE-EE.UU al que se refiere la decisión de adecuación de 10 de julio de 2023.
+Adicionalmente, cuando Usted solicite la realización de operaciones que tengan por destino cuentas bancarias situadas en países fuera del Espacio Económico Europeo, se producirá una transferencia de sus datos personales a la entidad en la que esté abierta dicha cuenta. En tales supuestos, la referida transferencia se encontrará legitimada por ser necesaria para la ejecución del contrato suscrito entre Usted y el Banco.
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+Usted podrá ejercer sus derechos de acceso, portabilidad, rectificación, supresión, limitación y oposición. Además, Usted tendrá derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, de manera que podrá solicitar intervención humana en la toma de decisiones que le conciernan por parte del Banco y expresar su punto de vista, pudiendo impugnar la decisión.
+Respecto de los tratamientos basados en un interés legítimo, podrá solicitar información relativa a la ponderación efectuada por el Banco, así como oponerse a cualquiera de dichos tratamientos, para lo cual deberá dirigirse al Delegado de Protección de Datos/Oficina de Privacidad y debe explicar el motivo por el que se opone. No será necesario que usted alegue ningún motivo en el caso de que su oposición venga referida al tratamiento de sus datos con finalidad comercial, bastando con que nos comunique su deseo de no recibir comunicaciones comerciales.
+Asimismo, usted podrá revocar en cualquier momento el consentimiento prestado, sin que ello afecte a la legitimidad del tratamiento efectuado con anterioridad sobre la base de dicho consentimiento.
+Para ejercer los referidos derechos o consultar cualquier cuestión relativa al tratamiento de sus datos de carácter personal, puede enviar un correo electrónico a
+privacidad@gruposantander.es
+o bien, dirigirse por correo postal a C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid (A/A. Delegado de Protección de Datos/Oficina de Privacidad). También podrá modificar el estado de sus consentimientos y oponerse o revocar su oposición a los tratamientos que el banco realiza en base a su interés legítimo y que hemos considerado directamente oponibles sin que usted tenga justificar ningún motivo, en el entorno logado de su web o app (área personal) o solicitándolo en nuestras oficinas. Cuando existan dudas razonables sobre su identidad (por ejemplo, cuando la comunicación la realice desde un correo electrónico distinto al que dispone el Banco), se le solicitará que aporte información adicional que nos ayude a verificar su identidad. En el caso de ejercite sus derechos a través de representante, deberá aportar, además, documento acreditativo válido de la representación.
+La información adicional que facilite para su identificación será tratada con la sola finalidad de verificar su identidad y gestionar la atención del derecho ejercitado.
+En el caso de que ejercite un derecho de acceso a sus datos personales, tenga en cuenta que únicamente recibirá copia de los datos que están siendo tratados por esta entidad.
+Adicionalmente, usted podrá dirigirse al Delegado de Protección de Datos/Oficina de Privacidad del Banco a través de la siguiente dirección de correo electrónico:
+privacidad@gruposantander.es
+.
+Por último, podrá presentar una reclamación ante la Agencia Española de Protección de Datos. Dispone de la información necesaria en su web:
+www.aepd.es
+.
+El Banco puede actualizar este documento en el futuro. La fecha de su entrada en vigor se indica en la parte inferior. Consulte esta información periódicamente para asegurarse de que conoce la última versión.
+Versión: 13 de marzo de 2026
+Clientes menores
+¿Quién es el responsable del tratamiento de sus datos?
+¿Qué tipos de intervención ampara este documento?
+¿Qué tipos de datos personales recopilamos y tratamos?
+¿Cómo obtenemos sus datos?
+¿Para qué tratamos tus datos personales y sobre qué base de legitimación?
+¿Es obligatorio facilitar tus datos?
+¿Durante cuánto tiempo conservaremos tus datos?
+¿A quién comunicaremos tus datos?
+¿Se producirán transferencias de tus datos personales a terceros países?
+¿Cuáles son tus derechos cuando nos facilitas tus datos?
+¿Quién es el responsable del tratamiento de sus datos?
+Banco Santander, S.A (en adelante “el Banco” o “Banco Santander”).
+Dirección postal: C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid.
+Contacto Delegado de Protección de Datos:
+privacidad@gruposantander.es
+¿Qué tipos de intervención ampara este documento?
+El presente documento aplica a los clientes menores de edad, salvo aquellos que hayan probado de forma suficiente su condición de emancipado.
+¿Qué tipos de datos personales recopilamos y tratamos?
+Datos de carácter identificativo y de contacto: Documento de identidad (NIF, DNI, NIE, Documento de identidad no español/CIF), nombre y apellidos, número de cliente, domicilio, residencia, teléfonos, email. Asimismo, en caso de que se seleccione la preferencia de obtención de datos directamente del DNI, se utilizará una imagen del mismo incluyendo la fotografía.
+Datos referentes a características personales: sexo, edad, fecha de nacimiento, ,l lugar de nacimiento, nacionalidad.
+Datos relativos a sus circunstancias sociales: hobbies, propiedades y detalles de la vivienda, finca o local (como tamaño, localización y características energéticas).
+Datos académicos y profesionales o laborales: nivel de estudios, titulación, estado laboral, actividad, profesión, categoría profesional.
+Datos económicos, financieros y de solvencia: Cuentas corrientes y saldo, origen del patrimonio, ingresos anuales y origen de los mismos.
+Datos referentes a transacciones de bienes y servicios: catálogo de todos los productos bancarios contratados tales como tarjetas de crédito o débito, fondos, medios de pago, etc. y la utilización de los mismos.
+Datos fiscales: lugar de residencia fiscal, número de identificación fiscal extranjera.
+Datos relativos a información comercial: uso de canales, preferencias de contacto.
+Datos transaccionales: ingresos, gastos, saldos, pagos, transferencias, órdenes de traspaso, recibos, apuntes y movimientos de productos contratados, incluyendo el origen, destino, concepto y tercero relacionado con la transacción, localización donde se realiza y la fecha y hora.
+Datos sobre tu localización, si has consentido activar el servicio de geolocalización de tu dispositivo.
+Datos sobre comportamiento en línea: por ejemplo, la IP del ordenador o el ID del dispositivo, así como las páginas visitadas, modelo de dispositivo, o los identificadores en línea, en los términos descritos en nuestra
+Política de cookies
+, disponible en nuestra página web.
+Datos sobre los intereses que compartes con nosotros: por ejemplo, a través de una llamada de consulta con nuestros gestores, una simulación de nuestros productos y/o servicios, o el alta como usuario del servicio de Newsletter.
+Datos relativos a los dispositivos desde los que accedes a tu Área de cliente del Banco: modelo del dispositivo y sistema operativo.
+Datos audiovisuales: por ejemplo, cuando grabamos la voz en el marco de una conversación telefónica con nuestros gestores.
+Datos sensibles: en el marco de su relación con el Banco, trataremos datos de salud relacionados con el grado de discapacidad, y otra información relativa a una situación de vulnerabilidad, a los efectos y para los fines previstos en la normativa sobre esta materia.
+Datos sobre vínculos con terceros: por ejemplo, la información sobre tu padre, madre o tutor, al haber sido éste quién ha ejecutado el alta del servicio; o relación con familiares o allegados con cargos o función pública.
+Datos de fuentes externas, tal y como se detalla en el apartado ¿Cómo obtenemos sus datos?
+¿Cómo obtenemos sus datos?
+El Banco obtiene tus datos de las siguientes fuentes:
+A través de la información que nos proporciona tu padre, madre o tutor cuando solicita y contrata el servicio con nosotros al darte de alta como cliente del Banco.
+Directamente de ti, a través de la información que nos facilitas cuando mantienes y haces uso de tus productos y/o servicios con nosotros, tanto de forma directa como indirecta y a través de cualquiera de los canales que el Banco pone a tu disposición (sucursal, canal telefónico, servicios en línea, etc.). Algunos ejemplos son: a través de consultas, transacciones, operaciones, simulaciones o solicitudes de los referidos productos o servicios.
+Directamente de ti, a través de la información que nos facilitas cuando navegas a través de nuestra página web y aplicación de telefonía móvil, mediante la utilización de cookies o cualquier otro tipo de identificador en línea o a través de la huella digital de su dispositivo o terminal.
+Excepcionalmente, y para el cumplimiento de las obligaciones de diligencia debida en materia de prevención del blanqueo de capitales y financiación del terrorismo, podremos utilizar la información de la que ya dispusiese el Banco para verificar los datos que se nos hayan facilitado en el formulario de identificación de cliente, así como de información de otras entidades del Grupo Santander de las que seas cliente y que estén sujetas a obligaciones legales en materia de prevención de blanqueo de capitales y financiación del terrorismo.
+Fuentes de información externas:
+Central de Información de Riesgos del Banco de España (CIRBE), de la que obtenemos información de solvencia sobre usted.
+Sistemas de información de prevención del fraude, como Sociedad Española de Sistemas de Pago, S.A. (Iberpay), Confirma Sistemas de Información S.L. (Confirma), FrauDfense y operadoras de telecomunicaciones.
+Ficheros de información especializada o fuentes públicas disponibles en internet relativas a la prevención del blanqueo de capitales y la financiación del terrorismo, de las que el Banco obtiene información sobre sus clientes titulares o intervinientes en las cuentas, representantes legales y titulares reales de las mismas. Fuentes públicamente accesibles tales como diarios y boletines oficiales, registros públicos, resoluciones de las Administraciones Públicas, guías telefónicas y listas de personas pertenecientes a colegios profesionales.
+¿Para qué tratamos tus datos personales y sobre qué base de legitimación?
+A continuación, se detallan las distintas finalidades de tratamiento por parte de Banco Santander:
+Gestionar la relación precontractual y, en su caso, contractual, respecto de los servicios del Banco contratados.
+Cuando se proceda a la contratación de alguno de los productos y/o servicios del Banco trataremos tus datos personales con las siguientes finalidades:
+Proceder al mantenimiento, desarrollo y ejecución del servicio. Lo anterior incluye, asimismo, el tratamiento de tus datos personales con la finalidad de organizar las carteras de los distintos clientes del Banco y asignar cada una de ellas a un gestor determinado, y el tratamiento de los datos transaccionales de los productos y/o servicios que tengas contratados con el Banco, en los casos en que resulte necesario a fin de comprobar que cumples las condiciones para la suscripción y posterior desarrollo del contrato.
+Adicionalmente, comunicaremos tus datos a otras empresas del Grupo Santander y terceras empresas participadas y/o empresas colaboradoras del Grupo Santander (a modo de ejemplo, gestoras de activos financieros o entidades de capital riesgo), en caso de que, como cliente del Banco, se realicen procesos de simulación o se solicite contratar alguno de los productos y/o servicios de dichas entidades que son comercializados por el Banco y/o la efectiva contratación de los mismos o en los casos en los que seas cliente común del Banco y de dichas entidades, cuando la finalidad de comunicación de datos sea el mantenimiento y desarrollo del contrato que mantienes con las referidas entidades. En estos casos, la comunicación afectará únicamente a un número limitado de datos que el Banco dispone sobre tu persona, en concreto, los estrictamente necesarios para la celebración del contrato y/o para la ejecución/desarrollo del mismo y el cumplimiento por dichas empresas de sus obligaciones legales: nombre y apellidos, NIF, sexo, edad, domicilio y domiciliación bancaria; y, en algunos supuestos, además, tu email, teléfono y la información necesaria para el cumplimiento de las obligaciones legales descritas en el apartado 2 siguiente. Se pretende con ello, simplificar y agilizar la contratación a través del Banco de los productos que éste comercializa o distribuye de otras empresas del Grupo o de terceras empresas participadas, habida cuenta de tu condición de cliente del Banco; el cumplimiento por tales empresas de las obligaciones legales a las que están sujetas; y que dichas empresas de las que también seas cliente cuenten con tus datos de contacto para remitir información relevante para el desarrollo de su relación contractual.
+Realizar comunicaciones informativas estrictamente relacionadas con el servicio contratado y con la operativa del mismo, incluyendo la verificación de movimientos inusuales.
+Permitirte el acceso a los canales digitales del Banco.
+Prestarte los servicios que nos solicites o que incorporen los canales digitales del Banco, y la realización de operaciones y la gestión de
+(i)
+cualquier tipo de consulta, reclamación o incidencia que pudiera derivarse de la relación contractual entablada y
+(ii)
+los servicios ofrecidos por los cajeros automáticos (por ejemplo, retiradas e ingresos en cuenta, pago de impuestos y recibos, consulta de movimientos, transferencias, recarga de móviles o recuperación de claves).
+Gestionar tu participación en concursos, sorteos o promociones en los que te inscribas.
+La
+base de legitimación
+para estos tratamientos es la
+ejecución del contrato
+suscrito con el Banco o la solicitud de
+adopción de medidas precontractuales
+dirigidas a la contratación de alguno de los productos y/o servicios ofrecidos por el Banco o las empresas de su Grupo.
+Adicionalmente, el Banco podrá compartir información asociada a la actualización de tus datos personales con las empresas del Grupo Santander y terceras entidades colaboradoras y/o participadas por dicho Grupo, cuyos productos comercializa y/o le muestra en su Área de cliente del Banco (web y app) o respecto a los que puede solicitar información al gestor. Es decir, si actualizas un dato personal a través del Banco, éste podrá facilitar a las demás los datos actualizados. Podrás acceder al listado completo de sociedades del Grupo y terceras entidades colaboradoras y/o participadas por el Grupo Santander a las que comunicaremos tus datos solicitándolo en su Oficina o a través del siguiente enlace:
+http://bsan.es/sociedades_banco_santander
+.
+La
+base de legitimación
+de este tratamiento es el
+interés legítimo
+de tener toda la información actualizada en todas las entidades del Grupo Santander, así como en aquellas colaboradoras y/o participadas por dicho Grupo cuyos productos son comercializados por éste, sin que sea necesario que solicites dicha actualización a cada una de ellas.
+Asimismo, el Banco puede poner a tu disposición funcionalidades adicionales o complementarias directamente relacionadas con los productos que tengas contratados, que te faciliten la gestión de los mismos.
+La
+base de legitimación
+de este tratamiento es el
+interés legítimo
+ofrecer un mejor servicio y asesoramiento respecto de los productos contratados, aportando un valor añadido a los clientes.
+Cumplimiento de obligaciones legales del Banco
+Cuando se proceda a la contratación de alguno de los productos y/o servicios del Banco trataremos tus datos personales con las siguientes finalidades:
+Obligaciones en materia de prevención del blanqueo de capitales y financiación del terrorismo.
+Para el cumplimiento de estas obligaciones, el Banco tratará los datos que resultan necesarios para el cumplimiento de las obligaciones de diligencia debida establecidas en la normativa aplicable. Igualmente, para estos fines, el Banco comunicará tus datos personales a otras empresas del Grupo Santander y terceras entidades participadas y/o colaboradoras de dicho Grupo que hayan delegado en el Banco el cumplimiento de las obligaciones en materia de prevención del blanqueo de capitales y financiación del terrorismo, en los términos previstos en esa normativa.
+Adicionalmente, el Banco tratará tus datos personales a los efectos de llevar a cabo un seguimiento continuo de la relación de negocios, incluyendo procesos de revisión con objeto de asegurar que los datos obtenidos como consecuencia de la aplicación de las medidas de debida diligencia se mantienen actualizados y se encuentran vigentes. Para ello, el Banco comunicará tus datos personales a otras empresas del Grupo Santander de las que eres cliente y estén sujetas a obligaciones legales en materia de prevención de blanqueo de capitales y financiación del terrorismo, asimismo, recabará tus datos personales de dichas empresas para tratarlos con la finalidad mencionada.
+Asimismo, el Banco podrá tratar los datos que resulten necesarios para el examen de las operaciones realizadas que pudieran presentar indicios de ser constitutivas de blanqueo de capitales o financiación del terrorismo y llevará a cabo las correspondientes comunicaciones, en su caso, al Servicio Ejecutivo de la Comisión de Prevención de Blanqueo de Capitales e Infracciones Monetarias (SEPBLAC) con motivo de (i) el envío periódico de operaciones que cumplan con determinados parámetros fijados por el SEPBLAC, o bien (ii) una solicitud de información concreta relativa a alguna operación.
+Obligaciones fiscales impuestas por la Ley de cumplimiento fiscal de cuestas extranjeras o Foreign Account Tax (FATCA) y la normativa estándar Común de Reporte (CRS) en relación a la obligación de intercambio automático de la información, que obliga al Banco a identificar, clasificar y reportar determinadas cuentas financieras de clientes que tengan obligaciones legales en EEUU en el caso de FATCA y en el caso de CRS a distintas autoridades financieras ubicadas en las jurisdicciones participantes de dicho estándar. Igualmente, para estos fines el Banco comunicará tus datos personales a otras empresas del Grupo Santander y terceras entidades participadas y/o colaboradoras de dicho Grupo, cuyos productos o servicios comercializa y que hayan delegado expresamente en el Banco el cumplimiento de estas obligaciones en materia fiscal, en los términos previstos en esa normativa.
+Obligaciones mercantiles, societarias, fiscales y de cualquier otro tipo impuestas por los organismos de supervisión y autoridades competentes (por ejemplo, Banco Central Europeo, Banco de España, Comisión Nacional de los Mercados y la Competencia, Comisión Nacional del Mercado de Valores o Agencia Española de Protección de Datos).
+Obligaciones de consulta de sistemas de información crediticia y comunicación de datos a los mismos, establecidas por la normativa reguladora del sistema financiero y del crédito inmobiliario, para el cumplimiento de los principios de crédito responsable y minimización del riesgo crediticio:
+Cuando seas titular de algún tipo de riesgo, el Banco podrá consultar la información referente a ti que figure en CIRBE y los sistemas de información crediticia a los que aquél se encuentre adherido (por ejemplo, Experian, Asnef y RAI), a fin de evaluar tu solvencia y riesgo crediticio.
+Cuando mantengas con el Banco riesgos de crédito, ya sea directamente (titular) o indirectamente (avalista de un producto de riesgo) comunicaremos tus datos, incluidos los datos relativos a las características de los riesgos a la CIRBE.
+La
+base de legitimación
+de estos tratamientos es el
+cumplimiento de las obligaciones legales
+aplicables al Banco.
+Prevención e investigación del fraude
+Trataremos y/o comunicaremos tus datos a terceros, sean o no empresas del Grupo Santander (por ejemplo, Confirma, Iberpay, y operadoras de telecomunicaciones), para detectar y analizar posibles actividades fraudulentas, identificar y conocer a los participantes en las mismas y, en su caso, llevar a cabo las acciones que se consideren necesarias frente a estas actuaciones.
+Para el cumplimiento de esta finalidad, en los casos en los que seas cliente común del Banco y de otras empresas del Grupo Santander y/o terceras entidades participadas y/o colaboradoras de dicho Grupo, el Banco comunicará tus datos personales a tales empresas y entidades, a fin de garantizar el cumplimiento de las políticas de gestión de Grupo relativas a la prevención e investigación del fraude.
+También con la finalidad de prevenir este tipo de prácticas trataremos tus datos con la finalidad de enviarte comunicaciones relacionadas con operativas de fraude, anticipándonos a posibles situaciones que pudieran causarte un perjuicio como consecuencia por ejemplo de la actuación fraudulenta de terceros.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco o de las entidades adheridas, en los casos de que incluyamos o consultemos tus datos en ficheros comunes de prevención del fraude, en prevenir, investigar y/o descubrir el fraude. Puedes obtener más información acerca de las entidades a las que comunicaremos tus datos para esta finalidad los términos en base a los cuales se va a tratar tus datos y cómo ejercitar tus derechos en el apartado “
+¿a quién comunicamos tus datos?
+”.
+Realizar recomendaciones
+Si tienes activado el contrato de Banca Digital (App) trataremos tus datos para:
+Realizarte observaciones y recomendaciones sobre los productos y servicios que ya tienes contratados.
+Realizar un análisis de tu operativa y hábitos de gasto para proporcionarte información, consejos o advertencias sobre los mismos encaminados a optimizarlos (tales como hacer un análisis de cómo estas gastando el dinero, informarte de la capacidad de ahorro, etc.).
+En el caso de que seas usuario del servicio de Newsletter o boletines de noticias del Banco, presentarte un contenido adaptado en función de tus características personales (por ejemplo, la edad) y los productos contratados.
+A estos efectos, utilizaremos únicamente fuentes internas, es decir, trataremos sólo la información que tú nos facilites y la que se derive de tu relación contractual y comercial con el Banco: los datos transaccionales del servicio que tengas contratado con el Banco, la información que sobre tus intereses compartas con nosotros, por ejemplo a través de las llamadas telefónicas con nuestros gestores.
+La
+base de legitimación
+de estos tratamientos encaminados a identificar tus necesidades sobre los productos, servicios, recomendaciones, consejos e información que mejor se adapten a tus características personales es el
+interés legítimo
+del Banco en conocer mejor su negocio para mejorar la calidad del servicio que te prestamos, así como mejorar las condiciones en productos o servicios que hayas contratado o que puedas contratar en el futuro.
+Acciones comerciales y de fidelización, promociones y concursos/sorteos
+Si tienes activado el contrato de Banca Digital (App) trataremos tus datos para realizar llamadas telefónicas de fidelización, remitirte invitaciones a eventos, e incluirte en acciones de fidelización, promociones, ofertas y concursos/sorteos que el Banco promueva entre sus clientes, en base a tus características personales y los servicios que tienes contratados, así como remitirte información relativa a las mismas. Por ejemplo, el Banco podrá incluirle en un sorteo en el que puede resultar ganador por el solo hecho de haber utilizado como medio de pago de sus compras una tarjeta emitida por el Banco o por hacer uso de otros servicios ofrecidos por el Banco, durante el periodo que dure la promoción. También podemos ofrecerte descuentos y ofertas en restaurantes, ocio y otros servicios que puedan ser de tu interés.
+Igualmente, si eres mayor de 14 años, podemos remitirte información comercial sobre los productos y servicios del Banco que tienes a tu disposición.
+Para ello, utilizaremos datos objetivos disponibles para el Banco, como datos identificativos y de contacto o datos de características personales (por ejemplo, tu edad) y los productos o servicios contratados.
+La
+base de legitimación
+de este tratamiento es el
+interés legítimo
+del Banco en fidelizar a sus clientes y aumentar su grado de satisfacción y vinculación.
+Gestión de procedimientos administrativos, prejudiciales y judiciales
+En su caso, trataremos tus datos personales para la defensa de los derechos e intereses del Banco en cualquier tipo de procedimiento administrativo, prejudicial y/o judicial derivado de o vinculado con la relación entablada contigo.
+Dicho tratamiento encontraría su
+base de legitimación
+en el
+interés legítimo
+del Banco en garantizar y hacer efectivo su derecho a la tutela judicial efectiva.
+Comprobación de la calidad de los servicios prestados
+Desde el Banco, tratamos los datos personales de nuestros clientes con la finalidad de llevar a cabo procedimientos de revisión, auditoría y mejora de la calidad de los servicios prestados, lo que incluye (i) la realización de encuestas de satisfacción y el análisis de sus resultados y (ii) la grabación de tu voz y/o imagen y la conservación de la conversación telefónica y/o vídeo, únicamente en aquellos casos en que lo indiquemos de forma expresa y (iii) la conducción de investigaciones de mercado a través de encuestas, a fin de conocer la percepción y valoración de los clientes sobre productos existentes o nuevos productos.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en llevar a cabo un proceso de mejora constante de la atención prestada a clientes, potenciales clientes, usuarios y cualquier otra persona interesada que contacte con el Banco y garantizar en todo caso un elevado nivel de calidad de la misma, tanto por parte del Banco como de los proveedores que le prestan el servicio de atención al cliente.
+Elaboración de informes sobre clientes o con datos personales de clientes
+En el Banco tratamos los datos personales de nuestros clientes para elaborar informes de distinta naturaleza:
+Seguimiento de los clientes. Si bien estos informes, con carácter general, contienen información agregada, puntualmente pueden incluir información de clientes identificados.
+Realizar informes de liquidez e interés a nivel agregado, para uso interno y, en su caso, envío al supervisor.
+Riesgo crediticio y operacional.
+Análisis de la actividad de la admisión de riesgos (financieros, no financieros y operacionales) por parte del Banco.
+Realización de auditorías y revisiones de control interno del Banco.
+Impacto de la morosidad en Pérdidas y Ganancias del Banco.
+Seguimiento de estrategias comerciales y otros análisis de negocio, para el seguimiento y desarrollo del mismo.
+Obtener información agregada para la elaboración de estudios estadísticos y análisis de negocio de diversa naturaleza, por ejemplo, acerca del uso de los canales privados que el Banco pone a disposición de sus clientes o de las operaciones más importantes (por ejemplo, las mayores oscilaciones de saldo de entrada o salida) y quejas que han tenido lugar en cada una de las oficinas del Banco.
+Elaborar reportes internos y otros informes de carácter agregado (por ejemplo, indicadores de negocio, riesgo operacional) y estadístico.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en incrementar el conocimiento que posee sobre los clientes, poder ofrecer un mejor servicio y asesoramiento respecto de los productos contratados y obtener información acerca del estado del negocio que contribuya a una mejor toma de decisiones corporativas, estratégicas y comerciales y en mantener una adecuada gestión interna del mismo y del grupo empresarial al que pertenece.
+Elaborar estadísticas y crear modelos analíticos
+En el Banco tratamos los datos personales de nuestros clientes con la finalidad de elaborar estadísticas y generar modelos analíticos, y en particular:
+Generar y desarrollar modelos de control de calidad de los datos personales y de consistencia de la calidad de los reportes internos.
+Elaborar estudios estadísticos y análisis de negocio que permitan mejorar los procesos y operativas.
+Para el seguimiento y análisis de la cartera de clientes del Banco.
+Al objeto de minimizar el tratamiento de datos personales, el Banco utiliza técnicas de cifrado, agregación, disociación, anonimización y/o seudonimización de los datos, siempre que no perjudiquen la fiabilidad de los resultados.
+La
+base de legitimación
+aplicable a este tratamiento es el
+interés legítimo
+del Banco en lograr un conocimiento de su negocio y ajustar las ofertas de productos y servicios a las necesidades de sus clientes, mejorando la oferta comercial del Banco mediante la elaboración y desarrollo de modelos y algoritmos analíticos predictivos y estimativos, todo ello con el objeto de optimizar los servicios prestados.
+Uso de cookies y tecnologías similares en la app del Banco
+El Banco, en su app, hace uso de cookies y tecnologías similares, propias y de terceros, con la finalidad de permitir al usuario la navegación a través de la misma y la utilización de las diferentes opciones o servicios que en ella existan, incluyendo aquellas que son utilizadas para permitir la gestión y operativa de la App, así como habilitar sus funciones y servicios.
+Para obtener más información acerca de las cookies utilizadas por el Banco y el tipo de información que se recaba por medio de las mismas, puede consultar la
+Política de cookies
+.
+La
+base de legitimación
+de este tratamiento es la aplicación de
+medidas precontractuales
+solicitadas por ti o la
+ejecución de un contrato
+en el que eres parte por tratarse de cookies técnicas o estrictamente necesarias para prestar un servicio solicitado por el usuario.
+¿Es obligatorio facilitar tus datos?
+Será obligatorio que nos facilites tus datos en la medida en que desees contratar el servicio con el Banco, debiendo mantenerlos actualizados, de forma que respondan en todo momento a tu situación real.
+¿Durante cuánto tiempo conservaremos tus datos?
+Trataremos tus datos personales mientras la relación contractual se encuentre vigente o sean necesarios para la finalidad para la cual fueron recabados.
+Cuando tus datos personales dejen de ser necesarios para las finalidades expuestas en el presente documento, los conservaremos debidamente bloqueados, lo cual implicará que el Banco no llevará a cabo ningún tratamiento distinto de su conservación para la puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal; para la atención de las posibles responsabilidades derivadas de la relación contractual mantenida o de las relacionadas con el tratamiento de los datos. Conservaremos tus datos bloqueados durante los plazos previstos en las disposiciones legales aplicables o, en su caso, por los plazos de prescripción de las acciones derivadas de las relaciones contractuales mantenidas con el Banco, procediendo a la supresión física o completa anonimización de sus datos una vez transcurridos dichos plazos.
+¿A quién comunicaremos tus datos?
+Comunicamos tus datos personales a:
+Empresas del Grupo Banco Santander y terceras entidades colaboradoras y/o participadas por el Grupo Santander.
+Dependiendo de la finalidad del tratamiento que le hemos informado en este documento, sólo comunicaremos tus datos a dichos terceros: i) cuando sea necesario para la realización de procesos de simulación de la contratación de alguno de los productos y/o servicios de dichas entidades, la efectiva contratación de los mismos y/o el mantenimiento y/o gestión del contrato que mantenga con las referidas entidades; ii) cuando la cesión tenga su base en el interés legítimo del Banco y/o de la empresa tercera a la que comunicamos tus datos y iii) cuando la cesión responda al cumplimiento de una obligación legal.
+Podrás acceder al listado completo de sociedades del Grupo y terceras entidades colaboradoras y/o participadas por el Grupo Santander a las que comunicaremos tus datos solicitándolo en tu Oficina o a través del siguiente enlace:
+https://assets.santandermedia.com/adobe/assets/urn:aaid:aem:c37556a7-fc72-441b-879e-511d5e666c52/original/as/ES-0000018N-informacion-proteccion-datos-cesion_datos_entidades_WebP.pdf
+.
+Organismos de la Administración Pública y entidades privadas, cuando tenga la obligación legal de facilitarlos (lista elaborada a título enunciativo y no limitativo):
+2.1) Servicio Central de Información de Riesgos de Banco de España (CIRBE):
+El banco, en cumplimiento de la Ley 44/2002 de Reforma del Sistema Financiero, comunicará tus datos identificativos (ya sea como titular o como garante) y de riesgo de tus operaciones bancarias contratadas con nosotros.
+2.2) Fichero de titularidades Financieras del Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias:
+El Banco, en cumplimiento de la normativa de prevención de blanqueo de capitales y financiación del terrorismo, tiene la obligación de comunicar a la Secretaria de Estado de Economía y Apoyo a la empresa: (i) los datos identificativos de todos los titulares, titulares reales, representantes o autorizados y cualesquiera otras personas con poderes de disposición en cuentas corrientes, cuentas de ahorro, depósitos a plazo, y cualquier otro tipo de cuenta de pago, así como los como los contratos de alquiler de cajas de seguridad, con independencia de su nombre comercial, así como las modificaciones que se produzcan en las mismas; y (ii) la fecha de apertura, cancelación y demás datos obligatorios derivados de los citados contratos.
+2.3) Agencia Tributaria
+, en cumplimiento de la normativa fiscal.
+2.4) Autoridades u organismos oficiales de otros países
+, situados tanto fuera como dentro de la Unión Europea en el marco de la lucha contra la financiación del Terrorismo y formas graves de delincuencia organizada y prevención del blanqueo de capitales, en los casos de órdenes de transferencias de fondos, y para el cumplimiento de obligaciones legales, tributarias y/o fiscales nacionales o internacionales en el caso de que usted hubiera indicado uno o varios países de nacionalidad y/o residencia fiscal distintos de España.
+2.5) Auditores de cuentas
+, cuando el Banco deba ser auditado en cumplimiento de una obligación legal.
+2.6) Fondo de Garantía de Depósitos
+. El Banco, a los efectos de calcular las aportaciones al Fondo de Garantía de Depósitos de Entidades de Crédito, comunicará a aquella información individualizada de saldos correspondientes a los depósitos realizados por clientes.
+2.7) Proveedores de servicios de pago.
+El Banco, para garantizar la verificación del beneficiario en el contexto de la realización de una operación de pago, en cumplimiento de la de normativa europea sobre pagos instantáneos en euros (Reglamento (UE) 2024/886), podrá comunicar los datos identificativos del beneficiario a los proveedores de servicios de pago del ordenante de las transferencias y al propio ordenante, cuando exista una coincidencia casi exacta en el nombre asociado al identificador de la cuenta, a fin de que el ordenante pueda decidir si autoriza o no la operación.
+Juzgados y Tribunales y Fuerzas y Cuerpos de Seguridad del Estado
+, cuando ello venga impuesto por una obligación legal o sea necesario para la formulación, ejercicio o defensa de reclamaciones, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva.
+Abogados y procuradores
+, cuando actúen como representantes procesales en sede judicial, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva y a la asistencia letrada.
+Terceras entidades para la prevención del fraude
+, tales como Confirma Sistemas de Información S.L. (Confirma) y operadoras de telefonía móvil. En el marco de cualquier solicitud de apertura o contratación de un producto o servicio de pago y/o de una operación de financiación o de pago aplazado, el Banco comunicará tus datos al “Fichero Confirma” para la prevención del fraude.
+La finalidad del Fichero es el cotejo de solicitudes y operaciones allí registradas por parte de las entidades participantes para detectar posibles fraudes en la contratación. Dicha finalidad supone la valoración de la probabilidad de fraude de la solicitud. Los corresponsables del tratamiento son las Entidades Adheridas al Reglamento del Fichero Confirma, siendo el encargado del tratamiento Confirma Sistemas de Información, S.L., con domicilio en la Avda. de la Industria, 18, TRES CANTOS (28760) MADRID. Los solicitantes podrán consultar el listado de Entidades que actualmente están adheridas al Reglamento del Fichero Confirma en la website www.confirmasistemas.es. La base jurídica del tratamiento de los datos de carácter personal es el interés legítimo de los corresponsables del tratamiento de prevenir el fraude (Considerando 47 RGPD), para evitar posibles consecuencias económicas negativas y eventuales incumplimientos legales por parte de los solicitantes. La consulta al Fichero Confirma resulta idónea en atención al fin perseguido, y proporcional en relación con el beneficio obtenido por los corresponsables del tratamiento y el impacto en la privacidad de los solicitantes. Asimismo, el tratamiento de datos se enmarca en las expectativas razonables de los interesados al tratarse de una práctica común y producirse en el marco de una solicitud de contratación. Para evitar perjuicios y consecuencias negativas para los solicitantes se han adoptado medidas técnicas y organizativas para reforzar la confidencialidad y seguridad de esta información.
+El plazo máximo de conservación de los datos será de cinco años. Los datos comunicados al Fichero Confirma podrán ser consultados por las Entidades Adheridas al Reglamento del Fichero Confirma. No está prevista la transferencia de datos a un tercer país u organización internacional. De acuerdo con la normativa vigente en materia de protección de datos, los interesados podrán ejercer sus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento, a no ser objeto de decisiones automatizadas individuales con efectos jurídicos, y portabilidad, dirigiéndose al domicilio del encargado del tratamiento, CONFIRMA SISTEMAS DE INFORMACIÓN, S.L., en la dirección arriba indicada. Asimismo, los interesados podrán hacer uso de su derecho a presentar una reclamación ante la Autoridad de Control. CONFIRMA SISTEMAS DE INFORMACIÓN, S.L. ha nombrado un Delegado de Protección de Datos con el que podrá contactar a través del correo electrónico dpo@confirmasistemas.es, para las solicitudes en materia de privacidad relacionadas con el Fichero Confirma.
+Asimismo, en el marco de cualquier solicitud de contratación o cuando modifiques tu número de teléfono, tu número de teléfono podrá ser cotejado con los operadores de servicios de telefonía móvil a los efectos de detectar posibles suplantaciones de identidad y prevenir el fraude.
+Sociedad Española de Sistemas de Pago, S.A. (Iberpay):
+Con la finalidad de detectar y prevenir el fraude, el Banco podrá incluir tus datos en un fichero común de prevención del fraude en las operaciones bancarias, gestionado por Iberpay, cuyos corresponsables son las entidades adheridas, entre las que se encuentra el Banco, para la detección, investigación, control y eventual denuncia de operaciones sospechosas y fraudulentas cometidas en tu cuenta, corriente o de ahorro. Los datos que se incluyan en el citado fichero común serán los relativos al número de IBAN y al titular de la cuenta donde se hubiera detectado la operación sospechosa o fraudulenta y, en su caso, podrán ser conocidos por las entidades financieras adheridas a dicho fichero común, con la única finalidad de detectar, prevenir y controlar el fraude. Puedes consultar el listado actualizado de las entidades adheridas a este fichero común en el siguiente link:[https://www.iberpay.es/Secciones/04MasServicios/Paginas/PrevencionFraude.aspx] y solicitar información adicional así como los aspectos esenciales del acuerdo de corresponsabilidad entre aquellas, dirigiéndose a
+privacidad@gruposantander.es
+Solo informaremos al fichero los datos relativos al IBAN y titular de la cuenta donde se hubiera detectado la operación no autorizada o sospechosa de ser fraudulenta, que podrán ser consultados por el resto de entidades adheridas. La base que legitima el tratamiento es el interés legítimo del Banco en la detección y prevención del fraude en las operaciones bancarias que se produzcan a través de tu cuenta, que a su vez redunda en el propio interés de los titulares de las cuentas que pudieran resultar afectados por el fraude cometido por un tercero.
+Los datos serán conservados en el fichero durante un máximo de treinta días en el caso de tratarse de operaciones sospechosas, y de un año en el caso de tratarse de operaciones no autorizadas (cuando el fraude hubiera sido confirmado por el afectado). El Banco procederá a la supresión automática de los datos incluidos en el fichero común cuando estos dejen de ser exactos o no respondan con veracidad a la situación real del afectado.
+Fichero FraudFense
+. El Banco podrá incluir tus datos en un fichero común de prevención del fraude en las operaciones bancarias, gestionado por FrauDfense, S.L., cuyos corresponsables del tratamiento son las entidades adheridas a dicho fichero, entre las que se encuentra el Banco, para la detección, investigación, control y posible denuncia de operaciones de pago respecto a las que existan evidencias acerca de su carácter fraudulento cometidas en tu cuenta, corriente o de ahorro o a través del uso no autorizado de tu tarjeta (en adelante, operaciones fraudulentas). Los datos que se incluyen en el citado fichero común son los relativos al número de IBAN de st cuenta, PAN de tu tarjeta, datos relativos a la operación fraudulenta identificada (como, por ejemplo, datos del dispositivo desde el que se ha producido la operación, los datos de la cuenta donde se hubiera detectado la operación o los datos respecto de los que se hayan detectado inconsistencias que implicasen una posible suplantación de identidad). Los datos podrán ser consultados por las entidades financieras adheridas al fichero FrauDfense con la única finalidad de detectar, prevenir y controlar el fraude.
+Puedes consultar el listado actualizado de las entidades adheridas al fichero FrauDfense en el siguiente link: https://916087356-1.servicio-online.net/sobre-nosotros1/nuestros-partners y solicitar información adicional, así como los aspectos esenciales del acuerdo de corresponsabilidad entre las entidades, dirigiéndote a
+privacidad@gruposantander.es
+o contactando con
+DPO@fraudfense.com
+La base que legitima el tratamiento de tus datos es el interés legítimo del Banco en la detección y prevención del fraude en las operaciones bancarias con origen o destino en su cuenta corriente o de ahorro, que a su vez redunda en el propio interés de los titulares de las cuentas que pudieran resultar afectados por el fraude cometido por un tercero.
+Los datos serán conservados en el fichero FrauDfense durante un máximo de un año a contar desde la fecha en la que tuvo lugar la operación y se mantendrán bloqueados hasta que finalicen los plazos de prescripción de las acciones que puedan surgir (como regla general, durante un plazo de 3 años). El Banco procederá a la supresión automática de los datos incluidos en el fichero FrauDfense cuando estos dejen de ser exactos o no respondan con veracidad a la situación real del afectado.
+Por último, además de los canales que el Banco pone a tu disposición para que puedas ejercitar tus derechos de protección de datos y que puedes consultar en el apartado ¿Cuáles son tus derechos cuando nos facilitas tus datos?, también podrás dirigirnos tu petición a través del encargado a la siguiente dirección DPO@fraudfense.com
+Otras entidades de crédito, entidades públicas empresariales, prescriptores, instituciones de inversión colectiva, entidades de capital riesgo y garantías, terceros prestadores de servicios de confianza, proveedores de servicios de pago, agregadores de terceros, así como sistemas de pago y prestadores de servicios tecnológicos, Notarios, Registradores, empresas tasadoras, entidades emisoras de certificados digitales gestorías y operadores del servicio universal postal
+, en los casos en los que resulte necesario para la ejecución de un contrato o prestación de un servicio que nos solicites, por ejemplo, cuando ordenes una transferencia a otra entidad, situada fuera o dentro de la Unión Europea, transmitiremos necesariamente tus datos para la ejecución de la orden solicitada,, cuando nos solicites una operación a través de un tercero (prescriptor) con el que el Banco colabore, o cuando el contrato que formalizas con el Banco deba ser intervenido por fedatario público o inscrito en un Registro Mercantil, de Bienes Muebles o de la Propiedad o custodiado por un tercero de confianza o cuando en el contexto de una solicitud de contratación y para aportarnos la documentación o información que resulta necesaria para su estudio nos solicites hacerlo a través de una empresa emisora de certificados digitales.
+Proveedores de servicios de Banco Santander:
+el Banco cuenta con la colaboración de algunos terceros proveedores de servicios que tienen acceso a tus datos personales y que tratan los referidos datos, en condición de encargados del tratamiento, en nombre y por cuenta del Banco como consecuencia de su prestación de servicios.
+El Banco sigue unos criterios estrictos de selección de proveedores de servicios con el fin de dar cumplimiento a sus obligaciones en materia de protección de datos y se compromete a suscribir con ellos el correspondiente contrato de tratamiento de datos mediante el que les impondrá, entre otras, las siguientes obligaciones: aplicar medidas técnicas y organizativas apropiadas; tratar los datos personales para las finalidades pactadas y atendiendo únicamente a las instrucciones documentadas del Banco; y suprimir o devolver los datos al Banco una vez finalice la prestación de los servicios.
+En concreto, el Banco contratará la prestación de servicios por parte de terceros proveedores que desempeñan su actividad, a título enunciativo y no limitativo, en los siguientes sectores: servicios de logística, asesoramiento jurídico, gestorías, homologación de proveedores, servicios de transmisión y ejecución de órdenes sobre acciones o participaciones de Instituciones de Inversión colectiva de gestoras no vinculadas al Grupo Santander a través de plataformas tecnológicas especializadas, empresas de servicios profesionales multidisciplinares, empresas proveedoras de servicios tecnológicos, empresas proveedoras de servicios informáticos, empresas de seguridad física, prestadores de servicios de mensajería instantánea, y empresas de servicios de centro de llamadas.
+¿Se producirán transferencias de tus datos personales a terceros países?
+Entre los encargados del tratamiento contratados por el Banco, pueden existir proveedores que no se encuentren en el Espacio Económico Europeo, produciéndose una transferencia internacional de tus datos. A tal efecto, el Banco únicamente transferirá los datos a terceros países (i) si existe una decisión de adecuación que determina que es un país con nivel equiparable de protección al de la Unión Europea, (ii) en su defecto, aplicando garantías adecuadas de conformidad con la normativa de protección de datos, tales como la firma de Cláusulas Contractuales Tipo o Normas Corporativas Vinculantes. Puedes solicitar información adicional sobre tales garantías adecuadas a través de los medios de contacto que se indican en el apartado ¿Cuáles son tus derechos cuando nos facilitas tus datos?
+Adicionalmente, cuando solicites la realización de operaciones que tengan por destino cuentas bancarias situadas en países fuera del Espacio Económico Europeo, se producirá una transferencia de tus datos personales a la entidad en la que esté abierta dicha cuenta. En tales supuestos, la referida transferencia se encontrará legitimada por ser necesaria para la ejecución del contrato suscrito con el Banco.
+¿Cuáles son tus derechos cuando nos facilitas tus datos?
+Podrás ejercer tus derechos de acceso, portabilidad, rectificación, supresión, limitación y oposición. Además, tendrás derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado, de manera que podrás solicitar intervención humana en la toma de decisiones que le conciernan por parte del Banco y expresar su punto de vista, pudiendo impugnar la decisión.
+Respecto de los tratamientos basados en un interés legítimo, podrás solicitar información relativa a la ponderación efectuada por el Banco, así como oponerte a cualquiera de dichos tratamientos, para lo cual deberás dirigirte al Delegado de Protección de Datos/Oficina de Privacidad, explicando el motivo por el que te opones. No será necesario que alegues ningún motivo en el caso de que su oposición venga referida al tratamiento de tus datos con finalidad comercial, bastando con que nos comuniques tu deseo de no recibir comunicaciones comerciales.
+Para ejercer los referidos derechos o consultar cualquier cuestión relativa al tratamiento de tus datos de carácter personal, puedes enviar un correo electrónico a
+privacidad@gruposantander.es
+o bien, dirigirte por correo postal a C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid (A/A. Delegado de Protección de Datos/Oficina de Privacidad). Cuando existan dudas razonables sobre tu identidad (por ejemplo, cuando la comunicación la realice desde un correo electrónico distinto al que dispone el Banco), se te solicitará que aportes información adicional que nos ayude a verificar tu identidad.
+La información adicional que facilites para tu identificación será tratada con la sola finalidad de verificar su identidad y gestionar la atención del derecho ejercitado.
+En el caso de que ejercites un derecho de acceso a tus datos personales, ten en cuenta que únicamente recibirás copia de los datos que están siendo tratados por esta entidad.
+Adicionalmente, podrás dirigirse al Delegado de Protección de Datos/Oficina de Privacidad del Banco a través de la siguiente dirección de correo electrónico:
+privacidad@gruposantander.es
+.
+Por último, podrás presentar una reclamación ante la Agencia Española de Protección de Datos. Dispones de la información necesaria en su web:
+www.aepd.es
+.
+El Banco puede actualizar este documento en el futuro. La fecha de su entrada en vigor se indica en la parte inferior. Consulta esta información periódicamente para asegurarte de que conoces la última versión.
+Versión: 11 de diciembre de 2025
+Potenciales
+¿Quién es el responsable del tratamiento de sus datos?
+¿Qué tipos de intervención ampara este documento?
+¿Qué tipos de datos personales recopilamos y tratamos?
+¿Cómo obtenemos sus datos?
+¿Para qué tratamos sus datos personales y sobre qué base de legitimación?
+¿Es obligatorio facilitar sus datos?
+¿Durante cuánto tiempo conservaremos sus datos?
+¿A quién comunicaremos sus datos?
+¿Se producirán transferencias de sus datos personales a terceros países?
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+¿Quién es el responsable del tratamiento de sus datos?
+Banco Santander, S.A (en adelante “el Banco” o “Banco Santander”).
+Dirección postal: C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid.
+Contacto Delegado de Protección de Datos:
+privacidad@gruposantander.es
+¿Qué tipos de intervención ampara este documento?
+El presente documento aplica a todas las personas que, sin necesidad de ser clientes del Banco, soliciten a éste: (i) ser contactada para la gestión de una solicitud de información sobre sus productos o servicios, (ii) participar en un concurso, sorteo, experiencia o similar actividad organizada por el Banco; (iii) darse de alta como usuario del servicio de distribución de Newsletters o boletines de noticias del Banco (iv) darse de alta en cualquiera de los servicios no financieros ofrecidos por el Banco (por ejemplo, servicios habilitados en el Work Café) y (v) cuando no sean clientes, faciliten su consentimiento al Banco para tratar sus datos con fines comerciales. En el caso de clientes, dichos tratamientos comerciales se llevarán cabo por el Banco según el alcance y finalidades ya informadas y/o consentidas por aquéllos en su relación con el Banco en su condición de clientes. A estos efectos, el Banco podrá identificarle como cliente a partir de la dirección de correo electrónico que facilite. En caso de que facilite una dirección diferente a la registrada como cliente, excepto en los casos en los que excepcionalmente y con la debida justificación le solicitemos su Documento de identidad, el Banco no podrá identificarle como cliente y todos los tratamientos se realizarán exclusivamente de acuerdo con la presente política de protección de datos.
+¿Qué tipos de datos personales recopilamos y tratamos?
+Datos de carácter identificativo y de contacto:
+nombre y apellidos, domicilio, teléfonos y email; Excepcionalmente, y solo cuando resultase estrictamente necesario para la gestión de su solicitud, por ejemplo, para verificar que es usted cliente, recopilaremos su Documento de identidad (NIF, DNI, NIE, Documento de identidad no español/CIF).
+Datos referentes a sus características personales:
+sexo, rango de edad.
+Datos sobre sus intereses que comparte con nosotros:
+por ejemplo, cuando se pone en contacto con nuestros gestores a través de una llamada de consulta o se apunta a una determinada experiencia, sorteo o concurso, y/o evento celebrado o patrocinado por el Banco, o cuando se da de alta como usuario de cualquiera de nuestros servicios no financieros.
+Datos académicos y profesionales o laborales:
+actividad, profesión, categoría profesional.
+Datos sobre su comportamiento en línea y preferencias:
+por ejemplo, páginas que visita, hábitos de navegación, la IP de su ordenador o el ID de su dispositivo móvil, identificadores en línea, si ha consentido los tratamientos descritos en nuestra Política de Cookies, disponible también en nuestra página web https://www.bancosantander.es/politica-de-cookies.
+¿Cómo obtenemos sus datos?
+El Banco obtiene sus datos directamente de Usted, a través de la información que nos facilita al solicitar, mantener y utilizar nuestros servicios.
+Asimismo, el Banco podrá obtener sus datos de terceras empresas a las que Ud. haya prestado su consentimiento para la comunicación de sus datos personales al Banco, en particular, empresas del Grupo Santander (por ejemplo, gestoras) y terceras entidades colaboradoras y/o participadas por el Grupo Santander a las que Usted ha prestado su consentimiento para la cesión de sus datos con finalidad comercial y/o entidades a las que Usted ha prestado su consentimiento para el uso de cookies o tecnologías similares que comportan la comunicación al Banco de su información recogida por medio de dichas tecnologías.
+¿Para qué tratamos sus datos personales y sobre qué base de legitimación?
+A continuación, se detallan las distintas finalidades de tratamiento por parte de Banco Santander:
+Gestión de la solicitud o servicio para el que facilite los datos.
+Trataremos sus datos personales para la gestión de su solicitud y/o prestación del servicio que solicite, en particular, (i) ser contactado para la gestión de una solicitud de información sobre sus productos o servicios, (ii) participar en un concurso, sorteo, experiencia o similar actividad organizada por el Banco; (iii) darse de alta como usuario del servicio de distribución de Newsletters o boletines de noticias del Banco y de aquellas peticiones que pudieran derivarse de la misma; o (iv) darse de alta en cualquiera de los servicios no financieros ofrecidos por el Banco (por ejemplo, servicios habilitados para el Work Café).
+Adicionalmente, al darse de alta en cualquiera de nuestros servicios no financieros, trataremos sus datos personales con las siguientes finalidades:
+Llevar a cabo el proceso de generación de alta como nuevo usuario digital y permitirle el acceso como usuario registrado a los servicios.
+Realizar comunicaciones informativas estrictamente relacionadas con los productos o servicios en los que usted esté dado de alta como usuario y con la operativa de los mismos.
+Por último, trataremos sus datos para atenderle en cualquier tipo de consulta, reclamación o incidencia que pudiera derivarse de la relación de servicios entablada.
+La
+base de legitimación
+para estos tratamientos es la ejecución de su solicitud o del servicio solicitado por Usted al Banco.
+Cumplimiento de obligaciones legales del Banco
+Trataremos sus datos personales para cumplir las obligaciones legales que resulten aplicables al Banco, tales como obligaciones fiscales y de cualquier otro tipo impuestas por los organismos de supervisión y autoridades competentes.
+La
+base de legitimación
+de estos tratamientos es el
+cumplimiento de las obligaciones legales
+aplicables al Banco.
+Prevención e investigación del fraude
+Trataremos sus datos para detectar y analizar posibles actividades fraudulentas, identificar y conocer a los participantes en las mismas y, en su caso, llevar a cabo las acciones que se consideren necesarias.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en prevenir, investigar y/o descubrir el fraude.
+Gestión de procedimientos administrativos, prejudiciales y judiciales
+En su caso, trataremos sus datos personales para la defensa de los derechos e intereses del Banco en cualquier tipo de procedimiento administrativo, prejudicial y/o judicial derivado de o vinculado con la relación entablada con usted.
+Dicho tratamiento encontraría su
+base de legitimación
+en el
+interés legítimo
+del Banco en garantizar y hacer efectivo su derecho a la tutela judicial efectiva.
+Verificación de la calidad de los servicios prestados
+Desde el Banco, trataremos sus datos personales con la finalidad de llevar a cabo procedimientos de revisión, auditoría y mejora de la calidad de los servicios prestados, lo que incluye
+(i)
+la realización de encuestas de satisfacción y el análisis de sus resultados y
+(ii)
+la grabación de su voz y/o imagen y la conservación de la conversación telefónica y/o vídeo, únicamente en aquellos casos en que se lo indiquemos de forma expresa y
+(iii)
+la conducción de investigaciones de mercado a través de encuestas presenciales, a fin de conocer la percepción y valoración de los servicios que le hemos prestado.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en llevar a cabo un proceso de mejora constante de la atención prestada a potenciales clientes y cualquier otra persona interesada que contacte con el Banco y garantizar en todo caso un elevado nivel de calidad de la misma, tanto por parte del Banco como de los proveedores que le prestan el servicio de atención al cliente.
+Elaboración de estadísticas, informes internos y modelos analíticos.
+En el Banco trataremos sus datos personales para elaborar modelos analíticos e informes de distinta naturaleza:
+Generar y desarrollar modelos analíticos predictivos comerciales.
+Realización de auditorías y revisiones de control interno del Banco.
+Seguimiento de estrategias comerciales y otros análisis de negocio.
+Obtener información agregada para la elaboración de estudios estadísticos y análisis de negocio de diversa naturaleza, por ejemplo, acerca del uso de los canales que el Banco pone a disposición de sus clientes o no clientes para atenderles y quejas relativas a los servicios prestados por el Banco.
+Elaborar reportes internos y otros informes de carácter agregado (por ejemplo, indicadores de negocio, riesgo operacional) y estadístico.
+La
+base de legitimación
+de estos tratamientos es el
+interés legítimo
+del Banco en incrementar el conocimiento que posee sobre los clientes o potenciales clientes, poder ofrecerles un mejor servicio y obtener información acerca del estado del negocio que contribuya a una mejor toma de decisiones corporativas, estratégicas y comerciales y en mantener una adecuada gestión interna del mismo y del grupo empresarial al que pertenece.
+Segmentación y elaboración de un perfil comercial para el desarrollo de acciones comerciales y la personalización de servicios.
+Trataremos los datos personales que nos hayas facilitado descritos en el apartado
+¿Qué tipo de datos personales recopilamos y tratamos?
+, incluidos los datos de comportamiento en línea y preferencias en caso de que haya consentido la instalación de cookies, para segmentarle o clasificarle en función de los datos objetivos disponibles por el Banco para mejorar las acciones comerciales.
+La
+base de legitimación
+para este tratamiento es el
+interés legítimo
+del Banco en optimizar y mejorar sus acciones comerciales.
+Si usted no es cliente del Banco, con base en el consentimiento prestado a través de la marcación de la correspondiente casilla, en caso de estar habilitada, el Banco trata sus datos relativos a características personales, datos sobre intereses y, en caso de que haya consentido la instalación de cookies, de su comportamiento en línea y preferencias, descritos en el apartado
+¿Qué tipo de datos personales recopilamos y tratamos?
+Asimismo, el Banco podrá utilizar información estadística procedente de fuentes externas y/o internas (por ejemplo, datos estadísticos de renta o ingresos obtenidos del Instituto Nacional de Estadística a partir del código postal de su domicilio) para realizar un análisis de sus preferencias, comportamientos y necesidades, que le permitan inferir su situación a fin de poder seleccionar eventos y/o experiencias que consideremos que pueden ser de su interés, recomendarle la participación en sorteos o concursos organizados por el Banco, identificar los productos y servicios que más puedan interesarle, de manera que podamos presentarle una oferta personalizada de nuestros productos y servicios o de terceros. Por su parte, el Banco tratará sus datos de carácter identificativo, en particular su nombre y apellidos y los datos de contacto: email y teléfonos, para desarrollar las acciones comerciales.
+El perfil comercial que el Banco elabore con sus datos será utilizado por éste para presentarle y/o enviarle una oferta personalizada, por medios electrónicos y telefónicos, de productos y servicios propios y de terceras empresas del Grupo Santander, empresas participadas por dicho Grupo o colaboradoras del mismo, incluida la invitación a participar en eventos, experiencias o sorteos o concursos y para la personalización de los servicios que nos solicite (por ejemplo, si usted se da de alta en el servicio de distribución de Newsletters o boletines de noticias del Banco, el perfil comercial que el Banco elabore con sus datos, será utilizado para personalizarle aquella, a través de la presentación de contenidos que consideremos que pueden ser de su interés).
+Las empresas colaboradoras y/o participadas sobre cuyos productos podrán versar las acciones comerciales pertenecen a los siguientes sectores: financiero y seguros, gran consumo, formación, educación y cultura, empleo, hogar, salud y belleza, hotel y viajes, informática, telecomunicaciones y tecnología, automoción, servicios de asesoramiento, inmobiliario y construcción, ocio y tiempo libre, venta de entradas para eventos o similares, seguridad, textil y moda, restauración, alimentación-pesca y ganadería, agroalimentario, deporte, energético, reparación y mantenimiento, transporte, logística, administración, asesoría y consultoría, maquinaria y material de oficina, comercio, industria, sanitaria y servicios sociales.
+La
+base de legitimación
+para estos tratamientos es el
+consentimiento
+prestado mediante la marcación de la/s casilla/s habilitada/s al efecto en el formulario puesto a su disposición.
+Uso de cookies y tecnologías similares en la web y la app del Banco
+El Banco hace uso de cookies y tecnologías similares, propias y de terceros en su web, con las siguientes finalidades:
+Efectuar el seguimiento de los procesos de participación en concursos, sorteos o experiencias promovidas por el Banco a través de su página web, con el objetivo de mejorar los procesos de manera que sean más intuitivos para el cliente.
+Llevar a cabo el seguimiento y análisis del comportamiento de los usuarios, incluida la visualización o interés de las experiencias publicadas, para medir de la actividad de la web, con el fin de introducir mejoras en función del análisis de los datos de uso que hacen los usuarios del servicio.
+Almacenar información del comportamiento de los usuarios obtenida a través de la observación continuada de sus hábitos de navegación para desarrollar un perfil específico para mostrar publicidad en función de éste.
+Compartir con terceros un identificador único elaborado a partir de un identificador de cookies u obtenido a partir de sus datos identificativos o de contacto encriptados, para, sobre la base de segmentaciones realizadas con datos objetivos disponibles para el Banco que han sido facilitados por usted y/o su perfil comercial elaborado por el Banco, mostrarle publicidad personalizada sobre nuestros productos y servicios en las plataformas de dichos terceros, realizar el seguimiento y optimización de las acciones comerciales; y para que estos terceros puedan interactuar con usted conforme a sus propias políticas de cookies, en caso de que haya consentido su instalación.
+Realizar un seguimiento y optimización de nuestras acciones comerciales, a fin de medir la efectividad de las mismas.
+Para el cumplimiento de estas finalidades, el Banco hace uso tanto de datos agregados como individualizados.
+Para obtener más información acerca de las cookies utilizadas por el Banco y el tipo de información que se recaba por medio de las mismas, puede consultar la
+política de cookies
+.
+También puede configurar sus preferencias respecto a la instalación de cookies aquí
+.
+La
+base de legitimación
+de este tratamiento es el
+consentimiento
+otorgado por el usuario al permitir el uso de cookies en la web del Banco.
+¿Es obligatorio facilitar sus datos?
+Será obligatorio que Ud. nos facilite sus datos en la medida en que sean necesarios para que podamos gestionar su solicitud o hacer uso de los servicios que le ofrecemos.
+Debe tener en cuenta que su alta como potencial cliente se hace sobre la base del correo electrónico que nos facilite, considerando dicho dato como el identificador unívoco que le identifica y asocia a todos los tratamientos efectuados conforme a este documento, de manera que le recomendamos que no utilice cuentas de correo electrónico que pudiera tener compartidas con terceros.
+En el caso de que Usted decida utilizar una cuenta de correo compartida, tenga en cuenta que estará autorizando el acceso a la información que le remitamos a dicho tercero, y que cualquier solicitud que nos llegue bajo dicho identificador la consideraremos y atenderemos como suya.
+Además, en el caso de que Usted decida cambiar de correo electrónico en el marco de cualquier solicitud que tuviera pendiente o el uso de los servicios que nos hubiera solicitado o en los que Usted se hubiera dado de alta, en la medida en que tal y como le hemos informado el correo electrónico se ha considerado como su identificador unívoco, tenga en cuenta que no podrá actualizar aquél, debiendo en estos casos darse de baja en cualquiera de los servicios o solicitudes que tuviera pendientes, y si lo desea, gestionar una nueva solicitud o alta en los servicios, facilitando para ello un nuevo correo electrónico, que consideraremos como un nuevo identificador.
+En caso de que Usted no autorice el tratamiento de sus datos personales en los supuestos en los que se le solicita su consentimiento, o desee revocarlo en cualquier momento, ello no afectará a la ejecución de la solicitud que nos hubiera instruido o a su participación en el sorteo, concurso, experiencia o similar actividad donde se hubiera inscrito o a la prestación del servicio en el que su hubiera dado de alta.
+Además, le informamos de que usted podrá darse de baja en el servicio de distribución de Newsletters o boletines de noticias al que se hubiera inscrito en cualquier momento, a través del enlace o dirección electrónica que le aparecerá en la parte inferior de cada envío de la Newsletter o boletín que reciba.
+¿Durante cuánto tiempo conservaremos sus datos?
+Trataremos sus datos personales mientras sean necesarios para la finalidad para la cual fueron recabados y en el caso de que usted hubiera consentido que tratemos sus datos con finalidad comercial, mientras no revoque su consentimiento o nos solicite la supresión de sus datos.
+Cuando sus datos personales dejen de ser necesarios para las finalidades expuestas en el presente documento, los conservaremos debidamente bloqueados, lo cual implicará que el Banco no llevará a cabo ningún tratamiento distinto de su conservación para la puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal; para la atención de las posibles responsabilidades derivadas de la relación contractual mantenida o de las relacionadas con el tratamiento de los datos. Conservaremos sus datos bloqueados durante los plazos previstos en las disposiciones legales aplicables o, en su caso, por los plazos de prescripción de las acciones derivadas de las relaciones contractuales mantenidas con el Banco, procediendo a la supresión física o completa anonimización de sus datos una vez transcurridos dichos plazos.
+¿A quién comunicaremos sus datos?
+Comunicamos sus datos personales a:
+Empresas del Grupo Banco Santander y terceras entidades colaboradoras y/o participadas por el Grupo Santander
+(a modo de ejemplo, entidades aseguradoras y gestoras de activos financieros). Dependiendo de la finalidad del tratamiento que le hemos informado en este documento, sólo comunicaremos sus datos a dichos terceros: i) cuando la cesión sea necesaria para la ejecución de su solicitud o del servicio (por ejemplo, en ocasiones, cuando usted resulte ganador de un sorteo/concurso comunicaremos sus datos identificativos y de contacto a colaboradores del banco en la promoción, para la emisión y/o entrega del premio, o en los casos en los que el premio es nominativo (por ejemplo, entradas a un evento), comunicaremos sus datos al organizador con la finalidad de que el organizador pueda verificar que es su legítimo tenedor); y, por último, ii) cuando la cesión responda al cumplimiento de una obligación legal.
+Terceros con los que se comparte un identificador único para acciones comerciales en entornos online, de acuerdo con lo indicado en el apartado 8. Uso de cookies y tecnologías similares en la web y la app del Banco (por ejemplo, plataformas publicitarias): cuando nos facilite su consentimiento a la instalación de cookies en la web y/o app del Banco.
+Podrá acceder al listado completo de terceros a las que comunicaremos sus datos personales a través del siguiente enlace
+.
+Organismos de la Administración Pública, cuando tenga la obligación legal de facilitarlos:
+3.1) Agencia Tributaria,
+en cumplimiento de la normativa fiscal.
+3.2) Autoridades
+competentes.
+Juzgados y Tribunales y Fuerzas y Cuerpos de Seguridad del Estado,
+cuando ello venga impuesto por una obligación legal o sea necesario para la formulación, ejercicio o defensa de reclamaciones, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva.
+Abogados y procuradores,
+cuando actúen como representantes procesales en sede judicial, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva y a la asistencia letrada.
+Notarios,
+en los casos en los que resulte necesario en el marco de su participación en un concurso, sorteo o experiencia, por ejemplo, cuando la elección del ganador se realice ante fedatario público.
+Proveedores de servicios de Banco Santander:
+el Banco cuenta con la colaboración de algunos terceros proveedores de servicios que tienen acceso a sus datos personales y que tratan los referidos datos, en condición de encargados del tratamiento, en nombre y por cuenta del Banco como consecuencia de su prestación de servicios.
+El Banco sigue unos criterios estrictos de selección de proveedores de servicios con el fin de dar cumplimiento a sus obligaciones en materia de protección de datos y se compromete a suscribir con ellos el correspondiente contrato de tratamiento de datos mediante el que les impondrá, entre otras, las siguientes obligaciones: aplicar medidas técnicas y organizativas apropiadas; tratar los datos personales para las finalidades pactadas y atendiendo únicamente a las instrucciones documentadas del Banco; y suprimir o devolver los datos al Banco una vez finalice la prestación de los servicios.
+En concreto, el Banco contratará la prestación de servicios por parte de terceros proveedores que desempeñan su actividad, a título enunciativo y no limitativo, en los siguientes sectores: servicios de logística, asesoramiento jurídico, gestorías, homologación de proveedores, empresas de servicios profesionales multidisciplinares, empresas proveedoras de servicios tecnológicos, empresas proveedoras de servicios informáticos, empresas de seguridad física, prestadores de servicios de mensajería instantánea, y empresas de servicios de centro de llamadas.
+¿Se producirán transferencias de sus datos personales a terceros países?
+Entre los encargados del tratamiento contratados por el Banco, pueden existir proveedores que no se encuentren en el Espacio Económico Europeo, produciéndose una transferencia internacional de sus datos. A tal efecto, el Banco únicamente transferirá los datos a terceros países (i) si existe una decisión de adecuación que determina que es un país con nivel equiparable de protección al de la Unión Europea, (ii) en su defecto, aplicando garantías adecuadas de conformidad con la normativa de protección de datos, tales como la firma de Cláusulas Contractuales Tipo o Normas Corporativas Vinculantes. El interesado podrá solicitar información adicional sobre tales garantías adecuadas a través de los medios de contacto que se indican en el apartado ¿Cuáles son sus derechos cuando nos facilita sus datos?
+Asimismo, cuando Usted nos facilite su consentimiento para compartir con terceros un identificador único conforme a los indicado en el apartado 8 Uso de cookies y tecnologías similares en la web y la app del Banco, dicho identificador único se transferirá a terceros ubicados en (i) Reino Unido, que cuenta con la decisión de adecuación de 28 de junio de 2021, o (ii) Estados Unidos, siempre que dichos terceros se encuentren adheridos al Marco de Privacidad de Datos UE-EE.UU al que se refiere la decisión de adecuación de 10 de julio de 2023.
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+Usted podrá ejercer sus derechos de acceso, portabilidad, rectificación, supresión, limitación y oposición.
+Respecto de los tratamientos basados en un interés legítimo, podrá solicitar información relativa a la ponderación efectuada por el Banco, así como oponerse a cualquiera de dichos tratamientos, para lo cual deberá dirigirse al Delegado de Protección de Datos y debe explicar el motivo por el que se opone.
+Asimismo, usted podrá revocar en cualquier momento el consentimiento prestado, sin que ello afecte a la legitimidad del tratamiento efectuado con anterioridad sobre la base de dicho consentimiento.
+Para ejercer los referidos derechos o consultar cualquier cuestión relativa al tratamiento de sus datos de carácter personal, puede enviar un correo electrónico a
+privacidad@gruposantander.es
+o bien, dirigirse por correo postal a C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid (A/A. Delegado de Protección de Datos/Oficina de Privacidad). También podrá modificar el estado de sus consentimientos y oponerse o revocar su oposición a los tratamientos que el banco realiza en base a su interés legítimo y que hemos considerado directamente oponibles sin que usted tenga justificar ningún motivo, en el entorno logado de su web o app (área personal) o solicitándolo en nuestras oficinas. Cuando existan dudas razonables sobre su identidad (por ejemplo, cuando la comunicación la realice desde un correo electrónico distinto al que dispone el Banco), se le solicitará que aporte información adicional que nos ayude a verificar su identidad. En el caso de ejercite sus derechos a través de representante, deberá aportar, además, documento acreditativo válido de la representación.
+La información adicional que facilite para su identificación será tratada con la sola finalidad de verificar su identidad y gestionar la atención del derecho ejercitado.
+En el caso de que ejercite un derecho de acceso a sus datos personales, tenga en cuenta que únicamente recibirá copia de los datos que están siendo tratados por esta entidad.
+Adicionalmente, usted podrá dirigirse al Delegado de Protección de Datos/Oficina de Privacidad del Banco a través de la siguiente dirección de correo electrónico:
+privacidad@gruposantander.es
+.
+Por último, podrá presentar una reclamación ante la Agencia Española de Protección de Datos. Dispone de la información necesaria en su web:
+www.aepd.es
+El Banco puede actualizar este documento en el futuro. La fecha de su entrada en vigor se indica en la parte inferior. Consulte esta información periódicamente para asegurarse de que conoce la última versión.
+Versión: 11 de diciembre de 2025.
+No Clientes
+¿Quién es el responsable del tratamiento de sus datos?
+¿Qué tipos de intervención ampara este documento?
+¿Qué tipos de datos personales recopilamos y tratamos?
+¿Cómo obtenemos sus datos?
+¿Para qué tratamos sus datos personales y sobre qué base de legitimación?
+¿Es obligatorio facilitar sus datos?
+¿Durante cuánto tiempo conservaremos sus datos?
+¿A quién comunicaremos sus datos?
+¿Se producirán transferencias de sus datos personales a terceros países?
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+¿Quién es el responsable del tratamiento de sus datos?
+Banco Santander, S.A (en adelante “el Banco” o “Banco Santander”).
+Dirección postal: C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid.
+Contacto Delegado de Protección de Datos/Oficina de Privacidad:
+privacidad@gruposantander.es
+¿Qué tipos de intervención ampara este documento?
+El presente documento aplica a todas las personas que, sin necesidad de ser clientes de la Entidad, soliciten puntualmente al Banco la prestación de un servicio o la ejecución de una operación, normalmente a través de la operativa de caja, como por ejemplo, un servicio de cambio de divisa, de orden de pago de recibos o facturas, entre otros.
+¿Qué tipos de datos personales recopilamos y tratamos?
+Datos de carácter identificativo y de contacto: Documento de identidad (NIF, DNI, NIE, Documento de identidad no español/CIF), nombre y apellidos, número de no cliente, domicilio, residencia, teléfonos, email.
+En el caso de que Ud. hubiera hecho uso de la firma manual digitalizada en su relación con el Banco, para solicitar servicios y/o formalizar operaciones, conservaremos sus datos obtenidos mediante la digitalización de la firma manuscrita (como son el orden del trazo, la intensidad, la velocidad, la presión y la aceleración del grafo) que exclusivamente serán tratados como elemento de prueba en caso de repudio, con objeto de verificar, a través del cotejo, que la firma es suya, efectuando así la autenticación del cliente para poder acreditar la autenticidad de la documentación u operación que solicite al Banco.
+El Banco no recopilará ni tratará datos de menores, a menos que solicitaran algún servicio o ejecutaran una orden a la entidad, ya sea directamente o con la representación de sus padres o tutores. El tratamiento de datos de dichos menores se limitará exclusivamente a la prestación del servicio o ejecución de la orden recibida.
+¿Cómo obtenemos sus datos?
+El Banco obtiene sus datos por las siguientes fuentes:
+Directamente de Usted, a través de la información que nos facilita cuando nos solicita un servicio o la ejecución de una orden, a través de cualquiera de los canales que el Banco pone a su disposición (sucursal, canal telefónico, servicios en línea, etc.)
+En algunos casos como, por ejemplo, cuando usted es beneficiario de un pago, sus datos podrán ser facilitados al Banco por el Ordenante. En estos supuestos, dichos terceros deben saber que previamente a la comunicación de sus datos vienen obligados a informarle de la cesión y, en su caso, haber obtenido su autorización.
+Fuentes de información externas:
+Ficheros de información especializada o fuentes públicas disponibles en internet relativas a la prevención del blanqueo de capitales y la financiación del terrorismo, de las que el Banco obtiene información sobre sus clientes titulares o intervinientes en las cuentas, representantes legales y titulares reales de las mismas.
+Su representado, en caso de que Usted actúe como representante o autorizado de una empresa, entidad u otra persona física.
+¿Para qué tratamos sus datos personales y sobre qué base de legitimación?
+A continuación se detallan las distintas finalidades de tratamiento por parte de Banco Santander:
+Prestar el servicio o ejecutar la orden que nos ha solicitado o instruido.
+La base de legitimación de este tratamiento es la ejecución del servicio solicitado por Usted al Banco
+Cumplimiento de obligaciones legales del Banco
+Trataremos sus datos personales para cumplir las obligaciones legales que resulten aplicables al Banco, tales como:
+Obligaciones en materia de prevención del blanqueo de capitales y financiación del terrorismo.
+Para el cumplimiento de estas obligaciones, el Banco tratará los datos que resultan necesarios para el cumplimiento de las obligaciones de diligencia debida establecidas en la normativa aplicable. Igualmente, para estos fines el Banco comunicará sus datos personales a otras empresas del Grupo Santander y terceras entidades participadas y/o colaboradoras de dicho Grupo, en los términos previstos en esa normativa.
+Asimismo, el Banco podrá tratar los datos de los Interesados, con el fin de realizar la correspondiente declaración ante las autoridades en los casos establecidos al efecto, respecto de movimientos de moneda metálica, billetes de banco y cheques bancarios al portador.
+Por último, el Banco podrá tratar los datos que resulten necesarios para el examen de las operaciones realizadas que pudieran presentar indicios de ser constitutivas de blanqueo de capitales o financiación del terrorismo y llevará a cabo las correspondientes comunicaciones, en su caso, al Servicio Ejecutivo de la Comisión de Prevención de Blanqueo de Capitales e Infracciones Monetarias (SEPBLAC) con motivo de (i) el envío periódico de operaciones que cumplan con determinados parámetros fijados por el SEPBLAC, o bien (ii) una solicitud de información concreta relativa a alguna operación.
+Obligaciones mercantiles, societarias, fiscales y de cualquier otro tipo impuestas por los organismos de supervisión y autoridades competentes (por ejemplo, Banco Central Europeo, Banco de España, Comisión Nacional de los Mercados y la Competencia, Comisión Nacional del Mercado de Valores o Agencia Española de Protección de Datos).
+La base de legitimación de estos tratamientos es el cumplimiento de las obligaciones legales aplicables al Banco.
+Prevención e investigación del fraude
+Trataremos y/o comunicaremos sus datos a terceros, sean o no empresas del Grupo Santander para detectar y analizar posibles actividades fraudulentas, identificar y conocer a los participantes en las mismas y, en su caso, llevar a cabo las acciones que se consideren necesarias.
+La base de legitimación de estos tratamientos es el interés legítimo del Banco en prevenir, investigar y/o descubrir el fraude.
+Gestión de procedimientos administrativos, prejudiciales y judiciales
+En su caso, trataremos sus datos personales para la defensa de los derechos e intereses del Banco en cualquier tipo de procedimiento administrativo, prejudicial y/o judicial derivado de o vinculado con la relación entablada con usted.
+Dicho tratamiento encontraría su base de legitimación en el interés legítimo del Banco en garantizar y hacer efectivo su derecho a la tutela judicial efectiva.
+¿Es obligatorio facilitar sus datos?
+Será obligatorio que Ud. nos facilite sus datos en la medida en que Usted desee solicitar un servicio o instruir una operación al Banco que requiera identificarle cuando así lo exija la normativa vigente.
+¿Durante cuánto tiempo conservaremos sus datos?
+Trataremos sus datos personales mientras sean necesarios para la finalidad para la cual fueron recabados.
+Cuando sus datos personales dejen de ser necesarios para las finalidades expuestas en el presente documento, los conservaremos debidamente bloqueados, lo cual implicará que el Banco no llevará a cabo ningún tratamiento distinto de su conservación para la puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal; para la atención de las posibles responsabilidades derivadas de la relación contractual mantenida o de las relacionadas con el tratamiento de los datos. Conservaremos sus datos bloqueados durante los plazos previstos en las disposiciones legales aplicables o, en su caso, por los plazos de prescripción de las acciones derivadas de las relaciones contractuales mantenidas con el Banco, procediendo a la supresión física o completa anonimización de sus datos una vez transcurridos dichos plazos.
+¿A quién comunicaremos sus datos?
+Comunicamos sus datos personales a:
+Empresas del Grupo Banco Santander. Sólo comunicaremos sus datos a dichos terceros cuando la cesión responda al cumplimiento de una obligación legal.
+Organismos de la Administración Pública y entidades privadas, cuando tenga la obligación legal de facilitarlos (lista elaborada a título enunciativo y no limitativo):
+2.1) Agencia Tributaria
+, en cumplimiento de la normativa fiscal.
+2.2) Autoridades
+competentes en el marco de la lucha contra la financiación del Terrorismo y formas graves de delincuencia organizada y prevención del blanqueo de capitales.
+Juzgados y Tribunales y Fuerzas y Cuerpos de Seguridad del Estado, cuando ello venga impuesto por una obligación legal o sea necesario para la formulación, ejercicio o defensa de reclamaciones, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva.
+Abogados y procuradores, cuando actúen como representantes procesales en sede judicial, sobre la base del interés legítimo del Banco en garantizar su derecho a la tutela judicial efectiva y a la asistencia letrada.
+Otras entidades de crédito, en los casos en los que resulte necesario para la ejecución de la orden o prestación de un servicio que usted nos solicite, por ejemplo, cuando ordene una transferencia a otra entidad, situada fuera o dentro de la Unión Europea, transmitiremos necesariamente sus datos para la ejecución de la orden solicitada.
+Proveedores de servicios de Banco Santander: el Banco cuenta con la colaboración de algunos terceros proveedores de servicios que tienen acceso a sus datos personales y que tratan los referidos datos, en condición de encargados del tratamiento, en nombre y por cuenta del Banco como consecuencia de su prestación de servicios.
+El Banco sigue unos criterios estrictos de selección de proveedores de servicios con el fin de dar cumplimiento a sus obligaciones en materia de protección de datos y se compromete a suscribir con ellos el correspondiente contrato de tratamiento de datos mediante el que les impondrá, entre otras, las siguientes obligaciones: aplicar medidas técnicas y organizativas apropiadas; tratar los datos personales para las finalidades pactadas y atendiendo únicamente a las instrucciones documentadas del Banco; y suprimir o devolver los datos al Banco una vez finalice la prestación de los servicios.
+En concreto, el Banco contratará la prestación de servicios por parte de terceros proveedores que desempeñan su actividad, a título enunciativo y no limitativo, en los siguientes sectores: servicios de logística, asesoramiento jurídico, gestorías, homologación de proveedores, empresas de servicios profesionales multidisciplinares, empresas proveedoras de servicios tecnológicos, empresas proveedoras de servicios informáticos, empresas de seguridad física, prestadores de servicios de mensajería instantánea, y empresas de servicios de centro de llamadas.
+¿Se producirán transferencias de sus datos personales a terceros países?
+Entre los encargados del tratamiento contratados por el Banco, pueden existir proveedores que no se encuentren en el Espacio Económico Europeo, produciéndose una transferencia internacional de sus datos. Por ello, el Banco cuenta con garantías adecuadas de conformidad con la normativa de protección de datos, tales como la firma de Cláusulas Contractuales Tipo o Normas Corporativas Vinculantes. El interesado podrá solicitar información adicional sobre tales garantías adecuadas a través de los medios de contacto que se indican en el apartado ¿Cuáles son sus derechos cuando nos facilita sus datos?
+Adicionalmente, cuando Usted solicite la realización de operaciones que tengan por destino cuentas bancarias situadas en países fuera del Espacio Económico Europeo, se producirá una transferencia de sus datos personales a la entidad en la que esté abierta dicha cuenta. En tales supuestos, la referida transferencia se encontrará legitimada por ser necesaria para la ejecución de la orden instruida.
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+Usted podrá ejercer sus derechos de acceso, portabilidad, rectificación, supresión, limitación y oposición.
+Respecto de los tratamientos basados en un interés legítimo, podrá solicitar información relativa a la ponderación efectuada por el Banco, así como oponerse a cualquiera de dichos tratamientos, para lo cual deberá dirigirse al Delegado de Protección de Datos/Oficina de Privacidad y debe explicar el motivo por el que se opone.
+Para ejercer los referidos derechos o consultar cualquier cuestión relativa al tratamiento de sus datos de carácter personal, puede enviar un correo electrónico a
+privacidad@gruposantander.es
+o bien, dirigirse por correo postal a C/ Juan Ignacio Luca de Tena, 11-13, 28027 Madrid (A/A. Delegado de Protección de Datos/Oficina de Privacidad). Cuando existan dudas razonables sobre su identidad (por ejemplo, cuando la comunicación la realice desde un correo electrónico distinto al que dispone el Banco), se le solicitará que aporte información adicional que nos ayude a verificar su identidad. En el caso de ejercite sus derechos a través de representante, deberá aportar, además, documento acreditativo válido de la representación.
+La información adicional que facilite para su identificación será tratada con la sola finalidad de verificar su identidad y gestionar la atención del derecho ejercitado.
+En el caso de que ejercite un derecho de acceso a sus datos personales, tenga en cuenta que únicamente recibirá copia de los datos que están siendo tratados por esta entidad.
+Adicionalmente, usted podrá dirigirse al Delegado de Protección de Datos/Oficina de Privacidad del Banco a través de la siguiente dirección de correo electrónico:
+privacidad@gruposantander.es
+.
+Por último, podrá presentar una reclamación ante la Agencia Española de Protección de Datos. Dispone de la información necesaria en su web:
+www.aepd.es
+El Banco puede actualizar este documento en el futuro. La fecha de su publicación se indica en la parte inferior. Consulte esta información periódicamente para asegurarse de que conoce la última versión. Versión: 22 de febrero de 2023
+Herederos y Beneficiarios
+Paso 1. SOLICITUD DE CERTIFICADO DE POSICIONES TITULARIDAD DE UN FALLECIDO
+Paso 2. TRAMITACIÓN DE LA TESTAMENTARÍA
+Paso 1. SOLICITUD DE CERTIFICADO DE POSICIONES TITULARIDAD DE UN FALLECIDO
+Puede consultar toda la información ampliada sobre protección de datos, incluida la forma de ejercer sus derechos, pinchando en el siguiente enlace:
+https://www.bancosantander.es/informacion-proteccion-datos/proteccion-datos-herederos-beneficiarios
+.
+Paso 2. TRAMITACIÓN DE LA TESTAMENTARÍA
+Puede consultar toda la información ampliada sobre protección de datos, incluida la forma de ejercer sus derechos, pinchando en el siguiente enlace:
+https://www.bancosantander.es/informacion-proteccion-datos/protecccion-datos-testamenterias
+.
+Versión: 22 de febrero de 2023
+Contacto DPD
+¿Cómo contactar al Delegado de Protección de Datos?
+¿Cómo contactar al Delegado de Protección de Datos?
+El Banco ha designado un Delegado de Protección de Datos que desempeña un papel fundamental en el cumplimiento del marco jurídico de protección de datos en todas las operaciones de tratamiento llevadas a cabo por esta entidad.
+El Delegado de Protección de Datos se encarga, entre otras cuestiones, de informar y asesorar al Banco y a los empleados que se ocupan de las operaciones de tratamiento de las obligaciones de la normativa aplicable en protección de datos, así como supervisar la observancia de esta normativa y de las políticas del Banco en dicha materia, incluida la asignación de responsabilidades, la concienciación y formación del personal y la realización de las auditorías correspondientes.
+Usted podrá contactar con el Delegado de Protección de Datos a través de la siguiente dirección de correo electrónico:
+privacidad@gruposantander.es
+, o por correo postal dirigiéndose a Juan Ignacio Luca de Tena, 11-13, 28027 Madrid, con el fin de resolver cualquier duda relativa a la política de privacidad del Banco y la realización de consultas sobre el tratamiento de sus datos personales y, en general, la normativa aplicable en materia de protección de datos de carácter personal.
+De igual modo, Usted podrá contactar con el Delegado de Protección de Datos para presentar reclamaciones relativas al tratamiento de sus datos personales y para ejercitar los derechos respecto a sus datos personales.
+WEBS SANTANDER
+Web Corporativa Grupo Santander
+Santander Inmuebles
+Santander Asset Management
+Santander Consumer
+Santander Silver
+Blog del Banco Santander
+Finanzas Personales
+Entradas Museo Altamira
+Santander Seguros
+INFORMACIÓN LEGAL Y SEGURIDAD
+Aviso Legal
+Información de Protección de Datos
+Política de privacidad de la web
+Política de cookies
+Tablón de anuncios
+MiFID
+Ley de servicios de pago
+Accesibilidad
+Seguridad online
+Servicio de Reclamaciones y Atención al Cliente
+Bases Legales, Sorteos y Promociones
+SEPA
+Uso de la web
+Ley de crédito inmobiliario
+Política Transparencia–Seguros
+Transición del IBOR
+Regulación Sostenibilidad
+PRIIPS
+DESTACADOS
+Horario de oficinas
+Calculadora de IVA
+Calcular hipoteca
+Simulador Préstamos
+Simulador Jubilación
+Consultar Euríbor de hoy
+Trabaja con nosotros
+Política Social Vivienda
+Santander Agentes
+Cuenta Online
+Renting iPhone 17
+Glosario
+Preguntas Frecuentes
+Certificados
+©Banco Santander, S.A. Santander es una marca registrada. Todos los derechos reservados.

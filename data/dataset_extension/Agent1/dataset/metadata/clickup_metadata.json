@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-007",
+  "company": "ClickUp",
+  "sector": "Productividad",
+  "url": "https://clickup.com/privacy",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2026-06-02",
+  "document_hash": "4f6184d03349c940cd4bf3183dc3501b91889b054da1884d3c0cfed59a243c4b",
+  "original_length": 27243,
+  "clean_length": 26044,
+  "clean_words": 4113,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

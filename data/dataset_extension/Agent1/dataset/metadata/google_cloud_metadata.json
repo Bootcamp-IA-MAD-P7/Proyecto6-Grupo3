@@ -1,0 +1,20 @@
+{
+  "document_id": "PLX-2026-016",
+  "company": "Google Cloud",
+  "sector": "Cloud",
+  "url": "https://cloud.google.com/terms/cloud-privacy-notice",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2026-04-08",
+  "document_hash": "8bbc8b18bc27d5a33d2e8e1dca6cf87dd7e2c72034f53f5857d1ec11f98f1de6",
+  "original_length": 43484,
+  "clean_length": 42987,
+  "clean_words": 6558,
+  "removed_elements": [
+    "breadcrumb",
+    "selector de idiomas",
+    "navegación cloud.google.com",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

@@ -1,0 +1,22 @@
+{
+  "document_id": "PLX-2026-006",
+  "company": "CaixaBank",
+  "sector": "Bancos",
+  "url": "https://www.caixabank.es/particular/general/politica-privacidad.html",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "521bac832c0e1079647b3fe66097fe677b8616faf9a4290e99036aa9188155c7",
+  "original_length": 112122,
+  "clean_length": 108141,
+  "clean_words": 15705,
+  "removed_elements": [
+    "banner de cookies",
+    "cabeceras y menús",
+    "buscador",
+    "enlaces promocionales",
+    "pies de página",
+    "selector de idioma"
+  ],
+  "processing_status": "OK"
+}

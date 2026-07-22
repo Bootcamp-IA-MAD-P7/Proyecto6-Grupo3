@@ -1,0 +1,18 @@
+{
+  "document_id": "PLX-2026-019",
+  "company": "ING",
+  "sector": "Bancos",
+  "url": "https://www.ing.es/sobre-ing/pdf/protecciondatosING.pdf",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "d53d3dc7d34514470b020452dd4cdcda59ad367876d1ca2543a70221689ba6b3",
+  "original_length": 71968,
+  "clean_length": 70522,
+  "clean_words": 10101,
+  "removed_elements": [
+    "metadatos PDF",
+    "números de página"
+  ],
+  "processing_status": "OK"
+}

@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-025",
+  "company": "Renfe",
+  "sector": "Viajes",
+  "url": "https://grupo.renfe.com/es/es/politica-de-privacidad",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "2871780f850e16aa8ae215ddbdb97a17e382562dba3e71b69938898974ad7e5f",
+  "original_length": 15226,
+  "clean_length": 15226,
+  "clean_words": 2153,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "pies de página",
+    "aviso de versión de solo lectura",
+    "copyright",
+    "enlaces de navegación"
+  ],
+  "processing_status": "PARTIAL"
+}

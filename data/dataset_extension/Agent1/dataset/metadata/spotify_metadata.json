@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-028",
+  "company": "Spotify",
+  "sector": "Streaming",
+  "url": "https://www.spotify.com/es/legal/privacy-policy/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2026-06-12",
+  "document_hash": "28299bc386b9ed77fb10b975b7bf3f9455168aab59caa7ca74118ff1e9276c6f",
+  "original_length": 54649,
+  "clean_length": 52082,
+  "clean_words": 7832,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

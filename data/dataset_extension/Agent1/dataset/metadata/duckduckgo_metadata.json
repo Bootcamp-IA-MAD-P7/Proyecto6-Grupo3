@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-010",
+  "company": "DuckDuckGo",
+  "sector": "Buscadores",
+  "url": "https://duckduckgo.com/privacy",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2026-06-03",
+  "document_hash": "66579dbcf309bf897bfbb7dac86c6fb7615615c88f257dba8f6df8d4b553a233",
+  "original_length": 12695,
+  "clean_length": 12640,
+  "clean_words": 2071,
+  "removed_elements": [
+    "enlace a versión anterior",
+    "navegación del sitio",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

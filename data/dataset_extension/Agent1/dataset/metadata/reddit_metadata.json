@@ -1,0 +1,20 @@
+{
+  "document_id": "PLX-2026-024",
+  "company": "Reddit",
+  "sector": "Redes Sociales",
+  "url": "https://www.reddit.com/policies/privacy-policy",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2025-05-29",
+  "document_hash": "a96704bcd955f1893536448dbaf0c489eca3ccac656dbf1a078b775f89bb8189",
+  "original_length": 35653,
+  "clean_length": 33399,
+  "clean_words": 5261,
+  "removed_elements": [
+    "menú de políticas de Reddit",
+    "selector de idiomas",
+    "historial de revisiones",
+    "tablas de layout"
+  ],
+  "processing_status": "PARTIAL"
+}

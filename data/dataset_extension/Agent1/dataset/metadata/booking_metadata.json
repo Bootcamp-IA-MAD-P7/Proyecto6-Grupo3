@@ -1,0 +1,24 @@
+{
+  "document_id": "PLX-2026-004",
+  "company": "Booking",
+  "sector": "Viajes",
+  "url": "https://www.booking.com/content/privacy.es.html",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2026-05-01",
+  "document_hash": "ff2e3e10af1e5d0f1125d0e46a36f1b806627002e40290d14a1765e3c3f75764",
+  "original_length": 82997,
+  "clean_length": 79167,
+  "clean_words": 11802,
+  "removed_elements": [
+    "cabeceras y navegación",
+    "enlaces de retorno",
+    "botón imprimir",
+    "pie de página",
+    "diálogos de login",
+    "calendario y formularios",
+    "identificador de seguimiento",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

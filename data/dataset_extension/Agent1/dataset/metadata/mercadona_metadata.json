@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-022",
+  "company": "Mercadona",
+  "sector": "Retail",
+  "url": "https://info.mercadona.es/es/politica-de-privacidad/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2025-08-01",
+  "document_hash": "8bb1cfb1b25954f2d981c9643b3328aaaa655dcbfbba26a97838ab0aac5e6fc1",
+  "original_length": 16685,
+  "clean_length": 16685,
+  "clean_words": 2476,
+  "removed_elements": [
+    "cabecera y navegación",
+    "pie de página",
+    "elementos de interfaz"
+  ],
+  "processing_status": "OK"
+}

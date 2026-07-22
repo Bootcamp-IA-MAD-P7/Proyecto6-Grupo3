@@ -1,0 +1,22 @@
+{
+  "document_id": "PLX-2026-018",
+  "company": "IKEA",
+  "sector": "Retail",
+  "url": "https://www.ikea.com/es/es/customer-service/privacy-policy/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2026-06-08",
+  "document_hash": "96afb058ed375d5c26310edf4f382a804167e0f220505736adb52f79f98649d8",
+  "original_length": 50623,
+  "clean_length": 48543,
+  "clean_words": 7549,
+  "removed_elements": [
+    "banner promocional",
+    "menú de tienda",
+    "buscador",
+    "selectores de tienda/idioma",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

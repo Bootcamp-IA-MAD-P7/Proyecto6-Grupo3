@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-015",
+  "company": "Glovo",
+  "sector": "Delivery",
+  "url": "https://glovoapp.com/docs/es/legal/privacy/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2026-03-01",
+  "document_hash": "3847dd111687794de38eb298132aeab405741dc1139bbf14080a2aad7d34fee6",
+  "original_length": 118233,
+  "clean_length": 117886,
+  "clean_words": 17640,
+  "removed_elements": [
+    "selector de país",
+    "navegación",
+    "elementos de interfaz",
+    "scripts y estilos",
+    "pie de página"
+  ],
+  "processing_status": "OK"
+}

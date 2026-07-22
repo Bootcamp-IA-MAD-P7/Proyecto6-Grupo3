@@ -1,0 +1,138 @@
+I. RESPONSABLE DEL TRATAMIENTO
+
+¿Quién es el responsable de sus datos?
+
+- Titular: MERCADONA, S.A. (en adelante, “MERCADONA”)
+- CIF: A-46.103.834
+- Domicilio social: C/ Alfonso Roig Alfonso s/n, Albalat dels Sorells, 46135, Valencia
+- Registro Público: Inscrita en el Registro Mercantil de Valencia, tomo 3073, general 389 de la Sección General del Libro de Sociedades, folio 170, hoja número V-5581
+- Teléfono de contacto: 800 500 220
+
+Delegado de Protección de Datos (en adelante, "DPO"):
+
+Correo electrónico: dpo@mercadona.es
+
+Web: https://info.mercadona.es
+
+Teléfono: 800 500 220
+
+II. FINALIDAD DEL TRATAMIENTO DE LOS DATOS Y CATEGORÍAS DE DATOS TRATADOS
+
+¿Qué categorías de datos tratamos?
+
+Dependiendo de la finalidad, MERCADONA trata las siguientes categorías de datos:
+
+- Datos identificativos: nombre, apellidos, dirección postal, dirección de correo electrónico, imagen, código postal, teléfono, D.N.I, matrícula, perfiles redes sociales
+- Datos relacionados con las valoraciones de los clientes, derivadas de la participación en pruebas ciegas, o la evaluación de productos y servicios.
+- Datos académicos y profesionales: formación/titulaciones, historial de estudiante, experiencia profesional, pertenencia a colegios o asociaciones profesionales, en el caso de los procesos de selección.
+- Códigos o claves de identificación de usuario.
+- Datos de tráfico y localización (IP´s)
+- Metadatos de comunicaciones electrónicas.
+- Datos de información comercial
+- Datos económicos, o financieros, bancarios
+
+Para la prestación de algunos servicios, incluido el registro en nuestras plataformas, los datos personales solicitados serán necesarios para cumplir con los servicios solicitados.
+
+En caso de que el usuario facilite datos de terceros, manifiesta contar con el consentimiento de estos y se compromete a trasladarle la información contenida en esta cláusula, eximiendo a MERCADONA de cualquier responsabilidad en este sentido. No obstante, MERCADONA podrá llevar a cabo las verificaciones que considere, para constatar este hecho, adoptando las medidas de diligencia debida que correspondan, conforme a la normativa de protección de datos.
+
+MERCADONA se reserva el derecho de realizar, en cualquier momento, cuantas comprobaciones y verificaciones corporativas sean necesarias para garantizar la exactitud de los datos facilitados, evitando con ello posibles duplicidades y/o errores en los datos facilitados por el Cliente, garantizando de esta forma el servicio solicitado y aportando mayor seguridad jurídica a ambas partes.
+
+¿Con qué finalidad y durante cuánto tiempo trataremos sus datos personales?
+
+MERCADONA, tratará los datos del usuario, de manera manual y/o automatizada, para las siguientes finalidades específicas:
+
+- Gestionar su registro como usuario en las plataformas online de la que es responsable del tratamiento MERCADONA (en adelante, las “Plataformas o Plataforma”). No obstante, en todo caso el usuario deberá verificar y validar su registro en las Plataformas mediante la introducción de su usuario y contraseña a través del consentimiento.
+- Gestionar la contratación de productos y/o servicios que realice a través de la Plataforma, o en el propio establecimiento, así como la solicitud de facturas, tickets digitales, su recogida y/o su expedición y remisión por medios telemáticos, incluido WhatsApp, siempre que la petición sea realizada por el propio interesado o persona delegada por él, en cuyo caso deberá contar con la autorización correspondiente. Pudiendo el titular del dato revocar dicho consentimiento en cualquier momento en escrito dirigido a dpo@mercadona.es
+- Gestionar respuestas a sus consultas / solicitudes y/o reclamaciones que nos haga llegar a través de los distintos canales de atención al cliente que ponemos a su disposición (teléfono, formulario web, e-mail, chatbot, WhatsApp, redes sociales).
+- Remitir (a través de correo electrónico, vía postal y/o WhatsApp) comunicaciones electrónicas con ofertas, promociones y noticias relacionadas con nuestra Plataforma online, salvo que se indique lo contrario o el usuario se oponga
+- Remitir información comercial y/o promocional, así como encuestas de valoración o grado de satisfacción relacionadas, con el sector de los productos y servicios contratados a través de la Plataforma y de valor añadido para los usuarios finales, salvo que se indique lo contrario o el usuario se oponga.
+- Realizar informes estadísticos anónimos respecto a los hábitos de acceso y la actividad desarrollada por los usuarios en la Plataforma.
+- Elaborar un perfil comercial del usuario y realizar acciones comerciales ajustadas al mismo, utilizando sus datos derivados de la gestión de los productos adquiridos (datos de navegación, hábitos de acceso, tráfico), salvo que se indique lo contrario o el usuario se oponga o revoque su consentimiento.
+- Únicamente en caso de que el usuario haya marcado la casilla correspondiente, MERCADONA podrá elaborar un perfil comercial recurriendo a información facilitada por terceros y podrá ofrecer productos y servicios de acuerdo con sus intereses, así como mejorar su experiencia de usuario, pudiendo tomar decisiones automatizadas basadas en sus preferencias o intereses personales, la fiabilidad o el comportamiento, productos adquiridos, etc. Basándonos en lo anterior, MERCADONA podrá realizar ofertas concretas, y enviar comunicaciones comerciales adaptadas a su perfil. En todo caso, el usuario podrá oponerse o revocar su consentimiento en cualquier momento.
+- En el caso de que nos remita su cv o se inscriba en las diferentes ofertas de trabajo que podamos publicar, trataremos sus datos con el fin de valorar y gestionar su solicitud de empleo y en su caso, llevar a cabo las actuaciones necesarias para la selección y contratación de personal, a fin de ofertarle puestos que se ajusten a tu perfil. Salvo que se indique lo contrario, la aportación de los datos requeridos es necesaria, por lo que su no aportación impedirá la continuidad del proceso de selección.
+MERCADONA podra utilizar algoritmos o sistemas aútomaticos (ATS) para valorar competencias, categorizar perfiles o priorizar candidaturas. Estas decisiones nunca tendrán efectos legales o significativamente negativos sin intervención humana. El Candidato podrá solicitar la revisión de la decisión por parte de personal de MERCADONA.
+- Dar cumplimiento a las obligaciones legalmente establecidas, así como verificar el cumplimiento de las obligaciones contractuales, incluida la prevención de fraude
+- Llevar a cabo las actuaciones precisas para proteger los intereses vitales de los clientes cuando así sea necesario, o el cumplimiento de las resoluciones judiciales y las medidas en ellas acordadas.
+- La gestión de estacionamiento.
+- Gestionar cambios o devoluciones de artículos comprados.
+- Activar los mecanismos necesarios con objeto de prevenir y detectar el uso indebido de las Plataformas, así como potenciales fraudes contra ti y/o contra Mercadona. En caso de que estimemos que la operación pueda tener carácter fraudulento o identifiquemos conductas atípicas que presenten indicios de un uso indebido de nuestras funcionalidades, productos o servicios, dicho tratamiento podrá conllevar medidas como la denegación de la transacción o la supresión de tu cuenta de usuario.
+
+¿Cuánto tiempo guardamos sus datos?
+
+MERCADONA conservará los datos personales de los usuarios únicamente durante el tiempo necesario para la realización de las finalidades para las que fueron recogidos, mientras no revoque los consentimientos otorgados. Posteriormente, en caso de ser necesario los mantendrá debidamente custodiados y protegidos durante el plazo en que pudieran derivarse responsabilidades legales del tratamiento, conforme a la normativa aplicable en cada momento. Transcurrido dicho plazo y prescritas las eventuales acciones legales, se procederá a la eliminación definitiva de los datos.
+
+En el caso de los datos que nos facilite datos en relación con las ofertas de empleo en que quiera suscribirse, serán conservados durante, 1 año desde la fecha de la última actualización. Transcurrido dicho periodo, sin que hayan sido actualizados, los datos serán suprimidos, salvo que nos indique lo contrario.
+
+¿Qué medidas de seguridad implantamos para cuidar sus datos?
+
+MERCADONA para proteger las diferentes tipologías de datos reflejados en esta política de privacidad llevará a cabo las medidas de seguridad técnicas necesarias para evitar su pérdida, manipulación, difusión o alteración.
+
+- Encriptación de las comunicaciones entre el dispositivo del usuario y los servidores de MERCADONA.
+- Encriptación de la información en los propios servidores de MERCADONA.
+- Otras medidas que eviten el acceso a los datos del usuario por parte de terceros
+
+En aquellos casos en los que MERCADONA cuente con prestadores de servicio o proveedores que se encuentren fuera de la Unión Europea, las trasferencias internacionales realizadas con ellos están plenamente garantizadas atendiendo a las normas establecidas por el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 De Abril de 2016, y criterios de la Agencia Española de Protección de datos.
+
+III. LEGITIMACIÓN
+
+¿Cuál es la legitimación para el tratamiento de sus datos?
+
+La legitimación para el tratamiento de los datos del usuario por parte de MERCADONA para llevar a cabo el alta y registro del usuario en la Plataforma se encuentra en el consentimiento del interesado, solicitado para el caso concreto.
+
+Por su parte, la gestión de la contratación de productos o servicios a través de la Plataforma, pago, facturación y envíos correspondientes, está legitimada por la propia ejecución del contrato.
+
+En caso de que se ponga en contacto con nosotros a través de nuestros canales de atención al cliente (teléfono, whatsapp, formulario web, e-mail, chatbot, redes sociales), la base del tratamiento es el interés legítimo de MERCADONA para gestionar la respuesta a su petición.
+
+El chatbot es un asistente virtual que funciona con inteligencia artificial y responde de forma automatizada. No aprende de lo que escriba ni guarda sus respuestas para entrenarse. Intentamos que la información ofrecida sea lo más útil y exacta posible, pero no podemos asegurar que todas las respuestas sean siempre completas y precisas. Siempre tiene la opción de solicitar asesoramiento humano a través de nuestro equipo de atención al cliente. Únicamente con el fin de mejorar constantemente la calidad de este servicio, MERCADONA podrá registrar el historial de conversaciones para fines de análisis y mejora, de forma totalmente anónima.
+
+Atendiendo a los servicios prestados directamente por MERCADONA o a través de sus proveedores, el tratamiento se realizará con base en la propia ejecución del contrato. En este sentido, los tratamientos de datos llevados a cabo por los proveedores no tendrán la consideración de cesión o comunicación de datos, salvo en los casos legalmente establecidos.
+
+El tratamiento de los datos con el fin de remitir boletines electrónicos con ofertas, promociones y noticias, así como encuestas de valoración o grado de satisfacción, relacionadas con nuestra Plataforma, información comercial y/o promocional, la elaboración de informes estadísticos anónimos respecto a los hábitos de acceso y la actividad desarrollada por los usuarios en la web y la elaboración de perfiles comerciales utilizando datos derivados de la gestión de los productos y servicios contratados con MERCADONA, se basan en el interés legítimo de MERCADONA para llevar a cabo dichos tratamientos de acuerdo con la normativa vigente.
+
+Los consentimientos obtenidos para las finalidades mencionadas son independientes por lo que el usuario podrá revocar uno o varios de ellos no afectando a los demás.
+
+Igualmente se podrá utilizar la información del usuario para el cumplimiento de las diferentes obligaciones legales de MERCADONA.
+
+En el caso de la inscripción en ofertas de empleo publicadas, sus datos serán tratados sobre la base de su consentimiento, que puede retirar en cualquier momento, si bien ello haría que su candidatura no pudiera ser tenida en cuenta en nuestros procesos de selección de personal. No obstante, la retirada de su consentimiento no afectará a la licitud de los tratamientos efectuados con anterioridad.
+
+IV. COMUNICACIONES DE DATOS
+
+¿A qué destinatarios se comunicarán tus datos?
+
+- Las Fuerzas y Cuerpos de Seguridad del Estado en virtud de lo establecido en la Ley.
+- Los Bancos y entidades financieras para el cobro de los servicios ofrecidos.
+
+V. OTROS DATOS QUE TRATAMOS EN MERCADONA
+
+Dentro del compromiso de MERCADONA con la privacidad y protección de los datos de las personas, te informamos de otros tratamientos de datos que pueden llevarse a cabo, en el marco de la relación con los clientes, concretamente, en relación con los servicios de atención telefónica.
+
+En este sentido, MERCADONA tratará sus datos con la finalidad de mejorar la calidad de nuestros servicios, así como gestionar la solicitud formulada y proporcionarle, en su caso, los servicios que hayan sido requeridos. Si lo desea, puede contactar con nosotros, a través de los números de teléfono habilitados al efecto, la base jurídica del tratamiento será la adopción de medidas precontractuales o el desarrollo de la propia relación contractual, así como, en determinados casos su propio consentimiento.
+
+El tratamiento de datos de grabación de llamadas está basado en los intereses legítimos de MERCADONA y, en particular, en la necesidad de detectar y mejorar la atención proporcionada por medio del canal telefónico.
+
+Igualmente le informamos que nuestras tiendas cuentan con un sistema de videovigilancia, cuya función es garantizar la seguridad de las personas e instalaciones. Le recordamos que la normativa vigente legitima el tratamiento efectuado sobre la base del interés legítimo de MERCADONA en garantizar la seguridad de las instalaciones, por lo que su imagen puede ser grabada con el mero hecho de acceder al edificio.
+
+Estos datos podrán ser comunicados a las Fuerzas y cuerpos de Seguridad del Estado en caso de que resulte necesario. Las imágenes serán custodiadas durante el plazo máximo de un (1) mes desde su captación.
+
+Así mismo, le informamos que MERCADONA cuenta en determinados centros de dispositivos para el control del estacionamiento a través de cámaras ubicadas en los accesos a la entrada/salida del parking, con el fin de gestionar el acceso y permanencia de los vehículos a los mismos, conservándose los datos de matrícula a tal fin por un plazo de 24h.
+
+VI. DERECHOS DE LOS USUARIOS
+
+¿Qué derechos tiene el interesado?
+
+Puede enviarnos un escrito a MERCADONA, S.A. (Asesoría Jurídico Procesos) C/ Alfonso Roig Alfonso s/n, Albalat dels Sorells, 46135, Valencia (en adelante, la “Dirección”) o si dispone de firma digital expedida por la Fábrica Nacional de Moneda y Timbre, a través del formulario ARCO ( https://info.mercadona.es/es/atencion-al-cliente/formulario-arco). En cualquier momento y de manera gratuita, podrá ejercer los siguientes derechos:
+
+- Revocar los consentimientos otorgados.
+- Obtener confirmación acerca de si en MERCADONA se están tratando datos personales que le conciernen o no.
+- Acceder a sus datos personales.
+- Rectificar los datos inexactos o incompletos.
+- Solicitar la supresión de sus datos cuando, entre otros motivos, los datos ya no sean necesarios para los fines que fueron recogidos.
+- Obtener de MERCADONA la limitación del tratamiento de los datos cuando se cumpla alguna de las condiciones previstas en la normativa de protección de datos.
+- En determinadas circunstancias y por motivos relacionados con su situación particular al tratamiento de sus datos, los interesados podrán oponerse al tratamiento de sus datos. MERCADONA dejará de tratar los datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones.
+- Obtener intervención humana, a expresar su punto de vista y a impugnar las decisiones automatizadas a adoptadas por parte de MERCADONA, en su caso.
+- Solicitar la portabilidad de sus datos.
+- Reclamar ante la Agencia Española de Protección de Datos ( www.agpd.es) cuando el interesado considere que MERCADONA ha vulnerado los derechos que le son reconocidos por la normativa aplicable en protección de datos.
+
+Última actualización: 01/08/2025
+
+Copyright © MERCADONA S.A. Todos los derechos reservados.
