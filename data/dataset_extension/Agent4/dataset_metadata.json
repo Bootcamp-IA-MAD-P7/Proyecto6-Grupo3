@@ -53,5 +53,6 @@
   "fields_updated_in_1.1.0": [
     "rgpd_articles (ahora con el mapeo oficial completo por categoría)"
   ],
-  "authorized_training_file": "privacylens_dataset_v1_1.parquet"
+  "evaluation_file": "privacylens_dataset_v1_1.parquet",
+  "labels_status": "silver_not_human_validated_do_not_train"
 }
