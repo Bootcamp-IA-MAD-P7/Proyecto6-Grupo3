@@ -1,0 +1,963 @@
+{
+  "project": "PrivacyLens Extended Dataset 2026",
+  "agent": "Agente 1 - Extraccion, limpieza y normalizacion documental",
+  "generated": "2026-07-22",
+  "total_documents": 33,
+  "processed_ok": 31,
+  "processed_partial": 2,
+  "errors": 0,
+  "documents": [
+    {
+      "document_id": "PLX-2026-001",
+      "company": "Amazon",
+      "sector": "Ecommerce",
+      "url": "https://www.amazon.es/gp/help/customer/display.html?nodeId=201909010",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2025-12-22",
+      "document_hash": "dd957473a6e9a9a97c62e4cd5d8780a03994c6b173fe29fd26cecb756db76353",
+      "original_length": 48000,
+      "clean_length": 41401,
+      "clean_words": 6118,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "widget de valoración",
+        "barra lateral de ayuda",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "amazon",
+      "anomalies": [
+        {
+          "type": "titulo_con_residuo",
+          "severity": "LOW",
+          "description": "El título incluye sufijo de la página de ayuda; no afecta al contenido jurídico"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-002",
+      "company": "Anthropic",
+      "sector": "Inteligencia Artificial",
+      "url": "https://www.anthropic.com/legal/privacy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-07-08",
+      "document_hash": "0f2b77db95cb9ffb0c9c1ed52a00e7735a31f0ac94a5e41d4fbea02d2397466e",
+      "original_length": 35655,
+      "clean_length": 35413,
+      "clean_words": 5432,
+      "removed_elements": [
+        "scripts y estilos",
+        "cabecera/navegación del sitio"
+      ],
+      "processing_status": "OK",
+      "slug": "anthropic",
+      "anomalies": [
+        {
+          "type": "tablas_convertidas",
+          "severity": "LOW",
+          "description": "Tablas de divulgaciones regionales convertidas a texto plano; contenido íntegro"
+        }
+      ],
+      "notes": "Documento completo; termina en la tabla del suplemento de Corea."
+    },
+    {
+      "document_id": "PLX-2026-003",
+      "company": "BBVA",
+      "sector": "Bancos",
+      "url": "https://www.bbva.es/general/tratamiento-datos.html",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "51bd4c910f95db3ab0b3a153d598fb266dd3ebf8e85f3b5b5999a59953f238f5",
+      "original_length": 18484,
+      "clean_length": 18427,
+      "clean_words": 2775,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "pies de página",
+        "espaciado redundante"
+      ],
+      "processing_status": "OK",
+      "slug": "bbva",
+      "anomalies": [
+        {
+          "type": "error_descarga_parcial",
+          "severity": "LOW",
+          "description": "Descarga directa devolvió 403; contenido íntegro vía extractor"
+        },
+        {
+          "type": "documento_multiple",
+          "severity": "LOW",
+          "description": "La página contiene cuatro textos de tratamiento (web, banca empresas, videovigilancia, llamadas); conservados todos"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-004",
+      "company": "Booking",
+      "sector": "Viajes",
+      "url": "https://www.booking.com/content/privacy.es.html",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2026-05-01",
+      "document_hash": "ff2e3e10af1e5d0f1125d0e46a36f1b806627002e40290d14a1765e3c3f75764",
+      "original_length": 82997,
+      "clean_length": 79167,
+      "clean_words": 11802,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "enlaces de retorno",
+        "botón imprimir",
+        "pie de página",
+        "diálogos de login",
+        "calendario y formularios",
+        "identificador de seguimiento",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "booking",
+      "anomalies": [],
+      "notes": "Actualizada mayo de 2026."
+    },
+    {
+      "document_id": "PLX-2026-005",
+      "company": "Cabify",
+      "sector": "Transporte",
+      "url": "https://cabify.com/es/legal/politica-de-privacidad/pasajeros",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "d3dff3a4704d8c47562ecf5e6412d375e91d20e82713c3a4a71c6bce6f1346c0",
+      "original_length": 48242,
+      "clean_length": 34247,
+      "clean_words": 5175,
+      "removed_elements": [
+        "cabeceras y menús",
+        "selector de idioma",
+        "botones login/registro",
+        "banner de cookies",
+        "pies de página"
+      ],
+      "processing_status": "OK",
+      "slug": "cabify",
+      "anomalies": [],
+      "notes": "Incluye resumen inicial y desarrollo completo."
+    },
+    {
+      "document_id": "PLX-2026-006",
+      "company": "CaixaBank",
+      "sector": "Bancos",
+      "url": "https://www.caixabank.es/particular/general/politica-privacidad.html",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "521bac832c0e1079647b3fe66097fe677b8616faf9a4290e99036aa9188155c7",
+      "original_length": 112122,
+      "clean_length": 108141,
+      "clean_words": 15705,
+      "removed_elements": [
+        "banner de cookies",
+        "cabeceras y menús",
+        "buscador",
+        "enlaces promocionales",
+        "pies de página",
+        "selector de idioma"
+      ],
+      "processing_status": "OK",
+      "slug": "caixabank",
+      "anomalies": [
+        {
+          "type": "contenido_largo",
+          "severity": "LOW",
+          "description": "Longitud real de la política (apartados 1-11)"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-007",
+      "company": "ClickUp",
+      "sector": "Productividad",
+      "url": "https://clickup.com/privacy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-06-02",
+      "document_hash": "4f6184d03349c940cd4bf3183dc3501b91889b054da1884d3c0cfed59a243c4b",
+      "original_length": 27243,
+      "clean_length": 26044,
+      "clean_words": 4113,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "clickup",
+      "anomalies": [],
+      "notes": "Fecha de vigencia en la página actual: 2 de junio de 2026."
+    },
+    {
+      "document_id": "PLX-2026-008",
+      "company": "Coursera",
+      "sector": "Educación",
+      "url": "https://www.coursera.org/about/privacy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2025-12-03",
+      "document_hash": "5ee8730c25b0e9e550ab0625557e6caba195d0f812f78932f2c8ae13df309186",
+      "original_length": 50417,
+      "clean_length": 48449,
+      "clean_words": 7378,
+      "removed_elements": [
+        "cabecera y navegación",
+        "menú lateral legal",
+        "enlaces de login/registro",
+        "scripts y estilos",
+        "pie de página"
+      ],
+      "processing_status": "OK",
+      "slug": "coursera",
+      "anomalies": [
+        {
+          "type": "geolocalizacion_idioma",
+          "severity": "LOW",
+          "description": "La primera extracción devolvió la versión en chino por geolocalización; se redescargó forzando inglés (versión original)"
+        }
+      ],
+      "notes": "Incluye Privacy Notice, DPF Notice y Addendum de ChatGPT unificados en la página oficial."
+    },
+    {
+      "document_id": "PLX-2026-009",
+      "company": "Dropbox",
+      "sector": "Cloud",
+      "url": "https://www.dropbox.com/privacy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2025-05-30",
+      "document_hash": "87657fcb82845c51fa56da8c81174d3a0e548f6edfc93dc1aec9d2609fc1a0ac",
+      "original_length": 17784,
+      "clean_length": 17681,
+      "clean_words": 2867,
+      "removed_elements": [
+        "enlace a política anterior",
+        "navegación del sitio",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "dropbox",
+      "anomalies": [],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-010",
+      "company": "DuckDuckGo",
+      "sector": "Buscadores",
+      "url": "https://duckduckgo.com/privacy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-06-03",
+      "document_hash": "66579dbcf309bf897bfbb7dac86c6fb7615615c88f257dba8f6df8d4b553a233",
+      "original_length": 12695,
+      "clean_length": 12640,
+      "clean_words": 2071,
+      "removed_elements": [
+        "enlace a versión anterior",
+        "navegación del sitio",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "duckduckgo",
+      "anomalies": [],
+      "notes": "Política corta pero completa por naturaleza."
+    },
+    {
+      "document_id": "PLX-2026-011",
+      "company": "eBay",
+      "sector": "Ecommerce",
+      "url": "https://www.ebay.es/help/policies/member-behaviour-policies/user-privacy-notice?id=4260",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2025-04-21",
+      "document_hash": "77dd806e9425844e9b3926b81697adad906c6a892fa1405c91e9c6df80e6a1b9",
+      "original_length": 147270,
+      "clean_length": 143980,
+      "clean_words": 21638,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "widget de valoración",
+        "artículos relacionados",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "ebay",
+      "anomalies": [
+        {
+          "type": "contenido_excesivamente_largo",
+          "severity": "MEDIUM",
+          "description": "La página oficial incluye el aviso vigente y la versión anterior completa"
+        },
+        {
+          "type": "contenido_duplicado",
+          "severity": "MEDIUM",
+          "description": "La versión anterior duplica gran parte del aviso vigente; conservada por formar parte del documento oficial"
+        }
+      ],
+      "notes": "Aviso vigente + versión anterior unificados en el orden original de la página."
+    },
+    {
+      "document_id": "PLX-2026-012",
+      "company": "Expedia",
+      "sector": "Viajes",
+      "url": "https://www.expediagroup.com/privacy-policy/",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-01-30",
+      "document_hash": "05e21ecaa964132e6c5fdc94352680cd1f19b9d063d1f76cd4d6e24e08b211aa",
+      "original_length": 27963,
+      "clean_length": 27269,
+      "clean_words": 4103,
+      "removed_elements": [
+        "enlace skip-to-content",
+        "cabeceras y navegación",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "expedia",
+      "anomalies": [],
+      "notes": "Tablas de categorías linealizadas."
+    },
+    {
+      "document_id": "PLX-2026-013",
+      "company": "Generali",
+      "sector": "Seguros",
+      "url": "https://www.generali.es/quienes-somos/privacidad",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2025-11-01",
+      "document_hash": "4a6d54ba0360d6171c686b7b5ffc09a65f8fa52fae19628bbfd63056a6160bf1",
+      "original_length": 289463,
+      "clean_length": 273735,
+      "clean_words": 39280,
+      "removed_elements": [
+        "cabeceras y menús",
+        "selector de idioma",
+        "contenido promocional",
+        "pies de página"
+      ],
+      "processing_status": "OK",
+      "slug": "generali",
+      "anomalies": [
+        {
+          "type": "contenido_duplicado",
+          "severity": "MEDIUM",
+          "description": "Acordeones con variantes móvil/escritorio; la deduplicación no eliminó todas las repeticiones internas"
+        },
+        {
+          "type": "contenido_largo",
+          "severity": "LOW",
+          "description": "Cuatro notas informativas por tipo de interesado, todas conservadas"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-014",
+      "company": "GitHub Copilot",
+      "sector": "Inteligencia Artificial",
+      "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2024-02-01",
+      "document_hash": "7fbe0d0eb942b9ed559a40e6aa22ddbbe322c1092689328dcce0675645c7e6a8",
+      "original_length": 40942,
+      "clean_length": 40738,
+      "clean_words": 6068,
+      "removed_elements": [
+        "índice 'In this article'",
+        "navegación docs.github.com",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "github_copilot",
+      "anomalies": [],
+      "notes": "Política general de GitHub que cubre Copilot."
+    },
+    {
+      "document_id": "PLX-2026-015",
+      "company": "Glovo",
+      "sector": "Delivery",
+      "url": "https://glovoapp.com/docs/es/legal/privacy/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2026-03-01",
+      "document_hash": "3847dd111687794de38eb298132aeab405741dc1139bbf14080a2aad7d34fee6",
+      "original_length": 118233,
+      "clean_length": 117886,
+      "clean_words": 17640,
+      "removed_elements": [
+        "selector de país",
+        "navegación",
+        "elementos de interfaz",
+        "scripts y estilos",
+        "pie de página"
+      ],
+      "processing_status": "OK",
+      "slug": "glovo",
+      "anomalies": [
+        {
+          "type": "excessive_length",
+          "severity": "LOW",
+          "description": "Política unificada para todos los tipos de interesado, mantenida en el orden original con anexos"
+        }
+      ],
+      "notes": "Última modificación marzo 2026."
+    },
+    {
+      "document_id": "PLX-2026-016",
+      "company": "Google Cloud",
+      "sector": "Cloud",
+      "url": "https://cloud.google.com/terms/cloud-privacy-notice",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-04-08",
+      "document_hash": "8bbc8b18bc27d5a33d2e8e1dca6cf87dd7e2c72034f53f5857d1ec11f98f1de6",
+      "original_length": 43484,
+      "clean_length": 42987,
+      "clean_words": 6558,
+      "removed_elements": [
+        "breadcrumb",
+        "selector de idiomas",
+        "navegación cloud.google.com",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "google_cloud",
+      "anomalies": [
+        {
+          "type": "contenido_repetitivo",
+          "severity": "LOW",
+          "description": "Filas de tablas de Service Data repetidas entre categorías (repetición legal legítima)"
+        }
+      ],
+      "notes": "Completo con anexos regionales."
+    },
+    {
+      "document_id": "PLX-2026-017",
+      "company": "Iberia",
+      "sector": "Viajes",
+      "url": "https://www.iberia.com/es/informacion-sobre-privacidad/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "7500108c59df93b787e5247a03b1d33f3539f54a82ae765608d3792d1c4f1d14",
+      "original_length": 67794,
+      "clean_length": 57288,
+      "clean_words": 8588,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "menús",
+        "pie de página",
+        "artefacto de carga",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "iberia",
+      "anomalies": [
+        {
+          "type": "pagina_incompleta_en_primera_extraccion",
+          "severity": "LOW",
+          "description": "Recuperado completo vía descarga HTML"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-018",
+      "company": "IKEA",
+      "sector": "Retail",
+      "url": "https://www.ikea.com/es/es/customer-service/privacy-policy/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2026-06-08",
+      "document_hash": "96afb058ed375d5c26310edf4f382a804167e0f220505736adb52f79f98649d8",
+      "original_length": 50623,
+      "clean_length": 48543,
+      "clean_words": 7549,
+      "removed_elements": [
+        "banner promocional",
+        "menú de tienda",
+        "buscador",
+        "selectores de tienda/idioma",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "ikea",
+      "anomalies": [],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-019",
+      "company": "ING",
+      "sector": "Bancos",
+      "url": "https://www.ing.es/sobre-ing/pdf/protecciondatosING.pdf",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "d53d3dc7d34514470b020452dd4cdcda59ad367876d1ca2543a70221689ba6b3",
+      "original_length": 71968,
+      "clean_length": 70522,
+      "clean_words": 10101,
+      "removed_elements": [
+        "metadatos PDF",
+        "números de página"
+      ],
+      "processing_status": "OK",
+      "slug": "ing",
+      "anomalies": [],
+      "notes": "Convertido de PDF oficial de 34 páginas con pypdf."
+    },
+    {
+      "document_id": "PLX-2026-020",
+      "company": "Just Eat",
+      "sector": "Delivery",
+      "url": "https://www.just-eat.es/privacy-policy",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2026-06-01",
+      "document_hash": "fef0efa2d4b1b8f7c4c3eb00ddb0843a1ce3e7979a9f22c0b1ed75efb96de501",
+      "original_length": 49675,
+      "clean_length": 47982,
+      "clean_words": 6973,
+      "removed_elements": [
+        "cabecera y navegación",
+        "enlaces de login",
+        "botón imprimir/guardar PDF",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "just_eat",
+      "anomalies": [],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-021",
+      "company": "MAPFRE",
+      "sector": "Seguros",
+      "url": "https://www.mapfre.es/privacidad/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "a62779c583dc9470eecce13b8aff2461bbadda3cd8ae2fdcf1370e75f8b1cbc3",
+      "original_length": 54557,
+      "clean_length": 54551,
+      "clean_words": 7811,
+      "removed_elements": [
+        "breadcrumbs",
+        "navegación",
+        "contenido duplicado de acordeones"
+      ],
+      "processing_status": "OK",
+      "slug": "mapfre",
+      "anomalies": [
+        {
+          "type": "extraccion_inicial_incompleta",
+          "severity": "LOW",
+          "description": "Primera extracción parcial; recuperado completo (apartados 1-9.3)"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-022",
+      "company": "Mercadona",
+      "sector": "Retail",
+      "url": "https://info.mercadona.es/es/politica-de-privacidad/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2025-08-01",
+      "document_hash": "8bb1cfb1b25954f2d981c9643b3328aaaa655dcbfbba26a97838ab0aac5e6fc1",
+      "original_length": 16685,
+      "clean_length": 16685,
+      "clean_words": 2476,
+      "removed_elements": [
+        "cabecera y navegación",
+        "pie de página",
+        "elementos de interfaz"
+      ],
+      "processing_status": "OK",
+      "slug": "mercadona",
+      "anomalies": [
+        {
+          "type": "download_interference",
+          "severity": "LOW",
+          "description": "Descarga directa bloqueada; se usó la extracción de texto principal, documento completo"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-023",
+      "company": "Mistral AI",
+      "sector": "Inteligencia Artificial",
+      "url": "https://legal.mistral.ai/terms/privacy-policy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-04-08",
+      "document_hash": "586a3b53d4788daa2d4f92eb2271108044e6bbd228c2b1fd720ab91316fef693",
+      "original_length": 23037,
+      "clean_length": 22821,
+      "clean_words": 3689,
+      "removed_elements": [
+        "scripts y estilos",
+        "navegación del sitio legal",
+        "bloques duplicados desktop/móvil del DOM"
+      ],
+      "processing_status": "OK",
+      "slug": "mistral_ai",
+      "anomalies": [
+        {
+          "type": "contenido_duplicado",
+          "severity": "LOW",
+          "description": "El HTML duplicaba párrafos por anidamiento li/p; corregido"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-024",
+      "company": "Reddit",
+      "sector": "Redes Sociales",
+      "url": "https://www.reddit.com/policies/privacy-policy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2025-05-29",
+      "document_hash": "a96704bcd955f1893536448dbaf0c489eca3ccac656dbf1a078b775f89bb8189",
+      "original_length": 35653,
+      "clean_length": 33399,
+      "clean_words": 5261,
+      "removed_elements": [
+        "menú de políticas de Reddit",
+        "selector de idiomas",
+        "historial de revisiones",
+        "tablas de layout"
+      ],
+      "processing_status": "PARTIAL",
+      "slug": "reddit",
+      "anomalies": [
+        {
+          "type": "pagina_incompleta",
+          "severity": "HIGH",
+          "description": "La sección 'How We Share Your Information' no aparece en la extracción; la página exige reto JS anti-bot"
+        },
+        {
+          "type": "error_descarga",
+          "severity": "MEDIUM",
+          "description": "Descarga directa bloqueada por verificación anti-bot de Reddit; se usó el texto del extractor"
+        }
+      ],
+      "notes": "13 secciones presentes; falta únicamente la sección de compartición de información."
+    },
+    {
+      "document_id": "PLX-2026-025",
+      "company": "Renfe",
+      "sector": "Viajes",
+      "url": "https://grupo.renfe.com/es/es/politica-de-privacidad",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "2871780f850e16aa8ae215ddbdb97a17e382562dba3e71b69938898974ad7e5f",
+      "original_length": 15226,
+      "clean_length": 15226,
+      "clean_words": 2153,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "pies de página",
+        "aviso de versión de solo lectura",
+        "copyright",
+        "enlaces de navegación"
+      ],
+      "processing_status": "PARTIAL",
+      "slug": "renfe",
+      "anomalies": [
+        {
+          "type": "contenido_no_accesible",
+          "severity": "MEDIUM",
+          "description": "La política del Canal Ético enlazada no contiene texto accesible; no se pudo unir"
+        },
+        {
+          "type": "contenido_no_accesible",
+          "severity": "MEDIUM",
+          "description": "La política de solicitudes de rodaje se renderiza con JS y devolvió contenido vacío; no se pudo unir"
+        },
+        {
+          "type": "fuente_secundaria",
+          "severity": "LOW",
+          "description": "La política de reconocimientos médicos se obtuvo de una versión de solo lectura en caché"
+        }
+      ],
+      "notes": "Se unieron la política general y 5 políticas de servicio accesibles en el orden enlazado."
+    },
+    {
+      "document_id": "PLX-2026-026",
+      "company": "Banco Santander",
+      "sector": "Bancos",
+      "url": "https://www.bancosantander.es/informacion-proteccion-datos",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "unknown",
+      "document_hash": "e79dace3b54a2d972d1dcf47869ab4311d648a0272af5a788f497827d5ab10df",
+      "original_length": 189122,
+      "clean_length": 187761,
+      "clean_words": 27941,
+      "removed_elements": [
+        "pestañas de navegación",
+        "menús",
+        "cabeceras",
+        "contenido duplicado de acordeones",
+        "pie de página"
+      ],
+      "processing_status": "OK",
+      "slug": "santander",
+      "anomalies": [
+        {
+          "type": "contenido_largo",
+          "severity": "LOW",
+          "description": "Incluye las pestañas Clientes, Potenciales, No Clientes, Herederos/Beneficiarios y Contacto DPD"
+        },
+        {
+          "type": "tabla_plana",
+          "severity": "LOW",
+          "description": "Tabla de bases de legitimación convertida a texto plano"
+        },
+        {
+          "type": "restos_navegacion",
+          "severity": "MEDIUM",
+          "description": "Restos del bloque de enlaces de pie de página al final del clean (RECORTADO en post-procesado)"
+        }
+      ],
+      "notes": "Se conservaron todas las pestañas de la página oficial."
+    },
+    {
+      "document_id": "PLX-2026-027",
+      "company": "Slack",
+      "sector": "Productividad",
+      "url": "https://slack.com/intl/es-es/privacy-policy",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2023-07-05",
+      "document_hash": "34b62c00d4ef4facf8ebcbaf2cd1021cc9f8e91b5621d4e462efabb3c7251716",
+      "original_length": 42401,
+      "clean_length": 41731,
+      "clean_words": 6296,
+      "removed_elements": [
+        "tabla de contenidos",
+        "navegación del sitio",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "slack",
+      "anomalies": [],
+      "notes": "Versión en español completa."
+    },
+    {
+      "document_id": "PLX-2026-028",
+      "company": "Spotify",
+      "sector": "Streaming",
+      "url": "https://www.spotify.com/es/legal/privacy-policy/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2026-06-12",
+      "document_hash": "28299bc386b9ed77fb10b975b7bf3f9455168aab59caa7ca74118ff1e9276c6f",
+      "original_length": 54649,
+      "clean_length": 52082,
+      "clean_words": 7832,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "spotify",
+      "anomalies": [
+        {
+          "type": "pagina_incompleta_en_primera_extraccion",
+          "severity": "LOW",
+          "description": "Recuperado completo vía descarga HTML"
+        },
+        {
+          "type": "tablas_convertidas_a_texto",
+          "severity": "LOW",
+          "description": "Tablas de derechos y categorías linealizadas conservando contenido"
+        }
+      ],
+      "notes": "12 secciones numeradas conservadas."
+    },
+    {
+      "document_id": "PLX-2026-029",
+      "company": "TikTok",
+      "sector": "Redes Sociales",
+      "url": "https://www.tiktok.com/legal/page/row/privacy-policy/es",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2025-06-02",
+      "document_hash": "f493bdc5c2d56af61b7ed8578e3366c918a50d0147d21c48276138ab9b94073d",
+      "original_length": 36176,
+      "clean_length": 36036,
+      "clean_words": 5285,
+      "removed_elements": [
+        "selector de región",
+        "navegación legal",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "tiktok",
+      "anomalies": [],
+      "notes": "Versión ROW en español; completo, termina en contacto DPO."
+    },
+    {
+      "document_id": "PLX-2026-030",
+      "company": "Trello (Atlassian)",
+      "sector": "Productividad",
+      "url": "https://www.atlassian.com/legal/privacy-policy",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-08-17",
+      "document_hash": "2e25e0a159d1151deb146ba2d804c953937999ef836229cfb408a00fa9d74552",
+      "original_length": 65363,
+      "clean_length": 58550,
+      "clean_words": 8940,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "contenido relacionado",
+        "bloque newsletter",
+        "pie de página",
+        "scripts y estilos",
+        "título duplicado"
+      ],
+      "processing_status": "OK",
+      "slug": "trello",
+      "anomalies": [
+        {
+          "type": "pagina_incompleta_en_primera_extraccion",
+          "severity": "LOW",
+          "description": "Recuperado el documento completo descargando el HTML"
+        }
+      ],
+      "notes": "Política corporativa de Atlassian aplicable a Trello."
+    },
+    {
+      "document_id": "PLX-2026-031",
+      "company": "Vodafone España",
+      "sector": "Telecomunicaciones",
+      "url": "https://www.vodafone.es/c/conocenos/es/vodafone-espana/quienes-somos/legal-y-regulatorio/politica-de-privacidad-y-cookies/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2026-01-01",
+      "document_hash": "6428e74cd2a6e611e1fafb7d84453578aa388ebda7c18f8288b181ea1afc13d3",
+      "original_length": 140352,
+      "clean_length": 132944,
+      "clean_words": 19616,
+      "removed_elements": [
+        "cabeceras y navegación",
+        "controles de acordeón",
+        "política de cookies (pestaña separada, excluida)",
+        "otras pestañas no relativas a privacidad",
+        "pies de página",
+        "contenido duplicado parcial"
+      ],
+      "processing_status": "OK",
+      "slug": "vodafone_espana",
+      "anomalies": [
+        {
+          "type": "pagina_compartida",
+          "severity": "LOW",
+          "description": "URL compartida con política de cookies; se separó la pestaña de privacidad"
+        },
+        {
+          "type": "contenido_duplicado",
+          "severity": "MEDIUM",
+          "description": "Persisten duplicados internos de acordeones móvil/escritorio"
+        },
+        {
+          "type": "contenido_largo",
+          "severity": "LOW",
+          "description": "Supera 15000 palabras"
+        },
+        {
+          "type": "version_pdf_desactualizada",
+          "severity": "LOW",
+          "description": "PDF oficial enlazado con fecha 22/05/2025, anterior a la web (01/01/2026); descartado en favor del texto web"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "document_id": "PLX-2026-032",
+      "company": "Wallapop",
+      "sector": "Marketplace segunda mano",
+      "url": "https://about.wallapop.com/politica-privacidad/",
+      "download_date": "2026-07-22",
+      "language": "es",
+      "last_update": "2026-02-24",
+      "document_hash": "ee91b9bc7f040f20e945688a842a58e516570ce7882a71d7765fcb3ac6d0741c",
+      "original_length": 23842,
+      "clean_length": 23332,
+      "clean_words": 3421,
+      "removed_elements": [
+        "cabecera y navegación",
+        "selectores de idioma",
+        "botones de descarga de app",
+        "login",
+        "pie de página",
+        "scripts y estilos"
+      ],
+      "processing_status": "OK",
+      "slug": "wallapop",
+      "anomalies": [],
+      "notes": "Última revisión 24 de febrero de 2026."
+    },
+    {
+      "document_id": "PLX-2026-033",
+      "company": "Zalando",
+      "sector": "Retail",
+      "url": "https://en.zalando.de/zalando-privacy-policy/",
+      "download_date": "2026-07-22",
+      "language": "en",
+      "last_update": "2026-05-01",
+      "document_hash": "5004aa719a1e88d1cf8bc5de526ae4ba6510208e43f6203e4fd3fc5eb2ced099",
+      "original_length": 131533,
+      "clean_length": 130485,
+      "clean_words": 20436,
+      "removed_elements": [
+        "navegación",
+        "enlace PDF-Version",
+        "scripts y estilos",
+        "elementos de interfaz"
+      ],
+      "processing_status": "OK",
+      "slug": "zalando",
+      "anomalies": [
+        {
+          "type": "excessive_length",
+          "severity": "MEDIUM",
+          "description": "Supera 15000 palabras; política legítimamente extensa con capítulo por países"
+        },
+        {
+          "type": "download_interference",
+          "severity": "LOW",
+          "description": "Primer intento bloqueado por anti-bot; resuelto con cabeceras de navegador"
+        }
+      ],
+      "notes": "Versión 05/2026."
+    }
+  ]
+}

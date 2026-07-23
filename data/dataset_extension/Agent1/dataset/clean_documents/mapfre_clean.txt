@@ -1,0 +1,440 @@
+Política de Privacidad y Tratamiento de Datos Personales
+Política de Privacidad y Datos Personales
+Mapfre ESPAÑA S.A. en adelante Mapfre, con domicilio en Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid, es titular de este sitio Web, y responsable de los datos de carácter personal suministrados por los usuarios a través de este sitio Web.
+El usuario queda informado sobre el tratamiento de los datos suministrados durante la navegación en la página Web, y los que se generen como consecuencia de la utilización de la misma, incluidas, en su caso, las comunicaciones o las transferencias internacionales de los datos que pudieran realizarse, con las finalidades indicadas en el apartado
+4. ¿CON QUÉ FINALIDAD Y LEGITIMACIÓN TRATAMOS SUS DATOS PERSONALES?
+Se entiende que el usuario acepta las condiciones establecidas si realiza la interacción indicada en los diferentes formularios.
+En caso de que los datos facilitados se refieran a terceras personas físicas distintas del usuario, éste garantiza haber recabado y contar con el consentimiento previo de los mismos para la comunicación de sus datos y haberles informado, con carácter previo a facilitarlos, de las finalidades del tratamiento, comunicaciones y demás términos previstos en el apartado
+Información sobre Protección de Datos
+.
+El usuario declara que es mayor de 14 años. Si los datos facilitados durante la navegación son de menores de 18 años, incluidos los datos de salud, como titular de la patria potestad o tutela sobre el menor, autoriza expresamente el tratamiento de los mismos en los términos establecidos en la información adicional.
+El usuario garantiza la exactitud y veracidad de los datos facilitados, adquiriendo el compromiso de comunicar a Mapfre cualquier cambio en los mismos.
+La utilización de esta web está sujeta a la Política de Privacidad y Tratamiento de Datos Personales, a las
+Condiciones de Uso
+que se detallan a continuación, así como a la
+política de cookies
+. Le rogamos que lea atentamente.
+Información sobre protección de datos:
+1. ¿Quién es el responsable del tratamiento de sus datos personales?
+La información y/o datos personales que nos proporcione son responsabilidad de:
+Identidad:
+MAPFRE ESPAÑA, COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A., A28141935
+Dirección postal:
+Carretera de Pozuelo a Majadahonda, nº 50, 28222 – Majadahonda (Madrid)
+Contacto del Delegado de Protección de Datos:
+DPO.MAPFRE_ESPANA.es@mapfre.com
+Corresponsables del tratamiento: Para determinados tratamientos que se detallan en el apartado
+“4. ¿CON QUÉ FINALIDAD Y LEGITIMACIÓN TRATAMOS SUS DATOS PERSONALES?”
+MAPFRE ESPAÑA tratará conjuntamente sus datos con otras empresas del Grupo MAPFRE, en los términos detallados en el apartado
+“9. CORRESPONSABILIDAD ENTRE ENTIDADES DEL GRUPO MAPFRE”.
+2. ¿Qué categorías de datos tratamos?
+Los datos tratados por MAPFRE ESPAÑA son:
+- Datos obtenidos de la navegación y uso de nuestro sitio web, en concreto:
+El nombre de dominio del proveedor (ISP) que le da acceso a la red. Por ejemplo, un usuario del proveedor XXX estará identificado con el dominio xxx.es.
+La fecha y hora de acceso a nuestra web.
+La dirección de internet desde la que partió el link que dirige a nuestra web.
+- Datos de carácter identificativo: DNI, dirección postal o electrónica, imagen, voz, teléfono, nombre y dos apellidos, firma, firma electrónica, IP.
+- Datos relativos al riesgo a asegurar.
+- Datos relativos a características Personales: estado civil, fecha de nacimiento, lugar de nacimiento, edad, sexo, nacionalidad.
+- Datos relativos a circunstancias Sociales: Características de alojamiento, vivienda, propiedades, posesiones, aficiones y estilos de vida, pertenencia a clubes y asociaciones, licencias, permisos y autorizaciones.
+- Datos económicos, financieros y de seguros: Ingresos, rentas, inversiones, bienes patrimoniales, créditos, préstamos, avales, datos bancarios, planes de pensiones, jubilación, datos económicos de nómina, datos deducciones impositivas/impuestos, seguros, hipotecas, subsidios, beneficios, historial de créditos, tarjetas de crédito, antecedentes de siniestralidad y riesgos asegurados, datos relativos al incumplimiento de obligaciones dinerarias, financieras o de crédito.
+- Datos relativos a transacciones de bienes y servicios: Bienes y servicios suministrados por el afectado, bienes y servicios recibidos por el afectado, transacciones financieras, compensaciones/indemnizaciones.
+- Datos relativos a información comercial: Actividades y negocios, licencias comerciales, suscripciones a publicaciones o medios de comunicación, creaciones artísticas, literarias, científicas o técnicas de los que el Interesado sea titular.
+- Datos académicos y profesionales: Formación, titulaciones, experiencia profesional, pertenencia a colegios o asociaciones profesionale.
+- Datos relativos a detalles de empleo: Profesión, puestos de trabajo.
+- Datos especialmente protegidos: datos relativos a la salud del Interesado.
+Las categorías de datos anteriormente detalladas se utilizarán en función de ser requeridas por los tratamientos de datos detallados en el apartado
+“4. ¿CON QUÉ FINALIDAD Y LEGITIMACIÓN TRATAMOS SUS DATOS PERSONALES?”.
+3. ¿Cuál es el origen de los datos?
+MAPFRE ESPAÑA, tratará los datos personales relativos al Interesado provenientes de las siguientes fuentes:
+(i) Facilitados directamente por el Interesado.
+(ii) Facilitados por un mediador de seguros.
+(iii) Otras entidades del Grupo MAPFRE
+www.mapfre.es/particulares/
+con las que mantenga o haya mantenido una relación contractual o a las que haya solicitado la contratación de un seguro.
+(iv) Entidades con las que MAPFRE tenga firmados acuerdos de colaboración y que dispongan de la base de licitud adecuada (puede consultarlas en este
+enlace
+)
+(v) Sistemas del Grupo MAPFRE.
+(vi) Los siguientes sistemas comunes de los que es responsable UNESPA, Asociación Empresarial del Seguro, y a los que se encuentra adherida MAPFRE, de acuerdo con la información que sobre los mismos se detalla en el apartado
+“8. INFORMACIÓN SOBRE SISTEMAS COMUNES”
+: Sistema de Información Histórico de Seguros del Automóvil (“SIHSA”), Sistema de Información de Automóviles Pérdida Total, Robo e Incendios (“SIAPTRI”) y Sistema de Información de Prevención del Fraude en Seguros de Ramos Diversos (en adelante, “SIPFSRD”),
+(vii) Sistemas comunes de información crediticia.
+(viii) Bases de datos de origen externo obtenidas de fuentes públicas que únicamente se utilizarán para el fin para el que fueron creadas tales como las relativas a datos geográficos, sociodemográficos, estadísticos.
+(ix) Profesionales o prestadores de servicios que proporcionen información sobre la valoración o tasación de inmuebles, vehículos u otros bienes muebles, así como toda clase de activos. Profesionales o prestadores de servicios que proporcionen información sobre los servicios objeto de cobertura por las pólizas o prestadores de servicios recomendados y concertados, profesionales y centros sanitarios, valoradores del daño corporal, peritos u otros profesionales análogos, según proceda.
+4. ¿Con qué finalidad y legitimación tratamos sus datos personales?
+A) Respecto a los datos obtenidos en la navegación y uso de nuestro sitio web, realizaremos el tratamiento de los datos generados por la navegación con las finalidades basadas en las establecidas en el panel de cookies y sus preferencias asociadas.
+La base de legitimación es el consentimiento que usted haya otorgado a través de dicho panel de cookies.
+B) Respecto a la legitimación y finalidades con las que MAPFRE ESPAÑA trata los datos personales de aquellos interesados que solicitan una cotización o presupuesto:
+(i) Tratamientos realizados en
+aplicación de medidas precontractuales
+:
+Gestión y evaluación de la solicitud de seguro para determinar su aceptación y/o denegación.
+Aplicación de beneficios, descuentos y otras ventajas que por su condición de cliente MAPFRE le correspondan.
+Seguimiento de la oferta de seguro conforme los plazos establecidos.
+Evaluación de la solvencia económica del Interesado.
+(ii) Tratamientos realizados en
+cumplimiento de obligaciones legales a cargo de MAPFRE
+:
+Valoración, selección y tarificación de riesgos asociados a la solicitud de contratación realizada, todo ello, en cumplimiento de la LCS (artículos 10, 11, 12, 93 y 94) y la Ley 20/2015 de 14 de julio, de Ordenación, Supervisión y Solvencia de las Entidades Aseguradoras y Reaseguradoras (“
+LOSSEAR
+”) (artículos 94 y 99.7).
+Implica la valoración y delimitación del riesgo, incluso aunque no se formalice el contrato de seguro o, en su caso, una vez extinguido el mismo, así como la elaboración de un perfil de riesgo sobre Vd. a partir de los datos que nos ha facilitado, y a datos estadísticos y sociodemográficos, apoyado en modelos predictivos que permiten, en base a hechos pasados y cálculos futuribles, teniendo como referencia los comportamientos de otros asegurados similares, determinar el perfil de riesgo (la posibilidad de que sufra un siniestro) para asignarle la prima lo más ajustada a la probabilidad.
+En ningún momento se toman decisiones individuales automatizadas.
+Aplicación de medidas de diligencia debida para la prevención de blanqueo de capitales y financiación del terrorismo, todo ello, en cumplimiento de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo.
+Comunicación de información a autoridades, reguladores u órganos gubernamentales que lo requieran.
+Prevenir, investigar y/o descubrir el fraude en la selección del riesgo y en la gestión de siniestros para lo que, en cumplimiento del artículo 100 LOSSEAR y el artículo 9.2.g) Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (“RGPD”).
+Este tratamiento implica la adopción de medidas necesarias a partir de la identificación de conductas mediante la:
+Consulta en los ficheros enumerados en el apartado
+3. ¿CUÁL ES EL ORIGEN DE LOS DATOS?
+que determine un impacto en nuestras obligaciones legales como aseguradora
+Verificar la exactitud y validez de los documentos y datos identificativos facilitados por Vd. para prevenir la suplantación de su identidad y accesos y operaciones fraudulentas.
+En ningún momento se toman decisiones individuales automatizadas.
+Realizar estudios estadísticos para segmentar y analizar el negocio de forma agregada. Para ello se tratan los datos mínimos necesarios aplicando técnicas estadísticas.
+Atender sus solicitudes de información, sugerencias, quejas y reclamaciones, y ponernos en contacto con usted, de conformidad con la LOSSEAR y la Ley de Consumidores y Usuarios.
+(iii) Tratamientos realizados en base a
+interés legítimo
+:
+Gestión centralizada de sus datos a través de recursos informáticos, organizativos y administrativos (aplicaciones informáticas, servidores, etc.) comunes a las entidades del Grupo MAPFRE. El interés legítimo que persigue MAPFRE consiste en la gestión eficiente de los recursos necesarios para la prestación del servicio.
+Realizar encuestas de calidad y satisfacción sobre los productos y el nivel de servicios con carácter global, incluso de manera electrónica, proporcionados desde MAPFRE ESPAÑA. El interés legítimo que persigue MAPFRE es la mejora continua en la atención que MAPFRE ESPAÑA presta.
+Mejorar los procesos internos para lo que es necesario anonimizar los datos personales mínimos y necesarios. El interés legítimo que persigue MAPFRE ESPAÑA es atender eficientemente a sus usuarios.
+Crear nuevos modelos de negocio para lo que se aplicarán técnicas de seudonimización. El interés legítimo que persigue MAPFRE ESPAÑA es ajustar sus servicios y productos a las necesidades de los usuarios.
+Puede ejercer su derecho de oposición frente estos tratamientos amparados en el interés legítimo en los términos indicados en el apartado
+“7. ¿CUÁLES SON SUS DERECHOS CUANDO NOS FACILITA SUS DATOS?”
+C) Respecto a la legitimación y finalidades con las que MAPFRE ESPAÑA trata los datos personales de los interesados que contratan su seguro:
+(i)Tratamientos realizados en
+ejecución del contrato
+:
+Mantenimiento y ejecución del contrato de seguro.
+Aplicación de beneficios, descuentos y otras ventajas que por su condición de cliente MAPFRE le correspondan.
+Gestión de siniestros y prestaciones, incluidas las peritaciones y valoraciones de daños, para lo que será necesario intercambiar datos personales con entidades prestadoras de los servicios objeto de cobertura por las pólizas identificadas en el apartado
+“3. ¿CUÁL ES EL ORIGEN DE LOS DATOS?”
+y
+“6. ¿QUIÉNES SON LOS DESTINATARIOS DE LOS DATOS PERSONALES?”
+.
+Realización de verificaciones e investigaciones necesarias para la determinación y, en su caso, el pago de la indemnización al Interesado.
+Realización de comunicaciones y notificaciones vinculadas al mantenimiento y ejecución del contrato por cualquier medio, incluido el electrónico.
+Celebración del contrato de reaseguro, para lo que será necesario comunicar los datos del Interesado a entidades reaseguradoras en los términos previstos en el artículo 77 de la LCS.
+Determinación de la asistencia sanitaria y la indemnización que deba facilitarse al asegurado, cuando hayan de ser satisfechas.
+Adecuado abono a los prestadores sanitarios o reintegro al Asegurado o a quién corresponda el cobro de los gastos de asistencia sanitaria que se hubieran llevado a cabo en el ámbito del contrato de seguro.
+(ii) Tratamientos realizados en
+cumplimiento de obligaciones legales a cargo de MAPFRE:
+Gestionar la resolución de quejas y conflictos que puedan surgir entre Tomadores, Asegurados, Beneficiarios, terceros perjudicados o derechohabientes de cualquiera de ellos, todo ello, en cumplimiento del artículo 97 LOSSEAR.
+Llevar los libros de contabilidad, así como los registros de cuentas, siniestros, provisiones técnicas, inversiones, contratos de reaseguro y de pólizas, suplementos y anulaciones emitidos, todo ello, en cumplimiento de las obligaciones dispuestas en el artículo 25 del Código de Comercio y 96 del Real Decreto 1060/2015, de 20 de noviembre, de Ordenación, Supervisión y Solvencia de las Entidades Aseguradoras y Reaseguradoras (“RDOSSEAR”).
+Aplicación de medidas de diligencia debida para la prevención de blanqueo de capitales y financiación del terrorismo, todo ello, en cumplimiento de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo.
+Comunicación de información a autoridades, reguladores u órganos gubernamentales que lo requieran.
+Intercambio de información entre las entidades aseguradoras del Grupo MAPFRE para el cumplimiento de sus obligaciones de supervisión, todo ello, en cumplimiento del artículo 99 LOSSEAR.
+Expedir a favor del propietario del vehículo y del tomador del seguro del vehículo asegurado certificación acreditativa de los siniestros correspondientes a los cinco últimos años de seguro, todo ello, en cumplimiento del artículo 2.7 del Real Decreto Legislativo 8/2004, de 29 de octubre, por el que se aprueba el texto refundido de la Ley sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor (“TRLRCSCVM”). Para ello, MAPFRE podrá comunicar los datos del Interesado al Fichero histórico de seguros del automóvil identificado en el apartado
+“8. INFORMACIÓN SOBRE SISTEMAS COMUNES.”
+Prevenir, investigar y/o descubrir el fraude en la selección del riesgo y en la gestión de siniestros para lo que, en cumplimiento del artículo 100 LOSSEAR y el artículo 9.2.g) Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (“RGPD”). Este tratamiento implica la adopción de medidas necesarias a partir de la identificación de conductas mediante:
+Solicitar o verificar de los médicos y prestadores de servicios sanitarios las causas y antecedentes de salud necesarios que motivan las prestaciones, reembolsos o indemnizaciones, y, en su caso, recobrar los gastos para garantizar el pleno desenvolvimiento del contrato.
+Consulta en los ficheros enumerados en el apartado
+3. ¿CUÁL ES EL ORIGEN DE LOS DATOS?
+que determine un impacto en nuestras obligaciones legales como aseguradora
+Verificación de la exactitud y validez de los documentos y datos identificativos facilitados por Vd. para prevenir la suplantación de su identidad y accesos y operaciones fraudulentas
+En ningún momento se toman decisiones individuales automatizadas.
+Realizar estudios estadísticos para segmentar y analizar el negocio de forma agregada. Para ello se tratan los datos mínimos necesarios aplicando técnicas estadísticas. El interés que persigue MAPFRE es poder conocer su negocio e identificar las tendencias del mercado.
+Atender sus solicitudes de información, sugerencias, quejas y reclamaciones, y ponernos en contacto con usted, de conformidad con la LOSSEAR y la Ley de Consumidores y Usuarios.
+(iii) Tratamientos realizados en base al
+interés legítimo de MAPFRE:
+Realización de acciones o comunicaciones comerciales y/o publicitarias no perfiladas, por cualquier medio, incluido el electrónico, relacionadas con productos y servicios, descuentos, obsequios, promociones y otras ventajas de las entidades de Grupo MAPFRE en corresponsabilidad, enumeradas en esta misma política, en el apartado
+“9.1 Comunicaciones comerciales en interés legítimo”
+de esta Política de Privacidad, similares a los contratados. El interés legítimo que persigue MAPFRE consiste en fidelizar su relación con nosotros.
+Gestión centralizada de sus datos a través de recursos informáticos, organizativos y administrativos (aplicaciones informáticas, servidores, etc.) en su relación con las entidades del Grupo MAPFRE. El interés legítimo que persigue MAPFRE consiste en la gestión eficiente de los recursos necesarios para la prestación del servicio.
+Realizar encuestas de calidad y satisfacción sobre los productos y el nivel de servicios con carácter global, incluso de manera electrónica, proporcionados desde MAPFRE ESPAÑA. El interés legítimo que persigue MAPFRE es la mejora continua en la atención que MAPFRE ESPAÑA presta.
+Mejorar los procesos internos, para lo que es necesario anonimizar los datos personales mínimos y necesarios. El interés legítimo que persigue MAPFRE ESPAÑA es atender eficientemente a sus usuarios.
+Crear nuevos modelos de negocio para lo que se aplicarán técnicas de seudonimización. El interés legítimo que persigue MAPFRE ESPAÑA es ajustar sus servicios y productos a las necesidades de los usuarios.
+Puede ejercer su derecho de oposición frente estos tratamientos amparados en el interés legítimo en los términos indicados en el apartado
+“7. ¿CUÁLES SON SUS DERECHOS CUANDO NOS FACILITA SUS DATOS?”
+D) Tratamientos que se realizan en base al consentimiento, con independencia de si la relación que mantiene con nosotros es precontractual o contractual.
+Tratamientos realizados en base al
+consentimiento
+:
+Boletines electrónicos:
+en el caso de facilitar sus datos para solicitar la suscripción a boletines electrónicos trataremos sus datos para el envío de comunicaciones y novedades basadas en los intereses que nos haya manifestado en el formulario de suscripción.
+Comunicaciones no personalizadas de MAPFRE ESPAÑA:
+envío de comunicaciones comerciales no personalizadas por cualquier medio, incluido el electrónico, relacionadas con productos y servicios, descuentos, obsequios, promociones y otras ventajas de la entidad del Grupo MAPFRE a la que usted autorice.
+Comunicaciones personalizadas de Entidades del Grupo:
+envío de comunicaciones comerciales personalizadas por cualquier medio, incluido el electrónico y navegación web, sobre productos y servicios, descuentos, obsequios, promociones y otras ventajas de las entidades del Grupo MAPFRE corresponsables identificadas en el apartado
+“9.3 Corresponsabilidad para llevar a cabo comunicaciones comerciales personalizadas”
+de esta Política de Privacidad, así como de fuentes externas (puede consultarlas en este
+enlace
+).
+Para la personalización de estas comunicaciones, incluida la navegación, elaboraremos un perfil comercial global sobre Vd. que, basado en el análisis de sus datos personales, nos permite deducir e identificar aquellos productos y servicios que puedan ser de su interés.
+A alto nivel le explicamos cómo lo realizamos:
+Primero, partiendo de los datos que ha proporcionado a MAPFRE ESPAÑA y a otras entidades corresponsables del Grupo de las que Vd. sea cliente, así como los que se han generado en el desarrollo de su relación comercial o contractual con MAPFRE ESPAÑA, le comparamos con un conjunto agregado de usuarios que comparten características similares con Vd. (estilo de vida, circunstancias demográficas, geográficas, relación con MAPFRE) y que previamente han mostrado interés o adquirido satisfactoriamente otros productos.
+Segundo, aplicamos cálculos estadísticos o algoritmos, junto con métodos de anonimización y seudonimización, que nos permiten encontrar relaciones entre Vd. y este conjunto de usuarios e intuir en base a comportamientos pasados, o escenarios futuros, los productos, servicios, ofertas que le estamos sugiriendo.
+En ningún caso se toman decisiones individuales automatizadas.
+Cuando sea publicidad personalizada a través de la navegación, trataremos la información que usted nos ha facilitado para ofrecerle publicidad de nuestros productos, en base a su perfil comercial, en plataformas en línea conforme sus políticas de privacidad.
+Seguimiento y envío actualizado de ofertas
+: seguimiento y envío de una propuesta actualizada de la solicitud de cotización, presupuesto o contratación de seguro inicial, con posterioridad a su periodo de vigencia, cuando las condiciones de la misma resulten más favorables. Para el cálculo y envío de la nueva propuesta, trataremos los datos personales que nos haya facilitado con motivo de su solicitud inicial en los mismos términos detallados en el apartado B).
+Propuesta de solución alternativa en otras Entidades del Grupo
+: comunicación de sus datos a otras Entidades del Grupo MAPFRE cuando la oferta que se le ha presentado no ha cumplido con las expectativas esperadas, de forma que desde dichas Entidades puedan proponerle una solución ofreciéndole un producto o servicio semejante al que nos solicitó.
+Comunicaciones personalizadas de MAPFRE ESPAÑA
+: Envío de comunicaciones comerciales personalizadas por cualquier medio, incluido el electrónico y navegación web, de MAPFRE ESPAÑA, sobre productos, servicios y ofertas.
+Para la personalización de estas comunicaciones, incluida la navegación, elaboraremos un perfil comercial sobre Vd. que, basado en el análisis de sus datos personales, nos permite deducir e identificar aquellos productos y servicios que puedan ser de su interés.
+A alto nivel le explicamos cómo lo realizamos:
+Primero, partiendo de los datos que ha proporcionado a MAPFRE ESPAÑA, así como los generados en su relación con la entidad, le comparamos con un conjunto agregado de usuarios que comparten características similares con Vd. (estilo de vida, circunstancias demográficas, geográficas, relación con MAPFRE) y que previamente han mostrado interés o adquirido satisfactoriamente otros productos.
+Segundo, aplicamos cálculos estadísticos o algoritmos, junto con métodos de anonimización y seudonimización, que nos permiten encontrar relaciones entre Vd. y este conjunto de usuarios e intuir en base a comportamientos pasados, o escenarios futuros, los productos, servicios, ofertas que le estamos sugiriendo.
+En ningún caso se toman decisiones individuales automatizadas ni se comparten datos entre entidades. Tampoco se ceden datos a terceras entidades colaboradores dado que la comunicación es realizada desde la Entidad.
+Este consentimiento se diferencia del descrito en el punto D.3 en que no se encuentran los datos compartidos entre las entidades del Grupo MAPFRE. Únicamente recibirá comunicaciones comerciales personalizadas de MAPFRE ESPAÑA.
+Cuando sea publicidad personalizada a través de la navegación, trataremos la información que usted nos ha facilitado para ofrecerle publicidad de nuestros productos, en base a su perfil comercial, en plataformas en línea conforme sus políticas de privacidad.
+Cesión de datos a otras Entidades del Grupo:
+cesión de los datos facilitados por Usted a través de un formulario o conversación telefónica a la Entidad del Grupo MAPFRE indicada que pueda ofrecerle una solución diferente del riesgo tarificado en MAPFRE ESPAÑA.
+Recuerde que en cualquier momento puede retirar estos consentimientos sin que afecte a la relación que mantenga con nosotros.
+5. ¿Por cuánto tiempo conservaremos sus datos personales?
+A)
+MAPFRE aplicará los siguientes criterios para determinar el plazo durante el que se conservarán los Datos de los Interesados: Si los Interesados todavía
+no han contratado su seguro:
+a.
+Los datos asociados al presupuesto serán conservados durante el tiempo determinado por la legislación de seguros y, por el tiempo necesario para garantizar el precio ofertado. No obstante, los datos serán conservados durante el tiempo necesario desde que finalice el plazo de vigencia de la oferta para prevenir, investigar y/o descubrir el fraude en la contratación, en los términos señalados en el apartado
+“4. ¿CON QUÉ FINALIDAD Y LEGITIMACIÓN TRATAMOS SUS DATOS PERSONALES?”.
+b.
+Una vez los datos devengan innecesarios para las finalidades anteriormente indicadas, éstos serán conservados, debidamente bloqueados, siendo accesibles, exclusivamente, para su puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal para la atención de las posibles responsabilidades nacidas del tratamiento, así como para el ejercicio y defensa de reclamaciones ante la Agencia Española de Protección de Datos, durante los plazos legalmente establecidos a tales efectos, hasta su supresión definitiva.
+B)
+Si los Interesados
+ya han contratado su seguro:
+a.
+Con carácter general, los datos personales serán conservados por el tiempo que los Interesados mantengan vigente su relación contractual con MAPFRE y en base a las obligaciones legales de conservación.
+b.
+No obstante, los datos serán conservados durante el tiempo necesario, desde que finalice la relación contractual, para prevenir, investigar y/o descubrir el fraude en la contratación y durante el desarrollo del contrato de seguro, en los términos señalados en el apartado
+“4. ¿CON QUÉ FINALIDAD Y LEGITIMACIÓN TRATAMOS SUS DATOS PERSONALES?”
+.
+c.
+Una vez los datos devengan innecesarios para las finalidades anteriormente indicadas, dichos datos serán conservados, debidamente bloqueados, siendo accesibles, exclusivamente, para la atención de cualesquiera responsabilidades derivadas de dicha relación y su puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal para la atención de las posibles responsabilidades nacidas del tratamiento, así como para el ejercicio y defensa de reclamaciones ante la Agencia Española de Protección de Datos, durante los plazos legalmente establecidos a tales efectos, hasta su supresión definitiva.
+d.
+Respecto al tratamiento de los datos para los fines enunciados en el apartado C. iii estos seguirán siendo tratados, siempre y cuando no se haya opuesto antes, conforme lo habilitado en Ley 11/2022, de 28 de junio, General de Telecomunicaciones una vez deje de ser cliente.
+e.
+En relación a los tratamientos realizados en base al consentimiento los datos serán tratados para los fines autorizados durante el tiempo que este no sea retirado.
+6. ¿Quiénes son los destinatarios de sus datos personales?
+MAPFRE ESPAÑA S.A podrá comunicar sus datos exclusivamente para las finalidades indicadas en el apartado
+“4. ¿CON QUÉ FINALIDAD Y LEGITIMACIÓN TRATAMOS SUS DATOS PERSONALES?”
+, a los siguientes destinatarios o categorías de destinatarios:
+Organismos Públicos, Dirección General de Seguros y Fondos de Pensiones, Agencia Tributaria, Jueces y Tribunales y, en general, Autoridades competentes, cuando MAPFRE sea legalmente requerida para facilitarlos.
+Otras entidades aseguradoras y reaseguradoras, con la finalidad exclusiva de celebrar contratos de coaseguro y reaseguro, en los términos previstos en el artículo 77 LCS.
+Entidades responsables o adheridas a los sistemas comunes del sector asegurador para el cumplimiento de obligaciones legales, en los términos detallados en el apartado
+“8. INFORMACIÓN SOBRE SISTEMAS COMUNES”
+.
+Entidades del Grupo MAPFRE para la aplicación de beneficios, descuentos y otras ventajas que por su condición de cliente MAPFRE le correspondan, el cumplimiento de obligaciones de supervisión y solvencia, prevenir, investigar y/o descubrir el fraude y la gestión centralizada de recursos informáticos, organizativos y administrativos (aplicaciones informáticas, servidores, etc.), todo ello, en los términos detallados en el apartado
+“4. ¿CON QUÉ FINALIDAD Y LEGITIMACIÓN TRATAMOS SUS DATOS PERSONALES?”.
+Prestadores de los servicios objeto de cobertura o solicitados en base a las pólizas suscritas por el Interesado, entre los que se encuentran profesionales y centros sanitarios, valoradores del daño corporal, peritos u otros profesionales análogos, según proceda.
+Los datos, incluidos los de salud, podrán comunicarse entre MAPFRE ESPAÑA y los médicos, profesionales y centros sanitarios, hospitales y otras instituciones o personas físicas o jurídicas que, asimismo, desarrollen cualesquiera de las referidas actividades y con las que se concluyan acuerdos de colaboración.
+Asimismo, MAPFRE contratará la prestación de servicios por parte de terceros proveedores que desempeñan su actividad, a título enunciativo y no limitativo, en los siguientes sectores: servicios de asistencia para la gestión de siniestros, servicios de custodia y digitalización de documentación, tarificación, servicios de mediación de seguros, servicios de gestión administrativa y atención de clientes, servicios de asesoría y consultoría, servicios de auditoría de calidad de servicios, servicios de desarrollo tecnológico y/o plataformas en línea.
+En el marco de las comunicaciones indicadas en el párrafo anterior, podrán realizarse transferencias internacionales de datos a terceros países. Dichas transferencias se realizarán únicamente cuando sean necesarias para el cumplimiento de las finalidades indicadas, aplicándose, en cada caso, la garantía apropiada para garantizar el respeto a la normativa de protección de datos.
+En relación a países en los que exista una decisión de adecuación aprobada por la Comisión Europea, la garantía será dicha decisión. A falta de decisión de adecuación, se procederá en base a la aportación de garantías adecuadas, que podrán ser (i) la firma de Cláusulas Contractuales Tipo de protección de datos adoptadas por la Comisión Europea o (ii), respecto a aquellas transferencias internacionales que tengan lugar entre las entidades del Grupo MAPFRE, la transferencia internacional podrá estar regulada conforme a lo previsto en las Normas Corporativas Vinculantes (en adelante, “BCR”) aprobadas en el Grupo MAPFRE. Puede acceder al contenido de las BCR, así como consultar lista de empresas del Grupo MAPFRE que se encuentran vinculadas por las BCR en el siguiente
+enlace
+.
+En cualquier caso, si fuera necesario realizar alguna transferencia internacional a países que no cuenten con una decisión de adecuación, y no se pudiera hacer uso de los mecanismos descritos en el párrafo anterior, la transferencia internacional se realizará de conformidad con el régimen de excepciones para situaciones específicas previsto en el Reglamento General de Protección de Datos.
+7. ¿Cuáles son sus derechos cuando nos facilita sus datos?
+En los términos y con el alcance establecido en la normativa vigente, cualquier persona puede ejercer los siguientes derechos:
+Acceso:
+Conocer qué datos personales suyos tiene MAPFRE.
+Rectificación:
+Solicitar la rectificación de sus datos inexactos.
+Supresión:
+Solicitar la supresión de sus datos cuando, entre otros motivos, ya no sean necesarios para los fines para los que fueron recogidos.
+Limitación del tratamiento
+: Solicitar que suspendamos el tratamiento de sus datos, si, por ejemplo, los datos son inexactos o el tratamiento es ilícito, pudiendo no obstante ser tratados para el ejercicio o la defensa de posibles reclamaciones, la protección de los derechos de otra persona o por razones de interés público.
+Oposición:
+Oponerse al tratamiento de sus datos, salvo cuando sean necesarios para, entre otros motivos, el desarrollo de la relación contractual, en caso de que la hubiera, o para el ejercicio o la defensa de posibles reclamaciones.
+En particular, usted puede manifestar su oposición frente a la publicidad no perfilada, a la realización de encuestas de calidad y satisfacción, a la anonimización de sus datos para la mejora de procesos internos o a la seudonimización para la creación de modelos de comportamiento por estar estos tratamientos amparados en el interés legítimo de MAPFRE, en los términos establecidos en los apartados 4.B).iii y 4.C).iii de esta política.
+Portabilidad:
+Recibir sus datos personales en un formato estructurado, de uso común y legible, o solicitar su transmisión a otro responsable cuando sea técnicamente posible.
+Le recordamos que también puede, en cualquier momento, revocar el consentimiento prestado para los tratamientos recogidos en el apartado 4.D) de esta política, sin que dicha retirada pueda afectar a la relación que mantenga con nosotros.
+Los anteriores derechos pueden ejercerse directamente por el titular de los datos o mediante representante legal o voluntario, a través de comunicación escrita y dirigida a Oficina Corporativa de Privacidad y Protección de Datos en la Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid o escribiendo a
+ocppd@mapfre.com
+. Adicionalmente, le informamos de que puede presentar una reclamación ante la Agencia Española de Protección de Datos, cuando considere que no hemos tratado sus datos de acuerdo con la normativa, a través de la página web habilitada a tales efectos por la Autoridad de Control correspondiente.
+8. Información sobre sistemas comunes
+En virtud, de la adhesión al Código de Conducta por parte de MAPFRE ESPAÑA, le informamos acerca del tratamiento de sus datos personales en Sistema de Información Histórico de Seguros del Automóvil (“SIHSA”), Sistema de Información de Automóviles Pérdida Total, Robo e Incendios (“SIAPTRI”) y Sistema de Información de Prevención del Fraude en Seguros de Ramos Diversos (“SIPFSRD”).
+Sistema de Información de Automóviles Pérdida Total, Robo e Incendios: MAPFRE comunicará los datos históricos de número de siniestros relacionados con su seguro a UNESPA, Asociación Empresarial del Seguro, que los tratará como responsable del Sistema de Información de Automóviles de Pérdida Total, Robo e Incendio.
+Sistema de Información Histórico de Seguros del Automóvil: MAPFRE comunicará los datos históricos de número de siniestros a UNESPA, Asociación Empresarial del Seguro, que los tratará como responsable del Sistema de Información Histórico de Seguros de Automóviles para la tarificación y selección de riesgos.
+Sistema de Información de Prevención del Fraude en Seguros de Ramos Diversos: MAPFRE comunicará los datos de siniestralidad relacionados con su seguro o los datos de su siniestro, a UNESPA, Asociación Empresarial del Seguro, que los tratará como responsable del Fichero de prevención del fraude en seguros de ramos diversos.
+También le informamos de que el tratamiento de los datos personales incluidos en los Sistemas se lleva a cabo de conformidad con lo establecido en el Código de Conducta Regulador del Tratamiento de Datos Personales en los Sistemas Comunes de Información del Sector Asegurador, promovido por UNESPA (en adelante, el “Código de Conducta”), puede consultarlo en este enlace.
+Dicho código fue aprobado por el Comité Ejecutivo de UNESPA en su reunión de fecha 5 de diciembre de 2019 e inscrito en el Registro General de la Agencia Española de Protección de Datos el día 29 de junio de 2022.
+CORRESPONSABLES DEL TRATAMIENTO:
+Los datos personales incluidos en los Sistemas serán tratados, en régimen de corresponsabilidad, por todas las Entidades Aseguradoras adheridas a los Sistemas. Puede consultar el listado completo de dichas entidades, junto con los datos de contacto de sus respectivos Delegados de Protección de Datos, haciendo clic aquí. Igualmente, le informamos de que Tecnologías de la Información y Redes para las Entidades Aseguradoras, S.A. (en adelante, “TIREA”), ostenta la condición de encargada del tratamiento.
+FINALIDADES:
+SIHSA: (i) expedir en favor del propietario del vehículo asegurador y del tomador del seguro de dicho vehículo, su historial de siniestralidad o, en su caso, una certificación de ausencia de siniestros; (ii) permitir a las entidades aseguradoras adheridas la realización de consultas, a instancias de los tomadores de seguros, en el momento en que éstos soliciten la suscripción de una nueva póliza, para poder llevar a cabo una valoración técnica y objetiva del riesgo, así como la correcta aplicación de las tarifas de prima.
+SIAPTRI: (i) facilitar la identificación automatizada de posibles situaciones de anomalía y riesgo de fraude por parte del tomador del seguro, del titular del vehículo o del beneficiario de la indemnización, a fin de que las entidades aseguradoras adheridas puedan valorar adecuadamente las solicitudes de suscripción de una póliza y, en su caso, la tarificación del riesgo; (ii) tramitar adecuadamente los siniestros en que se aprecie un posible riesgo de fraude; (iii) cooperar con las Fuerzas y Cuerpos de Seguridad del Estado en la investigación de posibles delitos de robo y estafa relacionados con los vehículos asegurados; y (iv) colaborar con las Fuerzas y Cuerpos de Seguridad del Estado, Centro Zaragoza, la Dirección General de Tráfico y la entidad aseguradora afectada en la identificación y localización de los vehículos robados e indemnizados.
+SIPFSRD: Prevención, detección y persecución del fraude, bien previniendo a la entidad aseguradora una vez emitida la póliza, bien detectando el fraude ya cometido en los siniestros declarados.
+LEGITIMACION:
+La base de legitimación que justifica y permite el tratamiento de los datos personales incluidos en los Sistemas es el cumplimiento de las obligaciones legales de detección, prevención y persecución del fraude en el seguro, establecidas en el artículo 100 de la Ley 20/2015, de 14 de julio, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.
+CATEGORÍAS DE DATOS PERSONALES:
+Datos de la póliza que ampara el siniestro, datos relativos a la situación de la póliza, datos del tomador, datos del asegurado, riesgo asegurado, datos relativos a la descripción y situación del siniestro y datos del perceptor de la indemnización. DESTINATARIOS: los datos personales contenidos en los Sistemas podrán ser comunicados a las Entidades Aseguradoras adheridas a los mismos siempre y cuando mantengan con Ud. una relación contractual o Ud. haya solicitado de las mismas la celebración de un contrato de seguro, así como en el caso de SIHSA y SIAPTRI a la entidad a la que se hubiera notificado su condición de potencial perceptor de la indemnización. Puede acceder a la lista de entidades adheridas en www.unespa.es y www.tirea.es. Por su parte, los datos incluidos en SIHSA y SIAPTRI podrán ser comunicados, de acuerdo con lo establecido en el Código de Conducta, a la Secretaría de Estado de Seguridad, a las Fuerzas y Cuerpos de Seguridad y a los órganos judiciales, cuando éstos así lo precisen.
+PLAZO DE CONSERVACIÓN:
+Los datos permanecerán en los Sistemas hasta transcurridos cinco años desde la cancelación de la póliza o desde la ocurrencia de los siniestros. Por otro lado, los datos contenidos en los SIHSA y SIAPTRI serán conservados durante un período de cinco años desde la fecha del siniestro. Es decir, en ningún caso dichos sistemas contendrán datos referidos a siniestros y las pólizas a ellos asociados de una antigüedad superior a cinco años. Transcurridos dichos plazos, los datos serán conservados, debidamente bloqueados, durante el plazo de prescripción de las acciones derivadas de los contratos (5 años). Posteriormente, los datos serán suprimidos por completo.
+DERECHOS:
+Puede ejercitar sus derechos de acceso, rectificación, supresión o limitación del tratamiento dirigiéndose por escrito a TIREA en la dirección postal Ctra. Las Rozas – El Escorial Km. 0.3, C.P. 28231, Las Rozas (Madrid) o en la dirección de correo electrónico centro.operaciones@tirea.es, indicando su nombre y apellidos y acreditando su identidad. Asimismo, le informamos que, al basarse el tratamiento de los datos en el cumplimiento de una obligación legal, no será posible el ejercicio en relación con los Sistemas de Información de los derechos de oposición y portabilidad.
+RECLAMACIÓN:
+Le informamos de que, en caso de que considere que se ha producido una vulneración de la normativa de protección de datos o del Código de Conducta o de no estar conforme con la respuesta recibida tras ejercitar un derecho, puede presentar una reclamación ante Organismo de Control del Código de Conducta que regula el tratamiento de los datos incluidos en el Sistema. Para ello, deberá remitir su escrito a la misma a la dirección indicada anteriormente o a través de la dirección de correo electrónico centro.operaciones@tirea.es. En el escrito deberá indicar que el objeto del mismo es la presentación de una reclamación ante el Órgano de Control del Código de Conducta, exponer las causas por las cuales Ud. se opone a la decisión de la entidad y aportar cuantos documentos avalen su pretensión. En este sentido, puede hacer uso de los formularios que UNESPA y TIREA ponen a su disposición en sus páginas web www.unespa.es y www.tirea.es, respectivamente. Finalmente, ponemos en su conocimiento que tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos a través de su página web www.aepd.es.
+9. Corresponsabilidad entre entidades del grupo mapfre
+9. 1. Comunicaciones comerciales en interés legítimo
+MAPFRE ESPAÑA
+Identidad:
+MAPFRE ESPAÑA, COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A., A28141935
+Dirección postal:
+Carretera de Pozuelo a Majadahonda, nº 50, 28222 – Majadahonda (Madrid)
+Contacto del Delegado de Protección de Datos:
+DPO.MAPFRE_ESPANA.es@mapfre.com
+MAPFRE VIDA
+Identidad:
+MAPFRE VIDA, S.A. DE SEGUROS Y REASEGUROS SOBRE LA VIDA HUMANA, A-28229599.
+Dirección postal:
+Carretera de Pozuelo a Majadahonda, nº 50, 28222 – Majadahonda (Madrid).
+Contacto del Delegado de Protección de Datos:
+DPO.MapfreVida.es@mapfre.com
+Finalidades:
+Realización por parte de la entidad contratante de acciones o comunicaciones comerciales y/o publicitarias no perfiladas, por cualquier medio, incluido el electrónico, relacionadas con productos y servicios, descuentos, obsequios, promociones y otras ventajas similares a los contratados de las entidades de Grupo MAPFRE en corresponsabilidad.
+Legitimación:
+La base legal que justifica y permite el tratamiento de los datos personales es el interés legítimo.
+Categorías de datos personales:
+Datos de carácter identificativo
+Datos relativos al riesgo a asegurar.
+Datos relativos a características Personales.
+Datos relativos a circunstancias Sociales.
+Datos económicos, financieros y de seguros.
+Datos relativos a transacciones de bienes y servicios.
+Datos relativos a información comercial.
+Datos académicos y profesionales.
+Plazo de conservación:
+Los datos serán conservados el tiempo que dure la relación contractual del interesado con una o ambas entidades en corresponsabilidad. Una vez los datos devengan innecesarios para las finalidades anteriormente indicadas, dichos datos serán conservados, debidamente bloqueados, siendo accesibles, exclusivamente, para la atención de cualesquiera responsabilidades derivadas de dicha relación y su puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal para la atención de las posibles responsabilidades nacidas del tratamiento, así como para el ejercicio y defensa de reclamaciones ante la Agencia Española de Protección de Datos, durante los plazos legalmente establecidos a tales efectos, hasta su supresión definitiva.
+Derechos:
+Puede ejercitar sus derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición o portabilidad dirigiéndose por escrito a la Oficina Corporativa de Privacidad y Protección de Datos en la Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid o en la dirección de correo electrónico ocppd@mapfre.com, acreditando su identidad.
+9.2. Corresponsables para la creación de Identidad Digital Única
+Corresponsables del tratamiento:
+•
+Identidad:
+MAPFRE ESPAÑA COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A. CIF A28141935
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.MAPFRE_ESPANA.es@mapfre.com
+•
+Identidad:
+MAPFRE VIDA DE SEGUROS Y REASEGUROS SOBRE LA VIDA HUMANA, S.A. CIF A28229599
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.MapfreVida.es@mapfre.com
+•
+Identidad:
+MAPFRE INVERSIÓN SOCIEDAD DE VALORES, S.A. CIF A79227021
+Dirección postal:
+Carretera de Pozuelo, 50-1, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.INVERSION.es@mapfre.com
+•
+Identidad:
+GESTIÓN DE CENTROS MÉDICOS MAPFRE, S.A. CIF A83276543
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.CentrosMedicosMAPFRE.es@mapfre.com
+•
+Identidad:
+CLUB MAPFRE, S.A. CIF A28296150
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.ClubMapfre.es@mapfre.com
+•
+Identidad:
+MULTISERVICIOS MAPFRE, MULTIMAP, S.A. CIF A82046061
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.MULTIMAP.es@mapfre.com
+•
+Identidad:
+SALUD DIGITAL MAPFRE, S.A.
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.Mapfre_SALUD_Digital.es@Mapfre.com
+Finalidades:
+Crear la Identidad Digital Única que le permita el acceso a los diferentes aplicativos que MAPFRE pone a su disposición.
+Legitimación:
+La base legal para el tratamiento de sus datos con las finalidades incluidas en el apartado anterior se detallan a continuación:
+• Respecto a los datos facilitados en los formularios para la creación de identidad digital única, la base legitimadora es el consentimiento.
+Categorías de datos personales:
+• Datos identificativos: Nombre y apellidos
+• Datos de contacto: Dirección postal, Correo electrónico, Teléfono móvil
+• Características personales: Fecha nacimiento, Sexo
+Plazo de conservación:
+Los datos serán conservados el tiempo que dure la relación contractual del interesado con una o ambas entidades en corresponsabilidad. Una vez los datos devengan innecesarios para las finalidades anteriormente indicadas, dichos datos serán conservados, debidamente bloqueados, siendo accesibles, exclusivamente, para la atención de cualesquiera responsabilidades derivadas de dicha relación y su puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal para la atención de las posibles responsabilidades nacidas del tratamiento, así como para el ejercicio y defensa de reclamaciones ante la Agencia Española de Protección de Datos, durante los plazos legalmente establecidos a tales efectos, hasta su supresión definitiva.
+Derechos:
+Puede ejercitar sus derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición o portabilidad dirigiéndose por escrito a la Oficina Corporativa de Privacidad y Protección de Datos en la Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid o en la dirección de correo electrónico ocppd@mapfre.com, acreditando su identidad.
+Los anteriores derechos pueden ejercerse directamente por el titular de los datos o mediante representante legal o voluntario, a través de comunicación escrita y dirigida a Oficina Corporativa de Privacidad y Protección de Datos en la Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid, así como a través del formulario incluido en la presente página web.
+Adicionalmente, le informamos de que puede presentar una reclamación ante la Agencia Española de Protección de Datos www.aepd.es, cuando considere que no hemos tratado sus datos de acuerdo con la normativa, a través de la página web habilitada a tales efectos por la Autoridad de Control correspondiente.
+9.3. Corresponsabilidad para llevar a cabo comunicaciones comerciales personalizadas
+•
+Identidad:
+MAPFRE ESPAÑA COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A. CIF A28141935
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.MAPFRE_ESPANA.es@mapfre.com
+•
+Identidad:
+MAPFRE VIDA DE SEGUROS Y REASEGUROS SOBRE LA VIDA HUMANA, S.A. CIF A28229599
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.MapfreVida.es@mapfre.com
+•
+Identidad:
+MAPFRE INVERSIÓN SOCIEDAD DE VALORES, S.A. CIF A79227021
+Dirección postal:
+Carretera de Pozuelo, 50-1, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.INVERSION.es@mapfre.com
+•
+Identidad:
+CLUB MAPFRE, S.A. CIF A28296150
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.ClubMapfre.es@mapfre.com
+•
+Identidad:
+MULTISERVICIOS MAPFRE, MULTIMAP, S.A. CIF A82046061
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.MULTIMAP.es@mapfre.com
+•
+Identidad:
+SALUD DIGITAL MAPFRE, S.A.
+Dirección postal:
+Carretera de Pozuelo, 50, 28222 Majadahonda, Madrid
+Contacto del Delegado de Protección de Datos:
+DPO.Mapfre_SALUD_Digital.es@Mapfre.com
+•
+Identidad:
+VERTI ASEGURADORA, COMPAÑÍA DE SEGUROS Y REASEGUROS, S.A., CIF A85078301.
+Dirección postal:
+Calle María Tubau, 10 - 28050 Madrid (España).
+Contacto del Delegad
+Contacto del Delegado de Protección de Datos:
+DPO.VERTI@verti.es
+Finalidades:
+Llevar a cabo comunicaciones comerciales personalizadas por cualquier canal y/o Entidad en corresponsabilidad, incluido el electrónico, de productos aseguradores y/o financieros, servicios y beneficios ajustadas a su perfil comercial compartido por las entidades del Grupo MAPFRE, que han suscrito acuerdo de corresponsabilidad de tratamiento de datos personales en cumplimiento de la legislación de protección de datos con el fin de tratar sus datos conjuntamente.
+Legitimación:
+La base legal para el tratamiento de sus datos con las finalidades incluidas en el apartado anterior es el consentimiento.
+Categorías de datos personales:
+Datos obtenidos de la navegación y uso de nuestro sitio web
+Datos de carácter identificativo.
+Datos relativos al riesgo a asegurar.
+Datos relativos a características Personales.
+Datos relativos a circunstancias Sociales.
+Datos económicos, financieros y de seguros.
+Datos relativos a transacciones de bienes y servicios.
+Datos relativos a información comercial.
+Datos académicos y profesionales.
+Datos relativos a detalles de empleo.
+Plazo de conservación:
+Los datos serán conservados el tiempo que dure la relación contractual del interesado con alguna de las entidades en corresponsabilidad. Una vez los datos devengan innecesarios para las finalidades anteriormente indicadas, dichos datos serán conservados, debidamente bloqueados, siendo accesibles, exclusivamente, para la atención de cualesquiera responsabilidades derivadas de dicha relación y su puesta a disposición de las Administraciones Públicas competentes, Jueces y Tribunales o el Ministerio Fiscal para la atención de las posibles responsabilidades nacidas del tratamiento, así como para el ejercicio y defensa de reclamaciones ante la Agencia Española de Protección de Datos, durante los plazos legalmente establecidos a tales efectos, hasta su supresión definitiva.
+Derechos:
+Puede ejercitar sus derechos de acceso, rectificación, supresión, limitación del tratamiento, oposición o portabilidad dirigiéndose por escrito a la Oficina Corporativa de Privacidad y Protección de Datos en la Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid o en la dirección de correo electrónico ocppd@mapfre.com, acreditando su identidad.
+Los anteriores derechos pueden ejercerse directamente por el titular de los datos o mediante representante legal o voluntario, a través de comunicación escrita y dirigida a Oficina Corporativa de Privacidad y Protección de Datos en la Carretera de Pozuelo, 52, 28222 Majadahonda, Madrid, así como a través del formulario incluido en la presente página web.
+Adicionalmente, le informamos de que puede presentar una reclamación ante la Agencia Española de Protección de Datos www.aepd.es, cuando considere que no hemos tratado sus datos de acuerdo con la normativa, a través de la página web habilitada a tales efectos por la Autoridad de Control correspondiente.

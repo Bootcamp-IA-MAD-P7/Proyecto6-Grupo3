@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-023",
+  "company": "Mistral AI",
+  "sector": "Inteligencia Artificial",
+  "url": "https://legal.mistral.ai/terms/privacy-policy",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2026-04-08",
+  "document_hash": "586a3b53d4788daa2d4f92eb2271108044e6bbd228c2b1fd720ab91316fef693",
+  "original_length": 23037,
+  "clean_length": 22821,
+  "clean_words": 3689,
+  "removed_elements": [
+    "scripts y estilos",
+    "navegación del sitio legal",
+    "bloques duplicados desktop/móvil del DOM"
+  ],
+  "processing_status": "OK"
+}

@@ -1,0 +1,20 @@
+{
+  "document_id": "PLX-2026-012",
+  "company": "Expedia",
+  "sector": "Viajes",
+  "url": "https://www.expediagroup.com/privacy-policy/",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2026-01-30",
+  "document_hash": "05e21ecaa964132e6c5fdc94352680cd1f19b9d063d1f76cd4d6e24e08b211aa",
+  "original_length": 27963,
+  "clean_length": 27269,
+  "clean_words": 4103,
+  "removed_elements": [
+    "enlace skip-to-content",
+    "cabeceras y navegación",
+    "pie de página",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

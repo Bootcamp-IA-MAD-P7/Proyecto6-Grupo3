@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-014",
+  "company": "GitHub Copilot",
+  "sector": "Inteligencia Artificial",
+  "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+  "download_date": "2026-07-22",
+  "language": "en",
+  "last_update": "2024-02-01",
+  "document_hash": "7fbe0d0eb942b9ed559a40e6aa22ddbbe322c1092689328dcce0675645c7e6a8",
+  "original_length": 40942,
+  "clean_length": 40738,
+  "clean_words": 6068,
+  "removed_elements": [
+    "índice 'In this article'",
+    "navegación docs.github.com",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

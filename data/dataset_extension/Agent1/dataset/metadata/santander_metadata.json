@@ -1,0 +1,21 @@
+{
+  "document_id": "PLX-2026-026",
+  "company": "Banco Santander",
+  "sector": "Bancos",
+  "url": "https://www.bancosantander.es/informacion-proteccion-datos",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "e79dace3b54a2d972d1dcf47869ab4311d648a0272af5a788f497827d5ab10df",
+  "original_length": 189122,
+  "clean_length": 187761,
+  "clean_words": 27941,
+  "removed_elements": [
+    "pestañas de navegación",
+    "menús",
+    "cabeceras",
+    "contenido duplicado de acordeones",
+    "pie de página"
+  ],
+  "processing_status": "OK"
+}

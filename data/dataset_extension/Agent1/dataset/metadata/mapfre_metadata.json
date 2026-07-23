@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-021",
+  "company": "MAPFRE",
+  "sector": "Seguros",
+  "url": "https://www.mapfre.es/privacidad/",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "unknown",
+  "document_hash": "a62779c583dc9470eecce13b8aff2461bbadda3cd8ae2fdcf1370e75f8b1cbc3",
+  "original_length": 54557,
+  "clean_length": 54551,
+  "clean_words": 7811,
+  "removed_elements": [
+    "breadcrumbs",
+    "navegación",
+    "contenido duplicado de acordeones"
+  ],
+  "processing_status": "OK"
+}

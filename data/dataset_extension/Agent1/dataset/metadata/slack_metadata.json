@@ -1,0 +1,19 @@
+{
+  "document_id": "PLX-2026-027",
+  "company": "Slack",
+  "sector": "Productividad",
+  "url": "https://slack.com/intl/es-es/privacy-policy",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2023-07-05",
+  "document_hash": "34b62c00d4ef4facf8ebcbaf2cd1021cc9f8e91b5621d4e462efabb3c7251716",
+  "original_length": 42401,
+  "clean_length": 41731,
+  "clean_words": 6296,
+  "removed_elements": [
+    "tabla de contenidos",
+    "navegación del sitio",
+    "scripts y estilos"
+  ],
+  "processing_status": "OK"
+}

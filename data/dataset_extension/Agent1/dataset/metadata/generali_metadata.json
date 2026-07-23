@@ -1,0 +1,20 @@
+{
+  "document_id": "PLX-2026-013",
+  "company": "Generali",
+  "sector": "Seguros",
+  "url": "https://www.generali.es/quienes-somos/privacidad",
+  "download_date": "2026-07-22",
+  "language": "es",
+  "last_update": "2025-11-01",
+  "document_hash": "4a6d54ba0360d6171c686b7b5ffc09a65f8fa52fae19628bbfd63056a6160bf1",
+  "original_length": 289463,
+  "clean_length": 273735,
+  "clean_words": 39280,
+  "removed_elements": [
+    "cabeceras y menús",
+    "selector de idioma",
+    "contenido promocional",
+    "pies de página"
+  ],
+  "processing_status": "OK"
+}
