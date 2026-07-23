@@ -1,0 +1,313 @@
+{
+ "resumen_global": "El 6.1% de los párrafos contiene al menos una expresión condicional (may/might/could, podría, generalmente, en determinados casos...).",
+ "documentos": [
+  {
+   "document_id": "DOC_00001",
+   "company": "Amazon",
+   "ambiguity_score_medio": 1.1,
+   "parrafos_con_lenguaje_condicional_pct": 5.4,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00002",
+   "company": "Anthropic",
+   "ambiguity_score_medio": 5.7,
+   "parrafos_con_lenguaje_condicional_pct": 21.2,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00003",
+   "company": "BBVA",
+   "ambiguity_score_medio": 0.5,
+   "parrafos_con_lenguaje_condicional_pct": 2.0,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00004",
+   "company": "Booking",
+   "ambiguity_score_medio": 2.2,
+   "parrafos_con_lenguaje_condicional_pct": 9.7,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00005",
+   "company": "Cabify",
+   "ambiguity_score_medio": 0.8,
+   "parrafos_con_lenguaje_condicional_pct": 3.5,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00006",
+   "company": "CaixaBank",
+   "ambiguity_score_medio": 0.1,
+   "parrafos_con_lenguaje_condicional_pct": 0.4,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00007",
+   "company": "ClickUp",
+   "ambiguity_score_medio": 8.8,
+   "parrafos_con_lenguaje_condicional_pct": 30.4,
+   "explicacion": "Se detecta un uso frecuente de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00008",
+   "company": "Coursera",
+   "ambiguity_score_medio": 10.2,
+   "parrafos_con_lenguaje_condicional_pct": 36.6,
+   "explicacion": "Se detecta un uso frecuente de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00009",
+   "company": "Dropbox",
+   "ambiguity_score_medio": 9.8,
+   "parrafos_con_lenguaje_condicional_pct": 37.7,
+   "explicacion": "Se detecta un uso frecuente de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00010",
+   "company": "DuckDuckGo",
+   "ambiguity_score_medio": 9.0,
+   "parrafos_con_lenguaje_condicional_pct": 30.6,
+   "explicacion": "Se detecta un uso frecuente de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00011",
+   "company": "eBay",
+   "ambiguity_score_medio": 0.8,
+   "parrafos_con_lenguaje_condicional_pct": 3.9,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00012",
+   "company": "Expedia",
+   "ambiguity_score_medio": 2.9,
+   "parrafos_con_lenguaje_condicional_pct": 12.2,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00013",
+   "company": "Generali",
+   "ambiguity_score_medio": 0.3,
+   "parrafos_con_lenguaje_condicional_pct": 1.5,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00014",
+   "company": "GitHub Copilot",
+   "ambiguity_score_medio": 6.3,
+   "parrafos_con_lenguaje_condicional_pct": 29.5,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00015",
+   "company": "Glovo",
+   "ambiguity_score_medio": 0.3,
+   "parrafos_con_lenguaje_condicional_pct": 0.9,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00016",
+   "company": "Google Cloud",
+   "ambiguity_score_medio": 3.5,
+   "parrafos_con_lenguaje_condicional_pct": 14.3,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00017",
+   "company": "Iberia",
+   "ambiguity_score_medio": 2.5,
+   "parrafos_con_lenguaje_condicional_pct": 11.9,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00018",
+   "company": "IKEA",
+   "ambiguity_score_medio": 0.5,
+   "parrafos_con_lenguaje_condicional_pct": 2.3,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00019",
+   "company": "ING",
+   "ambiguity_score_medio": 4.1,
+   "parrafos_con_lenguaje_condicional_pct": 17.1,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00020",
+   "company": "Just Eat",
+   "ambiguity_score_medio": 0.3,
+   "parrafos_con_lenguaje_condicional_pct": 1.4,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00021",
+   "company": "MAPFRE",
+   "ambiguity_score_medio": 0.0,
+   "parrafos_con_lenguaje_condicional_pct": 0.0,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00022",
+   "company": "Mercadona",
+   "ambiguity_score_medio": 0.3,
+   "parrafos_con_lenguaje_condicional_pct": 1.7,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00023",
+   "company": "Mistral AI",
+   "ambiguity_score_medio": 2.7,
+   "parrafos_con_lenguaje_condicional_pct": 11.1,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00024",
+   "company": "Reddit",
+   "ambiguity_score_medio": 8.9,
+   "parrafos_con_lenguaje_condicional_pct": 27.1,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00025",
+   "company": "Renfe",
+   "ambiguity_score_medio": 0.0,
+   "parrafos_con_lenguaje_condicional_pct": 0.0,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00026",
+   "company": "Banco Santander",
+   "ambiguity_score_medio": 0.1,
+   "parrafos_con_lenguaje_condicional_pct": 0.5,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00027",
+   "company": "Slack",
+   "ambiguity_score_medio": 4.1,
+   "parrafos_con_lenguaje_condicional_pct": 11.7,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00028",
+   "company": "Spotify",
+   "ambiguity_score_medio": 0.7,
+   "parrafos_con_lenguaje_condicional_pct": 3.2,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00029",
+   "company": "TikTok",
+   "ambiguity_score_medio": 1.3,
+   "parrafos_con_lenguaje_condicional_pct": 3.2,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00030",
+   "company": "Trello (Atlassian)",
+   "ambiguity_score_medio": 7.9,
+   "parrafos_con_lenguaje_condicional_pct": 27.6,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00031",
+   "company": "Vodafone España",
+   "ambiguity_score_medio": 0.3,
+   "parrafos_con_lenguaje_condicional_pct": 1.8,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00032",
+   "company": "Wallapop",
+   "ambiguity_score_medio": 0.3,
+   "parrafos_con_lenguaje_condicional_pct": 1.7,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  },
+  {
+   "document_id": "DOC_00033",
+   "company": "Zalando",
+   "ambiguity_score_medio": 3.8,
+   "parrafos_con_lenguaje_condicional_pct": 16.2,
+   "explicacion": "Uso moderado o bajo de lenguaje condicional."
+  }
+ ],
+ "parrafos_mas_ambiguos": [
+  {
+   "paragraph_id": "DOC_00030_P0057",
+   "score": 100,
+   "texto": "To conduct marketing and promotional activities:\nWe use information about you and how you use the Services for analysis, research and communications relating to marketing (including targeted advertisi"
+  },
+  {
+   "paragraph_id": "DOC_00008_P0127",
+   "score": 90,
+   "texto": "If you request deletion of your Personal Data, we will delete the Personal Data associated with that account, including your learner profile, course history, and any certificates or certifications iss"
+  },
+  {
+   "paragraph_id": "DOC_00010_P0011",
+   "score": 90,
+   "texto": "When you visit our search engine or our other websites, your device sends some information about itself automatically, like its IP address, browser type, and language, and may send additional informat"
+  },
+  {
+   "paragraph_id": "DOC_00024_P0098",
+   "score": 90,
+   "texto": "Some analytics providers we partner with may provide specific opt-out mechanisms and we may provide, as needed and as available, additional tools and third-party services that allow you to better unde"
+  },
+  {
+   "paragraph_id": "DOC_00024_P0144",
+   "score": 90,
+   "texto": "You may exercise your rights to access, delete, or correct your personal information as described in the “Your Rights and Choices” section of this notice. When you make a request, we will verify your "
+  },
+  {
+   "paragraph_id": "DOC_00027_P0076",
+   "score": 90,
+   "texto": "Slack podría modificar la presente Política de privacidad en algún momento. La legislación, la normativa y los estándares de la industria evolucionan, por lo que estos cambios podrían ser necesarios; "
+  },
+  {
+   "paragraph_id": "DOC_00029_P0091",
+   "score": 90,
+   "texto": "Es posible que pueda rechazar o deshabilitar las Cookies ajustando la configuración del navegador de su dispositivo. Debido a que cada navegador es diferente, sírvase consultar las instrucciones propo"
+  },
+  {
+   "paragraph_id": "DOC_00002_P0066",
+   "score": 72,
+   "texto": "We will respond to your request within the period required by the data protection law that applies to you. For example, where the EU GDPR or UK GDPR applies, we will respond within one calendar month "
+  },
+  {
+   "paragraph_id": "DOC_00007_P0040",
+   "score": 72,
+   "texto": "Other users of our Services may provide information about you when they submit content through the Services. For example, you may be mentioned by someone else on a task, or a team member may upload co"
+  },
+  {
+   "paragraph_id": "DOC_00007_P0106",
+   "score": 72,
+   "texto": "Personally identifiable information collected on the ClickUp Service may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and the ClickU"
+  },
+  {
+   "paragraph_id": "DOC_00007_P0135",
+   "score": 72,
+   "texto": "We may revise this Privacy Policy from time to time. We will not make changes that result in significant additional uses or disclosures of your personally identifiable information without notifying yo"
+  },
+  {
+   "paragraph_id": "DOC_00008_P0032",
+   "score": 72,
+   "texto": "This Privacy Notice applies to the Personal Data that we process in connection with your use of our Site and Services. Some of our Site’s functionality can be used without revealing any Personal Data,"
+  },
+  {
+   "paragraph_id": "DOC_00008_P0065",
+   "score": 72,
+   "texto": "Identity Verification. Coursera may offer you the ability to verify your identity for select Services. In order to enroll for these Services, you may be required to provide us or our third-party ident"
+  },
+  {
+   "paragraph_id": "DOC_00008_P0144",
+   "score": 72,
+   "texto": "Our Site is primarily operated and managed on servers located and operated within the United States. In order to provide our products and Services to you, we may be sending your Personal Data outside "
+  },
+  {
+   "paragraph_id": "DOC_00016_P0201",
+   "score": 72,
+   "texto": "The personal information listed in (i) to (v) above may be transmitted to our data centers located abroad through our network, as described in Purposes of collection and use of personal information be"
+  }
+ ]
+}

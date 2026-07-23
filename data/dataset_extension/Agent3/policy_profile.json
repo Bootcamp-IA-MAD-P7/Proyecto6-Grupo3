@@ -1,0 +1,850 @@
+[
+ {
+  "document_id": "DOC_00001",
+  "company": "Amazon",
+  "total_paragraphs": 185,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 66.5,
+   "Third Party Sharing/Collection": 12.4,
+   "User Choice/Control": 6.5,
+   "First Party Collection/Use": 4.3,
+   "International & Specific Audiences": 3.8,
+   "Data Retention": 3.8,
+   "Policy Change": 1.1,
+   "Data Security": 1.1,
+   "User Access, Edit & Deletion": 0.5
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Contempla transferencias internacionales o colectivos específicos."
+  ]
+ },
+ {
+  "document_id": "DOC_00002",
+  "company": "Anthropic",
+  "total_paragraphs": 165,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 59.4,
+   "Third Party Sharing/Collection": 15.2,
+   "User Choice/Control": 7.9,
+   "First Party Collection/Use": 6.1,
+   "Data Security": 3.0,
+   "International & Specific Audiences": 3.0,
+   "Data Retention": 2.4,
+   "User Access, Edit & Deletion": 1.8,
+   "Do Not Track": 0.6,
+   "Policy Change": 0.6
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad.",
+   "Menciona señales «Do Not Track»."
+  ]
+ },
+ {
+  "document_id": "DOC_00003",
+  "company": "BBVA",
+  "total_paragraphs": 99,
+  "categorias_predominantes": [
+   "User Access, Edit & Deletion",
+   "Third Party Sharing/Collection"
+  ],
+  "distribucion_pct": {
+   "Other": 61.6,
+   "User Access, Edit & Deletion": 12.1,
+   "Third Party Sharing/Collection": 10.1,
+   "User Choice/Control": 10.1,
+   "Data Retention": 4.0,
+   "First Party Collection/Use": 1.0,
+   "International & Specific Audiences": 1.0
+  },
+  "resumen": "La política dedica una parte importante a user access, edit & deletion, third party sharing/collection.",
+  "aspectos_destacados": [
+   "Describe los derechos del usuario (acceso, rectificación, supresión).",
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00004",
+  "company": "Booking",
+  "total_paragraphs": 454,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 78.6,
+   "Third Party Sharing/Collection": 12.1,
+   "First Party Collection/Use": 3.5,
+   "User Choice/Control": 2.4,
+   "International & Specific Audiences": 1.5,
+   "Data Security": 1.1,
+   "User Access, Edit & Deletion": 0.4,
+   "Data Retention": 0.2
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00005",
+  "company": "Cabify",
+  "total_paragraphs": 144,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 76.4,
+   "Third Party Sharing/Collection": 9.7,
+   "User Choice/Control": 6.9,
+   "User Access, Edit & Deletion": 2.8,
+   "Data Retention": 2.1,
+   "First Party Collection/Use": 0.7,
+   "Data Security": 0.7,
+   "International & Specific Audiences": 0.7
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00006",
+  "company": "CaixaBank",
+  "total_paragraphs": 1188,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 91.9,
+   "Third Party Sharing/Collection": 3.4,
+   "User Choice/Control": 2.9,
+   "Data Retention": 0.6,
+   "Data Security": 0.6,
+   "First Party Collection/Use": 0.5,
+   "Policy Change": 0.1
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies."
+  ]
+ },
+ {
+  "document_id": "DOC_00007",
+  "company": "ClickUp",
+  "total_paragraphs": 112,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 60.7,
+   "Third Party Sharing/Collection": 17.9,
+   "First Party Collection/Use": 9.8,
+   "User Choice/Control": 3.6,
+   "Policy Change": 2.7,
+   "International & Specific Audiences": 1.8,
+   "Data Retention": 0.9,
+   "Data Security": 0.9,
+   "User Access, Edit & Deletion": 0.9,
+   "Do Not Track": 0.9
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Menciona señales «Do Not Track»."
+  ]
+ },
+ {
+  "document_id": "DOC_00008",
+  "company": "Coursera",
+  "total_paragraphs": 145,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 45.5,
+   "Third Party Sharing/Collection": 27.6,
+   "First Party Collection/Use": 14.5,
+   "User Choice/Control": 4.1,
+   "Policy Change": 2.8,
+   "Data Security": 2.1,
+   "International & Specific Audiences": 2.1,
+   "Data Retention": 1.4
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00009",
+  "company": "Dropbox",
+  "total_paragraphs": 53,
+  "categorias_predominantes": [
+   "First Party Collection/Use",
+   "Third Party Sharing/Collection"
+  ],
+  "distribucion_pct": {
+   "Other": 47.2,
+   "First Party Collection/Use": 17.0,
+   "Third Party Sharing/Collection": 13.2,
+   "User Choice/Control": 5.7,
+   "User Access, Edit & Deletion": 5.7,
+   "International & Specific Audiences": 5.7,
+   "Data Security": 3.8,
+   "Data Retention": 1.9
+  },
+  "resumen": "La política dedica una parte importante a first party collection/use, third party sharing/collection.",
+  "aspectos_destacados": [
+   "Describe los derechos del usuario (acceso, rectificación, supresión).",
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad.",
+   "Contempla transferencias internacionales o colectivos específicos."
+  ]
+ },
+ {
+  "document_id": "DOC_00010",
+  "company": "DuckDuckGo",
+  "total_paragraphs": 36,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "Data Security"
+  ],
+  "distribucion_pct": {
+   "Other": 66.7,
+   "Third Party Sharing/Collection": 11.1,
+   "Data Security": 5.6,
+   "User Choice/Control": 5.6,
+   "International & Specific Audiences": 5.6,
+   "First Party Collection/Use": 2.8,
+   "Policy Change": 2.8
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, data security.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad.",
+   "Contempla transferencias internacionales o colectivos específicos."
+  ]
+ },
+ {
+  "document_id": "DOC_00011",
+  "company": "eBay",
+  "total_paragraphs": 516,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 66.9,
+   "Third Party Sharing/Collection": 18.4,
+   "User Choice/Control": 8.9,
+   "User Access, Edit & Deletion": 2.5,
+   "Data Retention": 1.2,
+   "Data Security": 0.8,
+   "International & Specific Audiences": 0.8,
+   "Policy Change": 0.6
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00012",
+  "company": "Expedia",
+  "total_paragraphs": 197,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 75.1,
+   "Third Party Sharing/Collection": 7.6,
+   "User Choice/Control": 5.1,
+   "First Party Collection/Use": 4.6,
+   "Data Security": 2.5,
+   "User Access, Edit & Deletion": 1.5,
+   "International & Specific Audiences": 1.5,
+   "Data Retention": 1.0,
+   "Policy Change": 1.0
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00013",
+  "company": "Generali",
+  "total_paragraphs": 1106,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 80.4,
+   "Third Party Sharing/Collection": 6.9,
+   "User Choice/Control": 5.2,
+   "First Party Collection/Use": 3.8,
+   "User Access, Edit & Deletion": 2.1,
+   "Data Retention": 0.9,
+   "International & Specific Audiences": 0.4,
+   "Policy Change": 0.4
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00014",
+  "company": "GitHub Copilot",
+  "total_paragraphs": 156,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 48.7,
+   "Third Party Sharing/Collection": 18.6,
+   "First Party Collection/Use": 13.5,
+   "User Choice/Control": 10.3,
+   "Data Retention": 2.6,
+   "Data Security": 1.9,
+   "International & Specific Audiences": 1.9,
+   "Do Not Track": 1.3,
+   "Policy Change": 0.6,
+   "User Access, Edit & Deletion": 0.6
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Menciona señales «Do Not Track»."
+  ]
+ },
+ {
+  "document_id": "DOC_00015",
+  "company": "Glovo",
+  "total_paragraphs": 636,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "Data Retention"
+  ],
+  "distribucion_pct": {
+   "Other": 74.4,
+   "Third Party Sharing/Collection": 10.5,
+   "Data Retention": 6.6,
+   "First Party Collection/Use": 3.8,
+   "User Choice/Control": 1.9,
+   "User Access, Edit & Deletion": 1.9,
+   "Data Security": 0.8,
+   "International & Specific Audiences": 0.2
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, data retention.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00016",
+  "company": "Google Cloud",
+  "total_paragraphs": 238,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 64.7,
+   "Third Party Sharing/Collection": 12.6,
+   "First Party Collection/Use": 8.0,
+   "Data Retention": 5.9,
+   "Data Security": 4.2,
+   "User Choice/Control": 3.4,
+   "User Access, Edit & Deletion": 1.3
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00017",
+  "company": "Iberia",
+  "total_paragraphs": 201,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 71.1,
+   "Third Party Sharing/Collection": 13.9,
+   "User Choice/Control": 9.0,
+   "Data Retention": 2.5,
+   "First Party Collection/Use": 1.0,
+   "Policy Change": 1.0,
+   "International & Specific Audiences": 0.5,
+   "Data Security": 0.5,
+   "User Access, Edit & Deletion": 0.5
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00018",
+  "company": "IKEA",
+  "total_paragraphs": 174,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 75.9,
+   "Third Party Sharing/Collection": 8.0,
+   "User Choice/Control": 5.2,
+   "Data Retention": 4.6,
+   "User Access, Edit & Deletion": 2.3,
+   "First Party Collection/Use": 1.7,
+   "International & Specific Audiences": 1.1,
+   "Data Security": 0.6,
+   "Policy Change": 0.6
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00019",
+  "company": "ING",
+  "total_paragraphs": 35,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Third Party Sharing/Collection": 42.9,
+   "User Choice/Control": 22.9,
+   "First Party Collection/Use": 14.3,
+   "Other": 8.6,
+   "International & Specific Audiences": 2.9,
+   "Data Retention": 2.9,
+   "User Access, Edit & Deletion": 2.9,
+   "Data Security": 2.9
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00020",
+  "company": "Just Eat",
+  "total_paragraphs": 212,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 70.8,
+   "Third Party Sharing/Collection": 12.3,
+   "User Choice/Control": 9.0,
+   "First Party Collection/Use": 2.8,
+   "Data Retention": 1.9,
+   "User Access, Edit & Deletion": 1.9,
+   "International & Specific Audiences": 0.5,
+   "Data Security": 0.5,
+   "Policy Change": 0.5
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00021",
+  "company": "MAPFRE",
+  "total_paragraphs": 383,
+  "categorias_predominantes": [
+   "User Access, Edit & Deletion",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 84.6,
+   "User Access, Edit & Deletion": 3.9,
+   "User Choice/Control": 3.4,
+   "First Party Collection/Use": 2.1,
+   "Data Retention": 2.1,
+   "International & Specific Audiences": 1.3,
+   "Data Security": 1.3,
+   "Third Party Sharing/Collection": 1.3
+  },
+  "resumen": "La política dedica una parte importante a user access, edit & deletion, user choice/control.",
+  "aspectos_destacados": [
+   "Describe los derechos del usuario (acceso, rectificación, supresión).",
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos."
+  ]
+ },
+ {
+  "document_id": "DOC_00022",
+  "company": "Mercadona",
+  "total_paragraphs": 59,
+  "categorias_predominantes": [
+   "User Choice/Control",
+   "Third Party Sharing/Collection"
+  ],
+  "distribucion_pct": {
+   "Other": 66.1,
+   "User Choice/Control": 16.9,
+   "Third Party Sharing/Collection": 5.1,
+   "Policy Change": 3.4,
+   "Data Security": 3.4,
+   "User Access, Edit & Deletion": 1.7,
+   "Data Retention": 1.7,
+   "First Party Collection/Use": 1.7
+  },
+  "resumen": "La política dedica una parte importante a user choice/control, third party sharing/collection.",
+  "aspectos_destacados": [
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00023",
+  "company": "Mistral AI",
+  "total_paragraphs": 162,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Access, Edit & Deletion"
+  ],
+  "distribucion_pct": {
+   "Other": 72.2,
+   "Third Party Sharing/Collection": 6.2,
+   "User Access, Edit & Deletion": 6.2,
+   "First Party Collection/Use": 4.9,
+   "Data Retention": 3.7,
+   "User Choice/Control": 3.1,
+   "Data Security": 2.5,
+   "International & Specific Audiences": 1.2
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user access, edit & deletion.",
+  "aspectos_destacados": [
+   "Describe los derechos del usuario (acceso, rectificación, supresión).",
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00024",
+  "company": "Reddit",
+  "total_paragraphs": 107,
+  "categorias_predominantes": [
+   "First Party Collection/Use",
+   "Third Party Sharing/Collection"
+  ],
+  "distribucion_pct": {
+   "Other": 51.4,
+   "First Party Collection/Use": 15.0,
+   "Third Party Sharing/Collection": 12.1,
+   "User Choice/Control": 7.5,
+   "User Access, Edit & Deletion": 4.7,
+   "International & Specific Audiences": 3.7,
+   "Data Security": 2.8,
+   "Data Retention": 0.9,
+   "Do Not Track": 0.9,
+   "Policy Change": 0.9
+  },
+  "resumen": "La política dedica una parte importante a first party collection/use, third party sharing/collection.",
+  "aspectos_destacados": [
+   "Describe los derechos del usuario (acceso, rectificación, supresión).",
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad.",
+   "Contempla transferencias internacionales o colectivos específicos.",
+   "Menciona señales «Do Not Track»."
+  ]
+ },
+ {
+  "document_id": "DOC_00025",
+  "company": "Renfe",
+  "total_paragraphs": 46,
+  "categorias_predominantes": [
+   "User Access, Edit & Deletion",
+   "Data Retention"
+  ],
+  "distribucion_pct": {
+   "Other": 71.7,
+   "User Access, Edit & Deletion": 13.0,
+   "Data Retention": 8.7,
+   "Data Security": 2.2,
+   "Third Party Sharing/Collection": 2.2,
+   "User Choice/Control": 2.2
+  },
+  "resumen": "La política dedica una parte importante a user access, edit & deletion, data retention.",
+  "aspectos_destacados": [
+   "Describe los derechos del usuario (acceso, rectificación, supresión).",
+   "Explica el periodo de conservación de los datos.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00026",
+  "company": "Banco Santander",
+  "total_paragraphs": 1031,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 79.0,
+   "Third Party Sharing/Collection": 6.8,
+   "First Party Collection/Use": 5.1,
+   "User Choice/Control": 4.5,
+   "Data Retention": 1.9,
+   "User Access, Edit & Deletion": 1.3,
+   "Data Security": 0.9,
+   "International & Specific Audiences": 0.6
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00027",
+  "company": "Slack",
+  "total_paragraphs": 111,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 64.0,
+   "Third Party Sharing/Collection": 18.9,
+   "First Party Collection/Use": 9.0,
+   "User Choice/Control": 3.6,
+   "Data Retention": 1.8,
+   "Data Security": 0.9,
+   "Policy Change": 0.9,
+   "International & Specific Audiences": 0.9
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00028",
+  "company": "Spotify",
+  "total_paragraphs": 601,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 82.9,
+   "Third Party Sharing/Collection": 7.7,
+   "User Choice/Control": 4.7,
+   "First Party Collection/Use": 1.7,
+   "User Access, Edit & Deletion": 1.0,
+   "Data Retention": 0.8,
+   "Policy Change": 0.5,
+   "Data Security": 0.5,
+   "International & Specific Audiences": 0.3
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00029",
+  "company": "TikTok",
+  "total_paragraphs": 125,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 52.8,
+   "Third Party Sharing/Collection": 24.8,
+   "First Party Collection/Use": 9.6,
+   "User Choice/Control": 4.8,
+   "Data Security": 2.4,
+   "Data Retention": 2.4,
+   "Policy Change": 1.6,
+   "International & Specific Audiences": 0.8,
+   "User Access, Edit & Deletion": 0.8
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad."
+  ]
+ },
+ {
+  "document_id": "DOC_00030",
+  "company": "Trello (Atlassian)",
+  "total_paragraphs": 203,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 41.4,
+   "Third Party Sharing/Collection": 20.2,
+   "First Party Collection/Use": 13.8,
+   "User Choice/Control": 9.9,
+   "User Access, Edit & Deletion": 3.9,
+   "Data Security": 3.9,
+   "International & Specific Audiences": 3.0,
+   "Data Retention": 2.5,
+   "Do Not Track": 1.0,
+   "Policy Change": 0.5
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Describe los derechos del usuario (acceso, rectificación, supresión).",
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Describe medidas de seguridad.",
+   "Menciona señales «Do Not Track»."
+  ]
+ },
+ {
+  "document_id": "DOC_00031",
+  "company": "Vodafone España",
+  "total_paragraphs": 1256,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "User Choice/Control"
+  ],
+  "distribucion_pct": {
+   "Other": 85.2,
+   "Third Party Sharing/Collection": 6.2,
+   "User Choice/Control": 4.5,
+   "First Party Collection/Use": 1.6,
+   "User Access, Edit & Deletion": 1.1,
+   "Data Security": 0.6,
+   "Data Retention": 0.3,
+   "International & Specific Audiences": 0.2,
+   "Policy Change": 0.2,
+   "Do Not Track": 0.2
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, user choice/control.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros.",
+   "Menciona señales «Do Not Track»."
+  ]
+ },
+ {
+  "document_id": "DOC_00032",
+  "company": "Wallapop",
+  "total_paragraphs": 118,
+  "categorias_predominantes": [
+   "User Choice/Control",
+   "Third Party Sharing/Collection"
+  ],
+  "distribucion_pct": {
+   "Other": 72.9,
+   "User Choice/Control": 11.0,
+   "Third Party Sharing/Collection": 6.8,
+   "Data Retention": 3.4,
+   "International & Specific Audiences": 2.5,
+   "First Party Collection/Use": 1.7,
+   "Data Security": 0.8,
+   "Policy Change": 0.8
+  },
+  "resumen": "La política dedica una parte importante a user choice/control, third party sharing/collection.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Explica el periodo de conservación de los datos.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ },
+ {
+  "document_id": "DOC_00033",
+  "company": "Zalando",
+  "total_paragraphs": 543,
+  "categorias_predominantes": [
+   "Third Party Sharing/Collection",
+   "First Party Collection/Use"
+  ],
+  "distribucion_pct": {
+   "Other": 73.1,
+   "Third Party Sharing/Collection": 14.4,
+   "First Party Collection/Use": 5.2,
+   "User Choice/Control": 4.4,
+   "Data Retention": 1.3,
+   "Data Security": 0.7,
+   "User Access, Edit & Deletion": 0.6,
+   "Policy Change": 0.2,
+   "International & Specific Audiences": 0.2
+  },
+  "resumen": "La política dedica una parte importante a third party sharing/collection, first party collection/use.",
+  "aspectos_destacados": [
+   "Incluye información sobre cookies.",
+   "Incluye referencias a proveedores externos o terceros."
+  ]
+ }
+]
