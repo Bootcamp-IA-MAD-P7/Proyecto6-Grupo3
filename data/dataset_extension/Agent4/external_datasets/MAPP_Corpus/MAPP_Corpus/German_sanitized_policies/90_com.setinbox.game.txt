@@ -1,0 +1,186 @@
+Datenschutzerklärung Für das Projekt UDS stehen die Interessen der Nutzer über allem anderen. Dieses Prinzip ist die Grundlage, auf der wir alle unsere Entscheidungen treffen, darunter bei der Erhebung und Verarbeitung Ihrer personenbezogenen Daten.
+
+Wir haben uns bemüht, diese Datenschutzerklärung möglichst verständlich und transparent darzulegen. Unser Ziel ist es, Ihnen als UDS Nutzer stets das Gefühl der Sicherheit zu geben, wenn es um Datenschutz geht.
+
+Ihr Vertrauen in uns zu erhalten ist ebenfalls eine der Prioritäten von UDS. Zum Schutz der Vertraulichkeit Ihrer personenbezogenen Daten wenden wir die nachstehenden Grundsätze an.
+
+1. Ihre erfassten Daten Die UDS Datenschutzerklärung erstreckt sich auf alle Nutzer der App von UDS App sowie Besucher der Website (im Weiteren „Service-Nutzer"). Sollten Sie bezüglich Ihrer Bereitstellung von Informationen, der Möglichkeit der Darstellung dieser Informationen in den UDS Services oder ihrer sonstigen Verwendung gemäß der vorliegenden Datenschutzerklärung und den Nutzungsbedingungen Bedenken haben oder damit nicht einverstanden sein, so sollten Sie nicht Nutzer der UDS Services werden und unsere Website nicht besuchen.
+
+Die Erhebung personenbezogener Daten erfolgt auf die im Folgenden dargelegte Art und Weise.
+
+1.1. Registrierung und Zugang zu den Services ohne Anlegen eines AccountsMit Ihrer Einrichtung des Accounts in der App von UDS App teilen Sie uns persönliche Daten mit, darunter Ihren Benutzernamen und Ihr Passwort. Sie können ebenfalls eine Telefonnummer oder E-Mail-Adresse angeben. Auch ohne sich einzuloggen können Sie uns auf Wunsch Angaben über sich mitteilen, beispielsweise die E-Mail-Adresse, um News zu unseren Services zu erhalten.
+
+Um einen Account in UDS App anzulegen, benötigen wir wenigstens folgende Daten: Vor- und Nachnamen, Telefonnummer, E-Mail-Adresse, Registrierungsadresse und Passwort. Bei der Registrierung können Sie auch weitere Angaben machen (beispielsweise das Geschlecht, die Region, Stadt und das Geburtsdatum). Diese zusätzlichen Angaben werden verwendet, um Ihnen personalisierte Dienstleistungen anzubieten, z.B. die Anzeige von Profilen, Updates und Inhalten in Ihrer Muttersprache und Empfehlungen für Filialen in der Nähe Ihres Wohnorts bzw. Geschäftssitzes, die Sie interessieren könnten. All dies kann im UDS App Profil angezeigt werden, das anderen Nutzern und Kunden (Inhabern eines UDS CRM-Systems) zur Ansicht zur Verfügung steht. Sie erkennen an, dass Sie durch Ihre Einrichtung eines Accounts UDS App erlauben, die bereitgestellten Daten gemäß den Nutzungsbedingungen zu verwenden.
+
+Wenn Sie sich nicht im App-Account eingeloggt haben, registrieren wir die Informationen, die wir mithilfe eindeutiger Identifikatoren im Zusammenhang mit Browsern, Anwendungen und Geräten erfassen. Dadurch können wir Ihre Einstellungen und andere Daten speichern, damit Sie diese beim nächsten Login nicht erneut angeben müssen.
+
+Wenn Sie sich eingeloggt haben, erfassen und speichern wir im Account Informationen, die wir als persönliche Daten verarbeiten. Selbst wenn Sie sich nicht in Ihren Account eingeloggt haben, haben Sie die Möglichkeit, die Informationen mithilfe Ihres Geräts und Browsers zu verwalten, beispielsweise die bevorzugten Einstellungen.
+
+1.2. Benutzerkontodaten im Backoffice.Sie können Ihrem Benutzerkonto folgende Angaben hinzufügen: Telefonnummer, Postfachadresse und ein Benutzerkonto-Foto.
+
+Wir erfassen auch Inhalte, die Sie anlegen, hochladen oder von anderen Nutzern erhalten, wenn Sie unser Produkt nutzen. Dazu gehören E-Mails, Fotos, die Sie speichern, Dokumente, deren Autor Sie sind, Ihre Kommentare u. dgl.
+
+Wir registrieren Informationen über Browser und Geräte, über die Sie auf die App-Services zugreifen. Dies dient zur Ausführung von Funktionen wie automatischen Updates der App.
+
+Außerdem erfassen wir Daten wie Browser- und Gerätetypen und -einstellungen, Betriebssystem, Mobilfunknetz (einschließlich des Betreibernamens und der Telefonnummer) und die Versionsnummer der App. Außerdem registrieren wir Informationen über die Interaktion Ihrer Anwendungen, Browser und Geräte mit unseren Services, darunter die IP-Adresse, Störungsberichte, Angaben über im System ausgeführte Aktionen, Datum und Uhrzeit Ihres Besuchs unserer Ressource und die URL, über die Sie darauf zugegriffen haben (Weiterleitungs-URL).
+
+Diese Daten erhalten wir, wenn die App von Ihrem Gerät aus Anfragen an unsere Server sendet, zum Beispiel bei der Installation der App aus PlayMarket/AppStore oder beim Überprüfen auf Updates.
+
+In den Benutzerkontoeinstellungen können Sie den Umfang der bereitgestellten personenbezogenen Daten korrigieren und auch Änderungen vornehmen. Darüber hinaus können Sie festlegen, welche Angaben für andere Nutzer der App sichtbar sein sollen. Unter „Mein Konto" können Sie in der App die Informationen verwalten, die mit bestimmten Produkten verbunden sind. In den Account-Einstellungen können Sie Ihre Kontaktdaten verwalten - Hierzu zählen Ihr Name, Geschlecht, E-Mail-Adresse, Telefonnummer sowie weitere Daten.
+
+1.3. Informationen zu Ihrem Ort Wir erfassen Informationen über Ihren Aufenthaltsort, wenn Sie die App nutzen, damit Ihnen Funktionen wie Rabatte in nahegelegenen Cafés oder Geschäften zur Verfügung stehen.
+
+Wir bestimmen Ihren Ort mit höchster Genauigkeit, den Möglichkeiten Ihres Geräts entsprechend, unter Berücksichtigung der folgenden Faktoren: Informationen über Objekte in Ihrem Umfeld, GPS-Daten und MAC-Adresse. Die Arten von Daten über Ihren Aufenthaltsort hängen zum Teil von den Einstellungen Ihres Geräts und Accounts ab. Beispielsweise können Sie auf Ihrem Smartphone oder Tablet die Ortsbestimmungsfunktion ein- oder ausschalten, und in den Account-Parametern den Verlauf der besuchten Orte.
+
+1.4. Support Wenn Sie sich an den Support wenden, erfasst UDS Daten, um Ihre Fragen zu beantworten und die Servicequalität zu erhöhen.
+
+Bei der Kontaktaufnahme mit dem Support erfasst UDS Informationen, die dabei helfen, Fragen zu klassifizieren und zu beantworten, und, falls erforderlich, Fälle von Verstößen gegen die Nutzungsbedingungen oder diese Datenschutzerklärung zu untersuchen. Diese Informationen werden ebenso zur Identifizierung potenzieller Probleme, zur Nachverfolgung von Tendenzen und Steigerung der Qualität der Support-Antworten verwendet.
+
+1.5. Nutzung der UDS Services UDS erfasst Daten, wenn Sie unsere Website besuchen, in den UDS-Anwendungen für Mobilgeräte arbeiten und auf Werbeanzeigen in UDS reagieren.
+
+UDS erfasst Daten, wenn Sie unsere Website oder die App von UDS App nutzen. UDS erfasst Daten, wenn Sie empfohlene Anzeigen ansehen oder darauf klicken, Gruppen oder Teams beitreten, an Befragungen teilnehmen und/oder die mobile App von UDS App installieren.
+
+1.6. Nutzung externer Dienstleistungen und Besuch externer Websites UDS erfasst Daten, wenn Sie über Ihren Account in UDS App zu anderen Websites oder anderen Dienstleistungen wechseln. UDS empfängt Informationen, wenn Sie Ihren Account in UDS App für den Zugang zu einem System auf einer externen Website oder externen Anwendung nutzen.
+
+1.7. Personalisierung Unter „Mein Konto" können Sie einstellen, dass Sie damit einverstanden sind, dass Ihre Daten zur genaueren Personalisierung von Inhalten, darunter zur Relevanzsteigerung der Suchergebnisse und angezeigten Empfehlungen, verwendet werden.
+
+Sie können auswählen, welche Anzeigen Ihnen in der App gezeigt werden sollen. In den Account-Einstellungen können Sie Informationen über sich ändern, die Nutzung Ihrer persönlichen Informationen zur Auswahl von Werbeinhalten erlauben oder verbieten sowie einige Werberessourcen blockieren.
+
+1.8. Verlaufsdateien, IP-Adressen und Informationen über Computer oder Mobilgeräte UDS erfasst Daten von Geräten und Netzwerken, über die Sie sich mit UDS verbinden. Diese Informationen tragen zur Steigerung der Qualität und Sicherheit der Dienstleistungen und Produkte bei.
+
+2. Zweck der Datenerhebung Wir halten es für notwendig, Sie darüber zu informieren, dass Kunden zur Validierung von Belegen mit Mitteln die Möglichkeit der Integration der App von UDS App mit externen Services haben. In diesem Fall übertragen wir als Service bei bargeldloser Zahlung die weitere Interaktion externen Services, die Zugriff auf Ihre Zahlungsdaten erhalten können. Der UDS Service selbst erfasst keine Kreditkartendaten von Nutzern.
+
+UDS erfasst Nutzerdaten, um die Nutzung unserer Services noch bequemer zu gestalten. So können wir nicht nur bestimmen, in welcher Sprache Sie Ihre Frage gestellt haben, sondern lösen auch komplexere Aufgaben, treffen zum Beispiel die Auswahl geeigneter Orte und Geschäfte und finden Links zu Materialien, die für Sie interessant sind. Welche Art von Daten wir erfassen, hängt davon ab, wie Sie die App nutzen und welche Datenschutzeinstellungen in ihrem Account vorgegeben sind.
+
+Wir können auch Informationen über Sie von bevollmächtigten Personen erhalten. Zu diesen zählen Partner, die uns Angaben zu potenziellen Kunden unserer App bereitstellen, und Mitarbeiter der Sicherheitsabteilung, die uns in Fragen der Missbrauchsprävention beraten. Außerdem geben Werbekunden bestimmte Informationen an uns weiter, die für Marketingstudien und Anzeigen benötigt werden.
+
+Zum Empfang und Speichern von Daten nutzen wir unterschiedliche Technologien wie z.B. Cookie-Dateien und lokale Datenspeicher.
+
+Bei unseren Servicefunktionen verwenden wir ebenfalls persönliche Nutzerdaten, die dabei helfen, Ihre Suchanfragen zu verarbeiten. Diese Informationen sind unter anderem notwendig, um die stabile Funktion der Services und ihre Optimierung zu gewährleisten, durch die Systemfehler und -störungen nachverfolgt werden können.
+
+Ohne Ihre Einwilligung geben wir weder Ihre E-Mail-Adresse noch andere persönliche Daten (z.B. Ihre Telefonnummer oder Ihren Vornamen) für Werbezwecke weiter. Die Fälle, in denen entsprechende Ausnahmen gelten, sind in der Datenschutzerklärung festgelegt. Wir verwenden persönliche Daten wie die E-Mail-Adresse für die Kommunikation mit Ihnen. Beispielsweise können wir Benachrichtigungen über verdächtige Versuche, über neue Geräte auf den Account zuzugreifen, und Änderungen bei unseren Produkten versenden.
+
+Wenn Sie uns kontaktieren, werden Ihre Mitteilungen gespeichert, damit wir Ihr Problem schneller lösen können. Die von uns erfassten Informationen sind für die Zuverlässigkeit und zur Gewährleistung der Sicherheit unseres Service wichtig. Dadurch können wir Bedrohungen rechtzeitig erkennen und isolieren, damit niemand böswillig an der App oder bei ihren Nutzern Schaden anrichten kann.
+
+3. Übermittlung von Daten an Dritte UDS schützt Ihre personenbezogenen Daten und gibt sie nur in den Fällen an Dritte weiter, die in dieser Datenschutzerklärung ausdrücklich vorgesehen sind: 1. wenn Sie uns Ihr Einverständnis oder entsprechende Anweisungen gegeben haben;2. wenn dies notwendig ist, um Ihre Anweisungen auszuführen; 3. wenn dies nötig ist, um Ihnen die Dienstleistungen und Funktionen der Services bereitzustellen, in den Fällen und zu den Zwecken, die in dieser Datenschutzerklärung festgelegt sind. Beispielsweise übermitteln wir Ihre Daten zum Aufenthaltsort und Ihre eindeutigen Identifikatoren an Google Services, wenn Sie die Google Maps besuchen, damit Google die Entfernung zum gewählten Unternehmen berechnen kann;4. in Übereinstimmung mit den gesetzlichen Anforderungen; 5. um die Bestimmungen der UDS Nutzungsbedingungen durchzusetzen, oder zum Schutz der Rechte, des Eigentums und der Sicherheit von UDS, der Teilnehmer oder der Öffentlichkeit.
+
+3.1. Wozu wir Ihre Daten übermitteln Um die Tendenzen der Nutzung unseres Service zu analysieren, können wir Ihre personenbezogenen Daten an andere Personen wie z.B. Kunden (Inhaber von UDS CRM-Systemen), externe Hilfsservices (wie z.B. google maps und sdk), verschiedene Social Media Netzwerke (zu Autorisierungszwecken), Entwickler und Rechtinhaber weitergeben. In diesem Fall dienen alle weitergegebenen Informationen statistischen Zwecken und werden aggregiert weitergegeben. Zudem erlauben wir einzelnen Partnern, mithilfe eigener Cookie-Dateien oder anderen Technologien Informationen aus Ihrem Browser oder Gerät zu erfassen und sie dafür zu verwenden, empfohlene Inhalte anzuzeigen und deren Effizienz zu bewerten. Diese Erfassung von Informationen ist in der Datenschutzerklärung jedes einzelnen Partners geregelt.
+
+3.2 Um zu gewährleisten, dass wir Ihnen unsere Dienstleistungen anbieten können, übermitteln wir Ihre personenbezogenen Daten:an Kunden.
+
+Dies ist nötig, damit Sie Rabatte und Zugriff auf die Produkte von Unternehmen erhalten können. Jedes Unternehmen, das in unserem System registriert ist, um an Treueprogrammen teilzunehmen, hat Zugriff auf Ihre in Ihrem Profil veröffentlichten Daten.
+
+an externe Hilfsservices und Partner, die gewährleisten, dass unsere Services stabil funktionieren: Daten über Ihren Aufenthaltsort werden an Google weitergegeben, um die Funktion des Service und die Erstellung der Route zum gewählten Unternehmen zu gewährleisten.
+
+Zur Datenanalyse und Verbesserung unserer Services nutzen wir ebenfalls Services wie Google Analytics und Crash-Services, welche Zugriff auf die von Ihnen ausgeführten Aktionen erhalten, die sich bestimmte Folgen haben, die analysiert werden sollen. Beispielsweise bei unerwarteten Fehlern in der App versenden wir einen Bericht über die letzten Aktionen, um zu verhindern, dass derartige Fehler erneut auftreten.
+
+Social Media Netzwerke erhalten Daten zu Ihrer Registrierung in unserer App, wenn Sie über sie auf unsere Services zugreifen.
+
+Damit wir Ihnen PUSH-Mitteilungen senden können, nutzen wir Hilfsservices, die Zugriff auf Ihre Daten erhalten und Ihnen mit Ihrer Erlaubnis Benachrichtigungen senden.
+
+an verbundene Personen von UDS, die keine direkten Verarbeiter Ihrer Daten sind, sofern dies für die Bereitstellung der Dienstleistungen erforderlich ist.
+
+Um zusätzliche Funktionen auszuführen, zum Beispiel um Ihrem persönlichen Konto einen Avatar hinzuzufügen, können Sie ein Bild hochladen. Hierfür benötigt der entsprechende Service Zugriff auf Ihre Bilderbibliothek.
+
+Um ihre Leistungen effizienter anbieten zu können, haben Kunden die Option, bargeldlose Zahlungsmethoden zu integrieren. Wenn Sie eine bargeldlose Zahlung vornehmen, erfolgt diese über externe Services, die Zugriff auf Ihre Zahlungsdaten erhalten können.
+
+3.3 Bereitstellung von Daten im Rahmen von Gerichtsverfahren und in sonstigen gesetzlich vorgesehenen FällenUDS kann Ihre personenbezogenen Daten auf Aufforderung eines Gerichts oder gemäß den Auflagen eines sonstigen rechtlichen Verfahrens, und ebenso in Fällen, in denen dies für die Durchsetzung von Bestimmungen der Nutzungsbedingungen erforderlich ist, weitergeben.
+
+Es sind Situationen denkbar, in denen UDS verpflichtet ist, personenbezogene Daten, in Ihrem Profil angegebene Informationen und/oder Angaben zu Ihrer Aktivität als Teilnehmer von UDS auf Aufforderung eines Gerichts oder gemäß den Auflagen eines sonstigen rechtlichen Verfahrens weiterzugeben, und ebenso in Fällen, in denen UDS Grund zur Annahme hat, dass die Offenlegung von Informationen für folgende Zwecke erforderlich ist: 1. für Untersuchungen und Ermittlungen, zur Abwehr von oder Ergreifung von Maßnahmen gegen vermutete oder konkrete Rechtsverletzungen oder zur Unterstützung staatlicher Strafverfolgungsbehörden;2. zur Durchsetzung der Bestimmungen der Nutzungsbedingungen, zur Untersuchung beliebiger Klagen oder Anschuldigungen Dritter und zum Schutz vor diesen oder zur Gewährleistung der Sicherheit und Unversehrtheit von UDS;3. zur Wahrnehmung oder zum Schutz der Rechte, des Eigentums oder der Sicherheit von UDS, Teilnehmern und Mitarbeitern von UDS oder anderer Personen.
+
+Wir können Ihre persönlichen Informationen an juristische und natürliche Personen weitergeben, die mit UDS nicht in Verbindung stehen, falls wir in gutem Glauben annehmen, dass diese Personen das Recht haben, diese Informationen aus folgenden Gründen zu erhalten, verwenden, speichern oder offenzulegen: − zur Einhaltung gesetzlicher Anforderungen und zur Umsetzung oder gerichtlichen Durchsetzung gerichtlicher Beschlüsse und Entscheidungen;− auf Anfrage staatlicher Behörden (Angaben zu Anzahl und Art dieser Anfragen veröffentlichen wir im Bericht über die Verfügbarkeit von Services und Daten);− wenn dies nötig ist, um die Einhaltung der Nutzungsbedingungen gerichtlich durchzusetzen oder mögliche Verstöße gegen diese zu untersuchen;− zur Unterbindung identifizierter Betrugsfälle oder zur Bearbeitung diesbezüglicher Arten von Anfragen zur Beseitigung von technischen Fehlern oder Sicherheitsproblemen;− wenn sie Rechte, das Eigentum oder die Sicherheit von UDS, unserer Nutzer oder der Öffentlichkeit im Einklang mit gesetzlichen Anforderungen und auf Grundlage der ihnen per Gesetz eingeräumten Befugnisse schützen.
+
+Falls UDS in eine Transaktion zur Fusion, Übernahme oder Veräußerung von Aktiva involviert wird, werden wir dennoch weiterhin die Vertraulichkeit aller personenbezogenen Daten gewährleisten. Wir werden ebenso alle interessierten Nutzer informieren, falls ihre persönlichen Informationen an eine andere Organisation übermittelt werden oder einer anderen Datenschutzerklärung unterfallen.
+
+3.4. Offenlegung von Informationen gegenüber anderen Personen infolge eines Kontrollwechsels über die Website von UDS oder seinen VerkaufFindet ein Kontrollwechsel statt oder wird UDS vollständig oder teilweise verkauft, so kann UDS Ihre Daten Dritten zur Verfügung stellen, die das Recht zur Nutzung solcher Informationen gemäß der vorliegenden Datenschutzerklärung erlangen.
+
+Ebenso kann UDS bei einem Verkauf von Aktiva von UDS sowie bei einem Wechsel der Kontrolle über das Unternehmen oder eine seiner verbundenen Personen, oder auch bei der Vorbereitung auf diese Verfahren, Ihre personenbezogenen Daten Dritten zur Verfügung stellen. Beliebige Dritte, denen UDS seine Aktiva überträgt oder verkauft, erlangen das Recht, die von Ihnen bereitgestellten personenbezogenen und sonstigen Informationen entsprechend dieser Datenschutzerklärung weiter zu nutzen.
+
+4. Schutz Ihrer personenbezogenen Daten Im Einklang mit den Branchenstandards wendet UDS eine Reihe von Maßnahmen zum Schutz Ihrer Daten an.
+
+Der Schutz der personenbezogenen Daten unserer Nutzer hat für uns oberste Priorität. Zu Datenschutzzwecken und unter Berücksichtigung der Anforderungen der DSGVO (Datenschutzgrundverordnung; EU-Verordnung 2016/679 vom 27.04.16), die am 25. Mai 2018 in Kraft getreten ist und dazu dient, interessierten Personen eine zuverlässigere und effektivere Kontrolle über ihre Daten zu bieten, verpflichtet sich UDS, die Rechte aller Nutzer aufgrund europäischer und jeglicher sonstigen anwendbaren Datenschutzgesetze zu achten, auf deren Grundlage UDS tätig ist.
+
+Wir tun alles in unserer Macht Stehende dafür, UDS und unsere Nutzer vor unbefugten Zugriffsversuchen, Änderungen, Offenlegungen oder Vernichtungen der bei uns gespeicherten Daten zu schützen. Unter anderem wenden wir folgende Maßnahmen an: • um die Vertraulichkeit der Daten bei ihrer Weitergabe zu wahren, verwenden wir Verschlüsselungsmethoden;• für Accounts wenden wir besondere Schutzmechanismen wie z.B. geschützte Ansicht, Sicherheitsprüfung und 2-Schritt-Authentifizierung an; • um unbefugte Zugriffe auf unser System zu verhindern, verbessern wir laufend die Erfassung, Speicherung und Verarbeitung der Daten; • wir beschränken den Zugriff auf persönliche Informationen, darunter für unsere Mitarbeiter, die strengen Vertraulichkeitspflichten unterliegen und denen bei einem Verstoß Sanktionen oder Entlassung drohen.
+
+5. Änderungen der Datenschutzerklärung UDS kann von Zeit zu Zeit Änderungen an der vorliegenden Datenschutzerklärung vornehmen. Falls wir wesentliche Änderungen vornehmen, veröffentlicht UDS eine entsprechende Mitteilung auf seiner Website, in den Apps und anderen Dienstleistungen (im Weiteren „UDS" oder die „Dienstleistungen") oder benachrichtigt Sie auf andere Weise, damit Sie sich mit diesen Änderungen vertraut machen können, bevor Sie weiter mit UDS arbeiten.
+
+Wenn Sie mit irgendwelchen Änderungen nicht einverstanden sind, können Sie Ihren Account löschen. Wenn Sie nach der Veröffentlichung oder Verbreitung der Mitteilung über Änderungen an dieser Datenschutzerklärung weiterhin mit UDS arbeiten, bedeutet dies, dass Sie den vorgenommenen Änderungen zustimmen.
+
+6. Datenspeicherung Wir speichern und verarbeiten Ihre personenbezogenen Daten auf Servern in verschiedenen Ländern der EU, in denen sich unsere Vertretungen bzw. Dienstleister befinden.
+
+Indem Sie diese Datenschutzerklärung annehmen, stimmen Sie derartigen Übermittlungen, Verarbeitungen und Speicherungen von Daten zu. Wir unternehmen alle notwendigen Schritte, um die zuverlässige Verarbeitung Ihrer personenbezogenen Daten im Einklang mit der vorliegenden Datenschutzerklärung zu gewährleisten. Dritte, an die personenbezogene Daten übermittelt werden können, um sicherzustellen, dass unsere Services funktionieren, können Ihren Sitz in anderen Ländern haben, in denen die Gesetze zur Verarbeitung personenbezogener Daten möglicherweise weniger streng sind als in Ihrem Land. Bisweilen können personenbezogene Daten außerdem an anderen Orten gespeichert werden, und in diesen Fällengarantieren wir ein angemessenes Schutz- und Sicherheitsniveau bei der Speicherung und Verarbeitung der personenbezogenen Daten.
+
+Bei der grenzüberschreitenden Übermittlung von Daten erfolgt diese ausschließlich in Übereinstimmung mit den gesetzlichen Anforderungen in Länder und an Dienstleister, die ein den Anforderungen der EU genügendes Schutzniveau der personenbezogenen Daten gewährleisten.
+
+7. Cookie-Dateien UDS verwendet Cookie-Dateien zur Personalisierung aller Möglichkeiten von UDS und um Ihnen relevante Anzeigen zu zeigen. UDS verwendet Cookie-Dateien und analoge Technologien, darunter Identifikatoren von Mobilgeräten, um Sie zu identifizieren, die Arbeit mit UDS noch bequemer zu machen, die Sicherheit zu erhöhen, die Nutzung der Dienstleistungen zu analysieren und Anzeigen zu zeigen. Wenn Sie auf die Website gehen, fordern wir Sie auf, sich über die Verwendung von Cookie-Dateien zu informieren und dieser zuzustimmen. Indem Sie die Bedingungen durch Klicken auf das Banner annehmen und die Website weiterhin nutzen, erklären Sie sich mit der Speicherung von Cookie-Dateien und Zählpixeln in Ihrem Browser gemäß dieser Datenschutzerklärung einverstanden.
+
+8. Sonstiges UDS arbeitet kontinuierlich an der Steigerung der Qualität seiner Dienstleistungen und Produkte, und das bedeutet, dass mit der Zeit neue Methoden der Datenerfassung implementiert werden können. UDS behält sich das Recht vor, neue Funktionen zu implementieren, von denen einige zur Datenerfassung verwendet werden können. In diesem Fall werden wir Sie gesondert über eingeführte Änderungen informieren.
+
+9. Zustimmung zur Verarbeitung der personenbezogenen Daten Bei der Registrierung im UDS Netzwerk erklären Sie sich damit einverstanden, dass die Informationen, die Sie in Ihrem Profil angeben, anderen Teilnehmern zur Verfügung stehen und in Übereinstimmung mit der Datenschutzerklärung und den Nutzungsbedingungen verwendet werden.
+
+Mit der Übermittlung personenbezogener Daten an UDS beim Anlegen oder Aktualisieren des Benutzerkontos und Profils stimmen Sie der Vereinbarung von UDS freiwillig und ausdrücklich zu. Ihre Übermittlung von Informationen an UDS, einschließlich beliebiger Informationen, die aufgrund der anwendbaren Datenschutzgesetze als vertraulich gelten, geschieht vollkommen freiwillig. Die Verantwortung für die Richtigkeit dieser Informationen trägt allein die Person, die den Account registriert.
+
+Beim Erstellen eines persönlichen Kontos hat der Nutzer derzeit eine begrenzte Reihe von Interaktionsmöglichkeiten mit ihm, nämlich: Er hat die Möglichkeit, seine Daten zu ändern, Inhalte zu löschen und den Account zu schließen.
+
+Die Schließung des Accounts bedeutet jedoch nicht, dass dieser gelöscht wird und alle damit auch personenbezogenen Daten, die über diesen Nutzer erfasst wurden. Als registrierter Nutzer müssen Sie von Ihrem Widerrufsrecht Gebrauch machen, um diese Zustimmung zurückzunehmen, indem Sie Ihren Account löschen, und als nicht registrierter Nutzer der App oder Website von Ihrem Recht, Daten zu löschen, indem Sie uns über den Support oder auf andere Weise kontaktieren.
+
+Wenn Sie sich in die App einloggen, ohne ein Benutzerkonto zu registrieren, fordern wir Sie auf, die Bedingungen der vorliegenden Datenschutzerklärung anzunehmen. Indem Sie diesen Bedingungen zustimmen und die App weiterhin nutzen, erteilen Sie uns Ihre Zustimmung zur Verarbeitung der personenbezogenen Daten.
+
+Daten zu einem nicht registrierten Nutzer können aufgrund dessen, dass er über ein eindeutiges Gerät (PC, Telefon usw.) identifiziert wurde, gelöscht werden.
+
+10. Mitteilungen und Benachrichtigungen von UDS UDS interagiert mit Ihnen durch Versenden von Mitteilungen und E-Mails sowie auf andere Weise. UDS kann Ihnen beispielsweise Mitteilungen im Zusammenhang mit der Verfügbarkeit der Dienstleistungen und Produkte, Sicherheit und anderen Aspekten der Bereitstellung der Dienstleistungen und Produkte senden.
+
+Zur Kontaktaufnahme mit Ihnen können E-Mails, Benachrichtigungen auf unserer Website sowie sms-Mitteilungen verwendet werden.
+
+11. Ihre Verantwortung für die Aufbewahrung der UDS-ID und des PasswortsSie sind für die Unversehrtheit der UDS-Identifikationsnummer (UDS-ID) und Ihres UDS-Passworts, mit denen Sie Zugang zu unseren Dienstleistungen und Services erhalten, verantwortlich. Sie müssen uns rechtzeitig mitteilen, falls Sie eine unbefugte Verwendung Ihrer UDS-ID und Ihres Passworts durch Dritte vermuten. Da Ihre UDS-ID und Ihr Passwort eindeutig sind, erkennen Sie an, dass ausschließlich Sie für die vollständige oder teilweise Nutzung unserer Dienstleistungen mithilfe Ihrer UDS-ID verantwortlich sind.
+
+12. Minderjährige Personen unter 18 Jahren gelten als Minderjährige und sind nicht berechtigt, am Marketingplan von UDS teilzunehmen und Geldmittel als Belohnung für die Empfehlung der Dienstleistungen unseres Unternehmens zu erhalten. Nutzer haften persönlich für Verstöße gegen die vorliegende Klausel sowie bei Irreführung des Unternehmens in Bezug auf das eigene Alter durch Falschangaben bei der Registrierung.
+
+13. Inhalte Sie tragen die Verantwortung für jegliche Informationen, die Sie auf unserer Website veröffentlichen. Diese Informationen werden für andere Teilnehmer verfügbar.
+
+Welche Sie Inhalte auf der Website teilen oder einen Blog oder sonstige Daten importieren, müssen Sie berücksichtigen, dass die veröffentlichten Daten von anderen Teilnehmern der entsprechenden Foren sowie von Entwicklern und externen Organisationen gelesen, erfasst oder verwendet werden können.
+
+UDS haftet nicht für Informationen, die Sie in diesen Foren veröffentlichen. Inhalte in UDS Gruppen können zur freien Ansicht und Suche über das Internet zur Verfügung stehen. Andere Teilnehmer können die von Ihnen veröffentlichten Angaben kopieren und verwenden.
+
+14. Rechte und Pflichten der Teilnehmer 14.1. Recht auf Verwaltung der personenbezogenen Daten und Schließung des AccountsSie können Ihre Daten in UDS App jederzeit ändern, indem Sie Änderungen an Ihrem Account vornehmen. Sie können ebenfalls zusätzliche Angaben über Ihr Benutzerkonto erfragen, über die UDS verfügen kann.
+
+14.2. Sie können Informationen aus Ihrem Account löschen wie auch dorthin importieren, falls Sie eine Kopie benötigen oder Sie diese Daten in einem anderen Service nutzen möchten.
+
+Die Löschung von Daten funktioniert folgendermaßen: - bestimmte Materialien aus dem Account können mithilfe der Einstellungen gelöscht werden;- der Account kann als Ganzes gelöscht werden.Schließlich kann unsere App anderen Personen Zugriff auf bestimmte Funktionen Ihres Accounts gewähren, was in dem Fall von Vorteil ist, wenn Sie sich aus irgendwelchen Gründen nicht einloggen können.
+
+14.3. Selbst wenn Sie sich nicht in Ihren Account eingeloggt haben, können Sie dennoch in gewissem Maße kontrollieren, welche Daten über Sie wir erfassen. Hierzu zählen folgende: - Browsereinstellungen. Beispielsweise können Sie festlegen, dass beim Speichern einer Cookie-Datei eine Benachrichtigung erscheint, oder das Speichern von Cookie-Dateien verbieten. Allerdings ist zu berücksichtigen, dass derartige Dateien für die reibungslose Funktion unserer App erforderlich sind, beispielsweise damit Sie nicht jedes Mal die Sprache und sonstige Parameter erneut angeben müssen.
+
+- Einstellungen auf Gerätebene. Auf Ihrem Computer, Smartphone oder Tablet können eigene Einstellungen zur Erfassung von Daten vorgesehen sein. Zum Beispiel ist es bei Android-Geräten möglich, Regeln für die Verarbeitung von Informationen zu Ihrem Ort festzulegen.
+
+14.4. Sie können jederzeit Ihre Zustimmung zur Verarbeitung personenbezogener Daten widerrufen und Ihren Account löschen.
+
+14.5. Außerdem haben Sie das Recht, eine Beschwerde über eine Verletzung Ihrer Rechte an uns oder die entsprechende Kontrollbehörde an Ihrem Wohnort bzw. Sitz zu richten.
+
+14.6. Sie haben das Recht, vollständige Informationen über Ihre erfassten und übermittelten Daten zu erhalten.
+
+14.7. Falls erforderlich können Sie von uns die Übertragung aller Ihrer personenbezogenen Daten an Dritte verlangen.
+
+14.8. In den gesetzlich vorgesehenen Ausnahmefällen haben Sie Anspruch darauf, dass die Verarbeitung der personenbezogenen Daten eingestellt wird.
+
+15. Pflichten der Teilnehmer Sie sind verpflichtet, die Bestimmungen der Nutzungsbedingungen einzuhalten.
+
+Als Teilnehmer haben Sie bestimmte Pflichten gegenüber anderen Teilnehmern. Einige davon sind durch entsprechende Gesetze und Normativakte geregelt.
+
+Sie sind verpflichtet, alle Bedingungen und Bestimmungen dieser Datenschutzerklärung und der Nutzungsbedingungen einzuhalten. Unter anderem müssen Sie alle Rechte an geistigem Eigentum (beispielsweise Warenzeichen oder Fotos) achten, die Dritten gehören könnten.
+
+Sie sind nicht berechtigt, irgendwelche Informationen hochzuladen oder auf sonstige Weise zu verbreiten, die Rechte anderer Teilnehmer verletzen könnten oder als gefährlich, gewaltverherrlichend, beleidigend, Rassismus oder Fremdenfeindlichkeit propagierend eingestuft werden könnten oder auch auf sonstige Weise dem Zweck und Geist von UDS entgegenstehen.
+
+Sie sind verpflichtet, Ihre Benutzerkontodaten (E-Mail-Adresse und Passwort), mit denen Sie Zugang zum System erhalten, geheim zu halten und keinen Dritten mitzuteilen.
+
+Bei Nichterfüllung der vorstehend angegeben Pflichten kann UDS die Funktion des Accounts einseitig einschränken und/oder zeitweilig oder endgültig einstellen.
+
+16. Datenspeicherung UDS speichert Ihre Daten, solange Ihr Benutzerkonto aktiv ist oder solange dies erforderlich ist. Beispielsweise kann UDS bestimmte Informationen auch nach der Löschung des Benutzerkontos weiterhin speichern, falls dies erforderlich ist, um gesetzliche Anforderungen zu erfüllen, Streitigkeiten beizulegen, Betrug oder Missbrauch zu verhindern, sowie um die Bestimmungen dieser Datenschutzerklärung zu gewährleisten.
+
+UDS speichert die von Ihnen bereitgestellten personenbezogenen Daten, solange Ihr Benutzerkonto existiert oder solange dies erforderlich ist, um Ihnen Dienstleistungen zu erbringen. UDS kann Ihre personenbezogenen Daten auch nach der Schließung des Benutzerkontos weiterhin speichern, falls dies erforderlich ist, um gesetzliche Anforderungen zu erfüllen, Streitigkeiten zwischen Teilnehmern beizulegen, Betrug oder Missbrauch zu verhindern, sowie um die Bestimmungen dieser Datenschutzerklärung zu gewährleisten. UDS kann die personenbezogenen Daten über einen beschränkten Zeitraum gemäß den gesetzlichen Anforderungen speichern. Der UDS Support kann Informationen solange speichern wie es notwendig ist, um Berichte und Analysen bezüglich der Funktion dieses Service zu erhalten. Personenbezogene Daten von Nutzern, die sich nicht in ihr Benutzerkonto eingeloggt haben, werden 12 Monate lang zur Analyse der Verhaltensaktivität gespeichert. In diesem Fall ist die Identifikation der Daten dieser Nutzer an das Gerät geknüpft, von dem aus der Nutzer in die App geht. Die Speicherung der personenbezogenen Daten dieser Nutzer endet mit der Löschung der App.
+
+17. Wichtige Information 17.1. Änderungen an der Datenschutzerklärung Bei Vornahme von Änderungen an dieser Datenschutzerklärung werden Sie von UDS entsprechend benachrichtigt.
+
+UDS kann bisweilen Änderungen an dieser Datenschutzerklärung vornehmen. Falls wir wesentliche Änderungen im Zusammenhang mit der Verarbeitung personenbezogener Daten oder der Datenschutzerklärung vornehmen, können Sie diese auf der offiziellen Website nachlesen. Wir empfehlen Ihnen, die vorgenommen Änderungen aufmerksam zu lesen. Sollten Sie mit irgendwelchen Änderungen nicht einverstanden sein und UDS App künftig nicht mehr verwenden wollen, müssen Sie Ihren Account schließen. Soweit nichts anderes angegeben ist, erstreckt sich diese Datenschutzerklärung auf alle Daten über Sie und Ihr Benutzerkonto, über die UDS verfügt.
+
+17.2. Haftung und Benachrichtigung bei Verstößen UDS legt großen Wert auf Sicherheits- und Datenschutzaspekte. Nichtsdestotrotz sollten Sie daran denken, dass das Internet eine unsichere Umgebung ist. Seien Sie vorsichtig und verwenden Sie nur sichere Passwörter. Es gibt keine Garantien dafür, dass Informationen infolge dessen nicht gelesen, offengelegt, geändert oder vernichtet werden, weil irgendwelche physischen, technischen und administrativen Schutzmaßnahmen versagen oder überwunden werden. Sie sind dafür verantwortlich, die Sicherheit Ihrer Anmeldedaten zu gewährleisten. E-Mails, Sofortnachrichten und ähnliche Kommunikationsmittel mit anderen UDS Teilnehmern werden nicht verschlüsselt. Deswegen sollten Sie keine vertraulichen Informationen mit diesem Mitteln weitergeben. Um die Sicherheit des Benutzerkontos zu gewährleisten, sollten Sie ein zuverlässiges Passwort verwenden. Die Sicherheit Ihrer personenbezogenen Daten betrachten wir als verantwortungsvolle Aufgabe und informieren aufgrund der geltenden Normen die Aufsichtsbehörden innerhalb von 72 Stunden, falls personenbezogene Daten verloren gehen. Sollte eine derartige Situation eintreten, werden Sie von ebenfalls unverzüglich informiert.
+

@@ -1,0 +1,30 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+36,1,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,2,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,3,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,4,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit', 'Choice Type (opt)_Opt-in']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,5,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other', 'Collection Process_Directly received from third party', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,6,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,7,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,8,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Location', 'Information Type_Unspecified', 'Legal Basis for Collection_Consent']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,9,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Other users'],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,10,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_Social media data', 'Third-Party Entity_Other users']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,11,['Third Party'],"['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Third-Party Entity_Unnamed third party']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,12,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,13,['Third Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Service operation and security']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,14,['Third Party'],['Third-Party Entity'],['Information Type_Unspecified'],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,15,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,16,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,17,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,18,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,19,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,20,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,21,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,22,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,23,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,24,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://supercell.com/en/privacy-policy/de/,True
+36,25,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,26,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,27,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,28,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True
+36,29,[],[],[],TEST,https://supercell.com/en/privacy-policy/de/,True

@@ -1,0 +1,59 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+112,1,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,2,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,3,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,4,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,5,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,6,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Legal requirement']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,7,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Health, genetic, or biometric data', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,8,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Social media data', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other', 'Collection Process_Entered by user on third-party website/app', 'Collection Process_Unspecified', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,9,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Anonymization (opt)']","['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Collection Process_Shared by first party with a third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,10,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_Computer information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,11,['Third Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Unspecified', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,12,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_Computer information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Optional service or feature', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,13,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_Computer information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,14,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Merger or acquisition', 'Purpose_Other', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,15,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,16,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,17,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,18,['Third Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Merger or acquisition', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,19,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,20,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,21,['First Party'],"['Legal Basis for Collection', 'Choice Type (opt)']",['Legal Basis for Collection_Consent'],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,22,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,23,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,24,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,25,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,26,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,27,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,28,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,29,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,30,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,31,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,32,['Third Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Location', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,33,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,34,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,35,[],['Information Type'],"['Information Type_Contact information', 'Information Type_Personal identifier']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,36,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,37,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,38,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,39,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Third-Party Entity_Named third party']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,40,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,41,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,42,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,43,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,44,['Third Party'],[],"['Information Type_Unspecified', 'Purpose_Unspecified', 'Collection Process_Unspecified']",TRAIN,https://www.nbcuniversal.com/privacy,False
+112,45,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,46,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,47,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,48,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,49,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,50,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,51,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,52,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,53,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,54,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,55,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,56,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,57,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False
+112,58,[],[],[],TRAIN,https://www.nbcuniversal.com/privacy,False

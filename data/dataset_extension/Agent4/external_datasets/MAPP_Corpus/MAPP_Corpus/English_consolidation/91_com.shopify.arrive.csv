@@ -1,0 +1,25 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+91,1,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,2,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,3,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,4,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.shopify.com/legal/privacy,True
+91,5,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,6,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.shopify.com/legal/privacy,True
+91,7,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,8,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.shopify.com/legal/privacy,True
+91,9,[],['Choice Type (opt)'],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,10,['First Party'],"['Information Type', 'Purpose', 'Collection Process']",['Collection Process_Collected on first-party website/app'],TRAIN,https://www.shopify.com/legal/privacy,True
+91,11,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,12,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,13,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,14,['Third Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://www.shopify.com/legal/privacy,True
+91,15,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.shopify.com/legal/privacy,True
+91,16,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,17,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,18,['Third Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.shopify.com/legal/privacy,True
+91,19,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,20,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.shopify.com/legal/privacy,True
+91,21,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,22,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,23,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True
+91,24,[],[],[],TRAIN,https://www.shopify.com/legal/privacy,True

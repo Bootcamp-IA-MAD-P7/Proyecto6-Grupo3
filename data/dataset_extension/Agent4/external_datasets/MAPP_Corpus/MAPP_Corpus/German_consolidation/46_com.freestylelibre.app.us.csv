@@ -1,0 +1,118 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+46,1,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,2,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,3,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,4,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Implicit']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,5,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,6,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,7,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,8,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,9,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,10,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,11,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,12,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,13,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,14,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,15,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,16,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,17,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,18,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,19,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,20,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,21,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,22,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Purpose_Analytics or research']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,23,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,24,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,25,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,26,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,27,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Contact information', 'Third-Party Entity_Unnamed third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,28,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Information Type_Unspecified']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,29,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Collection Process_Collected on first-party website/app']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,30,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,31,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,32,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,33,['First Party'],"['Purpose', 'Anonymization (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,34,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,35,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,36,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,37,['First Party'],"['Information Type', 'Purpose']","['Information Type_Demographic data', 'Information Type_Other']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,38,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,39,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Computer information', 'Information Type_Other']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,40,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,41,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Other']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,42,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,43,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,44,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,45,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,46,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,47,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,48,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,49,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Analytics or research'],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,50,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Location', 'Third-Party Entity_Named third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,51,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,52,['Third Party'],"['Third-Party Entity', 'Anonymization (opt)', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Anonymization (opt)_Aggregated or anonymized', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,53,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Optional service or feature', 'Purpose_Merger or acquisition', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,54,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,55,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,56,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,57,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,58,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,59,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,60,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,61,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,62,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,63,[],"['Information Type', 'Purpose']","['Information Type_Health, genetic, or biometric data', 'Information Type_Contact information', 'Information Type_Generic personal information', 'Purpose_Analytics or research']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,64,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Health, genetic, or biometric data', 'Purpose_Analytics or research', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,65,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,66,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,67,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,68,"['First Party', 'Third Party']","['Information Type', 'Purpose']","['Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,69,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,70,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,71,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,72,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,73,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,74,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,75,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,76,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,77,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,78,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,79,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,80,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,81,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,82,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,83,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,84,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,85,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,86,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,87,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,88,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,89,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,90,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,91,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,92,['Third Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,93,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,94,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,95,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,96,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,97,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,98,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,99,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,100,['First Party'],"['Information Type', 'Purpose']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,101,['First Party'],"['Information Type', 'Purpose']","['Information Type_Health, genetic, or biometric data', 'Purpose_Analytics or research']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,102,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,103,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Analytics or research']",TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,104,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,105,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,106,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,107,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,108,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,109,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,110,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,111,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,112,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,113,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,114,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,115,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,116,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False
+46,117,[],[],[],TRAIN,https://freestyleserver.com/Payloads/Mobile/fsllPrivacyNotice/DOC38902-006_rev-B_de-DE.html,False

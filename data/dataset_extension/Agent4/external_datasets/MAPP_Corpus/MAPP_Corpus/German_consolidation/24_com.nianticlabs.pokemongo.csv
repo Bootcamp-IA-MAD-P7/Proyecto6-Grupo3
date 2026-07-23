@@ -1,0 +1,64 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+24,1,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,2,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,3,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,4,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,5,['First Party'],"['Information Type', 'Choice Type (opt)']",['Choice Type (opt)_Other'],TEST,https://nianticlabs.com/privacy/de/,False
+24,6,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TEST,https://nianticlabs.com/privacy/de/,False
+24,7,['First Party'],"['Information Type', 'Collection Process', 'Choice Type (opt)']","['Collection Process_Entered by user on third-party website/app', 'Collection Process_Directly received from third party']",TEST,https://nianticlabs.com/privacy/de/,False
+24,8,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Generic personal information'],TEST,https://nianticlabs.com/privacy/de/,False
+24,9,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TEST,https://nianticlabs.com/privacy/de/,False
+24,10,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Location', 'Information Type_Computer information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TEST,https://nianticlabs.com/privacy/de/,False
+24,11,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Purpose_Essential service or feature']",TEST,https://nianticlabs.com/privacy/de/,False
+24,12,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Other', 'Purpose_Essential service or feature']",TEST,https://nianticlabs.com/privacy/de/,False
+24,13,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Computer information']",TEST,https://nianticlabs.com/privacy/de/,False
+24,14,[],['Choice Type (opt)'],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,15,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Location', 'Collection Mode (opt)_Implicit', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://nianticlabs.com/privacy/de/,False
+24,16,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Does/Does Not (opt)_Does Not', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://nianticlabs.com/privacy/de/,False
+24,17,['First Party'],"['Collection Process', 'Choice Type (opt)']","['Collection Process_Entered by user on third-party website/app', 'Choice Type (opt)_Opt-in']",TEST,https://nianticlabs.com/privacy/de/,False
+24,18,['First Party'],"['Does/Does Not (opt)', 'Choice Type (opt)']","['Does/Does Not (opt)_Does Not', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://nianticlabs.com/privacy/de/,False
+24,19,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TEST,https://nianticlabs.com/privacy/de/,False
+24,20,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,21,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,22,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,23,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,24,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other', 'Third-Party Entity_Unnamed third party']",TEST,https://nianticlabs.com/privacy/de/,False
+24,25,[],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Financial', 'Does/Does Not (opt)_Does Not']",TEST,https://nianticlabs.com/privacy/de/,False
+24,26,"['First Party', 'Third Party']","['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TEST,https://nianticlabs.com/privacy/de/,False
+24,27,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://nianticlabs.com/privacy/de/,False
+24,28,['First Party'],['Purpose'],"['Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Unspecified']",TEST,https://nianticlabs.com/privacy/de/,False
+24,29,[],['Purpose'],['Purpose_Merger or acquisition'],TEST,https://nianticlabs.com/privacy/de/,False
+24,30,[],['Purpose'],['Purpose_Merger or acquisition'],TEST,https://nianticlabs.com/privacy/de/,False
+24,31,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,32,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,33,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,34,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,35,[],['Choice Type (opt)'],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,36,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,37,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,38,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,39,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,40,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,41,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,42,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,43,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TEST,https://nianticlabs.com/privacy/de/,False
+24,44,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,45,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,46,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,47,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,48,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,49,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Scope (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TEST,https://nianticlabs.com/privacy/de/,False
+24,50,['Third Party'],"['Purpose', 'Third-Party Collection Process']","['Purpose_Essential service or feature', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://nianticlabs.com/privacy/de/,False
+24,51,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,52,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,53,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,54,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,55,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Contact information'],TEST,https://nianticlabs.com/privacy/de/,False
+24,56,['First Party'],"['Information Type', 'Collection Process', 'Legal Basis for Collection']",['Information Type_Contact information'],TEST,https://nianticlabs.com/privacy/de/,False
+24,57,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,58,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TEST,https://nianticlabs.com/privacy/de/,False
+24,59,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,60,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,61,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,62,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False
+24,63,[],[],[],TEST,https://nianticlabs.com/privacy/de/,False

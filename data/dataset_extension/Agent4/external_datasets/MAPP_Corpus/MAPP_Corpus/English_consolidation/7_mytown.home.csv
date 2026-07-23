@@ -1,0 +1,17 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+7,1,[],[],[],TEST,https://my-town.com/privacy-policy/,True
+7,2,[],[],[],TEST,https://my-town.com/privacy-policy/,True
+7,3,[],[],[],TEST,https://my-town.com/privacy-policy/,True
+7,4,[],[],[],TEST,https://my-town.com/privacy-policy/,True
+7,5,['First Party'],"['Collection Process', 'Does/Does Not (opt)']","['Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not']",TEST,https://my-town.com/privacy-policy/,True
+7,6,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TEST,https://my-town.com/privacy-policy/,True
+7,7,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TEST,https://my-town.com/privacy-policy/,True
+7,8,[],[],[],TEST,https://my-town.com/privacy-policy/,True
+7,9,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)', 'User Type (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not', 'User Type (opt)_Other']",TEST,https://my-town.com/privacy-policy/,True
+7,10,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Other', 'Collection Process_Tracked on first-party website/app by third party', 'Collection Process_Directly received from third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TEST,https://my-town.com/privacy-policy/,True
+7,11,[],[],[],TEST,https://my-town.com/privacy-policy/,True
+7,12,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TEST,https://my-town.com/privacy-policy/,True
+7,13,['First Party'],['Information Type'],"['Information Type_Generic personal information', 'Information Type_Unspecified']",TEST,https://my-town.com/privacy-policy/,True
+7,14,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Opt-out via contacting company']",TEST,https://my-town.com/privacy-policy/,True
+7,15,[],[],[],TEST,https://my-town.com/privacy-policy/,True
+7,16,[],[],[],TEST,https://my-town.com/privacy-policy/,True

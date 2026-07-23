@@ -1,6 +1,6 @@
 {
   "dataset_name": "PrivacyLens Dataset",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "creation_date": "2026-07-22",
   "documents": 33,
   "companies": 33,
@@ -45,5 +45,13 @@
   "opp115_compatible": true,
   "base_documents": "33 políticas oficiales post-RGPD (hash SHA-256 por documento en dataset/metadata/)",
   "pipeline": "Agente0 fuentes → Agente1 extracción → Agente2 segmentación → Agente3 preanotación → Agente4 QA/release",
-  "validation_status": "APROBADO CON OBSERVACIONES"
+  "validation_status": "APROBADO CON OBSERVACIONES",
+  "rgpd_mapping": "Poplavska et al. 2020 (JURIX 2020), official OPP-115 ↔ GDPR mapping",
+  "fields_added_in_1.1.0": [
+    "rgpd_principles_poplavska"
+  ],
+  "fields_updated_in_1.1.0": [
+    "rgpd_articles (ahora con el mapeo oficial completo por categoría)"
+  ],
+  "authorized_training_file": "privacylens_dataset_v1_1.parquet"
 }

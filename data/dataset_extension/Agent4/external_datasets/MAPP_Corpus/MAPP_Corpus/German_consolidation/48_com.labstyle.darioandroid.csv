@@ -1,0 +1,55 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+48,1,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,2,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,3,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,4,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,5,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,6,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,7,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,8,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,9,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,10,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Anonymization (opt)']","['Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TEST,http://mydario.de/privacy-policy/,True
+48,11,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Generic personal information']",TEST,http://mydario.de/privacy-policy/,True
+48,12,"['First Party', 'Third Party']","['Information Type', 'Collection Mode (opt)', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Social media data', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TEST,http://mydario.de/privacy-policy/,True
+48,13,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Financial', 'Purpose_Essential service or feature', 'Collection Mode (opt)_Explicit']",TEST,http://mydario.de/privacy-policy/,True
+48,14,['First Party'],"['Information Type', 'Legal Basis for Collection', 'Collection Mode (opt)']","['Information Type_Health, genetic, or biometric data', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TEST,http://mydario.de/privacy-policy/,True
+48,15,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Choice Type (opt)_Opt-in']",TEST,http://mydario.de/privacy-policy/,True
+48,16,[],['Collection Mode (opt)'],['Collection Mode (opt)_Explicit'],TEST,http://mydario.de/privacy-policy/,True
+48,17,['First Party'],['Information Type'],"['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information']",TEST,http://mydario.de/privacy-policy/,True
+48,18,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Choice Type (opt)_Opt-in']",TEST,http://mydario.de/privacy-policy/,True
+48,19,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,20,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Anonymization (opt)_Aggregated or anonymized']",TEST,http://mydario.de/privacy-policy/,True
+48,21,[],['Choice Type (opt)'],[],TEST,http://mydario.de/privacy-policy/,True
+48,22,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Other']",TEST,http://mydario.de/privacy-policy/,True
+48,23,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Unspecified', 'Third-Party Entity_Unnamed third party']",TEST,http://mydario.de/privacy-policy/,True
+48,24,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TEST,http://mydario.de/privacy-policy/,True
+48,25,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Other', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party']",TEST,http://mydario.de/privacy-policy/,True
+48,26,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'User Type (opt)', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Third-Party Entity_Unnamed third party', 'User Type (opt)_Users with account', 'Anonymization (opt)_Aggregated or anonymized']",TEST,http://mydario.de/privacy-policy/,True
+48,27,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,http://mydario.de/privacy-policy/,True
+48,28,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Other', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,http://mydario.de/privacy-policy/,True
+48,29,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Purpose_Other', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,http://mydario.de/privacy-policy/,True
+48,30,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TEST,http://mydario.de/privacy-policy/,True
+48,31,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Collection Mode (opt)_Explicit']",TEST,http://mydario.de/privacy-policy/,True
+48,32,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,33,['First Party'],"['Purpose', 'Does/Does Not (opt)']","['Purpose_Advertising or marketing', 'Does/Does Not (opt)_Does Not']",TEST,http://mydario.de/privacy-policy/,True
+48,34,['Third Party'],"['Purpose', 'Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Choice Type (opt)_Opt-in', 'Anonymization (opt)_Aggregated or anonymized']",TEST,http://mydario.de/privacy-policy/,True
+48,35,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,36,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,37,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,38,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,39,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,40,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,41,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,42,['First Party'],"['Purpose', 'Does/Does Not (opt)']","['Purpose_Service operation and security', 'Does/Does Not (opt)_Does']",TEST,http://mydario.de/privacy-policy/,True
+48,43,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Service operation and security'],TEST,http://mydario.de/privacy-policy/,True
+48,44,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Named third party'],TEST,http://mydario.de/privacy-policy/,True
+48,45,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,http://mydario.de/privacy-policy/,True
+48,46,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,47,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,48,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Purpose_Advertising or marketing']",TEST,http://mydario.de/privacy-policy/,True
+48,49,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,50,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,51,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,52,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-in'],TEST,http://mydario.de/privacy-policy/,True
+48,53,[],[],[],TEST,http://mydario.de/privacy-policy/,True
+48,54,[],[],[],TEST,http://mydario.de/privacy-policy/,True

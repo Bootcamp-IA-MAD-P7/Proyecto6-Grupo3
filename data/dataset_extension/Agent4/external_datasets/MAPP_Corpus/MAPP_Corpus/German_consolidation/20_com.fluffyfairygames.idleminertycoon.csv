@@ -1,0 +1,124 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+20,1,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,2,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,3,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,4,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,5,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,6,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,7,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,8,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,9,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,10,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,11,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,12,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,13,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,14,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,15,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,16,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,17,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,18,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,19,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,20,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,21,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,22,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,23,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,24,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,25,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,26,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,27,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,28,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,29,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,30,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,31,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,32,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,33,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,34,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,35,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,36,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,37,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,38,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,39,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,40,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,41,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,42,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,43,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,44,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,45,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,46,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,47,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,48,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,49,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,50,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,51,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,52,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,53,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,54,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,55,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,56,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,57,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other', 'Purpose_Unspecified']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,58,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,59,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,60,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_User online activities', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,61,[],"['Purpose', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,62,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,63,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,64,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,65,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,66,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,67,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,68,"['First Party', 'Third Party']",['Purpose'],['Purpose_Optional service or feature'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,69,"['First Party', 'Third Party']","['Information Type', 'Third-Party Entity']","['Information Type_Contact information', 'Third-Party Entity_Other users']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,70,[],['Choice Type (opt)'],['Choice Type (opt)_Third-party privacy controls'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,71,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Optional service or feature']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,72,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,73,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,74,['First Party'],"['Information Type', 'Purpose']","['Information Type_Computer information', 'Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,75,['First Party'],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,76,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,77,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,78,['First Party'],['Information Type'],['Information Type_Other'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,79,['First Party'],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,80,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,81,['First Party'],"['Information Type', 'Purpose']","['Information Type_Location', 'Purpose_Personalization or customization']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,82,['First Party'],"['Purpose', 'Choice Type (opt)']","['Purpose_Optional service or feature', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,83,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,84,['First Party'],['Information Type'],['Information Type_Other'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,85,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,86,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Unnamed third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,87,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,88,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,89,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Third-Party Entity_Named third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,90,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_IP address and device IDs', 'Information Type_Computer information', 'Third-Party Entity_Named third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,91,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Location', 'Information Type_Demographic data', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Third-Party Entity_Named third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,92,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Third-Party Entity_Named third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,93,['Third Party'],"['Information Type', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,94,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,95,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,96,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,97,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,98,['Third Party'],"['Information Type', 'Third-Party Entity']",['Information Type_Generic personal information'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,99,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,100,['Third Party'],"['Purpose', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Merger or acquisition', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,101,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,102,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,103,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,104,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,105,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,106,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,107,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,108,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,109,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,110,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,111,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,112,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,113,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,114,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,115,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,116,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,117,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,118,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,119,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,120,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,121,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,122,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False
+20,123,[],[],[],TRAIN,https://www.kolibrigames.com/privacy-policy/,False

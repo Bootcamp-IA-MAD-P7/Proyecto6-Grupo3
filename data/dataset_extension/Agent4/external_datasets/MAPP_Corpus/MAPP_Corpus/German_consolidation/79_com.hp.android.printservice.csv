@@ -1,0 +1,83 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+79,1,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,2,['First Party'],['Information Type'],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,3,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Other', 'Purpose_Unspecified', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,4,['First Party'],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,5,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,6,['First Party'],"['Information Type', 'Does/Does Not (opt)']",['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,7,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,8,['First Party'],"['Information Type', 'Does/Does Not (opt)']",['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,9,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,10,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,11,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,12,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,13,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,14,['First Party'],"['Information Type', 'Does/Does Not (opt)']",['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,15,['First Party'],"['Information Type', 'User Type (opt)']","['Information Type_Generic personal information', 'User Type (opt)_Other']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,16,"['First Party', 'Third Party']",['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,17,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,18,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,19,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Unspecified']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,21,['First Party'],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,22,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,23,['First Party'],['Purpose'],"['Purpose_Legal requirement', 'Purpose_Merger or acquisition']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,24,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,25,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,26,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,27,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,28,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,29,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,30,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,31,['First Party'],"['Information Type', 'Collection Mode (opt)', 'User Type (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Collection Mode (opt)_Explicit']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,32,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Demographic data'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,33,"['First Party', 'Third Party']","['Information Type', 'Third-Party Entity']","['Information Type_Social media data', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,34,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Purpose_Optional service or feature']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,35,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Personal identifier', 'Information Type_Other', 'Purpose_Service operation and security']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,36,['First Party'],"['Information Type', 'Purpose']",['Information Type_Other'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,37,['First Party'],"['Information Type', 'Does/Does Not (opt)', 'Collection Mode (opt)']",['Does/Does Not (opt)_Does Not'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,38,['First Party'],['Information Type'],['Information Type_Computer information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,39,"['First Party', 'Third Party']","['Information Type', 'Third-Party Entity']","['Information Type_Computer information', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,40,['First Party'],['Information Type'],['Information Type_Computer information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,41,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_Cookies and tracking elements']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,42,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,43,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,44,"['First Party', 'Third Party']","['Information Type', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Generic personal information', 'Information Type_Other', 'Third-Party Entity_Named third party']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,45,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,46,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,47,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Location', 'Information Type_IP address and device IDs']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,48,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,49,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,50,['First Party'],"['Purpose', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Purpose_Service operation and security', 'Does/Does Not (opt)_Does Not', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,51,['First Party'],"['Purpose', 'Does/Does Not (opt)']","['Purpose_Service operation and security', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,52,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,53,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,54,['First Party'],"['Information Type', 'Legal Basis for Collection']",['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,55,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,56,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,57,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,58,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,59,[],['Choice Type (opt)'],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,60,['Third Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Other']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,61,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,62,[],"['Information Type', 'Choice Type (opt)']",['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,63,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,64,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,65,['Third Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,66,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,67,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,68,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,69,[],['Choice Type (opt)'],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,70,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,71,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,72,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,73,['First Party'],"['Information Type', 'Choice Type (opt)']",['Information Type_Generic personal information'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,74,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Does/Does Not (opt)_Does Not', ""Choice Type (opt)_Don't use service/feature"", 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,75,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,76,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,77,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,78,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,79,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,80,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,81,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False
+79,82,[],[],[],TRAIN,https://www8.hp.com/de/de/privacy/privacy.html,False

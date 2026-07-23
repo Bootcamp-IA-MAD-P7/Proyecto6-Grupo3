@@ -1,0 +1,40 @@
+Games About Shop Contact MoreNewsPrivacy Policy Datenschutzrichtlinie Wer sind wir? Wir sind die My Town Games Ltd, ein Unternehmen aus Israel, das die Spiele von My Town entwickelt. Unsere Adresse ist die HaPelech-Strasse 7 in Tel Aviv, Israel.
+
+Der Zweck dieser Datenschutzrichtlinie ist esk, Ihre gesetzlichen Rechte zu achten und sicherzustellen, dass Sie ausreichende Informationen darüber erhalten, wie Ihre Daten erhoben, verarbeitet, weitergereicht und gelöscht werden.
+
+Wir erkennen an, dass sich unsere Spiele an junge Kinder richten. Und da uns bewusst ist, dass diese keine juristischen Dokumente verstehen können, bitten wir Sie, als Erziehungsberechtigte Ihres Kindes Ihre Zustimmung erteilen.
+
+Wie erheben wir Informationen? Wir erheben Informationen, wenn Ihr Kind das Spiel verwendet, Käufe tätigt und andere Personen durch den internen Chat kontaktiert. All diese Informationen werden gesammelt und in unserer Firebase-Datenbank gespeichert und über eine sichere Datenübertragung (SSL) übermittelt. Wir verwenden eine Verschlüsselung, um sicherzustellen, dass Dritte die Kommunikation zwischen Ihrem Mobilgerät und unseren Servern nicht abhören können, und um sicherzustellen, dass die Informationen nur an unsere Server geschickt werden, um das Risiko zu verringern, dass bösartige Dritte sich für unseren Server auszugeben versuchen.
+
+Welche Informationen erheben wir? Wir erheben die folgenden Informationen, darunter auch das Material, das Ihr Kind während der Registrierung angibt, und technische Informationen basierend auf seiner Nutzung. Dies umfasst: Eine individuelle Nutzer-ID für jeden Nutzer, die in unserem System generiert wird und die ausschließlich technisch und nicht identifizierbar ist.
+
+Die Kategorie des Gerätes des Kindes: ob es sich um ein Telefon oder ein Tablet handelt;Technische Informationen bezüglich seinem Gerät, wie die Marke, das Modell, die Version den Betriebssystems, das Land und die Geräte-ID des Mobilgeräts.
+
+Geographische Informationen, einschließlich ungefähr den Kontinent, das Land, die Region und die Stadt.
+
+Zahlungsarten, wenn Sie ein Abo für einen unserer Dienste abgeschlossen haben.
+
+Einen Nutzernamen, wenn Ihr Kind ein registrierter Nutzer ist und eine E-Mail-Adresse der zahlenden Eltern;Seinen Fortschritt im Spiel, einschließlich Level, Erfahrung, Münzen, Anmeldestatus und gesamte Spieldauer.
+
+Einige demographische Informationen, einschließlich Geschlecht und Alter; Die Freundesliste und die Chat-Nachrichten des Kindes im Spiel.
+
+Wie verwenden wir persönliche Daten? Wir verarbeiten diese Informationen, um Ihrem Kind das Spiel anbieten zu können und um die Dienste zu verbessern. Wir überwachen die Chats auf verdächtige Aktivitäten, und wir nutzen auch statistische Dienste, um herauszufinden, was am Spiel zu verbessern ist. Wenn Sie eine Kreditkarte verwendet haben, um für einen Dienst zu bezahlen, können wir auch dies gemäß professionellen Standards, wie PCI/DSS, speichern.
+
+Mit wem teilen wir die Daten Ihres Kindes? Wir erkennen an, dass Kinder eine besondere, schützenswerte und empfindliche Gruppe sind, weshalb wir versuchen, dass die Daten von Kindern so wenig wie möglich exponiert werden. Wir teilen nur spezifische Daten mit unseren Angestellten oder Vertragspartnern und nur, wenn diese die Daten benötigen, und mit einigen Dritten, die für uns einen Teil der Dienste erfüllen, darunter Parse von back4app, Firebase und Firebase Analytics von Google für Datenbanken und Statistiken. Wir verwenden Twohat, um verletzende Sprache zu filtern (nur für das Spiel Friends Club). Wir verwenden Mandrill, um Updates über E-Mail und AppsFlyer zu verschicken.
+
+Wir verwenden Appodeal und Kidoz zur Anzeige von Werbung (nur für Spiel Sticker Book), die nicht vom Verhalten abhängt und die sich nicht speziell an Ihr Kind richtet.
+
+Wir verwenden Photonengine für Systeme zur Softwareentwicklung (nur für das Spiel Friends Club).
+
+Diese Dritten unterliegen strengen Vertraulichkeitsbedingungen und dürfen die Daten Ihres Kindes niemals für andere Zwecke als die Gewährung der Dienste verwenden.
+
+Verwenden wir Cookies? Wir verwenden Cookies, um Ihrem Kind zu erlauben, sich in unserem Spiel einzuloggen, wenn es die Weboberfläche benützt. Ein Cookie ist eine kleine Datei, die auf Ihrem Computer gespeichert wird und die später dazu verwendet werden kann, ihn zu identifizieren. Wir erlauben möglicherweise auch einigen Dritten, Cookies zu platzieren. In diesem Fall können diese Cookies dazu verwendet werden, Ihr Kind auch in diesen Diensten zu identifizieren. Diese Parteien umfassen: Google Analytics.
+
+Warum sind Kinder so besonders? Ihre Kinder sind besonders und wichtig. Das Gesetz gewährt ihnen einen stärkeren Schutz als Erwachsenen, einschließlich des Rechts, dass ihre persönlichen Daten nicht zu Werbezwecken verwendet werden, und dass sie diese Daten jederzeit löschen können. Es gewährt ihnen auch das Recht, ohne ihre ausdrückliche Zustimmung nicht zum Gegenstand der Erhebung von Daten zu werden. In machen Jurisdiktionen ist das Erheben von persönlichen Daten von Kindern zwar nicht von einer Zustimmung abhängig, aber wir wählen die strengeren Regeln und wenden diese in allen Jurisdiktionen an.
+
+Wie können Sie die Daten Ihres Kindes überprüfen? Sie können uns jederzeit eine Nachricht an privacy@my-town.com schicken und verlange, dass wir Ihnen eine Kopie all Ihrer persönlichen Daten übersenden. Wenn wir dies tun, werden wir zuerst Ihre Identität verifizieren und Ihnen danach eine Kopie der Daten übersenden. Bitte beachten Sie, dass wir, wenn wir Ihre Identität nicht verifizieren können, aus Sicherheitsgründen entscheiden können, alle Daten zu löschen anstatt sie Ihnen zu übersenden.
+
+Awards Don't just take our word for it.Take a peak at some of the awards we got over the years.
+
+Previous Next Join our Newsletter Be the first one to know about Free games and updatesVisit us: Games My Town My City My Little Princess WonderLandAbout About News ShopContact Contact us Privacy Policy© Copyright My Town Games Ltd 2020 | Privacy
+

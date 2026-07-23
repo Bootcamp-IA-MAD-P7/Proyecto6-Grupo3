@@ -1,0 +1,34 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+59,1,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,2,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,3,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection', 'User Type (opt)']","['Information Type_Contact information', 'Information Type_Social media data', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Contractual necessity', 'User Type (opt)_Users with account']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,4,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Unnamed third party'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,5,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Computer information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Legal Basis for Collection_Contractual necessity', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,6,"['First Party', 'Third Party']","['Information Type', 'Legal Basis for Collection', 'Third-Party Entity']","['Information Type_Contact information', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,7,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,8,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,9,"['First Party', 'Third Party']","['Purpose', 'Legal Basis for Collection']",['Purpose_Merger or acquisition'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,10,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-in'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,11,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,12,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,13,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,14,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,15,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,16,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,17,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,18,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,19,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,20,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,21,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,22,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,23,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,24,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,25,[],"['Does/Does Not (opt)', 'Choice Type (opt)']","['Does/Does Not (opt)_Does Not', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,26,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Generic personal information'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,27,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Analytics or research']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,28,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_IP address and device IDs', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,29,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,30,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,31,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,32,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.any.do/de/legal/privacy-policy,True
+59,33,[],[],[],TRAIN,https://www.any.do/de/legal/privacy-policy,True

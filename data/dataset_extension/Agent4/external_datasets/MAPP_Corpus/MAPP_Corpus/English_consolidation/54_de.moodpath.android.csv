@@ -1,0 +1,28 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+54,1,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,2,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,3,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Choice Type (opt)_Opt-in']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,4,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,5,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,6,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,7,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Shared by first party with a third party', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Named third party', 'Choice Type (opt)_First-party privacy controls', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,8,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,9,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,10,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,11,['Third Party'],"['Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,12,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_Health, genetic, or biometric data', 'Purpose_Analytics or research', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,13,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,14,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,15,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,16,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,17,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,18,['Third Party'],"['Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Third-Party Entity_Named third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,19,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,20,['Third Party'],"['Information Type', 'Third-Party Entity', 'Anonymization (opt)']","['Third-Party Entity_Named third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,21,[],"['Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Unspecified', 'Choice Type (opt)_First-party privacy controls', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,22,['First Party'],"['Information Type', 'Choice Type (opt)']",['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,23,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,24,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,25,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,26,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True
+54,27,[],[],[],TRAIN,https://mymoodpath.com/en/privacy-policy/,True

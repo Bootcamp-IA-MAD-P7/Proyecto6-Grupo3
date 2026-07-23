@@ -1,0 +1,97 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+60,1,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,2,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Unspecified']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,3,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,4,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,5,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,6,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,7,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,8,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,9,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Process_Directly received from third party', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,10,['First Party'],['Information Type'],['Information Type_Other'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,11,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)', 'User Type (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Collection Mode (opt)_Explicit', 'User Type (opt)_Users with account']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,12,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,13,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,14,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,15,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,16,[],[],['Information Type_Unspecified'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,17,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,18,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,19,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,20,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,21,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,22,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,23,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Other']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,24,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,25,['First Party'],['Purpose'],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,26,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,27,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,28,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,29,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,30,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_IP address and device IDs', 'Purpose_Optional service or feature', 'Collection Process_Tracked user on third-party website/app']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,31,['First Party'],['Purpose'],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,32,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,33,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,34,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,35,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,36,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,37,[],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,38,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,39,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,40,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,41,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-in'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,42,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,43,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,44,['First Party'],"['Information Type', 'Purpose']","['Information Type_Computer information', 'Purpose_Analytics or research']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,45,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,46,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,47,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Legal Basis for Collection_Compliance with a legal obligation', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,48,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,49,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,50,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,51,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,52,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,53,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,54,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,55,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,56,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,57,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,58,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,59,['First Party'],['Collection Process'],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,60,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,61,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,62,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,63,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,64,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,65,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,66,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,67,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,68,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,69,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,70,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,71,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,72,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,73,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,74,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,75,['First Party'],"['Information Type', 'Collection Process', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Collection Process_Unspecified', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.avg.com/de-de/privacy,True
+60,76,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,77,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,78,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,79,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,80,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,81,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,82,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,83,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,84,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,85,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,86,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.avg.com/de-de/privacy,True
+60,87,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,88,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,89,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,90,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,91,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,92,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,93,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,94,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,95,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True
+60,96,[],[],[],TRAIN,https://www.avg.com/de-de/privacy,True

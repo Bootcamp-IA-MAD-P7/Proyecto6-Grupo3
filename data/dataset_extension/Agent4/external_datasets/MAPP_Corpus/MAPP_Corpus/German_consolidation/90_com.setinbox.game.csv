@@ -1,0 +1,94 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+90,1,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,2,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,3,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,4,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,5,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,6,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)', 'User Type (opt)']","['Information Type_Contact information', 'Collection Mode (opt)_Explicit', 'User Type (opt)_Users without account', 'User Type (opt)_Users with account']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,7,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Mode (opt)', 'Third-Party Entity', 'User Type (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Other', 'Purpose_Personalization or customization', 'Third-Party Entity_Other users']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,8,['First Party'],"['Purpose', 'User Type (opt)']",['Purpose_Other'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,9,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,10,['First Party'],"['Information Type', 'Choice Type (opt)', 'User Type (opt)']","['Information Type_Contact information', 'Information Type_Other', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,11,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_User online activities', 'Collection Mode (opt)_Implicit']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,12,['First Party'],"['Information Type', 'Purpose']",['Information Type_Computer information'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,13,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,14,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,15,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,16,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Purpose_Optional service or feature', 'Collection Mode (opt)_Implicit']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,17,['First Party'],"['Information Type', 'Choice Type (opt)']",['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,18,['First Party'],"['Purpose', 'Collection Mode (opt)', 'Choice Type (opt)']","['Collection Mode (opt)_Implicit', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,19,['First Party'],['Purpose'],['Information Type_Unspecified'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,20,['First Party'],['Purpose'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,21,[],['Collection Mode (opt)'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,22,[],['Collection Mode (opt)'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,23,['First Party'],"['Purpose', 'Collection Mode (opt)']",[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,24,[],"['Choice Type (opt)', 'Choice Scope (opt)']",['Choice Type (opt)_First-party privacy controls'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,25,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)', 'Choice Type (opt)', 'Choice Scope (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Service operation and security', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,26,"['First Party', 'Third Party']","['Purpose', 'Does/Does Not (opt)', 'Third-Party Collection Process']","['Purpose_Service operation and security', 'Purpose_Other', 'Does/Does Not (opt)_Does Not']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,27,['First Party'],['Purpose'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,28,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,29,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,30,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,31,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)']","['Information Type_Contact information', 'Does/Does Not (opt)_Does Not']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,32,['First Party'],"['Purpose', 'Collection Mode (opt)']",['Purpose_Service operation and security'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,33,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_Location', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Service operation and security', 'Purpose_Other', 'Third-Party Entity_Named third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,34,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Anonymization (opt)', 'Third-Party Collection Process']","['Information Type_Location', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Other', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,35,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,36,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Location', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,37,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Location', 'Purpose_Essential service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,38,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,39,['Third Party'],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,40,['Third Party'],['Purpose'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,41,['Third Party'],['Purpose'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,42,[],['Purpose'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,43,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Generic personal information']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,44,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity']",['Information Type_Generic personal information'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,45,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Legal Basis for Collection_Public interest/official authority']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,46,['Third Party'],"['Purpose', 'Third-Party Collection Process']","['Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,47,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,48,['Third Party'],"['Purpose', 'Does/Does Not (opt)', 'Third-Party Collection Process']",['Does/Does Not (opt)_Does'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,49,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition', 'Third-Party Entity_Unnamed third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,50,['Third Party'],"['Does/Does Not (opt)', 'Third-Party Entity']","['Does/Does Not (opt)_Does', 'Third-Party Entity_Unnamed third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,51,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,52,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,53,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,54,[],['Choice Type (opt)'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,55,['First Party'],"['Does/Does Not (opt)', 'Choice Type (opt)']",[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,56,['Third Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Does/Does Not (opt)_Does', 'Third-Party Entity_Unnamed third party']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,57,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,58,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Choice Type (opt)_Opt-in']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,59,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,60,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,61,['First Party'],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,62,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,63,[],"['Choice Type (opt)', 'User Type (opt)']",['User Type (opt)_Users with account'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,64,['First Party'],"['Information Type', 'User Type (opt)']","['Information Type_Generic personal information', 'User Type (opt)_Users without account']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,65,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,66,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,67,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,68,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,69,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,70,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,71,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,72,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,73,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,74,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,75,['Third Party'],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,76,['Third Party'],['Choice Type (opt)'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,77,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,78,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,79,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,80,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,81,['Third Party'],['Third-Party Entity'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,82,['Third Party'],['Third-Party Entity'],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,83,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,84,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,85,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,86,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,87,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,88,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,89,['First Party'],"['Purpose', 'Does/Does Not (opt)']",['Purpose_Service operation and security'],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,90,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'User Type (opt)']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,91,[],[],[],TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,92,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False
+90,93,[],['Does/Does Not (opt)'],"['Does/Does Not (opt)_Does', 'Does/Does Not (opt)_Does Not']",TRAIN,https://static.uds.app/documents/DE/privacy-policy.html,False

@@ -1,0 +1,58 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+62,1,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,2,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,3,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,4,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,5,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,6,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Location', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,8,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,9,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,10,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,11,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,12,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Directly received from third party']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,13,['First Party'],['Information Type'],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,14,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,15,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,16,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,17,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,18,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,19,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,20,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_User online activities', 'Information Type_Other', 'Purpose_Legal requirement', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Vital interest', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,21,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,22,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,23,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,24,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,25,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,26,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,27,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,28,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,29,['Third Party'],"['Information Type', 'Third-Party Entity']",['Third-Party Entity_Other users'],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,30,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Financial', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,31,['Third Party'],['Information Type'],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,32,['Third Party'],['Information Type'],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,33,['Third Party'],['Information Type'],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,34,['Third Party'],['Information Type'],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,35,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,36,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,37,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,38,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out link'],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,39,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,40,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,41,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,42,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,43,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,44,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,45,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,46,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,47,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,48,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,49,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,50,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,51,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,52,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,53,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,54,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,55,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,56,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True
+62,57,[],[],[],TRAIN,https://www.docusign.com/company/privacy-policy,True

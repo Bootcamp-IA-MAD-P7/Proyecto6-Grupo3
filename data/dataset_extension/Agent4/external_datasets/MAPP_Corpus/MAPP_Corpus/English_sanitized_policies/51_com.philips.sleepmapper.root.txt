@@ -1,0 +1,98 @@
+DreamMapper Privacy Notice This Privacy Notice was last updated on May 1, 2020DreamMapper provides you with information related to your use of your sleep therapy device to help you comply with your prescribed sleep therapy regime. This Privacy Notice is meant to help you understand our privacy practices when you use DreamMapper, including what data we collect, why we collect it, and what we do with it, as well as your individual rights.
+
+DreamMapper uses personal data collected or processed by your sleep therapy device device(s) ("Device") and/or the DreamMapper mobile application or web based services ("App").
+
+This Privacy Notice applies to personal data collected or processed by the Device and/or the App, which is controlled by or under control of Respironics, Inc. and its affiliates ("Philips", "our", "we" or "us").
+
+Please also read our Cookie Notice (which can be found when you access the App) and Terms of Use, which describes the terms under which you use our Services.
+
+What Personal Data are collected and for which Purposes We receive or collect personal data, as described in detail below, when you use DreamMapper, including when you access, download, install the Device or the App, or use the App. We may use this personal data to provide you services requested by you as a contractual necessity, to operate, provide, improve, customize, support, and market our services based on our legitimate interest, or to comply with a legal obligation to which we may be subject. If you do not want us to collect and process your personal data, you may not be able to use the App.
+
+Sensitive Personal Data Before we collect sensitive personal data, we will inform you and ask your explicit consent. This data includes how long you use the device, your prescription information, mask leakage measurements, CPAP pressure and periodic breathing rate from the device. We will seek your consent to allow DreamMapper to exchange data to and from your Home Care Provider's Electronic Health Record. You may withdraw your consent(s) at any time, without affecting the lawfulness of processing based on consent before withdrawing your consent. It is important to note that your Home Care Provider may already have access to your therapy data from the device modem or SD card.
+
+Sensitive Personal Data We ask that you not send us and you not disclose any sensitive personal data (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the App or otherwise to us.
+
+Account Data We collect your personal data when you create an account. The personal data we collect to establish your login include your username, phone number, email address, device serial number, country and the password you set.
+
+ The personal data collected is used to create and manage your account. You can use your account to securely login to the App.
+
+Data Provided by You The data you enter into the App includes configuring the view/parameter of the data displayed, for example what days you would like to view. You can also document your preferences related to the type of transactional communications (push, email or text messages) that you wish to receive from Philips. The sleep therapy goals you want to achieve and the input that you provide will be used to provide the motivational statements used in the App's coaching communications. Your sleep therapy physician appointment date can also be entered if you choose to do so. You can also decide whether you would like to receive promotional information and communications related to Philips products and services.
+
+ The data collected is used to provide you with a view of your usage of the therapy device in order to assist you with complying with your sleep therapy goals. You can set options related to the modes of transactional communication that you wish to receive, such as push messages, text messages and emails related to: goal setting; coaching communications; reminders; and service related announcements. You may change any of the settings and opt-out of receiving notifications, emails, and text messages at any time.
+
+Device Data You can enable your sleep therapy device (s) to upload data to the App and/or data can be provided by your care provider's electronic health record. You can enable your sleep therapy device to upload data to the App via Bluetooth connection or SD card download. The device data can also be provided to the App by your care provider via the device modem. The data collected by the device includes information related to your use of the device, such as when you started using the device and the hours of use. The device also collects data related to whether you are achieving compliance with your prescribed sleep therapy regimen, including tracking your mask leakage, your CPAP pressures and your periodic breathing rate.
+
+ The data collected is used to provide you with information related to your use and compliance with the device and your prescribed sleep therapy regimen.
+
+Cookies We use cookies, tags or similar technologies to maintain the user session and your access to the site. They also allow us to recognize your mobile device and collect your personal data including your unique user Device number, the IP address of your mobile device, the type of mobile internet browser or operating system you use, session and usage data, or service-related performance information, which is information about your use of the App.
+
+The data collected is used to provide you with the App's functions. For further information about the use of cookies or other similar technologies used in this App, please read our Cookie Notice, which you find under the privacy setting of the App.
+
+Customer support You may provide us with information related to your use of the App, including your interaction with Philips, and how to contact you so we can provide you customer support. We operate and provide ourServices, including providing customer support, and improving, fixing, and customizing our Services. We also use your information to respond to you when you contact us.
+
+Combined Data We may combine and use de-identified data to help us improve the content, functionality and usability of the App, device, our products and services and to develop new products and services.
+
+We may combine the information collected from you and share it with other companies of the Philips Group and with trusted third parties.
+
+If you opt-in to receive promotional communications about Philips products, services, events and promotions, we may send you marketing and promotional communications via email or via the App push messaging. You may opt-out and unsubscribe from email communications at any time by clicking the "unsubscribe" link in any email. If you choose to receive advertising via app notifications, you can withdraw your consent at any time by changing your settings in the App.
+
+Permissions The App may request your permission to access your phone or sensors (e.g. camera, Wi-Fi, geo-location, or Bluetooth) or other data (e.g. photos, agenda, or contacts) on your mobile device.
+
+ We use such data only when it is needed to provide you the App and only after you provided your explicit consent.
+
+ Sometimes the permission is a technical precondition of the operating systems of your mobile device. In such case, the App may ask your permission to access such sensors or data, however we will not collect such data, unless when it is required to provide you the App Service and only after you provided consent.
+
+With whom are Personal Data shared? Philips may disclose your personal data to third party service providers, business partners, or other third parties in accordance with this Privacy Notice and/or applicable law.
+
+Service Providers We work with third-party service providers to help us operate, provide, improve, understand, customize, support, and market our Services.
+
+We may share your personal data with the following service providers: IT and Cloud Providers These service providers deliver the necessary hardware, software, networking, storage, transactional services and/or related technology required to run the App or provide the Services.
+
+Philips requires its service providers to provide an adequate level of protection to your personal data similar to the level that we provide. We require our service providers to process your personal data only in accordance with our instructions and only for the specific purposes mentioned above, to have access to the minimum amount of data they need to deliver a specific service, and to protect the security of your personal data.
+
+Other third parties Philips sometimes sells a business or a part of a business to another company. Such a transfer of ownership could include the transfer of your personal data directly related to that business, to the purchasing company. All of our rights and obligations under our Privacy Notice are freely assignable by Philips to any of our affiliates, in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your personal data to any of our affiliates, successor entities, or new owner.
+
+Cross-border transfer Your personal data may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer (if any) of information to countries outside of your country of residence, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your personal data.
+
+If you are located in the EEA, your personal data may be transferred to our affiliates or service providers in non-EEA countries that are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available here [http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm]. For transfers from the EEA to countries not considered adequate by the European Commission, such as United States, we have put in place adequate measures, such as our Binding Corporate Rules for Customer, Supplier and Business Partner Data and/or standard contractual clauses adopted by the European Commission to protect your Personal Data. You may obtain a copy of these measures by following the link above or by contacting privacy@philips.com.
+
+How long do we keep your data? We will retain your personal data for as long as needed or permitted in light of the purpose(s) for which the data is collected. The criteria we use to determine our retention periods include: (i) the length of time you use the App and Services; (ii) whether there is a legal obligation to which we are subject; or (iii) whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).
+
+Your choices and rights If you would like to submit a request to access, rectify, erase, restrict or object to the processing of personal data that you have previously provided to us, or if you would like to submit a request to receive an electronic copy of your personal data for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us at privacy@philips.com. We will respond to your request consistent with applicable law.
+
+In your request, please make clear what personal data you would like to access, rectify, erase, restrict or object to its processing. For your protection, we may only implement requests with respect to the personal data associated with your account, your email address or other account information, that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that if you make use of (some of) your choices and rights, you may not be able to use, in whole or in part, of the App anymore.
+
+We protect your personal data We take seriously our duty to protect the data you entrust to Philips against accidental or unauthorized alteration, loss, misuse, disclosure or access. Philips uses a variety of security technologies, technical and organizational measures to help protect your data. For this purpose we implement, among others, access controls, use firewalls and secure protocols.
+
+Special information for parents While the Services are not directed to children, as defined under applicable law, it is Philips policy to comply with the law when it requires parent or guardian permission before collecting, using or disclosing personal data of children. We are committed to protecting the privacy needs of children and we strongly encourage parents and guardians to take an active role in their children's online activities and interests.
+
+If a parent or guardian becomes aware that his or her child has provided us with his or her personal data without their consent, please contact us at privacy@philips.com. If we become aware that a child has provided us with personal data, we will delete his/her data from our files.
+
+Changes to this Privacy Notice Our Services may change from time to time without prior notice to you. For this reason, we reserve the right to amend or update this Privacy Notice from time to time. When we update this Privacy Notice, we will also update the date at the top of this Privacy Notice.
+
+We encourage you to review regularly the latest version of this Privacy Notice.
+
+The new Privacy Notice will become effective immediately upon publication. If you do not agree to the revised notice, you should alter your preferences, or consider stop using our Services. By continuing to access or make use of our Services after those changes become effective, you acknowledge that you have been informed and agree to the Privacy Notice as amended.
+
+Contact Us If you have any question about this Privacy Notice or about the way in which Philips uses your personal data, please contact our Data Protection Officer at privacy@philips.com.Alternatively, you have the right to lodge a complaint with a supervisory authority competent for your country or region.
+
+Koninklijke Philips N.V.High Tech Campus 5 5656AE, Eindhoven The Netherlands Additional information for California Residents California Civil Code Section 1798.83 permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the namesand addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and like to make such a request, please visit our privacy website: http://www.philips.com/a-w/privacy/questions-and-feedback.html.
+
+Pursuant to the California Consumer Privacy Act of 2018 ("CCPA"), we are providing the following details regarding the categories of Personal Information that we collect, use and disclose about California residents. Under the CCPA, "Personal Information" is information that identifies, relates to, or could reasonably be linked with a particular California resident or household. This section does not apply to our job applicants, employees, contractors, owners, directors, or officers where the Personal Information we collect about those individuals relates to their current, former, or potential role at Philips.
+
+Sources of Personal Information We collect Personal Information from:  Our interactions with you through the Device and/or the AppCategories of Personal Information Collected We collect, and have collected within the preceding 12 months, the following categories of Personal Information as listed in the CCPA: Identifiers, such as name, contact information, IP address and other online identifiers; Personal information, as defined in the California customer records law, such as name, contactinformation, payment card number;  Characteristics of protected classifications under California or federal law, such as age, sex, andprimary language; Internet or network activity information, such as browsing history and interactions with our online services.
+
+Use of Personal Information We use these categories of Personal Information for the purposes of operating, managing, and maintaining our business, providing our products and services, and accomplishing our business purposes and objectives, as described above under "What Personal Data are collected and for which purposes?"Disclosure of Personal Information We have disclosed the following categories of Personal Information as listed in the CCPA to third parties for our operational business purposes within the preceding 12 months: Identifiers, such as name, contact information, IP address and other online identifiers; Personal information, as defined in the California customer records law, such as name,contact information, [payment card number];  Characteristics of protected classifications under California or federal law, such as age, sex,and primary language; Internet or network activity information, such as browsing history and interactions with our online services.
+
+We have disclosed these categories of Personal Information to: trusted third-party service providers; business partners; third parties, to permit them to send you marketing communications, consistent with your choices.
+
+We have not sold Personal Information, as "sale" is defined in the CCPA.
+
+Individual Rights and Requests If you are a California resident, you may request that we:  Disclose to you the following information covering the 12 months preceding your request: o The categories of Personal Information we collected about you and the categories ofsources from which we collected such Personal Information; o The specific pieces of Personal Information we collected about you; o The business or commercial purpose for collecting (if applicable) Personal Informationabout you; and o The categories of Personal Information about you that we otherwise shared or disclosed, and the categories of third parties with whom we shared or to whom we disclosed such Personal Information (if applicable).
+
+ Delete Personal Information we collected from you.To make a request for the disclosures or deletion described above, please contact us at: http://www.philips.com/a-w/privacy/questions-and-feedback.html or (866) 309-3263. We will respond to your request consistent with applicable law.
+
+You have the right to be free from unlawful discrimination for exercising your rights under the CCPA.
+

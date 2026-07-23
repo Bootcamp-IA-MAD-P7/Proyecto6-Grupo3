@@ -1,0 +1,74 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+116,1,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,2,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,3,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,4,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,5,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,6,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,7,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,8,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,9,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,10,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,11,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,12,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,13,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,14,['First Party'],"['Information Type', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,15,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,16,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Contact information'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,17,['First Party'],"['Information Type', 'Collection Process']",[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,18,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_Cookies and tracking elements']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,19,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Collection Process_Directly received from third party']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,21,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,22,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,23,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,24,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,25,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Advertising or marketing']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,26,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Collection Process_Unspecified']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,27,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Analytics or research']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,28,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,29,['Third Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,30,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,31,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,32,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,33,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,34,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,35,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,36,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,37,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,38,['First Party'],['Purpose'],"['Purpose_Optional service or feature', 'Purpose_Personalization or customization']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,39,['First Party'],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,40,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,41,['First Party'],"['Information Type', 'Purpose']",['Information Type_Demographic data'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,42,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,43,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,44,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,45,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,46,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,47,['Third Party'],['Information Type'],['Information Type_IP address and device IDs'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,48,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,49,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,50,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,51,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,52,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,53,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,54,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,55,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,56,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,57,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,58,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,59,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,60,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,61,['Third Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information']",TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,62,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,63,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,64,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,65,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,66,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,67,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,68,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,69,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,70,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,71,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,72,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True
+116,73,[],[],[],TRAIN,https://www.decathlon.com/pages/privacy-policy,True

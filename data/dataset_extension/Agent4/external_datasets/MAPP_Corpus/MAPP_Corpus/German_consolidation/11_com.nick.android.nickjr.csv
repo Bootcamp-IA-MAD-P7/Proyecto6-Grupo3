@@ -1,0 +1,50 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+11,1,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,2,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,3,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,4,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,5,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,6,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Collection Process_Unspecified', 'Collection Mode (opt)_Explicit']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,7,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_IP address and device IDs', 'Collection Mode (opt)_Implicit']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,8,['First Party'],"['Purpose', 'Collection Mode (opt)']","['Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Mode (opt)_Explicit']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,9,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Other'],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,10,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,11,['Third Party'],"['Information Type', 'Collection Mode (opt)', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,12,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Service operation and security', 'Purpose_Merger or acquisition']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,13,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-in'],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,14,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_IP address and device IDs', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,15,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,16,[],['Choice Type (opt)'],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,17,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,18,['First Party'],"['Collection Process', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Collection Mode (opt)_Explicit']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,19,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Other']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,20,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Implicit']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,21,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,22,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,23,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,24,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,25,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,26,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,27,['Third Party'],"['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,28,"['First Party', 'Third Party']","['Purpose', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,29,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,30,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Choice Type (opt)_Opt-in', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,31,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']",['Third-Party Collection Process_Tracked on first-party website/app by third party'],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,32,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,33,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,34,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,35,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,36,['Third Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,37,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,38,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,39,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,40,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,41,['First Party'],"['Information Type', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,42,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Information Type_Computer information']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,43,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,http://www.nickjr.de/datenschutz/,True
+11,44,[],['Choice Type (opt)'],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,45,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,46,[],['Choice Type (opt)'],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,47,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,48,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True
+11,49,[],[],[],TRAIN,http://www.nickjr.de/datenschutz/,True

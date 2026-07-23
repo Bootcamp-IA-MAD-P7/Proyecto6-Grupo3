@@ -1,0 +1,52 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+34,1,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,2,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,3,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,4,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,5,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,6,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,7,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,8,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,9,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,10,['First Party'],"['Purpose', 'Legal Basis for Collection', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,11,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Personalization or customization', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,12,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,13,['First Party'],"['Purpose', 'Legal Basis for Collection']",['Purpose_Advertising or marketing'],TRAIN,https://www.rovio.com/privacy-gr,True
+34,14,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,15,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,16,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Purpose_Unspecified', 'Legal Basis for Collection_Consent']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,17,['First Party'],"['Purpose', 'Legal Basis for Collection']",['Purpose_Legal requirement'],TRAIN,https://www.rovio.com/privacy-gr,True
+34,18,[],[],['Purpose_Unspecified'],TRAIN,https://www.rovio.com/privacy-gr,True
+34,19,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,20,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,21,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,22,['First Party'],"['Purpose', 'Choice Type (opt)']","['Purpose_Advertising or marketing', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,23,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,24,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Named third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,25,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_IP address and device IDs', 'Third-Party Entity_Named third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,26,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Other', 'Collection Process_Other']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,27,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Service operation and security', 'Purpose_Other']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,28,['First Party'],['Purpose'],"['Purpose_Optional service or feature', 'Purpose_Other']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,29,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.rovio.com/privacy-gr,True
+34,30,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Optional service or feature', 'Collection Process_Tracked user on third-party website/app', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,31,['First Party'],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Demographic data', 'Information Type_Political, religious, or philosophical belief', 'Information Type_Other', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,32,['First Party'],"['Collection Process', 'Collection Mode (opt)']","['Collection Process_Collected on first-party website/app', 'Collection Process_Tracked user on third-party website/app', 'Collection Process_Directly received from third party', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,33,['First Party'],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.rovio.com/privacy-gr,True
+34,34,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Merger or acquisition', 'Purpose_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Choice Type (opt)_Browser/device privacy controls', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,35,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Unspecified', 'Third-Party Entity_Other users']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,36,['Third Party'],['Third-Party Entity'],"['Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,37,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,38,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,39,[],"['Choice Scope (opt)', 'Anonymization (opt)']","['Choice Scope (opt)_Collection', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,40,[],"['Choice Scope (opt)', 'Anonymization (opt)']","['Choice Scope (opt)_Collection', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.rovio.com/privacy-gr,True
+34,41,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,42,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://www.rovio.com/privacy-gr,True
+34,43,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,44,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,45,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,46,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,47,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,48,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,49,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,50,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True
+34,51,[],[],[],TRAIN,https://www.rovio.com/privacy-gr,True

@@ -1,0 +1,186 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+89,1,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,2,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,3,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,4,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,5,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,6,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,8,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,9,['First Party'],['Information Type'],['Information Type_Financial'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,10,['First Party'],"['Information Type', 'Legal Basis for Collection', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Political, religious, or philosophical belief', 'Legal Basis for Collection_Consent', 'Does/Does Not (opt)_Does Not']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,11,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,12,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,13,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,14,['First Party'],['Information Type'],['Information Type_Financial'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,15,['First Party'],['Information Type'],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,16,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,17,['First Party'],['Information Type'],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,18,['First Party'],['Information Type'],"['Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,19,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,20,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Unspecified']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,21,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,22,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,23,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Computer information']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,24,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,25,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,26,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,27,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,28,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,29,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,30,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,31,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,32,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,33,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,34,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,35,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,36,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,37,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,38,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,39,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,40,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,41,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,42,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,43,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,44,['First Party'],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,45,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,46,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,47,['First Party'],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,48,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,49,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,50,['First Party'],['Information Type'],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,51,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Analytics or research', 'Legal Basis for Collection_Consent']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,52,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,53,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Information Type_Unspecified', 'Purpose_Legal requirement', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,54,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,55,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,56,[],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Computer information']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,57,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,58,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,59,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,60,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,61,['First Party'],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,62,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,63,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,64,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Computer information']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,65,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,66,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,67,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,68,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Computer information', 'Information Type_Other']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,69,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,70,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,71,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,72,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,73,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,74,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,75,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,76,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,77,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,78,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,79,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,80,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,81,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Legal requirement']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,82,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,83,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,84,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,85,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,86,['First Party'],['Information Type'],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,87,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,88,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,89,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,90,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,91,['First Party'],"['Purpose', 'Legal Basis for Collection']",['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,92,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,93,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,94,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,95,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,96,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,97,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,98,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Personal identifier', 'Information Type_User online activities', 'Purpose_Essential service or feature']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,99,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,100,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,101,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,102,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,103,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,104,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,105,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,106,['First Party'],"['Information Type', 'Purpose']",['Information Type_Contact information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,107,['First Party'],"['Information Type', 'Purpose']",['Information Type_Contact information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,108,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Personal identifier', 'Information Type_Cookies and tracking elements']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,109,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Personal identifier', 'Information Type_Cookies and tracking elements']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,110,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,111,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,112,['First Party'],"['Information Type', 'Purpose']","['Information Type_Personal identifier', 'Information Type_User online activities', 'Purpose_Advertising or marketing']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,113,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,114,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,115,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,116,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,117,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,118,['First Party'],['Information Type'],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,119,['First Party'],['Purpose'],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,120,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,121,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,122,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,123,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,124,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,125,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,126,['First Party'],['Information Type'],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,127,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,128,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Purpose_Advertising or marketing']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,129,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,130,['First Party'],['Information Type'],['Information Type_Financial'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,131,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,132,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,133,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Personalization or customization']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,134,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,135,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,136,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,137,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,138,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,139,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,140,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,141,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,142,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,143,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,144,[],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,145,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,146,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,147,[],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,148,[],['Information Type'],['Information Type_Contact information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,149,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,150,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,151,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,152,[],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,153,[],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,154,[],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,155,[],"['Information Type', 'Purpose']","['Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,156,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,157,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Legal requirement', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,158,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Generic personal information']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,159,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,160,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,161,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,162,[],"['Information Type', 'Purpose']",[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,163,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,164,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,165,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,166,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,167,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,168,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,169,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,170,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,171,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,172,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,173,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,174,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,175,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,176,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,177,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,178,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,179,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,180,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,181,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,182,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,183,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,184,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True
+89,185,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/de_de/privacy,True

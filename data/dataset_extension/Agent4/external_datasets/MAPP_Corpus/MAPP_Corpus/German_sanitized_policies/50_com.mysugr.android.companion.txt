@@ -1,0 +1,156 @@
+mySugr GmbH Datenschutzerklärung Fassung vom 25. September 2018 Diese Datenschutzerklärung ist in der jeweils geltenden Fassung auf unserer Webseite www.mysugr.com einsehbar und als Download verfügbar.
+
+1. EINLEITUNG 1.1 Verantwortlicher 1.1.1 Die mySugr GmbH mit Sitz in Wien und der Geschäftsanschrift 1010 Wien, Trattnerhof 1/5 OG, eingetragen im Firmenbuch des Handelsgerichts Wien unter FN 376086 v, (kurz „mySugr") ist sogenannter Verantwortlicher im Sinne der datenschutzrechtlichen Vorschriften. D.h. wir sind jenes Unternehmen, das über die Zwecke und Mittel der Verarbeitung personenbezogener Daten unserer Nutzer ("Nutzerdaten") entscheidet und dabei für deren Sicherheit und die Einhaltung der anwendbaren Gesetze verantwortlich ist.
+
+1.1.2 Als Verantwortlicher unterliegen wir u.a. Informationspflichten, die wir mit dieser Datenschutzerklärung erfüllen wollen. Darüber hinaus geben wir in unseren Produkten weitere Informationen, z.B. wenn wir Dich um eine neue Einwilligung bitten oder die Folgen eines Widerrufs erklären. Die Informationen in unseren Produkten widersprechen dieser Datenschutzerklärung nicht, sondern ergänzen sie mit kurzen und leicht lesbaren Informationen, damit Du leichter Entscheidungen treffen kannst. Diese Datenschutzerklärung und die weiteren Informationen sind in unseren Produkten jederzeit leicht zugänglich.
+
+1.2 Struktur und Einwilligungskonzept 1.2.1 In dieser Datenschutzerklärung informieren wir Dich über die Zwecke und den Umfang der Verarbeitung Deiner Nutzerdaten ebenso, wie über Weitergaben sowie Deine umfangreichen Rechte. Da sich unser Angebot ausschließlich an Diabetiker richtet, gibt typischerweise bereits Deine Nutzung Aufschluss über Deinen Gesundheitszustand. Daher verarbeiten wir personenbeziehbare Nutzerdaten grundsätzlich als Gesundheitsdaten nur mit Deiner Einwilligung. Dabei unterscheiden wir wie folgt: 1.2.1.1 Im Abschnitt „Notwendige Verarbeitung" ist beschrieben, wie wir mit Deiner Einwilligung die zur Vertragserfüllung erforderliche Verarbeitung von Nutzerdaten vornehmen. Ohne diese Einwilligung ist die Nutzung unserer Produkte rechtlich und faktisch nicht möglich, denn unsere Leistungen hängen von dieser Verarbeitung ab.
+
+1.2.1.2 Bei „Verarbeitung zur Produktverbesserung" steht, wie Du uns und anderen Nutzern mit Deiner Einwilligung helfen kannst, indem Du uns die Nutzung Deiner Nutzerdaten insbesondere zur die Entwicklung von Algorithmen zur Therapiesteuerung, Produktverbesserung etc. erlaubst, ohne dass wir Dich für Werbung o.ä. ansprechen. Du kannst die Produkte auch nutzen, ohne uns diese Einwilligung zu erteilen - aber mit der Einwilligung verbesserst Du die Datenbasis, um im Interesse aller Nutzer schneller zu einem besseren Produkt zu kommen.
+
+1.2.1.3 Unter „Verarbeitung zu Marketingzwecken" beschreiben wir, wie wir mit Deiner Einwilligung Kontakt zu Dir z.B. per E-Mail, Benachrichtigungen, etc. zu Marketingzwecken aufnehmen. Auch hier kannst Du die Produkte ohne die Einwilligung nutzen, aber mit der Einwilligung erhältst Du interessante Informationen zu unseren Produkten oder wenn z.B. Deine Krankenkasse neuerdings Leistungen übernimmt.
+
+1.2.1.4 Im Abschnitt „Allgemeines" haben wir zur Vermeidung von Wiederholungen die Informationen gesammelt, die für alle o.g. Einwilligungen gelten.
+
+Nachfolgend beschreiben wir die jeweiligen Kategorien näher. Deine jeweiligen Einwilligungen kannst Du uns bei der Registrierung oder später über die Kontoeinstellungen geben. In den Kontoeinstellungen oder per E-Mail an support@mysugr.com kannst Du erteilte Einwilligungen auch jederzeit widerrufen und wir informieren Dich über die Folgen des Widerrufs. Die Rechtmäßigkeit der Verarbeitung vor dem Widerruf bleibt davon unberührt.
+
+1.2.2 Die Verarbeitung kann unabhängig von der Einwilligung in Einzelfällen auch auf der Basis von gesetzlichen (z.B. medizinprodukterechtlichen) Grundlagen erfolgen. Hierüber werden wir Dich in gegebenen Fällen informieren.
+
+2. NOTWENDIGE VERARBEITUNG Wenn Du einwilligst, verarbeiten wir die folgenden Nutzerdaten, um unsere Leistungen bereitstellen zu können. Willigst Du in diese notwendige Verarbeitung nicht ein, kannst Du Leistungen von mySugr nicht nutzen. Deine Einwilligungen kannst Du uns im Registrierungsprozess geben und in den Kontoeinstellungen managen.
+
+2.1 Notwendige und optionale Nutzerdaten 2.1.1 Um Deine Nutzerdaten zu schützen, können unsere Leistungen nur mit einem Nutzerkonto genutzt werden. Um ein Nutzerkonto anzulegen, benötigen und verarbeiten wir folgende Nutzerdaten: E-Mail Adresse Passwort (wir speichern nur eine Prüfsumme davon) mySugr-ID (teilen wir nach Registrierung zu) Registrierungsdatum Status der Einwilligungen Bei Nutzung der mySugr App: Gerätekennung, Hersteller, Gerätetyp, Betriebssystemversion Sprache, Land, Zeitzone IP-Adresse2.1.2 Alle weiteren Angaben sind optional und in den Eingabemasken selbsterklärend. Zu diesen optionalen Angaben gehören: Persönliche Stammdaten (Personal Master Data): Vorname, Nachname, Adresse, Geburtsdatum/Alter, Geschlecht, Telefonnummer.
+
+Gesundheitsbezogene Stammdaten (Medical Master Data): Diabetes-Typ, Diagnose-Jahr, Insulin-Therapie (Pen/Pumpe), Blutzuckerzielbereich, Größe, Gewicht, Mess-/Therapiegerät, Medikation, Art des Insulins, Basal-Einstellungen, Korrekturfaktoren, Verhältnis Insulin/Kohlehydrate.
+
+Vertragliche Nutzungsdaten (Commercial and Usage Data) App Store Download, Erwerb, Rechnungen, Bezahlstatus, Zahlungsmittel (Kreditkarte, Bankkonto, etc.), Versicherungsnummer, Status mySugr Pro, eingelöste Gutscheine, IP-Adresse, Endgerätekennung, Betriebssystem, Browsertyp und -version, Token, Aktivitäten-Events zur Personalisierung, Support-Anfragen.
+
+Gesundheitsbezogene Nutzungsdaten (Medical Data) App-Einträge wie Datum/Zeit/-zone/Ort, Art und Dauer von Aktivitäten (Frühstück, Büroarbeit, Sport, etc.), Essenseinnahme/Mahlzeit/Zutaten, Tabletteneinnahme/Injektionen, Blutzuckermessungen, Notizen/Text, Blutdruck, Gewicht, HbA1c, Ketone, Schritte, Bilder/Fotos, Medikation, Tags, Punkte, importierte Werte; Sensordaten wie Startdatum/-zeit, Enddatum/-zeit, Zeitzone, Sensorwert, Typ; temporäre Basalrate, Datum; App-Einstellungen wie Anzeigeoptionen, aktivierte Integrationen; oder Coaching (Status, Ziele, andere Krankheiten).
+
+2.1.3 Wenn Du möchtest, kannst Du das Nutzerkonto unter einem Pseudonym führen, d.h. es besteht bei uns kein Klarnamenzwang. Du kannst uns auch irgendeine E-Mail Adresse geben, die Du extra für uns einrichtest - funktionieren muss sie allerdings, damit wir Dir notwendige Warnungen zusenden können.
+
+Der Umfang der von mySugr erfassten Daten hängt von Deiner Registrierung und Nutzung unserer Produkte ab. Wir verarbeiten nur jene Nutzerdaten, die Du gegenüber mySugr aktiv und freiwillig angibst. Die Eingabe abgefragter Nutzerdaten ist allerdings Voraussetzung für die umfassende Nutzung unserer Produkte. Wenn Du optionale Daten nicht eingibst, ist die davon abhängige Funktionalität unserer Produkte entsprechend eingeschränkt. So benötigen etwa unsere Tagebuch-App oder der Bolusrechner eine detaillierte (freiwillige) Angabe Deiner Daten, um eine optimale Nutzung zu ermöglichen.
+
+2.1.4. Abgesehen von Deinen freiwilligen Eingaben gibt es auch die Möglichkeit, selbständig in den Einstellungen unserer Apps und anderer Software Deines Endgeräts (z.B. Betriebssystem, andere Apps, App-Stores, etc.) die Erfassung bestimmter Daten zu aktivieren bzw. zu deaktivieren. Bei Fragen dazu stehen wir Dir unter support@mysugr.com zur Verfügung.
+
+2.2 Notwendige Zwecke 2.2.1 Alle notwendigen Zwecke unserer Verarbeitung stehen im Zusammenhang mit unserer Leistungserbringung: Bestellung, Lieferung, Support und Abrechnung unserer Produkte (einschließlich Waren unserer Kooperationspartner) erfordert die Angabe und Verarbeitung gewisser Daten, um Deine Bestellung abwickeln zu können.
+
+Installation unserer Apps bewirkt die Erfassung technischer und gerätebezogener Daten wie der Gerätekennung.
+
+Registrierung führt zur Erstellung Deiner mySugr-ID mittels E-Mail-Adresse und Passwort.
+
+Bereitstellung unserer Leistungenerfordert je nach Funktion Deine aktive und freiwillige Eingabe von Daten, dabei beschreibt jede Funktion, wofür sie welche Daten benötigt.
+
+Kommunikation von mySugr an Dich innerhalb unserer Apps oder über andere elektronische Nachrichtendienste (z.B. E-Mail, Messenger, Telefon), soweit dies zur Unterstützung oder Fehlerbehebung unserer Produkte notwendig ist. So bearbeiten wir etwaige Kommentare und Anfragen, die Du im Rahmen Deiner Nutzung über diverse Kommunikationskanäle mit mySugr haben könntest. Wichtigstes Beispiel ist unser Support-Service, der Dir unter support@mysugr.com zur Verfügung steht. Daher achte bitte darauf, welche Informationen und Daten Du in Deiner aktiven Kommunikation mit uns offenlegen willst - das ist allein Deine Entscheidung. Auch unsererseits kann Kommunikation mit den Nutzern notwendig sein, entweder per E-Mail, In-App-Card oder Push-Notification. So benachrichtigen wir Dich über Updates unserer Produkte, sowie über wichtige Sicherheitshinweise und Hilfestellungen im Zusammenhang mit Deiner Nutzung. Diese Betreuungskommunikation - als unverzichtbarer Teil unserer Produkte - erhalten Nutzer unabhängig davon, ob sie unseren Newsletter abonniert haben.
+
+Therapiegeräte (z.B. Blutzuckermessgeräte) kannst Du mit Deinem Endgerät verbinden und dadurch eine Datenübertragung in unsere Apps ermöglichen.
+
+Health Apps, wie jene von Apple, und andere verbundene Services ermöglichen ebenso eine Datenübertragung mit unseren Apps. Eine Synchronisierung findet aber nur statt, wenn Du das in den Einstellungen unserer Apps aktivierst, d.h. die Funktion nutzt.
+
+2.2.2 Nutzung unserer Apps samt Erweiterungen setzt Deine aktive und freiwillige Eingabe von Daten voraus. In den Einstellungen unserer Apps findest Du weitere Auswahlmöglichkeiten. Um Fehler in der App zu beheben, benötigen wir z.B. Crash Reports, aus denen wir im Supportfall die Umstände des Problems ersehen können. Darüber hinaus werden die Eckdaten des von Dir verwendeten Endgeräts sowie Dein Nutzungsverhalten erfasst, denn zur Vertragserfüllung gehört vor allem auch die Personalisierung unserer Produkte, d.h. die Aufbereitung individueller Nutzerinformationen, z.B. abhängig von Deinem Aufenthaltsort (u.a. relevant für die Suchfunktion), Diabetes-Typ oder Art der Therapie (beides bspw. relevant für die Konfiguration der Benutzeroberfläche). Eine automatisierte Analyse des Nutzerverhaltens erfolgt ausschließlich zum Zweck der Personalisierung Deiner Nutzung im Rahmen der Vertragserfüllung und entfaltet für Dich keine rechtliche Wirkung.
+
+3. Verarbeitung zur Produktverbesserung Wenn Du einwilligst, verarbeiten wir Deine Nutzerdaten über die in Abschnitt 2 beschriebene notwendige Nutzung hinaus auch zur Verbesserung unserer Leistungen und Produkte, wie nachfolgend beschrieben.
+
+3.1 Zusätzliche Daten Grundsätzlich verwenden wir zur Produktverbesserung dieselben Nutzerdaten, wie in Abschnitt 2. Zusätzlich kann mySugr folgende Nutzerdaten erfassen: Nutzungsdaten (Usage Data) Aktivitäten-Events, aus denen wir erkennen können, wie Du unsere Produkte nutzt. Daraus können wir ableiten, wie unsere Produkte genutzt werden und wo z.B. Menüs einfacher gestaltet werden können.
+
+3.2 Zweck der Produktverbesserung Aufgrund der technologischen Schnelllebigkeit müssen wir unsere Produkte und deren Interaktion laufend analysieren, weiterentwickeln, testen und verbessern, um sicherzustellen, dass unsere Inhalte den Nutzern auf möglichst wirksame Art zugutekommen. Dazu führen wir Nutzungs- und Sicherheitstests durch, deren Erkenntnisse in verbesserte neue Versionen unserer Produkte wie der App einfließen. Diese Verbesserungen werden auch Dir über regelmäßige Updates bereitgestellt.
+
+4. Verarbeitung zu Marketingzwecken 4.1 Newsletter 4.1.1 Gerne wollen wir Dir interessante Informationen über Produkte und Leistungen zusätzlich zum vertraglichen Leistungsumfang (auch von sorgfältig ausgewählten Partnern) sowie Einladungen zur Teilnahme an Umfragen oder sonstigen Verkaufsförderungs- und Marketingaktivitäten zukommen lassen (kurz für alles „Newsletter").
+
+4.1.2 Du kannst auswählen, ob Du unseren Newsletter abonnieren möchtest (Opt-in). Deine Einwilligung kannst Du jederzeit über den Link im Newsletter oder in den Kontoeinstellungen widerrufen.
+
+4.2 Sonstiges Marketing 4.2.1 Weitere Einwilligungen z.B. für Umfragen, Benachrichtigungen oder personalisierte Angebote holen wir nach Bedarf ein, wenn Du eingeloggt bist. Dabei werden wir Dir immer erklären, wofür wir welche Daten benötigen und auch, wie Du die Einwilligung widerrufen kannst.
+
+4.2.2. Klarstellend der Hinweis, dass wir Dir in der App ggf. auch Angebote zeigen, ohne Deine Nutzerdaten zu verarbeiten. Diese nicht personalisierten Anzeigen wirst Du auch sehen, wenn Du keine Einwilligung erteilt hast.
+
+5. NUTZUNG IM RAHMEN GESETZLICHER ZWECKE 5.1 Wissenschaftliche Forschung und Statistik mySugr setzt sich für die Wissenschaft rund um Diabetes ein. Daher können anonymisierte Nutzerdaten für Zwecke der Forschung und Statistik (stets unter Einhaltung der anerkannten ethischen Wissenschaftsstandards) sowie für interne Analysen verwendet werden. Das dient vor allem der Bestimmung und Verbesserung der Effektivität von Techniken der Diabeteskontrolle und Therapien. Rechtsgrundlage ist dabei Art 9 (2) j) DSGVO.
+
+5.2 Durchsetzung von Rechten Des Weiteren kann die Verwendung von personenbezogenen Daten zur Verhinderung von Betrug durch Nutzer, oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen notwendig sein. Wir können aufgrund zwingender Gesetze, gerichtlicher oder behördlicher Entscheidungen und Anordnungen, zur Strafverfolgung oder aus Gründen öffentlicher Interessen zu einer Offenlegung gezwungen sein. Auch in solchen Fällen ist die Aufbewahrung und Verarbeitung Deiner Daten ohne Einwilligung gesetzlich zulässig. Rechtsgrundlage ist hier Art 9 (2) f DSGVO.
+
+5.3 Nach Medizinprodukterecht Schließlich obliegen uns als Hersteller respektive Vertreiber eines Medizinprodukts gesteigerte Anforderungen an die Überwachung der Funktionsfähigkeit des Produkts. Auf Grundlage dieses regulatorisch geforderten Beobachtungs- und Meldesystems kann es ebenfalls zur Verarbeitung von personenbezogenen Daten kommen. Rechtsgrundlage ist hier Art 9 (2) i DSGVO.
+
+6. ALLGEMEINES 6.1 Zweckbindung und Sicherheit 6.1.1 mySugr verwendet Deine personenbezogenen Daten ausschließlich für die in dieser Datenschutzerklärung und in den jeweiligen Einwilligungen festgelegten Zwecke. Dabei achten wir darauf, dass jede Verarbeitung auf das für ihre Zwecke notwendige Maß beschränkt ist.
+
+6.1.2 Jede Verarbeitung erfolgt in einer Weise, die eine angemessene Sicherheit und Vertraulichkeit Deiner personenbezogenen Daten gewährleistet. Das umfasst den Schutz vor unbefugter und unrechtmäßiger Verarbeitung, sowie vor unbeabsichtigtem Verlust, unbeabsichtigter Zerstörung oder Schädigung durch geeignete technische und organisatorische Maßnahmen. Dazu benützen wir strenge interne Verfahren, Sicherheitsmerkmale und modernste Verschlüsselungsmethoden, all dies unter Berücksichtigung des Stands der Technik und der Implementierungskosten.
+
+6.2 Auftragsverarbeiter 6.2.1 Unseren Produkten liegen komplexe Prozesse zugrunde, die wir angesichts der millionenstarken Nutzerzahlen verwalten und am Laufen halten müssen. Deswegen setzen wir auf die technische Unterstützung durch konzernmäßig verbundene Unternehmen der Roche-Gruppe - F.Hoffmann-La Roche AG - und Drittanbieter (kurz für alle „Auftragsverarbeiter"), um Dir eine umfassende und optimale Nutzung unserer Produkte zu bieten.
+
+6.2.2 mySugr gibt Nutzerdaten an Auftragsverarbeiter ausschließlich im Rahmen dieser Datenschutzerklärung, sowie nur zur Erfüllung der darin festgelegten Zwecke weiter. Auftragsverarbeiter arbeiten nach unseren Vorgaben und Weisungen und sind nicht befugt, personenbezogene Daten unserer Nutzer für andere, eigene Zwecke zu verwenden.
+
+6.2.3 Wir setzen Auftragsverarbeiter ein, die hinreichend Garantien dafür bieten, dass geeignete technische und organisatorische Maßnahmen so durchgeführt werden, dass die Verarbeitung von personenbezogenen Daten im Einklang mit den gesetzlichen Erfordernissen sowie mit unserer Datenschutzerklärung erfolgt. Der Schutz der Rechte unserer Nutzer wird durch den Abschluss von verbindlichen Verträgen gewährleistet, die den hohen Anforderungen der DSGVO entsprechen.
+
+6.2.4 Die von mySugr beauftragten Drittanbieter dürfen weitere Auftragsverarbeiter (Subunternehmer) nur mit unserer vorherigen Zustimmung heranziehen. Sollte sich ein Subunternehmer nicht denselben Datenschutzpflichten samt geeigneter Sicherheitsmaßnahmen unterwerfen, die wir unserem Auftragsverarbeiter auferlegt haben, dann werden wir eine Beauftragung des Subunternehmers untersagen.
+
+6.3 Verschlüsselung, Pseudo- und Anonymisierung 6.3.1 Jede Datenübertragung ist - ausnahmslos und standardmäßig - transportverschlüsselt. Mit HTTPS (hypertext transfer protocol secure) sorgen wir dafür, dass Deine Daten nicht durch unbefugte Dritte abgefangen werden.
+
+Darüber hinaus setzen wir zum Zweck der Datensicherheit und -minimierung weitere Verfahren zur Verschlüsselung und Pseudonymisierung von Nutzerdaten ein. Das hängt natürlich von Art, Umfang und Zweck der jeweiligen Datenverarbeitung ab und geschieht unter Berücksichtigung des Stands der Technik. So werden z.B. alle Nutzerdaten, die ein Auftragsverarbeiter nicht zur Erfüllung seiner Aufgaben benötigt, nicht offengelegt.
+
+6.3.2 Nach Beendigung des Vertragsverhältnisses mit dem jeweiligen Auftragsverarbeiter hat dieser sämtliche Daten unserer Nutzer - nach Wahl von mySugr - zurückzugeben oder zu löschen, soweit keine gesetzlichen Aufbewahrungspflichten bestehen.
+
+6.3.3 Daten, deren Verarbeitung keine Personenbezüge benötigt, (z.B. für Forschung und Analyse) unterliegen einer Anonymisierung. Dadurch ist eine Verknüpfung zu einem speziellen Nutzer jedenfalls ausgeschlossen.
+
+6.4 EU und Drittländer 6.4.1. Wir wählen primär Kooperationspartner aus, die ihren Sitz bzw. ihre Server innerhalb der Europäischen Union (EU) bzw. des Europäischen Wirtschaftsraums (EWR) haben. Eine Datenübermittlung innerhalb der EU und des EWR ist unbedenklich, weil die DSGVO in allen Mitgliedstaaten gilt.
+
+6.4.2. Ausnahmsweise beauftragen wir Drittanbieter mit Sitz bzw. Servern außerhalb der EU, wie z.B. innovative Unternehmen im Silicon Valley, USA. Auch in diesen Fällen ist hinsichtlich Deiner personenbezogenen Daten ein gemäß der DSGVO hohes Schutzniveau gewährleistet - entweder durch einen Angemessenheitsbeschluss der EU, mit dem der Datenschutz in bestimmten Drittländern für angemessen befunden wird (z.B. Schweiz, Israel und Neuseeland), oder durch von der EU geprüfte Standardvertragsklauseln, die wir dem Vertragsverhältnis mit unseren Auftragsdatenverarbeitern zugrunde legen, oder vergleichbare, gemäß DSGVO zulässige Rechtsinstrumente. Jedenfalls gelten für alle Auftragsverarbeiter die Verpflichtungen in dieser Datenschutzerklärung.
+
+6.4.3. Darüber hinaus achten wir auf zusätzlicheSicherheitsstandards unserer Partner, wie individuelleSicherheitsmaßnahmen und Datenschutzbestimmungen oder Zertifizierungengemäß DSGVO. So sollen z.B. Drittanbieter mit Sitz in den USA dem vonder EU genehmigten Privacy-Shield-Abkommen oder vergleichbareninternational anerkannten Sicherheitsstandards unterliegen.
+
+6.5. Kategorien von Empfängern 6.5.1. Unsere Kooperationspartner sind an die mit mySugr abgeschlossenen Verträge sowie an die DSGVO gebunden und verarbeiten Daten nur nach unseren Weisungen. Wir stellen Daten unserer Nutzer ausschließlich zur Auftragserfüllung bereit: Hersteller und Lieferanten benötigen personenbezogene Daten, um Warenbestellungen abzuwickeln. Typisches Beispiel ist die Belieferung unserer Nutzer mit Blutzuckermessgerät und Teststreifen im Rahmen unseres mySugr Pakets.
+
+Versicherungen können Daten mit uns austauschen, falls Du unsere Produkte im Rahmen Deiner Krankenversicherung (gesetzlich oder privat) beziehst. Damit wird eine eventuelle tarifmäßige Abrechnung über Deine Versicherung ermöglicht.
+
+Buchhaltungs- und Zahlungsdienstleister unterstützen uns bei der laufenden Abrechnung unserer kostenpflichtigen Produkte.
+
+Kundenbetreuungsdienste und ihre Tools helfen mit unserem Customer-Support, um die Anliegen unserer Nutzer rasch und effizient bearbeiten zu können. Dabei werden z.B. Anfragen aus verschiedenen Kommunikationskanälen erfasst und durch Ticketsysteme thematisch gebündelt.
+
+Analyse-Dienstleister und ihre Tools helfen uns zu verstehen, wie Nutzer unsere Produkte verwenden, um künftig maßgeschneiderte Kommunikation und Produktverbesserungen zur Verfügung zu stellen. Damit wollen wir verhindern, dass z.B. ein Pumpennutzer mit Typ1-Diabetes laufend Benachrichtigungen über Typ2-Diabetes oder Pens erhält.
+
+Marketing-Dienstleisterr unterstützen uns bei Erstellung, Sortierung, Individualisierung und Versand von Newsletter, E-Mails und sonstigen Benachrichtigungen an unsere Nutzer im Zusammenhang mit unseren Produkten.
+
+Hosting- und Cloud-Dienste und deren Tools nehmen wir zur Datenspeicherung sowie für anonymisierte Auswertungen in Anspruch (vgl. Punkt 2.4 oben).
+
+Zur Erinnerung: Die Weitergabe von Daten an unsere Auftragsverarbeiter und Dienstleister ist durch Garantien wie etwa Angemessenheitsbeschlüsse, Zertifizierungen (Privacy Shield) oder Standardvertragsklauseln gesichert. Eine Kopie solcher Garantien bzw. Auskunft darüber kannst Du unter privacy@mysugr.com anfordern.
+
+6.5.2. Schließlich beachte bitte, dass Du innerhalb unserer Produkte unmittelbar die Möglichkeit hast, bestimmte Daten mit einem Dritten zu teilen. Das betrifft z.B. die in unseren Apps generierten Reports, sowie die Kommunikation mit Deinem Arzt oder mySugr Coach im Rahmen einer Therapieberatung. Über eine solche Datenweitergabe entscheidest allein Du.
+
+6.6. Cookies mySugr speichert sogenannte „Cookies", um Dir einen umfangreichen Funktionsumfang zu bieten und die Nutzung unserer Webseiten komfortabler zu gestalten. „Cookies" sind kleine Textdateien, die mit Hilfe Deines Browsers auf Deinem Endgerät gespeichert werden. Bis auf die in Punkt 6.7 genannten Cookies für Nutzungsdaten dienen unsere Cookies der Funktion der Webseite. Wenn Du den Einsatz von „Cookies" nicht wünschst, kannst Du das Speichern von „Cookies" selbst durch entsprechende Einstellungen des Browsers verhindern. Die meisten unserer Cookies werden entweder nach Ende Deines Besuchs bzw. beim Schließen des Browsers gelöscht (Session Cookies). Soweit das nicht der Fall ist, kannst Du die Löschfrist in Deinem Browser nachsehen bzw. die Cookies dort selbst löschen. Bitte beachten Sie, dass die Funktionsfähigkeit und -umfang unseres Angebots dadurch eingeschränkt sein kann.
+
+6.7. Nutzungsdaten Nur im ohne Login öffentlich zugänglichen Angebot unserer Webseite nutzen wir Google Universal Analytics, einen Webanalysedienst der Google Inc. („Google"). Google ist nach dem EU-US Privacy Shield zertifiziert; zudem haben wir eine Auftragsverarbeitung mit Google vereinbart.
+
+Google Universal Analytics verwendet „Cookies" (s.o.), die eine Analyse Deiner Benutzung unserer Webseite ermöglichen und bis zu 2 Jahre gespeichert bleiben, wenn Du sie nicht zuvor löschst. Die durch den Cookie erzeugten Informationen über Deine Benutzung unserer Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Wir haben auf unserer Website Google Analytics um den Code „gat.anonymizeIp();" erweitert, um eine anonymisierte Erfassung von IP-Adressen zu erreichen. Dazu wird Deine IP-Adresse auf unsere Veranlassung hin von Google lediglich in gekürzter Form erfasst, was eine Anonymisierung gewährleistet und keine Rückschlüsse auf Deine Identität oder Dein Endgerät zulässt. Die Kürzung Deiner IP-Adresse nimmt Google in der Regel innerhalb der EU oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und erst dort gekürzt. In unserem Auftrag wird Google diese Informationen benutzen, um Deine Nutzung der Webseite auszuwerten, um uns dazu aggregierte Reports zu liefern und um für uns weitere mit der Internetnutzung verbundene Dienstleistungen zu erbringen. Die im Rahmen von Google Analytics von Deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+
+Du kannst die Speicherung der Cookies durch eine entsprechende Einstellung Deines Browsers verhindern, wie oben in Ziff. 6.6 beschrieben. Darüber hinaus kannst Du die Verarbeitung der durch das Cookie erzeugten und auf Deine Nutzung der Webseite bezogenen Daten (inkl. der IP-Adresse) durch Google verhindern, indem Du das unter dem folgenden Link verfügbare Browser-Plugin installierst http://tools.google.com/dlpage/gaoptout?hl=de.
+
+6.8. Speicherung und Löschung 6.8.1 Deine Nutzerdaten werden auf deinem Endgerät gespeichert. Darüber hinaus werden diese Daten auf unseren Servern aufbewahrt. Wir verwenden ausschließlich Systeme, die den Anforderungen der DSGVO entsprechen.
+
+6.8.2 Du kannst bei der Registrierung auswählen, ob Deine Daten auf Servern in der Europäischen Union (EU) oder in den USA gespeichert werden sollen. Standardmäßig ist die Speicherung in jener Region eingestellt, wo Dein aktueller Standort während der Registrierung ist. Unabhängig vom Speicherort sorgen wir dafür, dass für Dich das hohe Schutzniveau gemäß DSGVO gewährleistet ist - das gilt natürlich auch für Daten, die zur Verarbeitung weitergegeben und vorübergehend an einem anderen Ort gespeichert werden.
+
+6.8.3 mySugr speichert Deine personenbezogenen Daten grundsätzlich für die Vertragsdauer. Ausnahmsweise kann eine längere Speicherung notwendig sein, um nachvertragliche Verpflichtungen oder gesetzliche Aufbewahrungs- oder Auskunftspflichten zu erfüllen, oder um Rechtsansprüche geltend zu machen, auszuüben oder zu verteidigen (Verjährungsfristen).
+
+6.9. Minderjährige 6.9.1 Minderjährigen, die das sechzehnte Lebensjahr noch nicht vollendet haben, ist die Nutzung unserer Produkte nur mit Zustimmung der Erziehungsberechtigten erlaubt (vgl. Punkt 3.2.3 AGB). Das Gleiche gilt für die Verarbeitung ihrer personenbezogenen Daten, die nur rechtmäßig ist, sofern und soweit die Einwilligung durch den Träger der elterlichen Verantwortung für das Kind oder dessen Zustimmung vorliegt. Ansonsten ist die Nutzung unserer Produkte untersagt.
+
+6.10. Datenschutzbeauftragter 6.10.1. Unser Datenschutzbeauftragter steht Dir in allen datenschutzrechtlichen Belangen unter privacy@mysugr.com zur Verfügung. Er überwacht - unabhängig und weisungsfrei - die Einhaltung aller Datenschutzvorschriften und unterliegt strengen gesetzlichen Geheimhaltungs- und Verschwiegenheitspflichten.
+
+6.10.2. Der Datenschutzbeauftragte ist in allen Fragen umfassend eingebunden, die mit dem Schutz personenbezogener Daten unserer Nutzer zusammenhängen. Als geschulter Experte prüft er laufend unsere Verarbeitungen, unterrichtet und berät er laufend das gesamte mySugr Team, um den bestmöglichen Schutz Deiner Nutzerdaten sicherzustellen.
+
+6.11. Änderungen 6.11.1. Da sich Technik und Verfahrensweisen im Internet sowie die datenschutzrechtliche Gesetzgebung laufend weiterentwickeln, müssen wir von Zeit zu Zeit Anpassungen vornehmen. Anpassungen geben wir auf geeignete Weise und unter Einräumung einer angemessenen Frist vorab bekannt und holen wenn nötig neue Einwilligungen ein.
+
+6.11.2 Sofern in dieser Datenschutzerklärung nichts anderes vorgesehen ist, gelten dieselben Begriffsbestimmungen wie in unseren AGB.
+
+7. Deine Rechte 7.1. Widerruf von Einwilligungen Soweit wir Deine Nutzerdaten aufgrund Deiner Einwilligung verarbeiten, kannst Du die Einwilligung jederzeit widerrufen, ohne dass dies die Rechtmäßigkeit der Verarbeitung vor dem Widerruf berührt. Wir werden unsere Leistungen weiter erbringen, soweit sie nicht von der widerrufenen Einwilligung abhängen.
+
+7.2. Auskunft, Berichtigung und Einschränkung 7.2.1. Jeder Nutzer hat das Recht, Auskunft über die Verarbeitung seiner personenbezogenen Daten zu verlangen. Dazu wende Dich bitte jederzeit an uns unter privacy@mysugr.com.
+
+7.2.2. Dein Auskunftsrecht umfasst Informationen über die Verarbeitungszwecke, Daten- und Empfängerkategorien, Speicherdauer, etwaige Herkunft Deiner Daten, sowie über Deine Rechte gemäß den datenschutzrechtlichen Vorschriften. All dies findest Du jedenfalls schon in dieser Datenschutzerklärung und stellen wir Dir gerne auf Verlangen in einem elektronischen Format zur Verfügung.
+
+7.2.3. Sollte sich herausstellen, dass einzelne Deiner personenbezogenen Daten unrichtig sind, kannst Du jederzeit eine Berichtigung oder Vervollständigung Deiner Daten verlangen - die meisten Daten kannst Du innerhalb unserer Apps selbst korrigieren. Für die Dauer einer etwaigen Überprüfung Deiner Anliegen hast Du auch das Recht auf Einschränkung der Datenverarbeitung.
+
+7.3. Löschung („Recht auf Vergessenwerden") Jeder Nutzer hat das Recht, die Löschung seiner personenbezogenen Daten zu verlangen. Dazu wende Dich bitte jederzeit an uns unter support@mysugr.com.
+
+7.4. Datenübertragbarkeit Schließlich hat jeder Nutzer das Recht zu verlangen, dass wir eine Übersicht seiner personenbezogenen Daten an einen anderen Verantwortlichen übermitteln, soweit dies technisch machbar ist.
+
+7.5. Beschwerden 7.5.1 Solltest Du der Meinung sein, dass wir Deine Datenschutzrechte nicht ausreichend wahren, wende Dich bitte jederzeit an uns unter support@mysugr.com oder direkt an unseren Datenschutzbeauftragten unter privacy@mysugr.com. Wir kümmern uns sofort um Dein Anliegen.
+
+7.5.2. Ansonsten hat jeder Nutzer das Recht auf Beschwerde bei der für mySugr zuständigen Österreichischen Datenschutzbehörde in 1080 Wien, Wickenburggasse 8-10, wenn er der Ansicht ist, dass die Verarbeitung seiner personenbezogenen Daten gegen datenschutzrechtliche Vorschriften verstößt. Darüber hinaus kann das Beschwerderecht auch bei einer Aufsichtsbehörde im EU-Mitgliedstaat Deines Aufenthaltsorts, Deines Arbeitsplatzes oder des Orts eines mutmaßlichen Verstoßes geltend gemacht werden.
+
+DANKE FÜR DEIN VERTRAUEN!
+

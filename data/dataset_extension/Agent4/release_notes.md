@@ -1,6 +1,10 @@
-# PrivacyLens Dataset v1.0.0 — Release Notes
+# PrivacyLens Dataset — Release Notes
 
 **Para:** equipo PrivacyLens (Grupo 3) · **Fecha:** 2026-07-22
+
+> **Actualización v1.1.0 (mismo día):** el campo `rgpd_articles` usa ahora el mapeo académico oficial de Poplavska et al. 2020 (JURIX) y se añade `rgpd_principles_poplavska` (principios del Art. 5). Archivo autorizado para entrenamiento: **`privacylens_dataset_v1_1.parquet`** (sustituye a `privacylens_dataset_v1.parquet`).
+
+## Qué incluye esta versión (v1.0.0)
 
 ## Qué incluye esta versión
 

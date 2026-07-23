@@ -1,0 +1,72 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+99,1,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,2,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,3,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,4,[],['Choice Type (opt)'],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,5,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,6,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,8,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,9,['First Party'],"['Information Type', 'Purpose']","['Information Type_Health, genetic, or biometric data', 'Information Type_Demographic data', 'Purpose_Personalization or customization']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,10,['First Party'],['Information Type'],['Information Type_Other'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,11,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,12,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,13,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Optional service or feature', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,14,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,15,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,16,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,17,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,18,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Personalization or customization', 'Choice Type (opt)_Unspecified']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,19,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Choice Type (opt)_Unspecified']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,20,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,21,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,22,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,23,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,24,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_Other', 'Does/Does Not (opt)_Does', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,25,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out link'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,26,['Third Party'],"['Purpose', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)']","['Purpose_Analytics or research', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Unspecified']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,27,['Third Party'],"['Purpose', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Purpose_Advertising or marketing', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-out link', 'Third-Party Collection Process_Other']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,28,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,29,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,30,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,31,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,32,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,33,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,34,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,35,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Purpose_Other']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,36,['First Party'],"['Information Type', 'Purpose']",['Information Type_Contact information'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,37,['First Party'],"['Information Type', 'Purpose']",['Purpose_Essential service or feature'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,38,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Computer information', 'Purpose_Service operation and security']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,39,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,40,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,41,['First Party'],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,42,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Purpose_Essential service or feature', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,43,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Purpose_Service operation and security', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,44,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,45,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,46,['Third Party'],"['Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']",['Third-Party Collection Process_Shared by first party with a third party'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,47,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,48,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,49,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,50,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,51,['First Party'],['Information Type'],['Information Type_Generic personal information'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,52,['First Party'],['Purpose'],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,53,['First Party'],['Purpose'],['Purpose_Service operation and security'],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,54,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Analytics or research']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,55,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,56,[],['Does/Does Not (opt)'],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,57,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,58,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Collection Process_Collected on first-party website/app']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,59,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,60,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,61,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Other', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Choice Type (opt)_Opt-out link']",TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,62,[],['Choice Type (opt)'],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,63,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,64,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,65,['Third Party'],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,66,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,67,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,68,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,69,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,70,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False
+99,71,[],[],[],TEST,https://de.shein.com/Privacy-Security-Policy-a-282.html,False

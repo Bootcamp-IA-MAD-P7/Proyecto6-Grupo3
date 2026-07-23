@@ -1,0 +1,61 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+42,1,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,2,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,3,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,4,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,5,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,6,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,8,['First Party'],"['Information Type', 'Legal Basis for Collection']",['Legal Basis for Collection_Consent'],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,9,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,10,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Generic personal information', 'Information Type_Other']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,11,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Collection Mode (opt)']","['Information Type_Other', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Consent', 'Collection Mode (opt)_Implicit']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,12,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Information Type_Other', 'Does/Does Not (opt)_Does Not', 'Collection Mode (opt)_Explicit']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,13,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Implicit']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,14,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Consent', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,15,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other', 'Legal Basis for Collection_Consent']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,16,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other', 'Legal Basis for Collection_Consent']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,17,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Demographic data', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Other', 'Legal Basis for Collection_Public interest/official authority', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,18,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Computer information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Legal Basis for Collection_Public interest/official authority']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,19,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,20,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,21,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,22,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,23,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Merger or acquisition', 'Purpose_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party', 'Third-Party Collection Process_Entered by user on first-party website/app']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,24,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,25,['Third Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,26,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,27,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,28,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,29,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,30,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,31,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,32,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,33,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,34,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,35,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,36,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,37,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,38,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,39,['First Party'],"['Purpose', 'Collection Process']",['Collection Process_Collected on first-party website/app'],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,40,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Third-Party Entity_Named third party']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,41,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,42,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,43,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,44,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,45,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,46,['First Party'],['Information Type'],"['Information Type_Location', 'Information Type_Generic personal information']",TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,47,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,48,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,49,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,50,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,51,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,52,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,53,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,54,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,55,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,56,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,57,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,58,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,59,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False
+42,60,[],[],[],TRAIN,https://contourcloudus.ascensia.com/Privacy/Pages/DE/PrivacyPolicy.pdf,False

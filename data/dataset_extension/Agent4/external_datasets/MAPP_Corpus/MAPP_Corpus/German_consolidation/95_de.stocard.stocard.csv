@@ -1,0 +1,33 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+95,1,[],[],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,2,[],[],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,3,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,4,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Location', 'Purpose_Service operation and security', 'Purpose_Other', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,5,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Location', 'Purpose_Service operation and security', 'Purpose_Other']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,6,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Other']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,7,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,8,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Legal Basis for Collection_Consent', 'Collection Mode (opt)_Explicit', 'Choice Type (opt)_Opt-in']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,9,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']",[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,10,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Choice Type (opt)']",['Purpose_Personalization or customization'],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,11,"['First Party', 'Third Party']","['Information Type', 'Choice Type (opt)']",[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,12,"['First Party', 'Third Party']","['Information Type', 'Purpose']",[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,13,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,14,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,15,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,16,"['First Party', 'Third Party']","['Purpose', 'Legal Basis for Collection', 'Does/Does Not (opt)', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,17,['Third Party'],['Purpose'],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,18,['Third Party'],"['Purpose', 'Third-Party Entity', 'Anonymization (opt)']",['Purpose_Analytics or research'],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,19,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_User online activities', 'Third-Party Entity_Named third party']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,20,[],['Choice Type (opt)'],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,21,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,22,[],[],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,23,"['First Party', 'Third Party']","['Purpose', 'Legal Basis for Collection', 'Third-Party Entity']","['Purpose_Legal requirement', 'Legal Basis for Collection_Consent', 'Third-Party Entity_Named third party']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,24,[],[],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,25,[],['Does/Does Not (opt)'],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,26,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does'],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,27,[],['Choice Type (opt)'],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,28,[],['Choice Type (opt)'],[],TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,29,['First Party'],"['Information Type', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Generic personal information', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,30,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,31,['First Party'],"['Purpose', 'Anonymization (opt)']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://stocardapp.com/de/ca/privacy,True
+95,32,[],[],[],TRAIN,https://stocardapp.com/de/ca/privacy,True

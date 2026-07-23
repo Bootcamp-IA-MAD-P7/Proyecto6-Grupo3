@@ -1,0 +1,11 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+70,1,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Shared by first party with a third party', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not']",TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,2,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,3,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,4,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Personalization or customization']",TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,5,[],[],[],TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,6,[],[],[],TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,7,[],[],[],TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,8,[],[],[],TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,9,[],[],[],TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True
+70,10,[],[],[],TRAIN,https://todoist.com/Help/viewPrivacyPolicy?lang=en,True

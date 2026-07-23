@@ -1,0 +1,11 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+70,1,['First Party'],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Contact information', 'Does/Does Not (opt)_Does Not']",TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,2,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Anonymization (opt)']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Anonymization (opt)_Aggregated or anonymized']",TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,3,[],"['Purpose', 'Does/Does Not (opt)']","['Purpose_Essential service or feature', 'Does/Does Not (opt)_Does Not']",TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,4,['First Party'],"['Information Type', 'Purpose']",['Information Type_Cookies and tracking elements'],TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,5,[],[],[],TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,6,[],[],[],TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,7,[],[],[],TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,8,[],[],[],TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,9,[],[],[],TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True
+70,10,[],[],[],TEST,https://todoist.com/Help/viewPrivacyPolicy?lang=de,True

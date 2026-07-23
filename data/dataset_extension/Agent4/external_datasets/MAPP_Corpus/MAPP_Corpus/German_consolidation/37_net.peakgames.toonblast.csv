@@ -1,0 +1,93 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+37,1,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,2,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Generic personal information'],TRAIN,https://peak.com/de/privacy,True
+37,3,['First Party'],"['Legal Basis for Collection', 'Choice Type (opt)']","['Legal Basis for Collection_Consent', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://peak.com/de/privacy,True
+37,4,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,5,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,6,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://peak.com/de/privacy,True
+37,7,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Implicit']",TRAIN,https://peak.com/de/privacy,True
+37,8,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Other', 'Purpose_Unspecified', 'Collection Process_Directly received from third party', 'Collection Process_Unspecified', 'Third-Party Entity_Named third party']",TRAIN,https://peak.com/de/privacy,True
+37,9,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Directly received from third party', 'Collection Process_Unspecified', 'Third-Party Entity_Named third party']",TRAIN,https://peak.com/de/privacy,True
+37,10,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Directly received from third party', 'Collection Process_Unspecified', 'Third-Party Entity_Named third party']",TRAIN,https://peak.com/de/privacy,True
+37,11,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Other']",TRAIN,https://peak.com/de/privacy,True
+37,12,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Collection Mode (opt)_Implicit']",TRAIN,https://peak.com/de/privacy,True
+37,13,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Other', 'Collection Process_Directly received from third party', 'Does/Does Not (opt)_Does Not']",TRAIN,https://peak.com/de/privacy,True
+37,14,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://peak.com/de/privacy,True
+37,15,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://peak.com/de/privacy,True
+37,16,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://peak.com/de/privacy,True
+37,17,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://peak.com/de/privacy,True
+37,18,['First Party'],"['Purpose', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Unspecified']",TRAIN,https://peak.com/de/privacy,True
+37,19,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://peak.com/de/privacy,True
+37,20,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Cookies and tracking elements', 'Information Type_Other', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Collection Mode (opt)_Explicit', 'Third-Party Entity_Named third party']",TRAIN,https://peak.com/de/privacy,True
+37,21,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Information Type_Other', 'Third-Party Entity_Named third party']",TRAIN,https://peak.com/de/privacy,True
+37,22,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Unspecified', 'Collection Mode (opt)_Implicit']",TRAIN,https://peak.com/de/privacy,True
+37,23,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_IP address and device IDs', 'Legal Basis for Collection_Consent']",TRAIN,https://peak.com/de/privacy,True
+37,24,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Does/Does Not (opt)']","['Information Type_Other', 'Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Other', 'Does/Does Not (opt)_Does Not']",TRAIN,https://peak.com/de/privacy,True
+37,25,"['First Party', 'Third Party']","['Information Type', 'Legal Basis for Collection', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Other', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Unspecified']",TRAIN,https://peak.com/de/privacy,True
+37,26,['Third Party'],"['Purpose', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Third-Party Collection Process_Entered by user on first-party website/app']",TRAIN,https://peak.com/de/privacy,True
+37,27,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Third-Party Collection Process_Entered by user on first-party website/app']",TRAIN,https://peak.com/de/privacy,True
+37,28,['First Party'],"['Information Type', 'Collection Process', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Collection Process_Unspecified', 'Legal Basis for Collection_Consent']",TRAIN,https://peak.com/de/privacy,True
+37,29,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Financial', 'Information Type_Health, genetic, or biometric data', 'Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Other', 'Purpose_Unspecified', 'Collection Process_Unspecified']",TRAIN,https://peak.com/de/privacy,True
+37,30,['First Party'],"['Information Type', 'Purpose']","['Information Type_Health, genetic, or biometric data', 'Information Type_Demographic data', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Other', 'Purpose_Unspecified']",TRAIN,https://peak.com/de/privacy,True
+37,31,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other', 'Purpose_Unspecified', 'Collection Process_Unspecified']",TRAIN,https://peak.com/de/privacy,True
+37,32,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization']",TRAIN,https://peak.com/de/privacy,True
+37,33,[],['Choice Type (opt)'],"['Choice Type (opt)_Opt-out via contacting company', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://peak.com/de/privacy,True
+37,34,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,35,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Location', 'Information Type_Demographic data', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Other', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://peak.com/de/privacy,True
+37,36,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Collection Mode (opt)', 'Third-Party Entity']","['Information Type_Location', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Unspecified', 'Collection Mode (opt)_Implicit', 'Third-Party Entity_Unnamed third party']",TRAIN,https://peak.com/de/privacy,True
+37,37,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Other', 'Collection Mode (opt)_Implicit', 'Third-Party Entity_Unnamed third party']",TRAIN,https://peak.com/de/privacy,True
+37,38,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://peak.com/de/privacy,True
+37,39,['First Party'],[],[],TRAIN,https://peak.com/de/privacy,True
+37,40,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Purpose_Essential service or feature', 'Third-Party Collection Process_Entered by user on first-party website/app', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,https://peak.com/de/privacy,True
+37,41,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Purpose_Analytics or research', 'Purpose_Other', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-out link']",TRAIN,https://peak.com/de/privacy,True
+37,42,['First Party'],['Purpose'],['Purpose_Service operation and security'],TRAIN,https://peak.com/de/privacy,True
+37,43,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://peak.com/de/privacy,True
+37,44,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Optional service or feature']",TRAIN,https://peak.com/de/privacy,True
+37,45,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing']",TRAIN,https://peak.com/de/privacy,True
+37,46,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://peak.com/de/privacy,True
+37,47,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,48,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,49,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,50,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,51,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://peak.com/de/privacy,True
+37,52,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://peak.com/de/privacy,True
+37,53,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://peak.com/de/privacy,True
+37,54,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://peak.com/de/privacy,True
+37,55,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,56,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,57,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,58,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,59,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,60,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,61,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,62,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,63,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,64,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,65,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,66,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,67,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,68,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,69,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,70,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,71,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,72,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,73,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,74,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,75,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,76,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,77,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,78,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,79,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,80,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,81,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,82,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,83,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,84,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,85,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,86,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,87,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,88,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,89,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,90,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,91,[],[],[],TRAIN,https://peak.com/de/privacy,True
+37,92,[],[],[],TRAIN,https://peak.com/de/privacy,True

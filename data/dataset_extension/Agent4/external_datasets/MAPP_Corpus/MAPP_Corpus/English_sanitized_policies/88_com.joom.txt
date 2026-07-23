@@ -1,0 +1,72 @@
+By using this site, you agree to our use of cookies. Learn more at privacy policy.
+
+English USD SupportDeliveryWarranty Search Notifications Enter My orders Shopping cart All categories Women's Clothing & Accessories Footwear Men's Clothing & Accessories Electronics Health & Beauty Home & Kitchen Jewelry & Bijouterie Baby & Kids Automobiles & Motorcycles Hobby, Sport, Traveling Watches Luggage & Bags Pet products Industry & Business Cameras and Optics Weddings & Events Garden Supplies Office & School Supplies TeaJoom Privacy Policy Last modified: 8 April 2019 # 1. Privacy Policy Scope Joom ("Joom" or "We") respects your privacy and is committed to protecting it through our compliance with this Privacy Policy.
+
+This Privacy Policy identifies and describes the types of information we may collect from you or that you may provide when you visit the website www.Joom.com ("Website"), use the Joom App ("App"), or use our Service as defined by the Joom Terms and Conditions and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+
+Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website, App or Service. By accessing or using this Website, App or Service, you agree to this Privacy Policy. This Privacy Policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website, App or Service after we make changes is deemed to be acceptance of those changes, so please check the Privacy Policy periodically for updates.
+
+This Privacy Policy applies to information we collect: On this Website. In email, text, and other electronic messages with us and while otherwise using our Service. Through our App. When you interact with our plugins, ads, cookies, or similar technologies on third-party services provided by others.
+
+This Privacy Policy does not apply to information collected by: (1) us offline or through other means, including on any other website operated by Joom or any third party; or (2) any third party, including through any application or content (including advertising) that may link to or be accessible from or on our Website, App or Service.
+
+# 2. Children Under the Age of 13 Our Website, App and Service are not intended for children under 13 years of age. No one under age 13 may provide any information to the Website, App or Service. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website, App or Service or on or through any of its features, do not register on the Website, App or Service, make any purchases through the Website, App or Service, use any of the interactive or public comment features of this Website, App or Service or provide any information about yourself to us, including your name, address, telephone number, email address, or any user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@joom.com.
+
+# 3. Information We Collect About You, How We Collect It, and Why We Collect ItWe may collect several different types of information from and about users of our Website, App or Service, including: Information by which you may be personally identified, such as your name, street address, country, e-mail address, phone number, gender, profile picture, age range, financial information (such as your bank account and routing number, account name, credit card information, and payment information), your IP address, unique device ID, advertising ID, log-in information, social network ID, or any other identifier by which you may be contacted online or offline (collectively "Personally Identifiable Information" or "PII"); Device information, such as hardware model, OS version, Joom App version, screen size, browser type, pages you have accessed, device type, geolocation, language setting, and other technical information about your device and use of our Website, App or Service; Social network information, such as posts, comments, likes, and subscriptions; Information related to products viewed, opened, searched and purchased, shipment tracking, and product reviews.
+
+We collect information in the following primary ways: You give it to us when you login with your social network credentials, fill out a form or enter information on our Website, App or Service, make a purchase, use our product or services, or use other website features; We collect it automatically through data collection technologies when you use our Website, App or Service.
+
+We may use the information we collect in a variety of ways, including: To present our Website, App or Service to you with the best user experience possible and make our advertising (including the deep links) more relevant to you; To perform payments and order fulfilment; To provide the services you use, and to respond to your questions; To communicate with you regarding service updates, offers, and promotions; To deliver customized content that may be of interest to you; To address network integrity and security issues; To investigate, prevent or take action regarding illegal activities, violations of our Terms of Service or other applicable policies; In any other way we may describe when you provide the information; For any other purpose with your consent.
+
+# 4. Online Activity Tracking We collect information about your activity on the Website, App or Service for a number of purposes using technologies such as cookies, user behavior, server log files and similar technologies (e.g., pixels, ad tags and device identifiers).
+
+A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate settings on your browser. However, if you select this setting you may be unable to access certain parts of our Website, App or Service. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website, App or Service.
+
+When you visit our Website or App some or all of the following types of cookies may be set on your device: Essential website cookies: we need them to provide you with access to our Website and to use some of its features.
+
+Advertising cookies: we use them to make advertising messages more relevant to you, choose ads that match your preferences and measure the number of ads displayed to you and their efficiency.
+
+Analytics cookies: they help us to evaluate how good our Website and/or App, our marketing efforts are, and help us customize and improve our Website and App.
+
+Pages of our Website, App or Service and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Joom, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+
+We also may use Urchin Tracking Module (UTM) tags. UTM works as a custom URL for marketing campaigns and reports can be viewed in platforms like Google Analytics. UTM tags are appended as part of the visible URL in marketing programs to understand the specific instance of a link on third-party websites and visitors to our website. The tracking occurs via the UTM parameters that are appended in the URL. When you click an UTM-tagged URL on a third-party website, based on the parameters set, we will be able to track from which end source you have interacted with that URL. These details are collected at an aggregated level. Customizing the URL with UTM tags allows us to better understand the marketing activity, which then allows us to better serve our audience.
+
+We use that information to help tailor the content you see on our Website, App or Service, optimize our Website, App or Service, and make our advertising more relevant to you. We transfer this data to our authorized processors providing us with analytics and recommendation solutions for these purposes.
+
+Do Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third-parties. Please note that our Website does not respond to DNT signals. We also use information regarding your prior visits, searches, purchases and other activities on our Website, App or Service to make our advertising you see on some websites other than ours more relevant to you.
+
+# 5. Information Sharing We may disclose your PII to companies affiliated with Joom, non-Joom companies or other third parties for purposes such as: Complying with court orders and other legal process; To assist with identity verification, and to prevent fraud and identity theft; Enforcing our agreements and property rights.
+
+Assisting us in providing you with our services. When you complete a purchase on our Website, App or Service, we share your submitted shipping address and phone number for shipping purposes only. This information is shared with the entities fulfilling and shipping your order, such as the merchant and the shipping provider. We also share PII with third parties such web hosting companies, payment processors and fraud prevention partners, marketing partners, and customer support systems providers.
+
+We do not share PII with third parties for purposes of direct marketing.
+
+# 6. Anonymous & Aggregate Information We collect some information on an anonymous basis. We also may anonymize the personal information we collect about you.
+
+We obtain aggregate data by combining anonymous data that meet certain criteria into groups.
+
+We may share aggregate or anonymous information in various formats with trusted non-Joom entities without restriction and may work with those entities to do research and provide products and services.
+
+# 7. Safeguarding Your Information: Our Policy on Data Protection and SecurityWe do not sell your PII to anyone for any purpose.
+
+We maintain information about you in our business records while you are a user, or until it is no longer needed for business, tax, or legal purposes.
+
+We have implemented encryption or other appropriate security controls to protect PII when stored or transmitted by Joom.
+
+We require non-Joom companies acting on our behalf to protect any PII they may receive in a manner consistent with this Privacy Policy. We do not allow them to use such information for any other purpose.
+
+# 8. Links to/from Other Web Sites Joom is not responsible for the practices employed by websites linked to or from our website, nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.
+
+# 9. Data Security and Data Breach We have implemented measures designed to secure PII from accidental loss and from unauthorized access, use, alteration, and disclosure. Despite our efforts to ensure security on our networks, we cannot guarantee that PII may not be accessed, disclosed, altered, or destroyed by breach of our administrative, managerial, and technical safeguards.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, App or Service, you are responsible for keeping this password confidential. Therefore, we urge you to take adequate precautions to protect PII as well, including never sharing any login or account information with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect PII, we cannot guarantee the security of PII transmitted to our Website, App or Service. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website, App or Service.
+
+Should a data breach occur, we will notify you and the relevant authorities as required by applicable law. To receive written notice of a data breach, or to withdraw your consent from receiving such written notice), please email us at privacy@joom.com.
+
+# 10. Changes to Our Privacy Policy If we change our privacy policies and procedures, we will post those changes on our Website, App or Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+
+# 11. Contact Information To ask questions, make comments, or register a complaint or concern about this Privacy Policy and our privacy practices, please contact us at: SIA "Joom" Email: privacy@joom.com Address: Gustava Zemgala St. 78, LV-1039, Riga, Latvia Popular categories spider man cake mystic unicorn tiny pot austin hot yamaha stator coil multi stone bracelet turquoise shoes 3pdt switch cpu processor i7 renault car speakers front door key rack raspberry pi 3 battery motorcycle keyring alpha delta pi sticker how to make a popcorn box out electronic magnifiers industrial podium el juego infinito type c connector captain jake and the neverland schwinn electric bike audi q3 wiper all power electric pressure wa blau auge robotic cat toy piston power transformer prime shows bathroom home samsung galaxy tab e usb conne smartphone ultra thinCatalog Privacy Policy Terms of Use Copyright Protection Support About our company Become a seller © 2020 SIA Joom (Latvia) This site is protected by reCAPTCHA and Google Privacy policy and Terms of Use
+

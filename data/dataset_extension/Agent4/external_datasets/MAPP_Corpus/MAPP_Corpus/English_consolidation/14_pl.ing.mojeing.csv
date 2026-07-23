@@ -1,0 +1,64 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+14,1,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,2,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,3,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,4,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,5,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,6,['First Party'],['Collection Process'],"['Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Collection Process_Other']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,7,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Demographic data', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Service operation and security', 'Collection Process_Directly received from third party']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,8,['First Party'],['Information Type'],['Information Type_Personal identifier'],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,9,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Health, genetic, or biometric data', 'Information Type_Political, religious, or philosophical belief', 'Information Type_Other', 'Purpose_Legal requirement', 'Legal Basis for Collection_Consent']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,10,['First Party'],['Legal Basis for Collection'],"['Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,11,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Other', 'Purpose_Legal requirement']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,12,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,13,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,14,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Purpose_Analytics or research']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,15,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,16,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,17,['First Party'],"['Information Type', 'Purpose']",['Information Type_Financial'],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,18,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Analytics or research']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,19,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_Personal identifier', 'Information Type_Generic personal information', 'Purpose_Service operation and security']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,21,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,22,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,23,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Compliance with a legal obligation']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,24,['First Party'],"['Information Type', 'Purpose']","['Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information', 'Purpose_Service operation and security']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,25,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Legal Basis for Collection_Compliance with a legal obligation']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,26,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,27,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,28,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,29,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,30,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,31,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,32,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,33,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Essential service or feature', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,34,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,35,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,36,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,37,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,38,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,39,['Third Party'],['Third-Party Entity'],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,40,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Analytics or research'],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,41,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,42,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,43,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,44,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,45,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,46,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,47,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,48,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,49,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,50,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,51,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,52,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,53,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,54,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,55,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,56,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,57,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,58,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,59,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,60,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,61,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,62,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True
+14,63,[],[],[],TRAIN,https://www.ing.com/Privacy-Statement.htm,True

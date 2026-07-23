@@ -1,0 +1,65 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+19,1,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,2,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,3,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,4,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,5,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,6,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,7,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,8,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,9,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,10,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,11,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,12,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,13,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,14,[],['Collection Mode (opt)'],['Collection Mode (opt)_Explicit'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,15,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Location', 'Purpose_Essential service or feature']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,16,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,17,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,18,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,19,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,20,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,21,"['First Party', 'Third Party']","['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,22,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,23,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,24,['First Party'],['Collection Process'],"['Collection Process_Collected on first-party website/app', 'Collection Process_Tracked user on third-party website/app']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,25,['Third Party'],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,26,[],['Choice Type (opt)'],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,27,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,28,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Purpose_Optional service or feature']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,29,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Other', 'Collection Process_Directly received from third party']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,30,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Other', 'Collection Process_Directly received from third party']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,31,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_IP address and device IDs']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,32,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_IP address and device IDs']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,33,['First Party'],['Information Type'],"['Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Other']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,34,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,35,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,36,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,37,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,38,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,39,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,40,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,41,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Location', 'Information Type_Computer information', 'Information Type_Other']",TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,42,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,43,['First Party'],['Purpose'],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,44,['First Party'],['Purpose'],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,45,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,46,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,47,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,48,['Third Party'],"['Purpose', 'Third-Party Collection Process']",['Purpose_Advertising or marketing'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,49,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,50,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,51,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,52,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,53,['First Party'],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,54,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,55,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,56,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,57,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,58,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,59,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,60,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,61,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,62,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,63,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
+19,64,[],[],[],TRAIN,https://legal.ubi.com/privacypolicy/de-DE,True
