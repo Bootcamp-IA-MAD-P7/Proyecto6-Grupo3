@@ -1,0 +1,133 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+61,1,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,2,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,3,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,4,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,5,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,6,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,7,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,8,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,9,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,10,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,11,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,12,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,13,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,14,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,15,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,16,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,17,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,18,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,19,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,20,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,21,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,22,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,23,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,24,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,25,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,26,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,27,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,28,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,29,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,30,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,31,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,32,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,33,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,34,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,35,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,36,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,37,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,38,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,39,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,40,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,41,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,42,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,43,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,44,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,45,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,46,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,47,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,48,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,49,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,50,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,51,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,52,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,53,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,54,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,55,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,56,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,57,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,58,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,59,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,60,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,61,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,62,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,63,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,64,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,65,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,66,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,67,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,68,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,69,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,70,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,71,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,72,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,73,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,74,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,75,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,76,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,77,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,78,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,79,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit', 'Third-Party Collection Process_Unspecified']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,80,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Other', 'Collection Mode (opt)_Explicit']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,81,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,82,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Implicit']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,83,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_User online activities', 'Collection Mode (opt)_Implicit']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,84,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Directly received from third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,85,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,86,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,87,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Generic personal information', 'Purpose_Essential service or feature']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,88,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,89,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,90,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,91,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Purpose_Other', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,92,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,93,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Other', 'Legal Basis for Collection_Consent', 'Choice Type (opt)_Opt-out via contacting company']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,94,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Collection Process_Directly received from third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,95,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,96,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Other']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,97,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Other']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,98,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,99,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Purpose_Unspecified']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,100,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,101,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,102,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,103,['Third Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,104,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,105,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,106,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Unspecified', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,107,"['First Party', 'Third Party']","['Purpose', 'Legal Basis for Collection']","['Information Type_Unspecified', 'Purpose_Merger or acquisition', 'Legal Basis for Collection_Consent']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,108,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,109,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,110,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,111,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,112,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,113,['First Party'],"['Information Type', 'Legal Basis for Collection', 'Choice Type (opt)', 'Choice Scope (opt)']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Choice Type (opt)_Opt-in', 'Choice Type (opt)_Opt-out via contacting company', 'Choice Scope (opt)_Use']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,114,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,115,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,116,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,117,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,118,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,119,['First Party'],"['Information Type', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Vital interest', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,120,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,121,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,122,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,123,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,124,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,125,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,126,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,127,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,128,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,129,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,130,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,131,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True
+61,132,[],[],[],TEST,https://www.vmware.com/de/help/privacy.html#privacy-notice,True

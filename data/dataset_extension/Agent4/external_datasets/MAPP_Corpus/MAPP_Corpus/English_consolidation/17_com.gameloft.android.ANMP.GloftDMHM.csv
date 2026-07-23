@@ -1,0 +1,67 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+17,1,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,2,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,3,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,4,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,5,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,6,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation']",TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,7,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation']",TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,8,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation']",TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,9,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation']",TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,10,['First Party'],['Purpose'],"['Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,11,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,12,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,13,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,14,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,15,['Third Party'],['Collection Process'],['Collection Process_Entered by user on first-party website/app'],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,16,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,17,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,18,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Legal requirement']",TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,19,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,20,['First Party'],['Purpose'],['Purpose_Merger or acquisition'],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,21,['First Party'],['Purpose'],['Purpose_Merger or acquisition'],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,22,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,23,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,24,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,25,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,26,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,27,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,28,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,29,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,30,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,31,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,32,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,33,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,34,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,35,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,36,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,37,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,38,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,39,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,40,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,41,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,42,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,43,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,44,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,45,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,46,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,47,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,48,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,49,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,50,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,51,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,52,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,53,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,54,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,55,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,56,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,57,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,58,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,59,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,60,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,61,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,62,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,63,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,64,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,65,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True
+17,66,[],[],[],TRAIN,https://www.gameloft.com/en/privacy-notice/,True

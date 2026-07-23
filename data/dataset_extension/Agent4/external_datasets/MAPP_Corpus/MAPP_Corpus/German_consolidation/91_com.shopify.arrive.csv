@@ -1,0 +1,95 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+91,1,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,2,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,3,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,4,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Information Type_Political, religious, or philosophical belief', 'Collection Process_Unspecified']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,5,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Collection Process_Unspecified']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,6,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Legal requirement']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,8,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,9,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Personal identifier', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,10,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,11,['First Party'],"['Information Type', 'Purpose']","['Information Type_Personal identifier', 'Purpose_Service operation and security']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,12,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,13,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,14,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,15,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Collection Process_Directly received from third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,16,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,17,['Third Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,18,['Third Party'],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,19,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,20,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,21,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,22,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,23,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,24,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_IP address and device IDs', 'Purpose_Service operation and security']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,25,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,26,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,27,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Collection Process_Directly received from third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,28,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,29,['Third Party'],['Purpose'],['Purpose_Service operation and security'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,30,['Third Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,31,['Third Party'],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,32,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,33,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,34,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Personal identifier', 'Information Type_Social media data', 'Purpose_Service operation and security']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,35,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Unspecified']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,36,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Directly received from third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,37,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,38,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,39,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,40,['Third Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,41,['Third Party'],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,42,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,43,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,44,['First Party'],"['Information Type', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,45,['First Party'],['Information Type'],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,46,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,47,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,48,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,49,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,50,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,51,['First Party'],['Collection Process'],['Information Type_Unspecified'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,52,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,53,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,54,['Third Party'],"['Purpose', 'Third-Party Collection Process']","['Purpose_Advertising or marketing', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,55,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,56,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,57,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,58,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Personalization or customization']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,59,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,60,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Does/Does Not (opt)']","['Purpose_Advertising or marketing', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,61,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,62,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,63,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,64,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,65,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,66,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,67,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,68,['First Party'],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,69,['First Party'],"['Collection Process', 'Does/Does Not (opt)']","['Information Type_Unspecified', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,70,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Information Type_Other']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,71,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,72,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,73,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,74,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,75,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,76,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,77,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,78,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,79,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,80,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,81,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,82,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,83,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,84,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,85,['First Party'],['Purpose'],"['Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,86,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,87,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,88,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,89,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,90,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,91,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,92,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,93,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True
+91,94,[],[],[],TRAIN,https://www.shopify.de/legal/datenschutz,True

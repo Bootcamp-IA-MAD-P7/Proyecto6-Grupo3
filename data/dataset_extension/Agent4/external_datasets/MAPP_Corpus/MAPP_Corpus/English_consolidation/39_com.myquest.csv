@@ -1,0 +1,52 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+39,1,[],[],"['Information Type_Unspecified', 'Purpose_Unspecified', 'Collection Process_Unspecified']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,2,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Generic personal information']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,3,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Other']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,4,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_Other']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,5,['First Party'],['Information Type'],"['Information Type_Demographic data', 'Information Type_Other']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,6,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,7,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,8,['First Party'],['Information Type'],['Information Type_User online activities'],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,9,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Collection Process_Directly received from third party']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,10,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,11,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,12,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,13,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,14,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Essential service or feature', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,15,['Third Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Legal requirement']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,16,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,17,['Third Party'],"['Third-Party Entity', 'Choice Type (opt)']","['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,18,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,19,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,20,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,21,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,22,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,23,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,24,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,25,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,26,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,27,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,28,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,29,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,30,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,31,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,32,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,33,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,34,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,35,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,36,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,37,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,38,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,39,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,40,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,41,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,42,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,43,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,44,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,45,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,46,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,47,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,48,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,49,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,50,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True
+39,51,[],[],[],TRAIN,https://www.questdiagnostics.com/home/privacy/privacy-notice/,True

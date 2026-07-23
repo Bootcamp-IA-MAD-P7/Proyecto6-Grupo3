@@ -1,0 +1,424 @@
+Privacy Policy for MyTherapy MyTherapy is provided by smartpatient gmbh, Landwehrstr. 60/62, 80336 Munich, Germany ("smartpatient" or "we"). We are the data controller for the processing of your personal data via MyTherapy.
+
+1. Data collected to provide basic functionality When you start using MyTherapy, we ask for your consent pursuant to Article 6 para. 1a) GDPR, because MyTherapy's basic functionality requires the processing of your health data. You can no longer use MyTherapy if you withdraw this consent.
+
+a) Running MyTherapy When using MyTherapy, your smartphone automatically transmits date and time of access, operating system, type of smartphone, quantity of data transmitted and IP address to us. Processing this data is a technical requirement for using MyTherapy. Except the IP address, we analyze this data statistically to improve MyTherapy [legal basis: Article 6 para. 1f) GDPR, legitimate interest: providing and improving MyTherapy].
+
+b) Registering user account You can use MyTherapy without a user account ("account") and without entering personal data. However, without an account you can use MyTherapy on one smartphone only and if you lose your smartphone, you will not be able to restore your data. To register an account, you must enter your email address and a password [legal basis: Article 6 para. 1b) GDPR].
+
+c) Supporting your treatment You can use MyTherapy to manage and document your treatment by entering e.g.: Treatment schedules for medication Measurements like blood pressure Well-being or symptoms Age and genderDoctor appointments and contact information [legal basis: Article 9 para. 2a) GDPR]d) Selecting medication You can add medications to your treatment using a medication database. MyTherapy preselects the database using the region or language settings of your smartphone. If this fails, we use your IP address to determine your country [legal basis: Article 9 para. 2a) GDPR].
+
+2. Additional functionalities When activating additional functionalities, we ask for your explicit consent pursuant to Article 9 para. 2a) or Art. 6 para. 1a) GDPR for each single additional functionality: a) Importing health data You can import health data from other applications, such as step count from a fitness tracker via Apple HealthKit or Google Fit and add them to your treatment documentation. We use Apple HealthKit or Google Fit data only for this purpose.
+
+Apple HealthKit: We never use your Apple HealthKit data for advertising and similar services or for use-based data mining. We do not disclose information gained through Apple HealthKit to any third party or sell it to advertising platforms, data brokers, or information resellers.
+
+Google Fit: We do not use the content accessed from Google Fit in connection with any advertising, sponsorship or promotions, we do not share or sell that content to any data broker or information reseller, and we do not permit our users to do any of the above.
+
+b) Connecting with friends, family or health care professionals You can connect your account with other users so that they can view your health data, by generating and sharing a code with them. You can cancel this connection at any time.
+
+c) Receiving personalized content We use your health data to show you personalized content, e.g. instructions on how to handle or administer your treatment, e.g. a video on how to use an asthma inhaler.
+
+d) Activating newsletter Our newsletter informs you of new functionality, new products and general information about MyTherapy or smartpatient. We may use your health data (excluding data from Apple HealthKit) to personalize the content of the newsletter.
+
+e) Participating in surveys and studies We use your health data to identify you as participant for surveys and studies and contact you via MyTherapy or email to invite you.
+
+3. Storing your data - location When your smartphone connects to the Internet, MyTherapy transmits your data using data encryption to a centralized database located in the European Union provided by the technical service provider Amazon Web Services, Inc. The technical service provider may access the data for the maintenance, operation or administration of the technical infrastructure.
+
+4. Storing your data - duration We keep your personal data for no longer than is necessary for the purposes for which your personal data is processed. If you delete your account, we delete any personal data contained in this account. We also delete any personal data contained in this account if you have not logged in for 3 years. This cannot be reversed.
+
+5. Analytics tools We collect MyTherapy usage data with analytics tools to improve MyTherapy. You can activate and/or deactivate this in MyTherapy settings [legal basis: Article 6 para. 1a) GDPR or para. 1f) GDPR; legitimate interest: improving MyTherapy].
+
+a) Google Analytics for Mobile Apps and for Firebase With Google Analytics (Google LLC) we collect MyTherapy usage data, e.g. time and duration of app use. The collected information is stored on a Google server in the United States. The "IP anonymize" function is activated for MyTherapy. This means that your IP address will, within Member States of the European Union or other contracting states of the Agreement on the European Economic Area, first be shortened by Google. Only in exceptional cases does Google transfer the full IP address to a Google server in the United States and shortens it there. Google does not combine the IP address transferred by your smartphone with other data. For further information please refer to www.google.com/policies/privacy/partners/.
+
+b) Other tools Crashlytics, Inc. creates crash reports containing the part of the software that may have caused the crash, and your smartphone model.
+
+New Relic, Inc. provides information on the technical performance and stability of MyTherapy.
+
+6. Non-EU service providers We may rely on third-party service providers from outside the European Union, such as an analytics tool, but we take all reasonable steps to ensure that your data is adequately protected according to the requirements of the data protection laws of the European Union by means of Standard Data Protection Clauses approved by the EU Commission. You can request a copy of the contract with that provider that implements the appropriate protection of your personal data.
+
+7. Your data protection rights You can request information on the data stored about you, and you have the right to receive your data in a common machine-readable format. You may also request the deletion or correction of your data, or the restriction of its processing, or object to the processing of your data.
+
+8. Withdrawing your consent and contact You are free to withdraw any consent you have given at any time. If you have any questions or wish to exercise your rights, please contact us e.g. at support@mytherapyapp.com.
+
+The data privacy officer responsible for smartpatient and MyTherapy is Dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 München, Germany, email@iitr.de.
+
+In case of concerns, you can also contact the applicable data protection authority.
+
+9. Amendments We reserve the right to amend this Privacy Policy. You can find the latest version on our website mytherapyapp.com. This Privacy Policy was last changed on 08.06.2020.
+
+Datenschutzrichtlinie für MyTherapy MyTherapy wird von der smartpatient gmbh, Landwehrstr. 60/62, 80336 München („smartpatient" oder „wir") bereitgestellt. Wir sind der Datenverantwortliche für die Verarbeitung Ihrer persönlichen Daten über MyTherapy.
+
+1. Für die Bereitstellung der Grundfunktion erfasste Daten Am Anfang Ihrer Nutzung von MyTherapy holen wir gemäß Artikel 6 § 1a DSGVO Ihre Einwilligung ein, da die Grundfunktion von MyTherapy auf der Verarbeitung Ihrer Gesundheitsdaten basiert. Wenn Sie diese Einwilligung widerrufen, dürfen Sie MyTherapy nicht mehr verwenden.
+
+a) Ausführung von MyTherapy Bei der Nutzung von MyTherapy übermittelt Ihr Smartphone uns automatisch Datum und Uhrzeit des Zugriffs, das Betriebssystem, den Smartphone-Typ, die Menge der übermittelten Daten und die IP-Adresse. Die Verarbeitung dieser Daten ist aus technischen Gründen für die Nutzung von MyTherapy notwendig. Mit Ausnahme der IP-Adresse unterziehen wir diese Daten einer statistischen Analyse und nutzen sie, um MyTherapy zu verbessern [Rechtsgrundlage: Artikel 6 § 1f DSGVO, berechtigtes Interesse: Bereitstellung und Verbesserung von MyTherapy].
+
+b) Registrierung eines Nutzerkontos Sie können MyTherapy ohne Nutzerkonto („Konto") und ohne Eingabe personenbezogener Daten nutzen. Allerdings können Sie MyTherapy ohne Benutzerkonto nur auf einem einzigen Smartphone nutzen. Wenn Sie Ihr Smartphone verlieren, können Sie Ihre Daten nicht wiederherstellen. Um ein Konto zu registrieren, müssen Sie Ihre E-Mail-Adresse und ein Passwort eingeben [Rechtsgrundlage: Artikel 6 § 1b DSGVO].
+
+c) Unterstützung Ihrer Behandlung Mit MyTherapy können Sie Ihre Behandlung verwalten und dokumentieren. Dazu geben Sie beispielsweise folgende Daten an: Behandlungspläne für Medikamente Messungen wie Blutdruck Befinden oder Symptome Alter und Geschlecht Arzttermine und Kontaktinformationen [Rechtsgrundlage: Artikel 9 § 2a) DSGVO]d) Auswahl der Medikamente Sie können Ihrer Behandlung Medikamente aus einer Medikamentendatenbank hinzufügen. MyTherapy trifft eine Vorauswahl der Datenbank. Dazu verwendet die App die Regions- oder Spracheinstellungen von Ihrem Smartphone. Schlägt dies fehl, ermitteln wir Ihr Land anhand Ihrer IP-Adresse [Rechtsgrundlage: Artikel 9 § 2a) DSGVO].
+
+2. Zusätzliche Funktionen Beim Aktivieren zusätzlicher Funktionen holen wir für jede einzelne zusätzliche Funktion Ihre ausdrückliche Einwilligung ein [Rechtsgrundlage: Artikel 9 Abs. 2a) oder Art. 6 Abs. 1a) DSGVO]: a) Importieren von Gesundheitsdaten Sie können Gesundheitsdaten aus anderen Apps importieren, z. B. die Schrittanzahl aus einem Fitness-Tracker über Apple HealthKit oder Google Fit, und diese zu Ihrer Behandlungsdokumentation hinzufügen. Wir verwenden Daten aus Apple HealthKit bzw. Google Fit ausschließlich zu diesem Zweck.
+
+Apple HealthKit: Wir verwenden Ihre Apple HealthKit-Daten nie zu Werbezwecken, für vergleichbare Dienste oder nutzerbasiertes Data Mining. Wir geben keine Informationen gegenüber Dritten preis, die wir über Apple HealthKit gewonnen haben. Wir verkaufen solche Daten auch nicht an Anzeigenplattformen, Datenbroker oder Datenhändler.
+
+Google Fit: Wir verwenden die Inhalte, auf die von Google Fit aus zugegriffen wird, nicht im Zusammenhang mit Werbung, Sponsorschaften oder Sonderangeboten, tauschen diese Inhalte nicht mit Datenbrokern oder Datenhändlern aus und verkaufen sie auch nicht an solche Broker oder Händler, und wir gestatten all dies auch nicht unseren Nutzern.
+
+b) Verbinden mit Freunden, Familie oder Arzt Sie können Ihr Konto mit anderen Nutzern verbinden. Diese können Ihre Gesundheitsdaten dann sehen, wenn Sie einen Code generieren und mit ihnen austauschen. Sie können diese Verbindung jederzeit beenden.
+
+c) Empfangen von personalisierten Inhalten Anhand Ihrer Gesundheitsdaten können wir Ihnen personalisierte Inhalte anzeigen, z. B. Anweisungen für die Handhabung oder Verabreichung Ihrer Behandlung, etwa ein Video mit einer Anleitung für die Verwendung eines Inhalationsgeräts für Asthma.
+
+d) Aktivieren des Newsletters Unser Newsletter informiert Sie über neue Funktionen, neue Produkte und allgemeine Informationen über MyTherapy oder smartpatient. Wir können Ihre Gesundheitsdaten (mit Ausnahme der Daten vom Apple HealthKit) verwenden, um die Inhalte des Newsletters zu personalisieren.
+
+e) Teilnahme an Umfragen und Studien Anhand Ihrer Gesundheitsdaten identifizieren wir Sie als Teilnehmer/in bei Umfragen und Studien. Um Sie dazu einzuladen, kontaktieren wir Sie über MyTherapy oder per E-Mail.
+
+3. Speichern Ihrer Daten - Standort Wenn sich Ihr Smartphone mit dem Internet verbindet, übermittelt MyTherapy Ihre Daten in verschlüsselter Form an eine zentrale Datenbank. Diese befindet sich in der Europäischen Union und wird vom technischen Dienstleister Amazon Web Services, Inc. angeboten. Der technische Dienstleister kann zur Wartung, zum Betreiben oder zur Verwaltung der technischen Infrastruktur auf Ihre Daten zugreifen.
+
+4. Speichern Ihrer Daten - Dauer Wir speichern Ihre personenbezogenen Daten nur so lange, wie dies für die Zwecke notwendig ist, für die Ihre personenbezogenen Daten verarbeitet werden. Wenn Sie Ihr Konto löschen, löschen wir alle personenbezogenen Daten, die auf dem Konto enthalten sind. Darüber hinaus löschen wir alle in diesem Konto enthaltenen persönlichen Daten, falls Sie sich 3 Jahre lang nicht eingeloggt haben. Dies kann nicht rückgängig gemacht werden.
+
+5. Analysetools Wir erfassen Daten über die MyTherapy-Nutzung mithilfe von Analysetools, um MyTherapy zu verbessern. Sie können diese Datenerfassung in den Einstellungen von MyTherapy aktieren und/ oder deaktivieren [Rechtsgrundlage: Artikel 6 § 1a oder § 1f DSGVO, berechtigtes Interesse: Verbesserung von MyTherapy].
+
+a) Google Analytics für mobile Apps und für Firebase Mittels Google Analytics (Google LLC) erfassen wir Daten zur Nutzung von MyTherapy, z.B. Zeit und Dauer der App-Nutzung. Die gesammelten Informationen werden auf einem Server von Google in den Vereinigten Staaten gespeichert. Die Funktion „IP anonymisieren" ist für MyTherapy aktiviert. Das bedeutet, dass Ihre IP-Adresse innerhalb von Mitgliedstaaten der Europäischen Union oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zunächst von Google gekürzt wird. Nur in Ausnahmefällen übermittelt Google die vollständige IP-Adresse an einen Google-Server in den Vereinigten Staaten und kürzt diese dort. Google kombiniert die von Ihrem Smartphone übermittelte IP-Adresse nicht mit anderen Daten. Weitere Informationen finden Sie hier: www.google.com/policies/privacy/partners/.
+
+b) Weitere Tools Crashlytics, Inc. erstellt Absturzberichte, in denen angegeben wird, welcher Teil der Software möglicherweise den Absturz verursacht hat, sowie Ihr Smartphone-Modell.
+
+New Relic, Inc. liefert Informationen über die technische Leistung und Stabilität von MyTherapy.
+
+6. Dienstleister außerhalb der EU Wir können außerdem externe Dienstleister aus Ländern außerhalb der Europäischen Union in Anspruch nehmen, z. B. für Analysefunktionen. Wir werden jedoch alle angemessenen Maßnahmen ergreifen, damit Ihre Daten gemäß den datenschutzrechtlichen Vorschriften der Europäischen Union im Wege der von der EU-Kommission genehmigten Standard-Datenschutzklauseln geschützt werden. Sie können eine Kopie des Vertrags mit dem betreffenden Anbieter anfordern, der den angemessenen Schutz Ihrer Daten implementiert.
+
+7. Ihre Datenschutzrechte Sie können Auskunft über die über Sie gespeicherten Daten verlangen und haben das Recht, Ihre Daten in einem gängigen maschinenlesbaren Format zu erhalten. Außerdem können Sie in begründeten Fällen die Löschung oder Berichtigung Ihrer Daten oder die Einschränkung von deren Verarbeitung verlangen beziehungsweise der Verarbeitung Ihrer Daten widersprechen.
+
+8. Widerruf Ihrer Einwilligung und Kontakt Sie haben das Recht, jede von Ihnen irgendwann erteilte Einwilligung jederzeit zu widerrufen. Wenn Sie Fragen haben oder von Ihren Rechten Gebrauch machen möchten, wenden Sie sich bitte unter support@mytherapyapp.com an uns.
+
+Der Datenschutzbeauftragte für smartpatient und MyTherapy ist Dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, D-80331 München, email@iitr.de.
+
+Bei Beschwerden können Sie sich außerdem an Ihre zuständige Datenschutzbehörde wenden.
+
+9. Änderungen Wir behalten uns das Recht vor, diese Datenschutzrichtlinie zu ändern. Die aktuelle Fassung finden Sie auf unserer Website: mytherapyapp.com. Diese Datenschutzrichtlinie wurde zuletzt am 08.06.2020 geändert.
+
+Politique de confidentialité pour MyTherapy MyTherapy est fourni par smartpatient gmbh, Landwehrstr. 60/62, 80336 Munich, Allemagne (« smartpatient » ou « nous »). Nous sommes le responsable du traitement de vos données personnelles via MyTherapy.
+
+1. Données recueillies pour fournir la fonctionnalité de base Nous vous demandons votre consentement conformément à l'Article 6 §1a du RGPD lorsque vous commencez à utiliser MyTherapy car la fonctionnalité de base de MyTherapy repose sur le traitement de vos données médicales. Vous ne pourrez plus utiliser MyTherapy si vous retirez votre consentement.
+
+a) Exécution de MyTherapy Lorsque vous utilisez MyTherapy, votre smartphone nous transmet automatiquement la date et l'heure d'accès, le système d'exploitation, le type de smartphone, la quantité de données transmises et l'adresse IP. Le traitement de ces données est une exigence technique pour l'utilisation de MyTherapy. A l'exception de l'adresse IP, nous analysons ces données à des fins statistiques et pour améliorer MyTherapy [base juridique : RGPD Article 6 §1f, intérêt légitime à fournir et à améliorer MyTherapy].
+
+b) Enregistrement d'un compte d'utilisateur Vous pourrez utiliser MyTherapy sans compte d'utilisateur (« compte ») et sans saisir de données personnelles. Cependant, sans un compte, vous ne pourrez utiliser MyTherapy que sur un seul smartphone et si vous perdez votre smartphone, vous ne pourrez pas restaurer vos données. Pour enregistrer un compte, vous devrez saisir votre adresse e-mail et un mot de passe [base légale : RGPD Article 6 §1b].
+
+c) Soutien à votre traitement Vous pourrez utiliser MyTherapy pour gérer et documenter votre traitement en saisissant par exemple : Horaires de traitement pour les médicaments Mesures comme la pression artérielle Bien-être ou symptômes Âge et sexe Rendez-vous chez le médecin et coordonnées [base légale : RGPD Article 9 §2a]d) Choix des médicaments Vous pouvez ajouter des médicaments à votre traitement en utilisant une base de données de médicaments. MyTherapy présélectionne la base de données en utilisant les paramètres de région ou de langue de votre smartphone. Si cela échoue, nous utilisons votre adresse IP pour déterminer votre pays [base légale : RGPD Article 9 §2a].
+
+2. Fonctionnalités supplémentaires Lors de l'activation de fonctionnalités supplémentaires, nous vous demandons votre accord explicite conformément à l'Article 9 §2a ou l'Article 6 §1a du RGPD pour chaque fonctionnalité supplémentaire : a) Importation de données de santé Vous pouvez importer des données de santé à partir d'autres applications, telles que le nombre de pas d'un traqueur de fitness via Apple HealthKit ou Google Fit, et les ajouter à votre documentation de traitement. Nous utilisons les données d'Apple HealthKit ou de Google Fit uniquement à cette fin.
+
+Apple HealthKit : nous n'utilisons jamais vos données Apple HealthKit pour la publicité et des services similaires ou pour l'exploration de données basée sur l'utilisation. Nous ne divulguons pas les informations obtenues par le biais d'Apple HealthKit à un tiers ni ne les vendons à des plateformes publicitaires, des courtiers en données ou des revendeurs d'informations.
+
+Google Fit : nous n'utilisons pas, et ne permettons pas à nos utilisateurs d'utiliser les contenus accessibles à partir de Google Fit dans le cadre de publicités, parrainages ou promotions ni de partager ou vendre ces contenus à des courtiers en données ou des revendeurs d'informations.
+
+b) Se connecter aux amis, à la famille ou aux professionnels de la santéVous pouvez connecter votre compte à d'autres utilisateurs, afin qu'ils puissent consulter vos données de santé, en générant et en partageant un code avec eux. Vous pouvez annuler cette connexion à tout moment.
+
+c) Recevoir des contenus personnalisés Nous utilisons vos données de santé pour vous montrer des contenus personnalisés tels que des instructions sur la manière de gérer ou d'administrer votre traitement, par exemple une vidéo sur l'utilisation d'un inhalateur pour l'asthme.
+
+d) Activation de la newsletter Notre newsletter vous informe des nouvelles fonctionnalités, des nouveaux produits et des informations générales sur MyTherapy ou smartpatient. Nous pouvons utiliser vos données de santé (à l'exclusion des données d'Apple HealthKit) pour personnaliser le contenu de la newsletter.
+
+e) Participation à des enquêtes et des études Nous utilisons vos données de santé pour vous identifier en tant que participant à des enquêtes et des études et vous contacter via MyTherapy ou par e-mail pour vous y inviter.
+
+3. Stockage de vos données - localisation Lorsque votre smartphone se connecte à Internet, MyTherapy transmet vos données en utilisant le cryptage des données à une base de données centralisée située dans l'Union européenne fournie par le fournisseur de services techniques Amazon Web Services, Inc. Le fournisseur de services techniques peut accéder aux données pour la maintenance, l'exploitation ou l'administration de l'infrastructure technique.
+
+4. Stockage de vos données - durée Nous ne conservons vos données personnelles que pendant la durée nécessaire aux fins pour lesquelles elles sont traitées. Si vous supprimez votre compte, nous supprimerons toutes les données personnelles contenues dans ce compte. Nous supprimerons également toutes les données personnels contenues dans ce compte si vous ne vous êtes pas connecté pendant 3 ans. La suppression est irréversible.
+
+5. Outils d'analyse Nous recueillons des données sur l'utilisation de MyTherapy avec des outils d'analyse pour améliorer MyTherapy. Vous pouvez activer et/ou désactiver cette fonction dans les paramètres de MyTherapy [base légale : RGPD Article 6 §1a ou §1f, intérêt légitime améliorant MyTherapy].
+
+a) Google Analytics pour les applications mobiles et pour FirebaseAvec Google Analytics (Google LLC), nous collectons des données sur l'utilisation de MyTherapy, par exemple l'heure et la durée d'utilisation de l'application. Les informations recueillies sont stockées sur un serveur de Google aux États-Unis. La fonction « anonymiser l'IP » est activée pour MyTherapy. Cela signifie que votre adresse IP sera d'abord raccourcie par Google dans les États membres de l'Union européenne ou dans les autres États contractants de l'Accord sur l'Espace économique européen. Ce n'est que dans des cas exceptionnels que Google transfère l'adresse IP complète à un serveur de Google aux États-Unis et la raccourcit sur place. Google ne combine pas l'adresse IP transférée par votre smartphone avec d'autres données. Pour de plus amples informations, veuillez vous référer à www.google.com/policies/privacy/partners/.
+
+b) Autres outils Crashlytics, Inc. crée des rapports de crash contenant la partie du logiciel qui peut avoir causé le crash et le modèle de votre smartphone.
+
+New Relic, Inc. fournit des informations sur les performances techniques et la stabilité de MyTherapy.
+
+6. Fournisseurs de services hors UE Nous pouvons faire appel à des fournisseurs de services tiers en dehors de l'Union européenne, tels qu'un outil d'analyse, mais nous prenons toutes les mesures raisonnables pour nous assurer que vos données sont correctement protégées conformément aux exigences des lois sur la protection des données de l'Union européenne au moyen de Clauses types de protection des données approuvées par la Commission européenne. Vous pouvez demander une copie du contrat avec ce fournisseur qui met en œuvre la protection appropriée de vos données personnelles.
+
+7. Vos droits en matière de protection des données Vous pouvez demander des informations sur les données enregistrées à votre sujet et avez le droit de recevoir vos données dans un format commun lisible par machine. Vous pouvez également demander la suppression, la correction, la restriction de vos données ou vous opposer à leur traitement.
+
+8. Retrait de votre consentement et liaison Vous êtes libre de retirer le consentement que vous avez donné à tout moment. En cas de questions ou pour exercer vos droits, veuillez nous contacter par exemple à support@mytherapyapp.com.
+
+Le responsable de la confidentialité des données pour smartpatient et MyTherapy est Dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 Munich, Allemagne, email@iitr.de.
+
+En cas d'inquiétudes, vous pourrez également contacter l'autorité compétente de protection des données.
+
+9. Amendements Nous nous réservons le droit d'amender la présente Politique de confidentialité. Vous pourrez trouver la dernière version sur notre site web mytherapyapp.com. La présente Politique de confidentialité a été modifiée pour la dernière fois le 08.06.2020.
+
+Política de privacidad de MyTherapy MyTherapy es proporcionado por smartpatient gmbh, Landwehrstr. 60/62, 80336 Múnich, Alemania ("smartpatient" o "nosotros"). Somos el controlador de datos dedicado al procesamiento de sus datos personales en MyTherapy.
+
+1. Datos recogidos para proporcionar funcionalidad básica En virtud del artículo 6, apartado 1a del RGPD, le pedimos su consentimiento cuando comience a utilizar MyTherapy porque la funcionalidad básica de MyTherapy se basa en el tratamiento de sus datos de salud. Ya no puede usar MyTherapy si retira este consentimiento.
+
+a) Ejecución de MyTherapy Cuando utiliza MyTherapy, su teléfono inteligente nos transmite automáticamente la fecha y la hora de acceso, el sistema operativo, el tipo de teléfono inteligente, la cantidad de datos transmitidos y la dirección IP. El tratamiento de estos datos es un requisito técnico para utilizar MyTherapy. Excepto la dirección IP, analizamos estos datos estadísticamente y para mejorar MyTherapy [base legal: RGPD, artículo 6, apartado 1f, interés legítimo en proporcionar y mejorar MyTherapy].
+
+b) Registro de una cuenta de usuario Puede usar MyTherapy sin tener una cuenta de usuario ("cuenta") y sin introducir sus datos personales. Sin embargo, sin una cuenta, solo puede usar MyTherapy en un teléfono inteligente y, si pierde su teléfono inteligente, no podrá restaurar sus datos. Para registrar una cuenta, debe introducir su dirección electrónica y una contraseña [base legal: RGPD, artículo 6, apartado 1b].
+
+c) Soporte de su tratamiento Puede usar MyTherapy para administrar y documentar su tratamiento introduciendo, por ejemplo: Programas de tratamiento en relación con la medicación Mediciones como la presión sanguínea Bienestar o síntomas Edad y sexo Citas médicas e información de contacto [base legal: RGPD, artículo 9, apartado 2a]d) Selección de la medicación Puede agregar medicamentos a su tratamiento utilizando una base de datos de medicamentos. MyTherapy preselecciona la base de datos usando la configuración regional o de idioma de su teléfono inteligente. Si lo anterior no funciona, usamos su dirección IP para determinar su país [base legal: RGPD, artículo 9, apartado 2a].
+
+2. Funcionalidades adicionales Al activar las funcionalidades adicionales, solicitaremos su consentimiento expreso conforme al Artículo 9 apartado 2a) o Art. 6 apartado 1a) RGPD para cada funcionalidad adicional: a) Importación de los datos relativos a la salud Puede importar datos relativos a la salud de otras aplicaciones, como el conteo de pasos de un monitor de actividad a través de Apple HealthKit o Google Fit y agregarlos a la documentación de su tratamiento. Usamos los datos de Apple HealthKit o Google Fit solo para este fin.
+
+Apple HealthKit: nunca utilizamos sus datos de Apple HealthKit para fines publicitarios y servicios similares ni para la extracción de datos basada en el uso. No comunicamos la información obtenida a través de Apple HealthKit a un tercero ni la vendemos a plataformas publicitarias, intermediarios de datos o revendedores de información.
+
+Google Fit: no utilizamos, ni permitimos que nuestros usuarios utilicen el contenido al que se accede desde Google Fit con fines de publicidad, patrocinios o promociones, ni que se comparta o venda ese contenido a intermediarios de datos o revendedores de información.
+
+b) Conexión con amigos, familiares o profesionales de la saludPuede conectar su cuenta con otros usuarios, para que puedan ver sus datos relativos a la salud, al generar y compartir un código con ellos. Puede cancelar esta conexión en cualquier momento.
+
+c) Recepción de contenido personalizado Utilizamos sus datos relativos a la salud para mostrarle el contenido personalizado, tales como instrucciones sobre cómo manejar o administrar su tratamiento, p. ej., un vídeo sobre cómo usar un inhalador para el asma.
+
+d) Activación del boletín de noticias Nuestro boletín de noticias le informa sobre nuevas funciones, nuevos productos e información general sobre MyTherapy o smartpatient. Podemos usar sus datos relativos a la salud (excluyendo los datos de Apple HealthKit) para personalizar el contenido del boletín de noticias.
+
+e) Participación en encuestas y estudios Utilizamos sus datos relativos a la salud para identificarle como participante de encuestas y estudios, y nos ponemos en contacto con usted a través de MyTherapy o del correo electrónico para invitarle.
+
+3. Almacenamiento de sus datos - ubicación Cuando su teléfono inteligente se conecta a Internet, MyTherapy transmite sus datos mediante cifrado de datos a una base de datos centralizada ubicada en la Unión Europea y provista por el proveedor de servicios Amazon Web Services, Inc. El proveedor de servicios técnicos puede acceder a los datos para el mantenimiento, el funcionamiento o la administración de la infraestructura técnica.
+
+4. Almacenamiento de sus datos - duración Conservamos sus datos personales durante no más tiempo que el necesario para los fines con los que se procesan. Si elimina su cuenta, eliminaremos todos los datos personales contenidos en dicha cuenta. También eliminaremos cualquier dato personal de esta cuenta si no se ha conectado en 3 años. Este proceso no se puede revertir.
+
+5. Herramientas de análisis Mediante herramientas de análisis, recogemos datos de uso de MyTherapy para mejorar MyTherapy. Puede activar o desactivar lo anterior en la configuración de MyTherapy [base legal: RGPD, artículo 6, apartado 1f, interés legítimo que mejora MyTherapy].
+
+a) Google Analytics para aplicaciones móviles y para Firebase Con Google Analytics (LLC) recopilamos los datos de uso de MyTherapy, ej., tiempo y duración de uso de la app. La información recopilada se almacena en un servidor de Google en Estados Unidos. La función «anonimizacion de ip» está activada para MyTherapy. Esto significa que su dirección IP será acortada primero por Google, tanto dentro de los Estados miembros de la Unión Europea como en otros Estados contratantes del Acuerdo sobre el Espacio Económico Europeo. Solo en casos excepcionales, Google transfiere la dirección IP completa a un servidor de Google en Estados Unidos, donde la acorta. Google no combina la dirección IP transferida por su teléfono inteligente con otros datos. Para obtemer más información, visite www.google.com/policies/privacy/partners/.
+
+b) Otras herramientas Crashlytics, Inc. crea informes sobre fallos que contienen la parte del software que puede haber provocado el fallo y el modelo de su teléfono inteligente.
+
+New Relic, Inc. proporciona información sobre el rendimiento técnico y la estabilidad de MyTherapy.
+
+6. Proveedores de servicios que no pertenecen a la UEPodemos confiar en proveedores de servicios de fuera de la Unión Europea, como una herramienta de análisis, pero tomamos todas las medidas razonables para garantizar que sus datos estén adecuadamente protegidos de acuerdo con los requisitos de las leyes de protección de datos de la Unión Europea por medio de cláusulas de proteción de datos estándares aprobadas por la Comisión de la UE. Puede solicitar una copia del contrato con ese proveedor que implemente la protección adecuada de sus datos personales.
+
+7. Sus derechos sobre la protección de datos Puede solicitar información sobre los datos conservados sobre usted y tiene derecho a recibir sus datos en un formato común legible mecánicamente. También puede solicitar la eliminación, corrección, restricción u objeción al tratamiento de sus datos.
+
+8. Revocación de su consentimiento y contacto Usted tiene libertad para revocar cualquier consentimiento que haya dado en cualquier momento. En caso de preguntas o para ejercer sus derechos, póngase en contacto con nosotros, por ejemplo, escribiendo a support@mytherapyapp.com.
+
+El delegado de la protección de datos responsable de smartpatient y MyTherapy es el Dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 Múnich, Alemania, email@iitr.de.
+
+Ante cualquier inquietud, también puede ponerse en contacto con su autoridad de protección de datos correspondiente.
+
+9. Modificaciones Nos reservamos el derecho de modificar la presente política de privacidad. Puede encontrar la última versión en nuestro sitio web mytherapyapp.com. La presente política de privacidad se modificó por última vez el 08/06/2020.
+
+Privacybeleid voor MyTherapy MyTherapy wordt geleverd door smartpatient gmbh, Landwehrstr. 60/62, 80336 München, Duitsland ("smartpatient", "we" of "wij"). Wij zijn de gegevensverantwoordelijke voor het verwerken van uw persoonlijke gegevens via MyTherapy.
+
+1. Gegevens die verzameld worden om basisfunctionaliteit te bieden Wanneer u MyTherapy gaat gebruiken, vragen wij uw toestemming volgens artikel 6 §1a van de AVG, omdat de basisfunctionaliteit van MyTherapy afhankelijk is van de verwerking van uw gezondheidsgegevens. Als u deze toestemming intrekt, kunt u MyTherapy niet langer gebruiken.
+
+a) MyTherapy gebruiken Wanneer u MyTherapy gebruikt, ontvangen we de volgende gegevens automatisch van uw smartphone: datum en tijd van toegang, besturingssysteem en type smartphone, de hoeveelheid gegevens die aan ons worden doorgegeven en het IP-adres De verwerking van deze gegevens is een technische vereiste voor het gebruik van MyTherapy. Met uitzondering van het IP-adres doen we een statistische analyse van deze gegevens, onder meer ter verbetering van MyTherapy [wettelijke basis: AVG artikel 6 §1f, rechtmatig belang voor het verstrekken en verbeteren van MyTherapy].
+
+b) Registreren van gebruikersaccount Het is mogelijk om MyTherapy zonder gebruikersaccount ("account") en zonder het invoeren van persoonlijke gegevens te gebruiken, zonder een account kunt u MyTherapy echter slechts op één smartphone gebruiken en mocht u die smartphone verliezen, dan kunt u de data niet herstellen. Voor de registratie van een account moet u uw e-mailadres en een wachtwoord invoeren [wettelijke basis: AVG artikel 6 §1b].
+
+c) Ondersteuning van uw behandeling U kunt MyTherapy gebruiken om uw behandeling te documenteren door het invoeren van bijvoorbeeld: Behandelingsschema's voor medicatie Metingen zoals bloeddruk Welzijn of symptomen Leeftijd en geslacht Doktersafspraken en contactgegevens [wettelijke basis: AVG artikel 9 §2a]d) Selecteren van medicatie U kunt medicijnen aan uw behandeling toevoegen via een medicatie-database. MyTherapy kiest de database aan de hand van regio- of taalinstellingen op uw smartphone. Als dat niet lukt, gebruiken we uw IP-adres om uw land te bepalen [wettelijke basis: AVG artikel 9 §2a].
+
+2. Aanvullende functionaliteiten Bij het activeren van deze aanvullende functionaliteiten, vragen we om uw uitdrukkelijke toestemming krachtens artikel 9 §2a) of art. 6 §1a) AVG voor elke afzonderlijke aanvullende functionaliteita) Importeren van gezondheidsgegevens U kunt gezondheidsgegevens van andere applicaties importeren, zoals het aantal gelopen stappen van een fitness tracker via Apple HealthKit of Google Fit en ze toevoegen aan uw behandelingsdocumentatie. Dit is de enige reden dat we gegevens van Apple HealthKit of Google Fit gebruiken.
+
+Apple HealthKit: We gebruiken de gegevens van uw Apple HealthKit nooit voor reclamedoeleinden en soortgelijke diensten of voor datamining op basis van gebruik. Informatie die we via Apple HealthKit verkrijgen wordt niet aan derden vrijgegeven of verkocht aan reclameplatforms, datamakelaars of wederverkopers van informatie.
+
+Google Fit: Informatie afkomstig van Google Fit, gebruiken we niet in verband met reclame, sponsoring of acties, en delen of verkopen zulke inhoud niet met/aan datamakelaars of wederverkopers van informatie. Dit is onze gebruikers ook niet toegestaan.
+
+b) Verbinden met vrienden, familie of gezondheidsdeskundigen Door een code te genereren en te delen met andere gebruikers, kunt u uw account met hen verbinden zodat zij uw gezondheidsgegevens ook kunnen zien. Deze verbinding kunt u op elk moment opheffen.
+
+c) Ontvangen van gepersonaliseerde inhoud We gebruiken uw gezondheidsinformatie om u handige, gepersonaliseerde inhoud te tonen over uw behandeling, bijvoorbeeld een video over het gebruik van een astma-inhalator.
+
+d) Nieuwsbrief activeren Onze nieuwsbrief bevat informatie over nieuwe functionaliteit, nieuwe producten en algemene informatie over MyTherapy of smartpatient. Het kan gebeuren dat we uw gezondheidsgegevens (behalve gegevens van Apple HealthKit) gebruiken om de inhoud van de nieuwsbrief te personaliseren.
+
+e) Deelnemen aan enquêtes en onderzoeken We gebruiken uw gezondheidsgegevens om te bepalen of u een geschikte kandidaat bent voor enquêtes en onderzoeken en nemen contact met u op via MyTherapy of sturen een uitnodiging via e-mail.
+
+3. Opslaan van uw gegevens - locatie Wanneer uw smartphone verbinding met het internet maakt, worden uw gegevens versleuteld door MyTherapy en naar een centrale database in de Europese Unie van de technische dienstverlener Amazon Web Services, Inc. gestuurd. De technische dienstverlener heeft toegang tot de gegevens voor onderhoud, uitvoering of administratie.
+
+4. Opslaan van uw gegevens - duur We bewaren uw persoonsgegevens niet langer dan nodig is voor de doeleinden waarvoor uw persoonsgegevens worden verwerkt. Indien u uw account verwijdert, wissen we alle persoonlijke gegevens van deze account. Ook wissen wij alle persoonlijke gegevens van deze account als u 3 jaar niet heeft ingelogd. Dit kan niet worden teruggedraaid.
+
+5. Analysetools We verzamelen gegevens over het gebruik van MyTherapy met analysetools om MyTherapy te verbeteren. Dit kunt u activeren en/of deactiveren in de instellingen van MyTherapy [wettelijke basis: AVG article 6 §1a or §1f, legitiem belang voor verbetering van MyTherapy].
+
+a) Google Analytics voor Mobiele Apps en voor Firebase Met Google Analytics (Google LLC) verzamelen wij gegevens over het gebruik van MyTherapy, bijv. tijd en duur van het gebruik van de app. De verzamelde gegevens worden opgeslagen op een Google server in de Verenigde Staten. De functie "IP-anonimisering" voor MyTherapy is geactiveerd. Dit betekent dat uw IP-adres binnen de lidstaten van de Europese Unie of andere landen die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, eerst door Google ingekort. Alleen in uitzonderlijke gevallen brengt Google het volledige IP-adres over naar een server van Google in de Verenigde Staten en verkort het daar. Google combineert het door uw smartphone overgedragen IP-adres niet met andere gegevens. Ga voor meer informatie naar www.google.com/policies/privacy/partners/.
+
+b) Andere tools Crashlytics, Inc. maakt crashrapporten aan waarin aangegeven wordt welk deel van de software de crash heeft veroorzaakt, evenals het model van uw smartphone.
+
+New Relic, Inc. geeft informatie over de technische prestatie en stabiliteit van MyTherapy.
+
+6. Dienstverleners van buiten de EU We kunnen een beroep doen op externe dienstverleners van buiten de Europese Unie, zoals een analyse-tool, maar we nemen alle redelijke maatregelen om ervoor te zorgen dat uw gegevens adequaat worden beschermd volgens de vereisten van de wetgeving inzake gegevensbescherming van de Europese Unie door middel van Standaard Gegevensbeschermingsbepalingen die door de Europese Commissie zijn goedgekeurd. U kunt een kopie van het contract met die aanbieder aanvragen die de juiste bescherming van uw persoonlijke gegevens uitvoert.
+
+7. Uw rechten op het gebied van gegevensbescherming U kunt informatie opvragen over de gegevens die over u zijn opgeslagen en u hebt het recht om uw gegevens in een gemeenschappelijk, machinaal leesbaar formaat te ontvangen. Ook kunt u verzoeken om verwijdering, correctie of beperking van, of bezwaar maken tegen, de verwerking van uw gegevens.
+
+8. Intrekking van uw toestemming en contact Het staat u vrij om elke toestemming die u hebt gegeven op elk moment in te trekken. In geval van vragen of om uw rechten uit te oefenen, kunt u contact met ons opnemen via bijv. support@mytherapyapp.comDe persoon verantwoordelijk voor gegevensbescherming voor het platform van smartpatient en MyTherapy, is Dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 München, Duitsland, e-mail@iitr.de.
+
+Indien u zich zorgen maakt, kunt u ook contact opnemen met de toepasselijke gegevensbeschermingsautoriteit.
+
+9. Wijzigingen We behouden ons het recht voor om dit Privacybeleid te wijzigen. Ga voor de laatste versie naar onze website mytherapyapp.com. De laatste wijzigingen aan dit Privacybeleid vonden plaats op 08.06.2020.
+
+MyTherapyn tietosuojakäytäntö MyTherapy-sovelluksen tarjoaa Smartpatient gmbh, Landwehrstr. 60/62, 80336 München, Saksa ("Smartpatient" or "me"). Me olemme MyTherapy:ssa käsiteltäviä henkilötietojasi valvova taho.
+
+1. Perustoimintoja varten kerättävät tiedot Aloittaessasi MyTherapy-sovelluksen käytön pyydämme sinulta yleisen tietosuoja-asetuksen 6 artiklan 1 kohdan a alakohdan mukaista suostumusta, koska MyTherapyn perustoiminnot perustuvat terveystietojesi käsittelyyn. Jos perut tämän suostumuksen, et voi enää käyttää MyTherapy-sovellusta.
+
+a) MyTherapy-sovelluksen käyttö Käyttäessäsi MyTherapy-sovellusta älypuhelimesi välittää meille automaattisesti tiedot käytön päivästä ja kellonajasta, käyttöjärjestelmästä, älypuhelimen tyypistä, siirretyn datan määrästä ja IP-osoitteesta. Näiden tietojen käsittely on MyTherapy-sovelluksen tekninen vaatimus. Analysoimme näitä tietoja IP-osoitetta lukuun ottamatta tilastollisesti ja kehittääksemme MyTherapya [oikeusperusta: yleisen tietosuoja-asetuksen 6 artikla 1 kohta f alakohta, oikeutettu etu MyTherapyn tarjoamiseen ja kehittämiseen].
+
+b) Käyttäjätilin rekisteröinti Voit käyttää MyTherapy-sovellusta ilman käyttäjätiliä ("tili") ja syöttämättä henkilötietoja. Ilman tiliä voit kuitenkin käyttää MyTherapy-sovellusta vain yhdellä älypuhelimella, ja jos älypuhelimesi katoaa, et voi palauttaa tietojasi. Rekisteröidäksesi tilin sinun täytyy ilmoittaa sähköpostiosoitteesi ja salasana [oikeusperusta: yleisen tietosuoja-asetuksen 6 artikla 1 kohta b alakohta].
+
+c) Tukea hoitoosi Voit käyttää MyTherapy-sovellusta hoitosi hallinnointiin ja dokumentoimiseen ilmoittamalla esimerkiksi: lääkkeenottoajat esimerkiksi verenpaineen mittaukset hyvän voinnin tai oireet iän ja sukupuolen lääkärin ajanvaraukset ja yhteystiedot [oikeusperusta: yleisen tietosuoja-asetuksen 9 artikla kohta 2a]d) Lääkityksen valinta Voit lisätä hoitoosi lääkityksiä käyttämällä lääketietokantaa. MyTherapy esiasettaa tietokannan älypuhelimesi alue- ja kieliasetusten perusteella. Jos tämä ei onnistu, maa määritellään IP-osoitteesi perusteella [oikeusperusta: yleisen tietosuoja-asetuksen 9 artikla kohta 2a].
+
+2. Lisätoiminnot Aktivoidessasi lisätoimintoja, pyydämme sinulta erillistä suostumusta yleisen tietosuoja-asetuksen 9 artiklan kohtaan 2a) tai artiklan 6 kohtaan 1a) kunkin yksittäisen lisätoiminnon osalta: a) Terveystietojen tuominen Voit tuoda terveystietosi muista sovelluksista, kuten askelmäärät Apple HealthKitin tai Google Fitin laskureista, ja lisätä ne hoitoaineistoosi. Käytämme Apple HealthKitin tai Google Fitin tietoja ainoastaan tähän tarkoitukseen.
+
+Apple HealthKit: Emme koskaan käytä Apple Healthkitistä saamiamme käyttäjän tietoja mainontaan tai vastaaviin palveluihin emmekä käyttöperusteiseen tiedonlouhintaan. Emme paljasta Apple Healthkitin kautta saamiamme tietoja millekään kolmannelle osapuolelle emmekä myy niitä mainosalustoille, tietojen välittäjille tai tietojen jälleenmyyjille.
+
+Google Fit: Emme käytä emmekä salli käyttäjiemme käyttää Google Fitin kautta saatuja tietoja mainonnassa, sponsorisopimuksissa tai myynninedistämisessä tai jakaa tai myydä kyseistä sisältöä tietojen välittäjille tai jälleenmyyjille.
+
+b) Yhteydet ystäviin, perheeseen ja terveydenhuoltohenkilöstöön Voit liittää tiliisi muita käyttäjiä, jotta he voivat nähdä terveystietosi. Tämä onnistuu luomalla ja jakamalla heille koodi. Voit perua nämä liitännät milloin tahansa.
+
+c) Yksilöllistetyn sisällön vastaanottaminen Käytämme terveystietojasi näyttääksemme sinulle yksilöllistettyä sisältöä, kuten omaan hoitoosi ja sen hallinnointiin liittyviä ohjeita. Tällainen ohje voi olla esim. astmapiipun käyttöön liittyvä video.
+
+d) Uutiskirjeen tilaaminen Uutiskirjeen välityksellä saat tietoa uusista toiminnoista, uusista tuotteista ja yleistä tietoa MyTherapy-sovelluksesta tai Smartpatientista. Saatamme käyttää terveystietojasi (lukuun ottamatta Apple HealthKitin kautta saatuja tietoja) uutiskirjeen sisällön yksilöimiseen.
+
+e) Selvityksiin ja tutkimuksiin osallistuminen Käytämme terveystietojasi tunnistaaksemme sinut osallistujaksi selvityksiin ja tutkimuksiin ja lähettääksemme sinulle kutsuja MyTherapyn tai sähköpostin välityksellä.
+
+3. Tietojen säilyttäminen - sijainti Kun älypuhelimesi ottaa yhteyden internetiin, MyTherapy siirtää tietosi salattuina teknisen palveluntarjoajan Amazon Web Services Inc.:n tarjoamaan keskitettyyn tietokantaan, joka sijaitsee Euroopan unionissa. Teknisten palveluiden tarjoaja saattaa käyttää tietoja teknisen infrastruktuurin ylläpitoon, käyttämiseen tai hallinnointiin.
+
+4. Tietojen säilyttäminen - kesto Säilytämme henkilötietojasi ainoastaan niin kauan kuin on tarpeen sitä tarkoitusta varten, johon henkilötietosi on kerätty. Jos poistat tilisi, poistamme kaikki tilisi sisältämät henkilötiedot. Poistamme myös kaikki tiliin liittyvät henkilötiedot, jos et ole kirjautunut sisään 3 vuoteen. Tätä ei voi perua.
+
+5. Analysointityökalut Kehittääksemme MyTherapy-sovellusta keräämme analysointityökalujen avulla tietoa MyTherapyn käytöstä. Voit aktivoida ja/tai poistaa analysointityökalut käytöstä MyTherapyn asetuksista [oikeusperusta: yleisen tietosuoja-asetuksen 6 artikla 1 kohta a ja f alakohta, oikeutettu etu MyTherapyn kehittämiseen.]a) Google Analytics mobiilisovelluksille ja Firebase-alustalle Google Analyticsin (Google LLC) avulla keräämme tietoa MyTherapy-sovelluksen käytöstä, esimerkiksi sovelluksen käytön ajan ja keston. MyTherapyn käytöstä kerätyt tiedot tallennetaan Googlen palvelimelle Yhdysvaltoihin. Koska "IP-anonymisaatio" on aktivoituna MyTherapy-sovelluksessa, Google lyhentää käyttäjän IP-osoitteen Euroopan unionin jäsenvaltiossa tai muussa Euroopan talousalueeseen kuuluvassa valtiossa. Google siirtää IP-osoitteen vain poikkeustapauksissa lyhentämättömänä palvelimelleen Yhdysvaltoihin ja lyhentää sen siellä. Google ei yhdistä älypuhelimestasi siirrettävää IP-osoitetta muihin tietoihin. Lisätietoja saat osoitteesta www.google.com/policies/privacy/partners/.
+
+b) Muut työkalut Crashlytics, Inc. luo kaatumisraportteja, jotka sisältävät ohjelmiston sen osan, joka on saattanut aiheuttaa kaatumisen, sekä tiedon älypuhelimen mallista.
+
+New Relic, Inc. antaa tietoa MyTherapyn teknisestä suorituskyvystä ja vakaudesta.
+
+6. EU:n ulkopuoliset palveluntarjoajat Saatamme hyödyntää Euroopan unionin ulkopuolella sijaitsevia kolmannen osapuolen palveluntarjoajia esimerkiksi analysointityökaluja käyttäessämme, mutta varmistamme tällöin kaikin kohtuullisin toimin ja Euroopan komission hyväksymien vakiomuotoisten tietosuojalausekkeiden avulla, että sovelluksen käyttäjän tiedot suojataan Euroopan unionin tietosuojalakien edellyttämällä tavalla. Voit pyytää itsellesi kopion sen palveluntarjoajan kanssa tehdystä sopimuksesta, joka vastaa tietojesi suojaamisesta.
+
+7. Käyttäjän tietosuojaoikeudet Sovelluksen käyttäjänä voit pyytää saada nähtäville sinusta tallennetut tiedot yleisessä sähköisesti luettavassa muodossa. Voit myös pyytää tietojesi poistamista, oikaisemista ja käytön rajoittamista tai vastustaa niiden käsittelyä.
+
+8. Suostumuksen ja sopimuksen peruminen Sinulla on milloin tahansa oikeus perua mikä tahansa antamasi suostumus. Jos sinulla on kysyttävää tai jos haluat käyttää oikeuksiasi, pyydämme sinua ottamaan yhteyttä sähköpostitse osoitteeseen support@mytherapyapp.com.
+
+Smartpatient- ja MyTherapy-alustojen tietosuojavastaava on Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 München, Saksa, email@iitr.de.
+
+Voit tarvittaessa ottaa yhteyttä myös tietosuojaviranomaiseen.9. Muutokset Pidätämme oikeuden muuttaa tai muokata tätä tietosuojakäytäntöä. Löydät sen viimeisimmän version internetsivustolta mytherapyapp.com. Tätä tietosuojakäytäntöä on viimeksi muutettu 08.06.2020.
+
+Personvernerklæring for MyTherapy MyTherapy leveres av smartpatient gmbh, Landwehrstr. 60/62, 80336 München, Tyskland ("smartpatient" eller "vi"). Vi er datakontrolløren for behandlingen av dine personlige opplysninger via MyTherapy.
+
+1. Innsamling av data for å levere grunnleggende funksjonalitet Vi ber om ditt samtykke iht. artikkel 6 nr. 1 bokstav a av Personvernforordningen (GDPR) når du starter din bruk av MyTherapy, fordi MyTherapy sin grunnleggende funksjonalitet krever behandling av dine helseopplysninger. Du kan ikke fortsette å bruke MyTherapy, dersom du trekker tilbake samtykket ditt.
+
+a) Kjøre MyTherapy Når du bruker MyTherapy, overfører smarttelefonen din automatisk dato og klokkeslett for tilgangen, operativsystemet, typen smarttelefon, mengden overført data og IP-adressen til oss. Behandlingen av disse opplysningene er et teknisk krav for å kunne bruke MyTherapy. Med unntak av IP-adressen, analyserer vi disse opplysningene statistisk og for å forbedre MyTherapy [lovgrunnlag: artikkel 6 nr. 1 bokstav f av GDPR, berettiget interesse i å stille MyTherapy til rådighet og forbedre programmet].
+
+b) Registere brukerkonto Du kan bruke MyTherapy uten en brukerkonto ("konto") og uten å angi personopplysninger. Uten en konto kan du imidlertid bare bruke MyTherapy på én smarttelefon og hvis du skulle miste den smarttelefonen, kan ingen av opplysningene dine gjenopprettes. For å registrere en konto skriver du inn e-postadressen din og et passord [lovgrunnlag: artikkel 6 nr. 1 bokstav b av GDPR].
+
+c) Støtte din behandling Du kan bruke MyTherapy til å håndtere og dokumentere behandlingen din, f.eks. ved å skrive inn: Behandlingsplan for legemidler Målinger som blodtrykk Helsetilstand eller symptomer Alder og kjønnLegetimer og kontaktinformasjon [lovgrunnlag: artikkel 9 nr. 2 bokstav a av GDPR]d) Velge legemiddel Du kan legge til legemidler i behandlingsplanen din ved hjelp av en legemiddeldatabase. MyTherapy forhåndsvelger databasen ved hjelp av regionen og språkinnstillingene på smarttelefonen din. Hvis dette ikke fungerer, bruker vi IP-adressen din til å fastslå landet ditt [lovgrunnlag: artikkel 9 nr. 2 bokstav a av GDPR].
+
+2. Tilleggsfunksjoner Når du aktiverer tilleggsfunksjoner, ber vi om ditt uttrykkelige samtykke i henhold til artikkel 9 nr. 2 bokstav a eller artikkel 6 nr. 1 bokstav a av GDPR for hver eneste tilleggsfunksjon: a) Import av helseopplysninger Du kan importere helseopplysninger fra andre applikasjoner, som skrittellinger fra et treningsarmbånd via Apple HealthKit eller Google Fit, og legge dem til din behandlingsdokumentasjon. Vi bruker Apple HealthKit- eller Google Fit-data kun til dette formålet.
+
+Apple HealthKit: Vi bruker aldri dine Apple HealthKit-data til reklame og lignende tjenester eller til bruksbasert dataminering. Vi avslører ikke informasjon innsamlet via Apple HealthKit overfor tredjeparter og selger den heller ikke til reklameplattformer, datameglere eller informasjonsforhandlere.
+
+Google Fit: Vi bruker ikke og lar ikke våre brukere bruke innholdet som fås fra Google Fit i sammenheng med reklame, sponsoravtaler eller kampanjer, og verken deler eller selger slikt innhold til datameglere eller informasjonsforhandlere.
+
+b) Koble sammen med venner, familie eller helsepersonale Du kan koble din konto sammen med andre brukeres kontoer, slik at de kan se dine helseopplysninger. Dette gjøres ved at du oppretter og deler en kode med dem. Du kan avbryte denne sammenkoblingen når som helst.
+
+c) Motta tilpasset innhold Vi bruker dine helseopplysninger til å vise deg tilpasset innhold, dette kan for eksempel være instrukser om hvordan du håndterer eller administrerer behandlingen din ved hjelp av en video om bruk av astmainhalator.
+
+d) Aktivere nyhetsbrev Nyhetsbrevet vårt gir deg informasjon om nye funksjoner, nye produkter samt generell informasjon om MyTherapy eller smartpatient. Vi vil muligens bruke dine helseopplysninger (unntatt opplysninger fra Apple HealthKit) til å tilpasse nyhetsbrevets innhold.
+
+e) Delta i spørreundersøkelser og studier Vi bruker dine helseopplysninger til å identifisere deg som en deltaker i spørreundersøkelser og studier, og kontakter deg via MyTherapy eller e-post for invitere deg til å delta.
+
+3. Lagre dine opplysninger - plassering Når smarttelefonen din er tilkoblet internett, overfører MyTherapy dine krypterte opplysninger til en sentral database, som befinner seg i Den europeiske union og leveres av den tekniske tjenesteleverandøren Amazon Webservices, Inc. Den tekniske tjenesteleverandøren kan ha tilgang til opplysninger for vedlikehold, drift eller administrering av den tekniske infrastrukturen.
+
+4. Lagre dine opplysninger - varighet Vi beholder ikke dine personopplysninger lenger enn det som er nødvendig for formålet med behandlingen av dine personopplysninger. Hvis du sletter kontoen din, sletter vi alle eventuelle personopplysninger som finnes på den kontoen. Vi kan også slette personopplysninger som finnes på kontoen dersom du ikke har logget inn på 3 år. Dette kan ikke reverseres.
+
+5. Analyseverktøy Vi samler inn MyTherapy-bruksdata med analyseverktøy for å forbedre MyTherapy. Du kan aktivere og/eller deaktivere dette i MyTherapy-innstillingene [lovgrunnlag: artikkel 6 nr. 1 bokstav a eller bokstav f av GDPR, berettiget interesse i å forbedre MyTherapy].
+
+a) Google Analytics for Mobile Apps og for Firebase Med Google Analytics (Google LLC) samler MyTherapy inn bruksdata som f.eks. tid og varighet for appbruk. Den innsamlede informasjonen lagres på en Google-server i USA. Funksjonen "IP-anonymisering" er aktivert for MyTherapy. Dette betyr at IP-adressen din først forkortes av Google når du befinner deg i et EU-medlemsland eller et EØS-land. Det er kun i unntakstilfeller at Google overfører den komplette IP-adressen til en Google-server i USA og forkorter den der. Google kombinerer ikke IP-adressen overført fra smarttelefonen din med andre data. For mer informasjon, se www.google.com/policies/privacy/partners/.
+
+b) Andre verktøy Crashlytics, Inc oppretter krasjrapporter som inneholder den delen av programvaren som muligens forårsaket krasjet og smarttelefonmodellen din.
+
+New Relic, Inc leverer informasjon om MyTherapy sin tekniske ytelse og stabilitet.
+
+6. Tjenesteleverandører basert utenfor EU Vi bruker muligens tredjeparts tjenesteleverandører fra utenfor EU, som for eksempel analyseverktøy, men vi iverksetter rimelige tiltak for å sikre at dine opplysninger er tilstrekkelig beskyttet i henhold til kravene i Personvernforordningen ved hjelp av standard databeskyttelsessklausuler som er godkjent av EU-kommisjonen. Du kan be om en kopi av kontrakten med den leverandøren som fastsetter den egnede beskyttelse av dine personopplysninger.
+
+7. Dine personvernrettigheter Du kan be om informasjon om alle opplysninger som er lagret om deg og har rett til å motta dine opplysninger i et vanlig maskinlesbart format. Du kan også be om sletting, rettelse, begrensning av eller motsette deg behandlingen av dine opplysninger.
+
+8. Trekk tilbake samtykke og kontakt Du kan trekke tilbake samtykket ditt når som helst. Hvis du har spørsmål eller ønsker å bruke noen av rettighetene dine, ta kontakt med oss på support@mytherapyapp.com.
+
+Behandlingsansvarlig for smartpatient og the MyTherapy er Dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 München, Tyskland, email@iitr.de.
+
+Ved eventuelle bekymringer kan du også kontakte gjeldende databeskyttelsesmyndighet.9. Endringer Vi forbeholder oss retten til å endre på denne personvernerklæringen. Du finner den nyeste versjonen på nettstedet vårt: mytherapyapp.com. Denne personvernerklæringen ble sist endret den 08.06.2020.
+
+Integritetspolicy Policy för MyTherapy Tjänsten MyTherapy tillhandahålls av smartpatient GmbH, Landwehrstr. 60/62, 80336 Munich, Germany (nedan kallad "smartpatient" eller "vi"). Vi är uppgiftsansvariga vid behandlingen av dina personuppgifter via MyTherapy.
+
+1. Uppgifter samlas in för att kunna utföra grundläggande funktionerVi ber om ditt samtycke enligt artikel 6.1a i GDPR när du börjar använda MyTherapy eftersom MyTherapy's grundläggande funktioner förutsätter behandling av dina hälsouppgifter. Om du inte ger ditt samtycke kan du inte längre använda MyTherapy.
+
+a) Användning av MyTherapy När du använder MyTherapy översänder din smartphone automatiskt uppgifter och åtkomstdata, operativsystem, typ av smartphone, datamängd och IP-adress till oss. Behandlingen av dessa uppgifter är en teknisk förutsättning för att kunna använda MyTherapy. Förutom IP-adressen analyserar vi dina uppgifter också statistiskt och för att utveckla MyTherapy [rättslig grund: GDPR artikel 6.1f, berättigat intresse: tillhandahålla och utveckla MyTherapy].
+
+b) Registrering av användarkonto Du kan använda MyTherapy utan användarkonto ("konto") och utan att ange dina personuppgifter. Du kan använda MyTherapy endast på en smartphone, och om du förlorar din smartphone kan du inte återskapa dina uppgifter. För att registrera ett användarkonto behöver du ange din e-postadress och ett lösenord. [rättslig grund: GDPR 6.1b].
+
+c) Stödja din behandling Du kan använda MyTherapy för att hantera och dokumentera din behandling genom till exempel: Behandlingsplan och medicinering Mätningar som blodtryck Välbefinnande eller symptom Ålder och kön Läkarbesök och kontaktuppgifter [rättslig grund: GDPR artikel 9, paragraf 2a]d) Välja medicinering Du kan tillägga mediciner till din behandling från en läkemedelsdatabas. MyTherapy gör ett preliminärt urval genom språkinställningen eller lokalisering av din smartphone. Om det inte fungerar använder vi din IP-adress för att fastställa ditt land [rättslig grund: GDPR artikel 9, paragraf 2a].
+
+2. Ytterligare funktioner När du aktiverar denna funktion ber vi dig om uttryckliga ditt samtycke enligt Artikel 9, paragraf 2a), eller Artikel 6, paragraph 1a) GDPR för varje enskild ytterligare funktion: a) Import av hälsouppgifter Du kan importera uppgifter från andra appar som stegräknare i en fitness tracker via Apple HealthKit eller Google Fit och tillägga dessa till din behandlingsdokumentation. Vi använder oss av data från Apple HealthKit eller Google Fit endast för detta ändamål.
+
+Apple HealthKit: Uppgifter från Apple HealthKit använder vi inte för annonsering och liknande tjänster och inte heller för data mining. Vi lämnar inte ut information som vi fått genom Apple HealthKit till tredje part eller sälja dem till annonseringsplattformer, uppgifts- eller informationssäljare.
+
+Google Fit: Vi använder inte och tillåter inte heller våra användare att använda innehållet de fått via Google Fit i samband med annonsering, sponsring eller i kampanjer eller delar med eller säljer innehållet till uppgifts- eller informationssäljare.
+
+b) Ansluta vänner, familj eller hälsovårdpersonal Genom att skapa och dela en kod kan du koppla ditt användarkonto till andra användare så att de kan se dina hälsouppgifter. Du kan avbryta denna koppling när som helst.
+
+c) Personaliserat innehåll Vi använder dina hälsouppgifter för att kunna visa dig personaliserat innehåll som t.ex. anvisningar för hantering och upplägg av din behandling som t.ex. hur du använder din astma inhalator.
+
+d) Aktivera vårt nyhetsbrev Vårt nyhetsbrev informerar om ny funktioner, nya produkter och ger allmän information om MyTherapy eller smartpatient. Vi kan använda dina hälsouppgifter (inte uppgifter från Apple HealthKit) för personalisering av nyhetsbrevets innehåll.
+
+e) Deltagande i undersökningar och studier Vi använder dina hälsouppgifter för att identifiera dig som patient för undersökningar och studier och för att komma i kontakt med dig via MyTherapy eller e-post för att bjuda in dig.
+
+3. Lagring av dina uppgifter - plats När du ansluter din smartphone till Internet överför MyTherapy dina uppgifter i krypterad form till en central databas som finns i EU och tillhandahålls av leverantören AWS. Tjänsteleverantören Amazon Webservices, Inc kan behöva tillgång till dina uppgifter för underhåll, drift eller hantering av den tekniska infrastrukturen.
+
+4. Lagring av dina uppgifter - varaktighet Vi lagrar dina hälsouppgifter inte längre än nödvändigt och endast för ändamål de har samlats in och behandlats. Om du avslutar ditt användarkonto raderar vi alla personuppgifter som finns lagrade på ditt konto. Vi raderar även alla personuppgifter som finns lagrade för detta konto om du inte har loggat in under 3 år. Uppgifterna kan inte återskapas.
+
+5. Analytsverktyg Vi använder analysverktyg för att samla in MyTherapy användaruppgifter för att utveckla tjänsten MyTherapy. Du kan aktivera och /eller deaktivera analysverktygen i inställningar av MyTherapy [rättslig grund: GDPR artikel 6.1a eller 6.1f, berättigat intresse att utveckla MyTherapy].
+
+a) Google Analytics för Mobile Apps och för Firebase Vi använder Google Analytics (Google LLC) för att samla in användningsdata för MyTherapy, t.ex. tid och varaktighet för app-användning. Den insamlade informationen lagras på en Google-server i USA. När funktionen "IP anonymisering" är aktiverad för MyTherapy kommer din IP-adress inom medlemsländerna av EU och EEA kortas av Google och inte innan. Endast i undantagsfall överför Google den kompletta IP-adressen till en Google server i USA och korta den där. Google kopplar inte IP-adress som överförs från din smartphone med andra uppgifter. För ytterligare information se www.google.com/policies/privacy/partners/.
+
+b) Ytterligare verktyg Crashlytics Inc. skapar rapporter om programvaran som orsakat ett avbrott och om av vilken typ och modell din smartphone är.
+
+New Relic Inc. tillhandahåller information om teknisk prestanda och stabilitet av MyTherapy.
+
+6. Tjänsteleverantörer från utanför EU Vi kanske behöver samarbeta med tredje parts tjänsteleverantörer från utanför EU som t.ex. ett analysverktyg men vi vidtar alla rimliga åtgärder för att säkerställa att dina uppgifter skyddas på ett lämpligt sätt enligt gällande dataskyddslagar inom EU och avtalsbestämmelser genom standardklausuler godkända av den Europeiska Unionen. Du kan begära en kopia av avtalet med tjänsteleverantören som levererar skyddet av dina personuppgifter.
+
+7. Dina rättigheter förknippade med skydd av dina personuppgifter Du kan begära information om vilka personuppgifter som lagras och att få dina uppgifter i ett allmänt använt och maskinläsbart format. Du kan också begära att dina personuppgifter raderas, rättas eller behandlingen begränsas.
+
+8. Återkallelse av ditt samtycke och dina kontaktuppgifter Du kan när som helst dra tillbaka ditt samtycke. Vid frågor eller för att använda dina rättigheter kontakta oss gärna på support@mytherapyapp.com.
+
+Vår dataskyddsansvarig för smartpatient och MyTherapy är Dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 München, Germany, email@iitr.de.
+
+Vid frågor kan du även kontakta tillämplig dataskyddsmyndighet.9. Ändringar Vi förbehåller oss rätten att ändra Integritetsskyddspolicyn. Den senaste versionen hittar du på vår webbsida mytherapyapp.com. Integritetsskyddspolycyn ändrades senast 2020-06-08.
+
+Privatlivspolitik for MyTherapy MyTherapy leveres af smartpatient gmbh, Landwehrstr. 60/62, 80336 München, Tyskland ("smartpatient" eller "vi"). Vi er dataansvarlige for behandling af dine personlige data via MyTherapy.
+
+1. Data indsamles for at skabe grundlæggende funktionalitet Vi beder om dit samtykke i henhold til Persondataforordningen GDPR artikel 6 § 1a, når du begynder at bruge MyTherapy, fordi MyTherapys grundlæggende funktionalitet er baseret på behandlingen af dine helbredsdata. Du kan ikke længere bruge MyTherapy, hvis du trækker dit samtykke tilbage.
+
+a) Sådan fungerer MyTherapy Når du bruger MyTherapy, sender din smartphone automatisk tilgangsdato og -tidspunkt, styresystem, type smartphone, den overførte datamængde og IP-adressen til os. Behandlingen af disse data er en teknisk forudsætning for at anvende MyTherapy. Med undtagelse af IP-adressen analyserer vi disse data rent statistisk og med det formål at forbedre MyTherapy [retsgrundlag: GDPR artikel 6 § 1f, en legitim interesse i at levere og forbedre MyTherapy].
+
+b) Sådan registreres brugerkontoen Du kan bruge MyTherapy uden brugerkonto ("konto") og uden at indtaste persondata. Uden en konto kan du dog kun bruge MyTherapy på én smartphone, og såfremt du mister din smartphone, kan du ikke gendanne dine data. For at registrere en konto skal du indtaste din e-mailadresse og en adgangskode [retsgrundlag: GDPR artikel 6 § 1b].
+
+c) Sådan understøttes din behandling Du kan bruge MyTherapy til at håndtere og dokumentere din behandling, f.eks. ved at indtaste: Behandlingsplaner for medicin Målinger, såsom blodtryk Trivsel eller symptomer Alder og køn Lægeaftaler og kontaktoplysninger [retsgrundlag: GDPR artikel 9 § 2a]d) Valg af medicin Du kan tilføje medicin til din behandling via en medicindatabase. MyTherapy vælger på forhånd databasen ved hjælp af regions- eller sprogindstillingerne i din smartphone. Hvis det mislykkes, bruger vi din IP-adresse til at bestemme dit land [retsgrundlag: GDPR artikel 9 § 2a].
+
+2. Yderligere funktioner Når yderligere funktioner aktiveres, beder vi om dit udtrykkelige samtykke i henhold til artikel 9, stk. 2a) eller art. 6 stk. 1a) GDPR for hver enkelt ekstra funktionalitet: a) Sådan importeres helbredsdata Du kan importere helbredsdata fra andre programmer, såsom skridttæller fra et fitnessprogram via Apple HealthKit eller Google Fit, og føje dem til din egen behandlingsdokumentation. Vi bruger data fra Apple HealthKit eller Google Fit kun til dette formål.
+
+Apple HealthKit: Vi bruger aldrig data fra dit Apple HealthKit til reklamer eller tilsvarende tjenester eller til brugsbaseret dataudvinding. Vi hverken afslører de informationer, vi har fået via Apple HealthKit, til nogen tredjepart eller sælger dem til reklameplatforme, dataspekulanter eller personer, der videresælger informationer.
+
+Google Fit: Vi tillader hverken os selv eller vores brugere at benytte noget indhold, der kommer fra Google Fit, i forbindelse med reklamer, sponsorater eller kampagner, eller at indholdet deles eller sælges til nogen dataspekulant eller person, der videresælger informationer.
+
+b) Sådan opretter du link til venner, familie eller sundhedspersonaleDu kan knytte din konto til andre brugeres, så de kan se dine helbredsdata, hvilket gøres ved at generere en kode, som deles med dem. Du kan altid annullere denne forbindelse.
+
+c) Sådan modtages personligt indhold Vi bruger dine helbredsdata til at vise dig personligt indhold, f.eks. vejledning i at håndtere eller administrere din behandling, såsom en video, der viser, hvordan en astmainhalator bruges.
+
+d) Sådan aktiveres nyhedsbrevet Vores nyhedsbrev informerer dig om nye funktioner og nye produkter og giver dig generelle informationer om MyTherapy eller smartpatient. Vi kan bruge dine helbredsdata (undtagen data fra Apple HealthKit) til at personliggøre nyhedsbrevets indhold.
+
+e) Deltagelse i spørgeundersøgelser og studier Vi bruger dine helbredsdata til at identificere dig som mulig deltager i spørgeundersøgelser og studier, hvor vi inviterer dig via MyTherapy eller e-mail.
+
+3. Opbevaring af dine data - lokation Når din smartphone så har forbindelse til internettet, sender MyTherapy dataene via datakryptering til en central database, som ligger i EU og er leveret af den tekniske tjenesteudbyder Amazon Web Services, Inc. Den tekniske tjenesteudbyder kan tilgå data i forbindelse med vedligeholdelse, drift og administration af den tekniske infrastruktur.
+
+4. Opbevaring af dine data - varighed Vi gemmer ikke dine persondata længere end nødvendigt til de formål, hvortil dine persondata behandles. Hvis du sletter din konto, sletter vi alle persondata, som findes på kontoen. Vi sletter også alle personlige data, der er knyttet til denne konto, hvis du ikke har logget ind i 3 år. De kan ikke gendannes.
+
+5. Analyseværktøjer Vi indsamler MyTherapys brugsdata via analyseværktøjer for at forbedre MyTherapy. Du kan aktivere og/eller deaktivere dette i MyTherapys indstillinger [retsgrundlag: GDPR artikel 6 § 1a eller § 1f, legitim interesse i at forbedre MyTherapy].
+
+a) Google Analytics til mobilapper og til Firebase Med Google Analytics (Google LLC) indsamler vi MyTherapy-brugsdata, f.eks. tid og varighed af appbrug. Den indsamlede information gemmes på en Google-server i USA. Funktionen "IP anonymisere" er aktiveret for MyTherapy. Det betyder, at din IP-adresse, inden for EU's medlemslande eller andre kontraherende stater i aftalen om EØS, først bliver forkortet af Google. Det er kun i usædvanlige tilfælde, at Google overfører hele IP-adressen til en Google-server i USA og forkorter den der. Google kombinerer ikke IP-adressen, som din smartphone har overført, med andre data. Få flere informationer via www.google.com/policies/privacy/partners/.
+
+b) Andre værktøjer Crashlytics, Inc. opretter nedbrudsrapporter, som indeholder den del af softwaren, der kan være skyld i nedbruddet, samt din smartphonemodel.
+
+New Relic, Inc. giver informationer om MyTherapys tekniske præstationer og stabilitet.
+
+6. Tjenesteudbydere uden for EU Vi kan være afhængige af tredjeparts-tjenesteudbydere, som befinder sig uden for EU, f.eks. et analyseværktøj, men vi træffer alle rimelige forholdsregler for at sikre, at dine data er forsvarligt beskyttede i henhold til kravene i EU's databeskyttelseslovgivning ved hjælp af standard databeskyttelsesklausuler, som EU-Kommissionen har godkendt. Du kan anmode om en kopi af kontrakten hos den udbyder, der implementerer den relevante beskyttelse af dine persondata.
+
+7. Dine databeskyttelsesrettigheder De kan anmode om informationer om de data, der opbevares om dig, og du har ret til at modtage dine data i almindelig maskinlæsbar form. Du kan også anmode om at få dine data slettet, rettet eller begrænset, eller du kan protestere mod behandlingen af dine data.
+
+8. Tilbagekaldelse af dit samtykke og kontakt Du kan altid frit tilbagekalde ethvert samtykke, du har givet Ved spørgsmål eller for at udøve dine rettigheder, kontakt os da venligst, f.eks. via support@mytherapyapp.com an uns.
+
+Den databeskyttelsesansvarlige for smartpatient og MyTherapy er dr. Sebastian Kraska, IITR Datenschutz GmbH, Marienplatz 2, 80331 München, Tyskland, email@iitr.de.
+
+Er du bekymret, kan du også kontakte den gældende datatilsynsmyndighed.
+
+9. Ændringer Vi forbeholder os ret til at ændre privatlivspolitikken. Du finder den seneste version på vores websted mytherapyapp.com. Denne privatlivspolitik blev ændret 08.06.2020.
+
+MyTherapyにおける個人情報の取り扱い MyTherapyは smartpatient gmbh, Landwehrstr. 60/62, 80336 ミュンヘン, ドイツ (以下、「smartpatient」または「当社」という)により提供されます。当社はMyTherapyを介してユーザーの個人情報を処理するデーターコントローラー（管理者）です。 1. 基本機能を提供するための収集データ ＥＵ一般データ保護規則第６条１ａに基づき、MyTherapyの利用開始時にユーザーの同意を当社は必要とします。理由は、MyTherapyの基本機能ではユーザーの健康状態に関するデータが利用されるからです。ユーザーが当該同意を撤回した場合、MyTherapyの利用ができなくなります。 a) MyTherapyの利用 MyTherapyの利用中、アクセス日時・ＯＳ（オペレーティングシステム）・スマートフォンの種類・送受信データ量・ＩＰアドレスが、ユーザーのスマートフォンから当社へ自動的に伝達されます。 MyTherapyの利用には、当該データの処理が技術上必要です。ＩＰアドレスを除いた当該データは、統計的に分析され、MyTherapyのサービス向上のため使用されます [根拠法令：ＥＵ一般データ保護規則第６条１ｆ、MyTherapyのサービス提供・向上という合法的目的による情報収集]。 b) 利用者アカウントの設定 利用者アカウント（以下、「アカウント」という）の設定および個人情報の入力をすることなく、ユーザーはMyTherapyを利用できます。しかしながら、アカウントがない場合、ユーザーのMyTherapy利用は一台のスマートフォンからに限られ、スマートフォンを遺失した場合、個人データの復元はできません。アカウントの設定には、Ｅメールアドレスとパスワードを入力しなければなりません [根拠法令：ＥＵ一般データ保護規則第６条１ｂ]。 c) 健康ケアのサポート 以下のようなデータをMyTherapyに入力することにより、健康ケアを管理・記録できます。 薬剤の服用スケジュール 血圧などの測定結果 症状の有無 年齢と性別 診療予約と連絡先 [根拠法令：ＥＵ一般データ保護規則第９条２a ]d) 治療法の選択 治療法データベースを利用することにより、各自の治療法を健康ケアへ追加できます。ユーザーのスマートフォンにおける地域設定または言語設定を用いて、MyTherapyがデータベースを前もって選択します。この手法がうまくいかない場合、ＩＰアドレスを用いて当社はユーザーの国を特定します [法的根拠：ＥＵ一般データ保護規則第９条２a ]。 2.追加機能 以下の追加機能を有効にする場合、ＥＵ一般データ保護規則第９条２aまたは第６条１a に基づき、各追加機能に対して明示的な同意を当社はユーザーに求めます。 a) 健康ケアデータのインポート アップルHealthKitやGoogle Fit経由で歩数計の計測歩数をインポートするなど、他のアプリケーションから健康ケアデータをインポートし、ユーザーのケア記録に追加できます。この目的のためだけにアップルHealthKitやGoogle Fitのデータを当社は利用します。 アップルHealthKit：広告や類似サービス、あるいは利用に基づいたデータマイニングなどのために、当社は決してユーザーのアップルHealthKitデータを使用しません。アップルHealthKitを通した取得データを当社が第三者に開示することもなければ、広告プラットフォームまたはデータ売買・転売業者に売ることもありません。 Google Fit：Google Fitによりアクセスされたコンテンツに関連した広告、スポンサー募集、販促キャンペーン、あるいはデータ売買・転売業者へのコンテンツの共有・売却を当社は実施しません。またユーザーが当該行為を実施することを当社は許諾しません。 b) 友人・家族・ヘルスケア専門家とのリンク設定 ユーザー自身のアカウントと他ユーザーのアカウントをリンクさせ、コードを作成・共有することにより、自分の健康ケアデータを見てもらうことができます。リンク設定はいつでも終了させることができます。 c) ユーザーのニーズに合わせたコンテンツの表示 各自のケア情報の処理・管理方法についての説明、喘息用吸入器の使用方法に関するビデオなど、各ユーザーのニーズに合わせてコンテンツを表示できるよう、ユーザーの健康ケアデータを当社は使用します。 d) ニュースレターに関連した個人情報の利用 当社ニュースレターにより、MyTherapyあるいはsmartpatientに関する新機能、新製品、一般的な情報がユーザーにもたらされます。ニュースレターの内容を各ユーザーのニーズに合わせるため、ユーザーの健康ケアデータ（アップルHealthKitからのデータを除きます）を当社が利用することがあります。 e) 調査・研究への参加 ユーザーが調査・研究の参加者であることを特定し、MyTherapyまたはＥメールで当該調査・研究を依頼するため、ユーザーの健康ケアデータを当社が利用します。 3. 個人情報の保存 ー 保管場所 スマートフォンをインターネットへ接続すると、ＥＵに所在するサービス提供事業者 Amazon Web Services, Inc. の中央サーバーへ、暗号化されたユーザーのデータが転送されます。システムの技術的なメンテナンス、稼働、管理を目的とし、ＡＷＳが各データにアクセスすることがあります。 4. 個人情報の保存 ー 保管期間 ユーザーの個人情報処理に必要な期間内に限り、当社は各ユーザーの個人情報を保存します。ユーザーがアカウントを削除すると、当該アカウント内のいかなる個人情報も当社は削除します。又、3年間アカウントにログインしていない場合もそのアカウント内の個人情報が削除されます。削除された情報は復元できません。 5. 分析ツール MyTherapyのサービス向上のため、MyTherapy利用データを分析ツールにより当社は収集します。MyTherapyの設定にてこの機能を起動／停止できます [法的根拠：ＥＵ一般データ保護規則第６条１ａまたは１ｆ、MyTherapyのサービス向上という合法的理由]。 a) モバイルアプリケーションおよびFirebase向けGoogle Analytics 当社はGoogle Analytics (Google LLC)を使用してMyTherapyの時間帯や所要時間などのアプリ利用データを収集します。収集されたデータは米国内のGoogleサーバーに保存されます。MyTherapy向けの「ＩＰアドレス匿名化」機能が作動されます。これにより、欧州連合加盟国・欧州経済領域締結国内では、ユーザーのＩＰアドレスがGoogleによりまず短縮化されます。例外的な場合に限り、Googleは完全なＩＰアドレスを米国のGoogleサーバーへ伝達し、サーバー内で短縮化します。ユーザーのスマートフォンから送付されたＩＰアドレスと他の情報を、Googleが組み合わせることはありません。詳細は、www.google.com/policies/privacy/partners/をご覧ください。 b) その他のツール Crashlytics, Inc. は、クラッシュを引き起こした可能性のあるソフトウェアの部分とユーザーのスマートフォン機種を含んだクラッシュレポートを作成します。 New Relic, Inc. は、MyTherapyの技術的パフォーマンス・安定性に関する情報を提供します。 6. ＥＵ域外のサービス提供事業者 分析ツールなど、第三者であるＥＵ域外のサービス提供事業者に当社が依存するケースもあるものの、欧州委員会の承認を受けた標準データ保護条項を締結するという手法を用い、ＥＵ情報保護法の規定に従ってユーザーの個人情報が適切かつ確実に保護されるよう、当社は合理的なすべての手続きをふみます。個人情報を適切に保護しているサービス提供事業者との契約書のコピーの交付を、ユーザーは要請できます。 7. ユーザーの個人情報が保護される権利 ユーザーはユーザー自身について保存されたデータを要請することができ、一般的な機器で読み取り可能な形式で当該個人情報を受け取る権利を有します。ユーザーは個人情報の削除、訂正、個人情報処理における制限または異議を要請することもできます。 8. 同意の撤回と連絡先 ユーザーはいつでも、過去の同意を撤回することができます。問い合わせあるいは権利の行使に際しては、support@mytherapyapp.comなどにて当社へご連絡ください。 smartpatientおよびMyTherapyプラットフォームに関する個人情報保護責任者は、 Dr. Sebastian Kraskaで、連絡先はIITR Datenschutz GmbH, Marienplatz 2, 80331 München, Germany, email@iitr.deです。個人情報の保護に疑義が生じた場合、該当する個人情報保護担当官庁へ連絡することもできます。 9. 改正 本個人情報取り扱い規約を改正する権利を、当社は有します。規約の最新版は、ウェブサイトmytherapyapp.com上に公開されています。個人情報取り扱い規約の直近の改正日は、2020年6月8日です。
+

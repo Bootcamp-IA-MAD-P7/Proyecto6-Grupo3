@@ -1,0 +1,44 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+12,1,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,2,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,3,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,4,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,5,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,6,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'User Type (opt)']","['Information Type_Generic personal information', 'Collection Process_Unspecified']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,7,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_IP address and device IDs', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Other', 'Collection Process_Unspecified', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,8,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Other']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,9,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,10,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,11,[],['Choice Type (opt)'],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,12,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,13,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,14,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,15,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,16,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,17,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,18,['First Party'],"['Information Type', 'Purpose']",['Purpose_Service operation and security'],TRAIN,https://www.starstable.com/en/privacy/,False
+12,19,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,21,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,22,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,23,['First Party'],"['Information Type', 'Purpose']",['Information Type_Cookies and tracking elements'],TRAIN,https://www.starstable.com/en/privacy/,False
+12,24,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.starstable.com/en/privacy/,False
+12,25,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,26,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Tracked on first-party website/app by third party', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,27,['Third Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,28,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,29,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,30,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,31,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,32,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Third-Party Entity_Unnamed third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,33,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Third-Party Entity_Unnamed third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,34,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,35,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,36,['First Party'],"['Purpose', 'Choice Type (opt)', 'User Type (opt)']","['Purpose_Essential service or feature', 'Choice Type (opt)_Opt-in', 'User Type (opt)_Other']",TRAIN,https://www.starstable.com/en/privacy/,False
+12,37,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,38,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,39,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,40,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,41,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,42,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False
+12,43,[],[],[],TRAIN,https://www.starstable.com/en/privacy/,False

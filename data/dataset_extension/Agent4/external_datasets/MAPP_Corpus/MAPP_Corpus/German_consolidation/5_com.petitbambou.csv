@@ -1,0 +1,46 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+5,1,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,2,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,3,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TEST,https://www.petitbambou.com/de/privacy,True
+5,4,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit', 'Choice Type (opt)_Other']",TEST,https://www.petitbambou.com/de/privacy,True
+5,5,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Social media data']",TEST,https://www.petitbambou.com/de/privacy,True
+5,6,['First Party'],['Purpose'],['Purpose_Analytics or research'],TEST,https://www.petitbambou.com/de/privacy,True
+5,7,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,8,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TEST,https://www.petitbambou.com/de/privacy,True
+5,9,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,10,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Analytics or research', 'Collection Process_Tracked user on third-party website/app']",TEST,https://www.petitbambou.com/de/privacy,True
+5,11,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_User online activities', 'Purpose_Advertising or marketing', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.petitbambou.com/de/privacy,True
+5,12,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,13,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,14,['Third Party'],"['Purpose', 'Third-Party Entity']",['Third-Party Entity_Named third party'],TEST,https://www.petitbambou.com/de/privacy,True
+5,15,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,16,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,17,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,18,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,19,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TEST,https://www.petitbambou.com/de/privacy,True
+5,20,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,21,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,22,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Service operation and security']",TEST,https://www.petitbambou.com/de/privacy,True
+5,23,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://www.petitbambou.com/de/privacy,True
+5,24,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TEST,https://www.petitbambou.com/de/privacy,True
+5,25,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,26,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Purpose_Legal requirement', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.petitbambou.com/de/privacy,True
+5,27,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,28,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Health, genetic, or biometric data', 'Collection Process_Entered by user on third-party website/app', 'Does/Does Not (opt)_Does Not']",TEST,https://www.petitbambou.com/de/privacy,True
+5,29,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,30,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,31,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,32,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,33,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,34,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,35,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,36,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,37,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,38,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,39,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,40,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,41,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,42,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,43,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,44,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True
+5,45,[],[],[],TEST,https://www.petitbambou.com/de/privacy,True

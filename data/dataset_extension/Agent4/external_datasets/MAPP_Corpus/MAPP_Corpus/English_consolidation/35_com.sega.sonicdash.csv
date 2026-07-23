@@ -1,0 +1,86 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+35,1,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,2,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,3,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,4,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,5,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,6,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,7,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,8,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other']",TRAIN,https://www.sega.com/mprivacy,True
+35,9,['First Party'],"['Information Type', 'Purpose']","['Information Type_Computer information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other']",TRAIN,https://www.sega.com/mprivacy,True
+35,10,['First Party'],"['Information Type', 'Purpose']",['Purpose_Analytics or research'],TRAIN,https://www.sega.com/mprivacy,True
+35,11,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing']",TRAIN,https://www.sega.com/mprivacy,True
+35,12,['Third Party'],"['Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.sega.com/mprivacy,True
+35,13,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Unnamed third party'],TRAIN,https://www.sega.com/mprivacy,True
+35,14,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Named third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,15,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Named third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,16,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Merger or acquisition', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,17,['Third Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://www.sega.com/mprivacy,True
+35,18,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,19,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,20,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,21,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.sega.com/mprivacy,True
+35,22,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing']",TRAIN,https://www.sega.com/mprivacy,True
+35,23,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,24,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.sega.com/mprivacy,True
+35,25,['First Party'],"['Information Type', 'Does/Does Not (opt)', 'User Type (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not', 'User Type (opt)_Other']",TRAIN,https://www.sega.com/mprivacy,True
+35,26,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,27,['First Party'],"['Information Type', 'Collection Process', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.sega.com/mprivacy,True
+35,28,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Collection Process_Directly received from third party', 'Choice Type (opt)_Opt-in', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.sega.com/mprivacy,True
+35,29,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,30,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,31,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.sega.com/mprivacy,True
+35,32,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Purpose_Optional service or feature', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Unnamed third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.sega.com/mprivacy,True
+35,33,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.sega.com/mprivacy,True
+35,34,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Directly received from third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,35,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Directly received from third party', 'Collection Process_Unspecified']",TRAIN,https://www.sega.com/mprivacy,True
+35,36,['First Party'],"['Purpose', 'Choice Type (opt)']","['Purpose_Advertising or marketing', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.sega.com/mprivacy,True
+35,37,[],['Choice Type (opt)'],"['Choice Type (opt)_Opt-out link', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://www.sega.com/mprivacy,True
+35,38,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://www.sega.com/mprivacy,True
+35,39,['First Party'],"['Information Type', 'Purpose']","['Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://www.sega.com/mprivacy,True
+35,40,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.sega.com/mprivacy,True
+35,41,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.sega.com/mprivacy,True
+35,42,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TRAIN,https://www.sega.com/mprivacy,True
+35,43,['First Party'],"['Information Type', 'Purpose']","['Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://www.sega.com/mprivacy,True
+35,44,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,45,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Collection Process_Directly received from third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,46,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing']",TRAIN,https://www.sega.com/mprivacy,True
+35,47,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Shared by first party with a third party', 'Collection Process_Tracked on first-party website/app by third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,48,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,49,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.sega.com/mprivacy,True
+35,50,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.sega.com/mprivacy,True
+35,51,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,52,['Third Party'],"['Information Type', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Location', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.sega.com/mprivacy,True
+35,53,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.sega.com/mprivacy,True
+35,54,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,55,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.sega.com/mprivacy,True
+35,56,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,57,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Merger or acquisition', 'Collection Process_Shared by first party with a third party', 'Collection Process_Unspecified', 'Third-Party Entity_Named third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,58,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.sega.com/mprivacy,True
+35,59,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,60,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,61,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,62,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,63,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,64,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,65,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,66,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,67,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,68,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.sega.com/mprivacy,True
+35,69,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,70,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,71,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,72,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,73,['First Party'],"['Information Type', 'Purpose', 'User Type (opt)']","['Information Type_Generic personal information', 'User Type (opt)_Other']",TRAIN,https://www.sega.com/mprivacy,True
+35,74,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,75,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,76,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,77,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,78,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,79,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,80,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,81,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,82,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,83,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,84,[],[],[],TRAIN,https://www.sega.com/mprivacy,True
+35,85,[],[],[],TRAIN,https://www.sega.com/mprivacy,True

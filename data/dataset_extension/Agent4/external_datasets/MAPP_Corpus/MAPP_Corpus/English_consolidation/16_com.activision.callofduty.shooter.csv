@@ -1,0 +1,102 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+16,1,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,2,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,3,['First Party'],['Information Type'],"['Information Type_Generic personal information', 'Information Type_Unspecified']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,4,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,5,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,6,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,7,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,8,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,9,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,10,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,11,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,12,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,13,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,14,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,15,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,16,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Personalization or customization']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,17,['First Party'],['Collection Process'],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,18,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Other']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,19,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,20,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Computer information']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,21,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,22,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,23,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,24,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,25,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,26,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,27,"['First Party', 'Third Party']","['Information Type', 'Purpose']",['Purpose_Advertising or marketing'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,28,[],['Choice Type (opt)'],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,29,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,30,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,31,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Social media data', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,32,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,33,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Collection Process_Directly received from third party']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,34,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,35,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,36,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,37,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,38,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,39,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,40,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,41,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,42,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,43,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,44,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,45,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Other part of company/affiliate'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,46,['Third Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,47,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,48,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,49,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Purpose_Legal requirement']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,50,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,51,['Third Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,52,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,53,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,54,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,55,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,56,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,57,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,58,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,59,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,60,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,61,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,62,[],['Collection Process'],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,63,['First Party'],"['Information Type', 'Purpose']","['Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Legal requirement']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,64,[],['Information Type'],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,65,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,66,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,67,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,68,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,69,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,70,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,71,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,72,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,73,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,74,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,75,['Third Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']",['Purpose_Advertising or marketing'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,76,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,77,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,78,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,79,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,80,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,81,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,82,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,83,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,84,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,85,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,86,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,87,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,88,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,89,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Legal requirement', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,90,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Compliance with a legal obligation'],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,91,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,92,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,93,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,94,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,95,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,96,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,97,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,98,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,99,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,100,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True
+16,101,[],[],[],TRAIN,https://www.activision.com/legal/privacy-policy,True

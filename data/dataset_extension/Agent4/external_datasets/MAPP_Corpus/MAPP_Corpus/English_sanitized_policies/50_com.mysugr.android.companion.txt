@@ -1,0 +1,152 @@
+mySugr GmbH Privacy Notice Version dated September 1, 2018 This policy may be amended from time to time. The applicable version of this privacy notice as amended can be viewed on and downloaded as a PDF from our website www.mysugr.com1. INTRODUCTION 1.1 Responsible entity 1.1.1 mySugr GmbH with its head office in Vienna at the business address 1010 Vienna, Trattnerhof 1, registered in the Company Register of Vienna Commercial Court under FN 376086 v, (hereinafter referred to as "mySugr") is the stated responsible entity under the data protection regulations. This means mySugr decides on the purpose and means of processing the personal data of our users ("User Data") and is responsible for its security and compliance with the applicable laws.
+
+1.1.2 As the responsible entity, we are subject for example to information duties that we wish to fulfill with this privacy notice. We may also provide additional information regarding your privacy in our products, e.g. if we ask you for new consent or explain the consequences of revocation. The information in our products does not contradict this privacy notice, but rather supplements it with brief and easily readable information so that you can make decisions more easily. This privacy notice and the additional information are easily accessible at any time from within our products.
+
+1.2 Structure and consent concept 1.2.1 In this privacy notice we inform you about the purposes and scope of processing your User Data, data transfers, and your comprehensive rights. As the mySugr products are exclusively aimed at persons with diabetes, your use typically provides information on your health condition. We process personal User Data, including health data, with your consent, as further described in the following sections: 1.2.1.1 The "Necessary processing" section describes how we process User Data required to fulfill the contract. Without this consent the use of our products is not possible from a legal and a factual point of view because our services depend on this processing.
+
+1.2.1.2 The "Processing for product improvement" section explains how you and other users can help - if you consent - by allowing us to use your data in particular to develop algorithms for therapy management, improve the product, etc., without us contacting you for advertising purposes etc. You can also use the products without giving us this consent - but your consent improves the database in the interest of all users so that we can improve our product more quickly.
+
+1.2.1.3 The "Processing for marketing purposes" section describes how we contact you - with your consent - e.g. by email, notifications, etc. for marketing purposes. Again, you can use the products without consent but with your consent you will receive interesting information on our products or if e.g. your health insurance company covers new services.
+
+1.2.1.4 In the "General information" section we have assembled the information that applies to all of the consents stated above to avoid repetitions.
+
+The relevant categories are described below in more detail. You can give the relevant consents on registration or later via the account settings. You can revoke consents at any time and we inform you about the consequences of the revocation. Either use the account settings or send an email to support@mysugr.com. The lawfulness of the processing before revocation remains unaffected.
+
+1.2.2 In some cases, the processing may take place independently of consent on the basis of statutory (e.g. Medical Device Law) principles. We will inform you accordingly in the given cases.
+
+2. NECESSARY PROCESSING If you consent we process the following User Data in order to be able to provide our services. If you do not consent to this necessary processing, you cannot use the services of mySugr. Your consent will be requested during the registration process and can be managed in the account settings.
+
+2.1 Necessary and Optional User Data/Types of Information Collected 2.1.1 In order to protect your User Data, our services can only be used in connection with a user account. To create a user account we require and process the following User Data: • Email address • Password (we only save a check sum) • mySugr ID (we provide this after registration) • Registration date • Status of consents • When using the mySugr app: Device ID, manufacturer, device type, operating system version • Language, country, time zone • IP address.
+
+2.1.2 All other information is optional and self-explanatory in the entry masks. These optional entries include: Personal Master Data: First name, last name, address, date of birth/age, gender, telephone number.
+
+Medical Master Data: Diabetes type, diagnosis year, insulin therapy (pen/pump), blood glucose target range, height, weight, meter/therapy device, medication, type of insulin, basal settings, correction factors, carbs / insulin ratio.
+
+Commercial and Usage Data App store download, purchase, invoices, payment status, payment method (credit card, bank account, etc.) insurance number, mySugr Pro status, vouchers used, IP address, device ID, operating system, browser type and version, token, activity events for customization, support queries.
+
+Medical Data App entries such as date/time/time zone/place, type and duration of activities (breakfast, office work, sport etc.), food intake/meal/ingredients, pills taken/injections, blood glucose measurements, notes/text, blood pressure, weight, HbA1c, ketones, steps, images/photos, medication, tags, points, imported values; sensor data such as start date/time, end date/time, time zone, sensor value, type; temporary basal rate, date; app settings such as display options, activated integrations; or coaching (status, targets, other illnesses).
+
+2.1.3 If you wish, you can operate the user account under an assumed name (pseudonym), i.e. you do not have to state your real name. You can also enter any email address that you set up especially for us - but it must at least work so that we can send you important warnings.
+
+The scope of the data recorded by mySugr depends on your registration and use of our products. We only process the User Data that you actively and voluntarily provide to mySugr. The entry of queried User Data is, however, a requirement for the comprehensive use of our products. If you do not enter optional data the associated functionality of our products is limited accordingly. For example our Logbook or Bolus Calculator require detailed (voluntary) entry of your data in order to ensure optimal use.
+
+2.1.4 In addition to the entries you provide voluntarily, there is also the option of independently activating or deactivating the recording of certain data in the settings of our apps and other software of your device (e.g. operating system, other apps, app stores etc.). If you have questions, please contact support@mysugr.com.
+
+2.2 Necessary purposes 2.2.1 The processing of your User Data is necessary to provide our services: Order, delivery, support, and billing of our products (including goods from our cooperation partners) require the entry and processing of certain data in order to process your order.
+
+Installation of our app leads to technical and device-related data recordings such as the device ID.
+
+Registration leads to the creation of your mySugr ID.Provision of our services requires your active and voluntary entry of data depending on the function; each function describes which data is needed for what purpose.
+
+Communication by mySugr with you within our apps or via other electronic messaging services (e.g. email, messenger, telephone) is required where necessary to support or troubleshoot our products. For example, you may access our support service at support@mysugr.com. Please carefully consider what information and data you want to give us in your communication with us - this is solely your decision. For our part, communication with users may be necessary either by email, in-app card, or push notification. This is how we inform you about updates to our products and provide important security advice and product assistance. This support communication - as an essential part of our products - is sent to users notwithstanding whether they have subscribed to our Newsletter or not.
+
+Medical devices (e.g. blood glucose meters) can be paired with your mobile device which enables data to be transferred to our apps.
+
+Health apps, like those by Apple, and other connected services also enable data to be exchanged with our apps. Synchronization only takes place if you activate this in the settings of our apps, i.e., by using the function.
+
+2.2.2 Use of our apps and extensions requires you to actively and voluntarily enter data. You will find additional selection options in the settings of our apps. For instance, to trouble shoot the app, we will request crash reports to determine the circumstances of the problem. In addition, the key data from your device and your usage behavior are recorded in order to provide customized products, for example, processing individual user information, depending on your location (also relevant for the search function), diabetes type or type of therapy (both relevant e.g. for configuring the user interface). We do perform an automated analysis of your behavior solely for the purpose of customizing your use of the mobile application.
+
+3. PROCESSING FOR PRODUCT IMPROVEMENT If you consent, we also process your User Data beyond the necessary usage described in section 2 to improve our products and services as described in more detail below.
+
+3.1 Additional data In general, we use the same User Data to improve our products as stated in section 2. In addition, mySugr can also record the following User Data: Usage Data Activity events that allow us to understand how you use our products. This enables us to see how our products are used and for example where menu designs can be optimized.
+
+3.2 Purpose of product improvement We have to continually analyze, develop, test, and improve our products, in order to ensure that our content benefits users in the most effective way. To do this, we analyze usage and incorporate learnings into improved new versions of our products. These improvements are also provided to you via regular updates.
+
+4. PROCESSING FOR MARKETING PURPOSES 4.1 Newsletter 4.1.1 We would like to send you interesting information on products and services (including information from carefully selected partners) and invitations to participate in surveys or other sales promotion and marketing activities (all abbreviated as "Newsletter").
+
+4.1.2 You can select whether you want to subscribe to our Newsletter. You can revoke your consent (opt out) at any time via the link in the Newsletter or the account settings.
+
+4.2 Other marketing 4.2.1 Other consents, e.g. for surveys, notifications, or customized offers, are obtained as required when you are logged in. We always explain to you why we need certain data and also how you can revoke the consent.
+
+4.2.2 Please be aware that we may show you offers in the app without processing your personal data. You will also see these non-customized advertisements if you have not provided consent.
+
+5. USAGE FOR STATUTORY PURPOSES 5.1 Scientific research and statistics mySugr is committed to the science of all aspects of diabetes. Therefore, anonymous User Data can also be used for the purposes of research and statistics (always whilst complying with the recognized ethical scientific standards) and internal analyses. This anonymous data is used mainly to determine and improve the effectiveness of techniques for controlling and treating diabetes. As an Austrian company, mySugr GmbH is required to comply with European data protection laws, including the EU General Data Protection Regulation (GDPR). Under the GDPR, all processing of personal data requires a legal basis. Our legal basis under the GDPR for processing personal data for scientific research purposes is found in Article 9 (2) j) of the GDPR.
+
+5.2 Enforcement of rights The use of personal data may also be necessary to prevent abuse by users or to assert, exercise, or defend legal claims. We may be forced into disclosure due to binding laws, court or official decisions and instructions, criminal investigation, or in the public interest. In such cases, the storage and processing of your data is permitted by law without your consent. As mentioned above, all processing requires a legal basis under the GDPR. For processing personal data for the enforcement of rights, the legal basis is found in Article 9 (2) f) of the GDPR.
+
+5.3 Under Medical Device Law Finally, as the manufacturer or distributor of a medical device, we are subject to increased requirements for monitoring the functionality of our product. This vigilance system required for regulatory purposes may also involve the processing of personal data. As mentioned above, all processing requires a legal basis under the GDPR. For processing personal data for monitoring the functionality of our product, the legal basis is found in Article 9 (2) i) of the GDPR.
+
+6. GENERAL INFORMATION 6.1. Purpose limitation and security 6.1.1. mySugr uses your personal data exclusively for the purposes stated in this privacy notice and the relevant consents. We ensure that each processing is restricted to only that which is necessary.
+
+6.1.2. We take measures to protect the security and confidentiality of your personal data. This includes technical and organizational measures to protect your data from unauthorized and illegal processing, unintentional loss, unintentional destruction, or damage. We use strict internal processes, security features, and the latest encryption methods, always taking into account state-of-the-art technology and implementation costs.
+
+6.2. Processors 6.2.1. For technical support we use affiliated companies of the Roche Group - F.Hoffmann-La Roche AG - and third-party suppliers (all hereinafter referred to as "Processors") in order to provide you with optimal support.
+
+6.2.2. mySugr transfers User Data to Processors exclusively within the framework of this privacy notice and only to fulfill the stated purposes. Processors work according to our specifications and instructions; they are not permitted to use the personal data of our users for other purposes.
+
+6.2.3.6.3. Encryption, pseudonymization, and anonymization 6.3.1. Each data transfer - without exception and by default - is encrypted during transfer. We use HTTPS (hypertext transfer protocol secure) to protect your data from interception by unauthorized third parties.
+
+In addition, for the purposes of data security and minimization, we also use other processes for the encryption and pseudonymization of User Data. Of course this depends on the type, scope, and purpose of the relevant data processing and takes into account the latest technology. For example, a processor does not receive any User Data that is not required for their tasks.
+
+6.3.2. After ending the contractual relationship with the relevant processor, the processor must - at the discretion of mySugr - either return all of our User's Data or delete it if there are no statutory storage obligations.
+
+6.3.3. Data that requires no personal reference for processing (e.g. for research and analysis) is subject to anonymization. This prevents a connection to a specific user being made.
+
+6.4. Third-Party Suppliers 6.4.1. From time to time, we may use third parties to provide products, services or otherwise support our business or collaborate with third parties with respect to development, promotion or other business activities related to a particular product or service. As a result, we may disclose User Data to contractors, service providers and other third parties but such disclosure will be limited to enabling those third parties to provide their products or services. To the extent a third party's Privacy Policy separately governs their use of your data obtained via mySugr, you will be notified and given an opportunity to review such terms. We may also disclose Personal Information to our subsidiaries and affiliates.
+
+6.4.2. In the event of a change of ownership, sale, merger, liquidation, reorganization or acquisition of mySugr, in whole or in part, your information may be transferred as part of the transaction, including during the due diligence process, as long as, the party acquiring such information agrees to be bound by the terms of this Privacy Policy.
+
+6.4.3. We may also release your Personal Information to third parties as required by law, when we believe disclosure is necessary to comply with a legal or regulatory requirement, judicial proceeding, court order or legal process served on us, to protect the safety, rights or property of patients, customers, the public or mySugr or defend mySugr and its officers, directors, employees, attorneys, agents, contractors and partners, in connection with any legal action, claim, or dispute.
+
+6.5. Categories of recipients 6.5.1. Our cooperation partners are bound by the agreements signed with mySugr as well as by the GDPR and only process data according to our instructions. We provide our Users' Data only to fulfill the contract: Manufacturers and suppliers require personal data to handle orders for goods. A typical example is the delivery of a blood glucose meter and test strips as part of the mySugr Bundle.
+
+Insurance companies may exchange data with us if our products are offered to you by your health insurance provider (government or private). Bookkeeping and payment service providers support us in the ongoing billing of our chargeable products.
+
+Customer support services and their tools help our customer support to quickly and efficiently handle our users' inquiries. Here, for example, queries are recorded from various communication channels and grouped according to topics using ticket systems.
+
+Analytics service providers and their tools help us to understand how users use our products in order for us to provide customized communication and product improvements in the future. This way we can avoid that, e.g., a pump user with type 1 diabetes receives messages about type 2 diabetes or pens.
+
+Marketing service providers support us in creating, sorting, customizing, and sending newsletters, emails, and other messages about our products to our users.
+
+Hosting and cloud service providers and their tools are used to store data and to produce anonymized analyses (see section 2.4 above).
+
+6.5.2. Please note that you have the option to directly share certain data with a third party from within our products. This relates, e.g., to reports generated in our apps and communication with your healthcare professional or mySugr Coach for therapy advice. You are solely responsible for such data transfers.
+
+6.6. Cookies mySugr stores so-called "cookies" to offer you a comprehensive range of functions and make the use of our website more convenient. "Cookies" are small text files that are stored on your device by your browser. Except for the cookies for usage data mentioned in section 6.7, our cookies are used to operate the website. If you do not want to use cookies you can prevent cookies from being stored using the relevant settings in the browser. Most of our cookies are either deleted at the end of your visit or when the browser is closed (session cookies). If this is not the case, you can check the deletion period in your browser or delete the cookies manually. Please note that this may restrict the functionality of our products.
+
+6.7. Usage data Iin the publicly accessible section of our website (no login) we use Google Universal Analytics, a web analysis service by Google Inc. ("Google"). Google is certified under the EU-US Privacy Shield; we also have a processing contract in place with Google.
+
+Google Universal Analytics uses "cookies" (see above) to enable analysis of your website use and these may be stored for up to 2 years if you do not delete them before that time. The information generated by the cookie on your use of our website is generally transferred to and stored on a Google server in the USA. We have extended Google Analytics on our website to include the "gat.anonymizeIp();" code in order for IP addresses to be recorded anonymously.
+
+You can prevent the storage of cookies using the appropriate setting in your browser, as described above in section 6.6. In addition, you can prevent the processing of the data generated by the cookie relating to your use of the website (incl. the IP address) by Google by installing the browser plugin available under the following link: http://tools.google.com/dlpage/gaoptout?hl=de.
+
+6.8. Storage and deletion 6.8.1. Your User Data is stored on your device. This data is also stored on our servers. We only use systems that meet the GDPR requirements.
+
+6.8.2. Because of your location your data will be stored by default in the USA. Regardless of the storage location we follow industry standards to comply with applicable data privacy laws - of course this also applies to data that is stored temporarily at another location or is transferred for processing.
+
+6.8.3. As a rule, mySugr only stores your personal data for the duration of the contract. In exceptional cases, longer storage may be required in order to fulfill post-contractual obligations or to comply with statutory storage obligations or disclosure duties, or to assert, exercise, or defend legal claims (limitation periods).
+
+6.9. Minors 6.9.1. Minors only permitted to use our products with the consent of a parent/guardian (see section 3.2.3 of our General Terms and Conditions - T&Cs). This also applies to processing their personal data, which is only legal if and to the extent to which the consent has been obtained by and through the parent/guardian. Otherwise use of our products is prohibited.
+
+6.9.2. We are committed to protecting the privacy of children. As such, we do not intentionally collect data from users under the age of 13 years old in connection with our general purpose website(s), app(s) or other services. If you are the parent or guardian of a child under the age of 13 who has submitted information through this Site, please email us to privacy@mysugr.com . in order to request deletion.
+
+6.10. Data protection officer 6.10.1. Our data protection officer is available to answer all data protection questions at privacy@mysugr.com . The data protection officer monitors - independently and not bound by instructions - compliance with all data protection regulations and is subject to strict statutory secrecy and confidentiality obligations.
+
+6.10.2. The data protection officer is widely involved in all questions associated with protecting the personal data of our users. As trained experts they monitor our processing on an ongoing basis, inform, and advise the whole mySugr team on an ongoing basis in order to ensure the best-possible protection of your User Data.
+
+6.11. Changes 6.11.1. As technology and processes in the Internet and the data protection legislation are constantly being developed, we have to undertake changes from time to time. We will inform you of changes by appropriate means whilst granting an appropriate advance notice period and if necessary obtaining new consents.
+
+6.11.2. Unless otherwise provided by this privacy notice, the same term definitions apply as in our T&Cs.
+
+7. YOUR RIGHTS 7.1. Revocation of consents If we process your User Data based on your consent, you can revoke the consent at any time. However, this will not affect the lawfulness of the processing before the revocation. We will continue to provide our services if they do not depend on the consent that has been revoked.
+
+7.2. Information, correction, and restriction 7.2.1. Each user has the right to request information on the processing of their personal data. To do so, please contact us at any time at privacy@mysugr.com .
+
+7.2.2. Your right to information covers information on the processing purposes, data and recipient categories, storage time, origin of your data, and your rights under data protection laws. You can find all of this information in this privacy notice and we are happy to provide it to you in an electronic form.
+
+7.2.3. Should some of your personal data be incorrect, you can request that your data is corrected or completed at any time. You can correct most data yourself in our apps. You have the right to restrict data processing for the duration of any investigation on your request.
+
+7.3. Deletion ("right to be forgotten") Each user has the right to request the deletion of their personal data. To do so, please contact us at any time at support@mysugr.com.
+
+7.4. Ability to transfer data Finally each user has the right to request that we provide an overview of their personal data to another responsible party, if this is technically feasible.
+
+7.5. Complaints 7.5.1. If you feel we are not protecting your data protection rights adequately, please contact us at any time at support@mysugr.com or contact our data protection officer directly at privacy@mysugr.com .
+
+7.5.2. Any user has the right to submit a complaint with the Austrian Data Protection Authority responsible for mySugr at Wickenburggasse 8-10, 1080 Vienna if they believe that the processing of their personal data is not in compliance with data protection laws.
+
+7.6. Your California Privacy Rights California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to: mySugr GmbH 1010 Vienna, Trattnerhof 1 +43 720 884555, support@mysugr.com.
+
+Be sure to include your name and address; you can include your email address if you want to receive a response by email. Otherwise, we will respond by postal mail within the time required by law.
+
+THANK YOU FOR YOUR CONFIDENCE IN US!
+

@@ -1,0 +1,41 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+64,1,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,2,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,3,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,4,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,5,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,6,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,7,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,8,['First Party'],"['Purpose', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,9,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,10,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,11,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_Unspecified']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,12,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,13,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Analytics or research']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,14,[],[],['Information Type_Unspecified'],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,15,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,16,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,17,['First Party'],"['Information Type', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,18,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,19,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,20,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Location', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,21,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,22,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,23,['First Party'],['Information Type'],['Information Type_Location'],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,24,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,25,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,26,[],['Choice Type (opt)'],['Information Type_Unspecified'],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,27,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,28,[],['Choice Type (opt)'],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,29,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,30,['Third Party'],['Third-Party Entity'],"['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,31,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,32,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,33,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,34,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,35,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,36,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,37,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,38,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,39,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True
+64,40,[],[],[],TRAIN,https://www.jabra.com.de/footerpages/apps-privacy-policy,True

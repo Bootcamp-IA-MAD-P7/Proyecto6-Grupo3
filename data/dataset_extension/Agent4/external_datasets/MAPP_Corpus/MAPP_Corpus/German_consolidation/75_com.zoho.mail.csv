@@ -1,0 +1,106 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+75,1,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,2,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,3,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,4,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,5,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,6,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,7,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,8,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,9,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,10,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,11,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,12,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,13,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,14,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,15,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,16,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,17,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,18,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,19,['First Party'],"['Information Type', 'Does/Does Not (opt)', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Unspecified', 'Does/Does Not (opt)_Does Not', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,20,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,21,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Entered by user on third-party website/app', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,22,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,23,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,24,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Opt-out via contacting company', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,25,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,26,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,27,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,28,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Other'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,29,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,30,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,31,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,32,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,33,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,34,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,35,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,36,[],[],['Information Type_Unspecified'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,37,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,38,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,39,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,40,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,41,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,42,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Collection Process_Directly received from third party', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,43,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)', 'User Type (opt)']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Mode (opt)_Explicit', 'User Type (opt)_Users with account']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,44,['First Party'],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,45,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Purpose_Optional service or feature', 'Does/Does Not (opt)_Does Not', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,46,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-in'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,47,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,48,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,49,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Analytics or research']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,50,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Collection Process_Directly received from third party']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,51,['First Party'],"['Information Type', 'Collection Process', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Generic personal information']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,52,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Collection Process_Entered by user on third-party website/app']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,53,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Analytics or research', 'Collection Process_Entered by user on third-party website/app']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,54,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,55,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,56,[],['Choice Type (opt)'],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,57,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,58,[],['Choice Type (opt)'],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,59,['First Party'],"['Information Type', 'Choice Type (opt)']",['Information Type_Cookies and tracking elements'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,60,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,61,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,62,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,63,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,64,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,65,[],['Choice Type (opt)'],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,66,['First Party'],['Purpose'],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,67,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,68,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,69,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,70,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,71,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,72,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,73,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,74,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,75,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,76,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,77,['First Party'],['Information Type'],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,78,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Location', 'Information Type_Other', 'Purpose_Essential service or feature', 'Choice Type (opt)_Opt-in', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,79,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,80,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,81,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,82,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,83,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,84,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,85,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,86,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,87,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,88,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,89,['First Party'],"['Information Type', 'Does/Does Not (opt)', 'User Type (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not', 'User Type (opt)_Other']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,90,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,91,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,92,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,93,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,94,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,95,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,96,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Optional service or feature']",TRAIN,https://www.zoho.com/de/privacy.html,False
+75,97,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,98,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,99,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,100,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,101,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,102,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,103,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,104,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False
+75,105,[],[],[],TRAIN,https://www.zoho.com/de/privacy.html,False

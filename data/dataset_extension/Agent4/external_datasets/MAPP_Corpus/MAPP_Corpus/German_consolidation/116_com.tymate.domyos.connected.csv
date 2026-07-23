@@ -1,0 +1,116 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+116,1,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,2,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,3,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,4,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,5,"['First Party', 'Third Party']","['Purpose', 'Third-Party Collection Process']",['Purpose_Analytics or research'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,6,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,7,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection', 'Collection Mode (opt)', 'Third-Party Entity', 'User Type (opt)', 'Third-Party Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Consent', 'Third-Party Entity_Unnamed third party', 'User Type (opt)_Users with account', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,8,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,9,['First Party'],"['Information Type', 'Purpose']",['Information Type_Demographic data'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,10,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,11,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,12,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,13,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,14,['First Party'],"['Information Type', 'Purpose']",['Information Type_User online activities'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,15,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Other', 'Purpose_Optional service or feature', 'Purpose_Analytics or research']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,16,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,17,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Cookies and tracking elements', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,18,"['First Party', 'Third Party']","['Information Type', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,19,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,20,['Third Party'],"['Purpose', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Legal requirement', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,21,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,22,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,23,['Third Party'],"['Information Type', 'Third-Party Entity', 'Anonymization (opt)', 'Third-Party Collection Process']","['Information Type_Financial', 'Anonymization (opt)_Aggregated or anonymized', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,24,['Third Party'],['Third-Party Collection Process'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,25,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,26,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,27,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,28,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,29,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,30,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,31,[],['Choice Scope (opt)'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,32,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Unspecified', 'Third-Party Collection Process_Unspecified']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,33,['Third Party'],['Third-Party Entity'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,34,[],['Choice Type (opt)'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,35,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,36,"['First Party', 'Third Party']","['Purpose', 'Legal Basis for Collection', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Purpose_Analytics or research', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,37,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,38,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,39,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,40,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,41,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,42,['Third Party'],"['Information Type', 'Anonymization (opt)']",['Information Type_IP address and device IDs'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,43,['Third Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,44,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,45,['Third Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Analytics or research']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,46,['Third Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,47,['Third Party'],"['Information Type', 'Third-Party Entity']",['Information Type_Cookies and tracking elements'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,48,[],['Anonymization (opt)'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,49,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Collection Process']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,50,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_IP address and device IDs', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,51,['Third Party'],"['Purpose', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,52,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,53,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,54,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,55,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,56,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Other']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,57,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Other', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,58,[],"['Does/Does Not (opt)', 'Anonymization (opt)']",['Does/Does Not (opt)_Does Not'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,59,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,60,['Third Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)']",['Purpose_Analytics or research'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,61,['Third Party'],['Third-Party Entity'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,62,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,63,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_User online activities', 'Purpose_Advertising or marketing']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,64,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,65,[],"['Information Type', 'Purpose', 'Choice Type (opt)', 'Choice Scope (opt)', 'Anonymization (opt)']","['Information Type_User online activities', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,66,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,67,[],['Does/Does Not (opt)'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,68,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,69,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_User online activities', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,70,['Third Party'],"['Information Type', 'User Type (opt)', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,71,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,72,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,73,"['First Party', 'Third Party']","['Information Type', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Financial', 'Information Type_Generic personal information', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,74,"['First Party', 'Third Party']","['Information Type', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,75,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,76,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_IP address and device IDs', 'Information Type_Other', 'Third-Party Entity_Named third party']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,77,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Contact information', 'Purpose_Essential service or feature']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,78,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,79,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,80,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,81,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,82,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,83,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,84,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Advertising or marketing']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,85,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,86,['First Party'],['Legal Basis for Collection'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,87,['First Party'],"['Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,88,['First Party'],"['Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,89,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,90,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,91,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,92,[],['Choice Type (opt)'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,93,['First Party'],"['Information Type', 'Legal Basis for Collection', 'Choice Type (opt)']",['Information Type_Contact information'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,94,['First Party'],"['Information Type', 'Legal Basis for Collection']",['Information Type_Contact information'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,95,['First Party'],"['Information Type', 'Legal Basis for Collection']",['Information Type_Contact information'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,96,['First Party'],"['Information Type', 'Legal Basis for Collection', 'Choice Type (opt)']",['Information Type_Contact information'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,97,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,98,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,99,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,100,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,101,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,102,[],['Does/Does Not (opt)'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,103,[],['Does/Does Not (opt)'],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,104,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,105,['First Party'],['Information Type'],"['Information Type_Cookies and tracking elements', 'Information Type_Other']",TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,106,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,107,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,108,['First Party'],['Information Type'],['Information Type_Other'],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,109,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,110,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,111,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,112,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,113,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,114,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True
+116,115,[],[],[],TRAIN,https://www.decathlon.de/landing/datenschutz/_/R-a-datenschutz,True

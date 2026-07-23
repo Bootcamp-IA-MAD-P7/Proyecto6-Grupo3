@@ -1,0 +1,72 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+14,1,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,2,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,3,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,4,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,5,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,6,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,7,['First Party'],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,8,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,9,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Collection Process_Directly received from third party']",TRAIN,https://www.ing.de/datenschutz/,True
+14,10,['First Party'],['Information Type'],['Information Type_Financial'],TRAIN,https://www.ing.de/datenschutz/,True
+14,11,['First Party'],['Information Type'],['Information Type_Demographic data'],TRAIN,https://www.ing.de/datenschutz/,True
+14,12,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Purpose_Analytics or research']",TRAIN,https://www.ing.de/datenschutz/,True
+14,13,['First Party'],['Information Type'],['Information Type_Other'],TRAIN,https://www.ing.de/datenschutz/,True
+14,14,['First Party'],['Information Type'],"['Information Type_Demographic data', 'Information Type_Personal identifier']",TRAIN,https://www.ing.de/datenschutz/,True
+14,15,['First Party'],['Information Type'],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,16,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data', 'Information Type_Demographic data', 'Information Type_Political, religious, or philosophical belief']",TRAIN,https://www.ing.de/datenschutz/,True
+14,17,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_Political, religious, or philosophical belief', 'Purpose_Legal requirement']",TRAIN,https://www.ing.de/datenschutz/,True
+14,18,['First Party'],['User Type (opt)'],['User Type (opt)_Users with account'],TRAIN,https://www.ing.de/datenschutz/,True
+14,19,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.ing.de/datenschutz/,True
+14,20,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Analytics or research']",TRAIN,https://www.ing.de/datenschutz/,True
+14,21,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information', 'Purpose_Essential service or feature']",TRAIN,https://www.ing.de/datenschutz/,True
+14,22,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Purpose_Legal requirement']",TRAIN,https://www.ing.de/datenschutz/,True
+14,23,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.ing.de/datenschutz/,True
+14,24,['First Party'],"['Information Type', 'Purpose']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.ing.de/datenschutz/,True
+14,25,['First Party'],['Purpose'],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,26,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://www.ing.de/datenschutz/,True
+14,27,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://www.ing.de/datenschutz/,True
+14,28,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,29,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,30,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Legal requirement']",TRAIN,https://www.ing.de/datenschutz/,True
+14,31,['First Party'],['Legal Basis for Collection'],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,32,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,33,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.ing.de/datenschutz/,True
+14,34,['Third Party'],"['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Legal requirement', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.ing.de/datenschutz/,True
+14,35,"['First Party', 'Third Party']","['Information Type', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Personal identifier', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.ing.de/datenschutz/,True
+14,36,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ing.de/datenschutz/,True
+14,37,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,38,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Generic personal information', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.ing.de/datenschutz/,True
+14,39,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.ing.de/datenschutz/,True
+14,40,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,41,[],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://www.ing.de/datenschutz/,True
+14,42,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,43,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,44,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,45,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,46,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,47,['First Party'],['Purpose'],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,48,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,49,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Purpose_Legal requirement']",TRAIN,https://www.ing.de/datenschutz/,True
+14,50,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,51,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TRAIN,https://www.ing.de/datenschutz/,True
+14,52,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,53,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,54,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,55,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,56,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,57,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.ing.de/datenschutz/,True
+14,58,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.ing.de/datenschutz/,True
+14,59,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,60,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing']",TRAIN,https://www.ing.de/datenschutz/,True
+14,61,[],['Does/Does Not (opt)'],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,62,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,63,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,64,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,65,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,66,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,67,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,68,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://www.ing.de/datenschutz/,True
+14,69,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,70,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True
+14,71,[],[],[],TRAIN,https://www.ing.de/datenschutz/,True

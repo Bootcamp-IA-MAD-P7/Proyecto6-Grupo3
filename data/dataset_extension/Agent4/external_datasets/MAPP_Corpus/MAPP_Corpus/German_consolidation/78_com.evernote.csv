@@ -1,0 +1,19 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+78,1,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,2,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,3,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,4,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://evernote.com/intl/de/privacy/,False
+78,5,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,6,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing']",TRAIN,https://evernote.com/intl/de/privacy/,False
+78,7,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,8,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,9,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,10,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,11,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,12,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,13,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,14,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,15,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,16,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,17,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False
+78,18,[],[],[],TRAIN,https://evernote.com/intl/de/privacy/,False

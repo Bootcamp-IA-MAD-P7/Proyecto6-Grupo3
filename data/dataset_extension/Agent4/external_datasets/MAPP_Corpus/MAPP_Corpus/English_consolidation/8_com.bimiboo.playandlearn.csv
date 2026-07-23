@@ -1,0 +1,45 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+8,1,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,2,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,3,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,4,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Location', 'Information Type_Personal identifier', 'Information Type_Generic personal information']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,5,[],['Choice Type (opt)'],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,6,['First Party'],['Purpose'],['Purpose_Merger or acquisition'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,7,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,8,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,9,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,10,['First Party'],"['Legal Basis for Collection', 'Choice Type (opt)']","['Legal Basis for Collection_Legitimate interests of first or third party', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,11,[],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,12,['First Party'],['Legal Basis for Collection'],"['Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,13,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Collection Process_Other']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,14,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,15,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,16,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,17,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,18,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,19,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Other']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,21,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,22,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,23,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,24,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Analytics or research']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,25,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,26,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,27,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,28,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://bimiboo.com/privacy-policy/,False
+8,29,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']",['Information Type_Contact information'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,30,[],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,31,[],['Information Type'],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,32,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,33,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,34,[],['Choice Type (opt)'],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,35,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,36,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,37,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,38,[],['User Type (opt)'],['User Type (opt)_Other'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,39,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,40,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,41,['First Party'],"['Purpose', 'Legal Basis for Collection']",['Legal Basis for Collection_Contractual necessity'],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,42,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,43,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False
+8,44,[],[],[],TRAIN,https://bimiboo.com/privacy-policy/,False

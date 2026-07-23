@@ -1,0 +1,42 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+51,1,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,2,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,3,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,4,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,5,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,6,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Legal requirement', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Contractual necessity', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,7,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_User online activities', 'Information Type_Other', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,8,['First Party'],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_Political, religious, or philosophical belief', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,9,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Location', 'Information Type_Computer information']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,10,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Location', 'Information Type_Computer information']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,11,[],['Collection Mode (opt)'],['Collection Mode (opt)_Explicit'],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,12,[],['Choice Type (opt)'],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,13,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_User online activities', 'Purpose_Essential service or feature', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,14,['First Party'],"['Information Type', 'Purpose']","['Information Type_Health, genetic, or biometric data', 'Purpose_Essential service or feature']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,15,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,16,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,17,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_User online activities', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,18,['First Party'],"['Purpose', 'Anonymization (opt)']",['Purpose_Analytics or research'],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,19,['Third Party'],['Third-Party Entity'],"['Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,20,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,21,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Computer information', 'Purpose_Essential service or feature', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,22,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Computer information', 'Purpose_Essential service or feature', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,23,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Computer information', 'Purpose_Essential service or feature', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,24,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Unnamed third party'],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,25,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,26,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,27,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,28,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,29,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Generic personal information', 'Third-Party Entity_Named third party']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,30,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Generic personal information', 'Third-Party Entity_Named third party']",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,31,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,32,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,33,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,34,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,35,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,36,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,37,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,38,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,39,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,40,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True
+51,41,[],[],[],TRAIN,https://www.mydreammapper.com/content/dm-pn-de.pdf,True

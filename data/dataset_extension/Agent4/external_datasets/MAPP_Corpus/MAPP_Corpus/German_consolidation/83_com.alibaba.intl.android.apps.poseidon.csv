@@ -1,0 +1,142 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+83,1,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,2,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,3,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,4,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,5,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,6,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,7,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,8,['First Party'],"['Information Type', 'Collection Process']",['Collection Process_Unspecified'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,9,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Other'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,10,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Social media data', 'Information Type_Other']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,11,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Purpose_Essential service or feature']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,12,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Health, genetic, or biometric data', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Legal Basis for Collection_Consent']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,13,[],[],['Information Type_Unspecified'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,14,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Implicit']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,15,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Collection Process_Collected on first-party website/app']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,16,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Unspecified', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,17,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,18,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Directly received from third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,19,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,20,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,21,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,22,[],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Advertising or marketing']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,23,['First Party'],['Information Type'],"['Information Type_Generic personal information', 'Purpose_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,24,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Third-Party Entity_Other users', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,25,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Essential service or feature', 'Purpose_Unspecified', 'Third-Party Entity_Other part of company/affiliate']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,26,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,27,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,28,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Purpose_Merger or acquisition', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,29,['Third Party'],"['Third-Party Entity', 'Anonymization (opt)', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party', 'Anonymization (opt)_Aggregated or anonymized', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,30,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Third-Party Collection Process_Other']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,31,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,32,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,33,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,34,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Collection Process_Collected on first-party website/app']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,35,['Third Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,36,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,37,"['First Party', 'Third Party']","['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,38,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,39,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,40,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,41,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,42,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,43,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,44,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,45,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,46,['First Party'],"['Collection Process', 'Choice Type (opt)']","['Information Type_Unspecified', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,47,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,48,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,49,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,50,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,51,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,52,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,53,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,54,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,55,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,56,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,57,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,58,['First Party'],"['Information Type', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Collection Process_Unspecified', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,59,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Unspecified', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,60,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,61,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,62,[],['Information Type'],['Information Type_Generic personal information'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,63,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,64,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,65,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,66,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,67,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,68,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,69,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,70,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,71,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,72,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,73,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,74,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,75,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Social media data', 'Collection Process_Collected on first-party website/app', 'Collection Process_Entered by user on third-party website/app']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,76,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Demographic data'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,77,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Personal identifier', 'Information Type_Social media data', 'Information Type_Other', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,78,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Other', 'Collection Process_Collected on first-party website/app']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,79,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Collection Process_Other', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,80,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Unspecified']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,81,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,82,['First Party'],"['Information Type', 'Purpose']",['Information Type_Contact information'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,83,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Legal Basis for Collection_Consent']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,84,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,85,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,86,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Unspecified', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,87,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,88,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,89,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,90,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,91,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,92,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,93,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,94,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,95,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,96,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_Cookies and tracking elements']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,97,['First Party'],"['Information Type', 'Purpose']",['Information Type_Cookies and tracking elements'],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,98,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,99,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,100,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,101,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,102,[],['Does/Does Not (opt)'],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,103,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,104,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,105,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,106,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,107,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,108,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,109,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,110,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,111,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,112,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,113,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,114,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,115,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,116,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,117,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,118,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,119,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,120,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,121,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,122,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,123,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,124,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,125,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,126,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,127,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Unspecified', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,128,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Collection Process_Unspecified', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,129,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,130,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,131,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,132,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,133,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,134,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,135,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,136,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,137,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,138,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,139,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,140,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False
+83,141,[],[],[],TEST,https://rule.alibaba.com/rule/detail/4660.htm,False

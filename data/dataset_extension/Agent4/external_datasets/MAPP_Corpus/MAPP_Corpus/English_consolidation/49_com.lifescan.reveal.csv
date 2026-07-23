@@ -1,0 +1,29 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+49,1,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,2,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,3,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,4,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,5,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,6,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Collection Process_Collected on first-party website/app']",TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,8,['First Party'],['Information Type'],['Information Type_Contact information'],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,9,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data']",TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,10,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,11,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,12,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party']",TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,13,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,14,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,15,['Third Party'],"['Purpose', 'Third-Party Entity']","['Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,16,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,17,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Health, genetic, or biometric data', 'Collection Process_Shared by first party with a third party']",TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,18,[],['Choice Type (opt)'],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,19,[],['Choice Type (opt)'],"['Choice Type (opt)_Opt-out link', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,20,[],['Choice Type (opt)'],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,21,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,22,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,23,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,24,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,25,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,26,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,27,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True
+49,28,[],[],[],TEST,https://onetouchreveal.com/mobile-privacy/country/en-US/PrivacyPolicy_en-US.html,True

@@ -1,0 +1,54 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+84,1,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,2,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,3,[],[],['Information Type_Unspecified'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,4,[],[],['Information Type_Unspecified'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,5,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,6,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,7,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,8,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,9,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,10,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Social media data']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,11,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Financial', 'Information Type_Health, genetic, or biometric data', 'Information Type_Contact information', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,12,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_User online activities', 'Purpose_Optional service or feature', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,13,['First Party'],['Purpose'],"['Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,14,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,15,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,16,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party', 'Choice Type (opt)_Opt-in', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,17,['First Party'],['Purpose'],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,18,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Personalization or customization']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,19,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Social media data', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app', 'Collection Process_Entered by user on third-party website/app']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,20,['First Party'],['Purpose'],['Purpose_Optional service or feature'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,21,['First Party'],['Purpose'],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,22,['First Party'],"['Information Type', 'Purpose']",['Information Type_Social media data'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,23,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Purpose_Service operation and security', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,24,['First Party'],"['Purpose', 'Choice Type (opt)']",['Choice Type (opt)_Opt-in'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,25,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-in'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,26,['First Party'],"['Information Type', 'Purpose']",['Purpose_Essential service or feature'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,27,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,28,['First Party'],['Purpose'],['Purpose_Service operation and security'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,29,['First Party'],"['Information Type', 'Purpose']",['Purpose_Service operation and security'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,30,['First Party'],['Purpose'],['Information Type_Unspecified'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,31,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,32,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.asos.com/de/datenschutz/,True
+84,33,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,34,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,35,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,36,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,37,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,38,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,39,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,40,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,41,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,42,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,43,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,44,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,45,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,46,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,47,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,48,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,49,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,50,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,51,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,52,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True
+84,53,[],[],[],TRAIN,https://www.asos.com/de/datenschutz/,True

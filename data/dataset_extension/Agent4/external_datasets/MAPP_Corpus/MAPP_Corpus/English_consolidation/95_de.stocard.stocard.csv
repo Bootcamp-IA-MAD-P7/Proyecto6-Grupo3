@@ -1,0 +1,36 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+95,1,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,2,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,3,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TEST,https://stocardapp.com/en/ca/privacy,True
+95,4,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Financial', 'Information Type_Location', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Contractual necessity']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,5,['First Party'],"['Information Type', 'Purpose']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Other', 'Purpose_Advertising or marketing']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,6,['First Party'],['Purpose'],['Purpose_Analytics or research'],TEST,https://stocardapp.com/en/ca/privacy,True
+95,7,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Contact information', 'Purpose_Essential service or feature']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,8,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_Other', 'Purpose_Optional service or feature', 'Third-Party Entity_Named third party']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,9,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Named third party']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,10,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Essential service or feature']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,11,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Contractual necessity']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,12,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Essential service or feature', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,13,['First Party'],['Legal Basis for Collection'],"['Legal Basis for Collection_Consent', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,14,"['First Party', 'Third Party']","['Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Choice Type (opt)']","['Purpose_Analytics or research', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-out link']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,15,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_User online activities', 'Purpose_Advertising or marketing', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-out link']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,16,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Purpose_Analytics or research', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,17,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,18,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,19,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,20,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,21,['Third Party'],['Third-Party Entity'],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,22,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,23,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,24,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,25,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,26,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,27,['First Party'],['Information Type'],['Information Type_Generic personal information'],TEST,https://stocardapp.com/en/ca/privacy,True
+95,28,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,29,['First Party'],['Purpose'],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,30,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,31,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,32,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Other']",TEST,https://stocardapp.com/en/ca/privacy,True
+95,33,[],['Purpose'],['Purpose_Essential service or feature'],TEST,https://stocardapp.com/en/ca/privacy,True
+95,34,[],['Purpose'],[],TEST,https://stocardapp.com/en/ca/privacy,True
+95,35,[],[],[],TEST,https://stocardapp.com/en/ca/privacy,True

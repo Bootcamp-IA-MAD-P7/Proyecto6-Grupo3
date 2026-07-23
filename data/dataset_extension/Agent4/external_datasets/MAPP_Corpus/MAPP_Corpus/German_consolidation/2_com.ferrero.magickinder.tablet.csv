@@ -1,0 +1,31 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+2,1,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,2,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,3,['First Party'],"['Legal Basis for Collection', 'Anonymization (opt)']",[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,4,['First Party'],"['Legal Basis for Collection', 'Anonymization (opt)']",[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,5,['First Party'],"['Legal Basis for Collection', 'Anonymization (opt)']",[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,6,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,7,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Legitimate interests of first or third party'],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,8,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,9,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Mode (opt)_Unspecified']",TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,10,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,11,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,12,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,13,['First Party'],['Collection Process'],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,14,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,15,['Third Party'],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,16,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,17,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,18,[],['Does/Does Not (opt)'],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,19,['Third Party'],"['Purpose', 'Does/Does Not (opt)', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Does/Does Not (opt)_Does Not']",TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,20,[],['Choice Type (opt)'],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,21,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,22,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,23,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,24,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,25,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,26,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,27,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,28,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,29,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False
+2,30,[],[],[],TRAIN,https://legal.magic-kinder.com/legal_hub/de/privacy-policy,False

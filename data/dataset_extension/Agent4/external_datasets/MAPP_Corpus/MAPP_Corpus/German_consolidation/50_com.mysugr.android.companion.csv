@@ -1,0 +1,79 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+50,1,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,2,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,3,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,4,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Legal Basis for Collection_Consent', 'Does/Does Not (opt)_Does Not', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,5,['First Party'],"['Purpose', 'Legal Basis for Collection', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Legal Basis for Collection_Consent', 'Does/Does Not (opt)_Does Not', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,6,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Legal Basis for Collection_Consent']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,7,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,8,['First Party'],"['Legal Basis for Collection', 'Choice Type (opt)']","['Legal Basis for Collection_Other', 'Choice Type (opt)_Opt-out via contacting company', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,9,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Other'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,10,['First Party'],"['Purpose', 'Legal Basis for Collection', 'Choice Type (opt)', 'User Type (opt)']","['Purpose_Essential service or feature', 'Legal Basis for Collection_Consent', ""Choice Type (opt)_Don't use service/feature"", 'User Type (opt)_Users with account']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,11,['First Party'],"['Information Type', 'Collection Process', 'User Type (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Collection Process_Collected on first-party website/app', 'User Type (opt)_Users with account']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,12,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,13,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Personal identifier', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,14,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,15,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data', 'Information Type_Contact information']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,16,[],['Collection Mode (opt)'],['Collection Mode (opt)_Explicit'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,17,['First Party'],"['Purpose', 'Collection Process', 'Choice Type (opt)']","['Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,18,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,19,['First Party'],['Information Type'],['Information Type_Computer information'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,20,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,21,[],['Collection Mode (opt)'],['Collection Mode (opt)_Explicit'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,22,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Optional service or feature']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,23,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,24,['First Party'],"['Collection Process', 'Collection Mode (opt)']",['Collection Mode (opt)_Explicit'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,25,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Mode (opt)_Explicit', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,26,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Legal Basis for Collection_Consent']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,27,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Legal Basis for Collection_Consent']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,28,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,29,['First Party'],"['Purpose', 'Choice Type (opt)']",['Purpose_Advertising or marketing'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,30,['First Party'],"['Purpose', 'Choice Type (opt)']","['Purpose_Advertising or marketing', 'Choice Type (opt)_Opt-in']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,31,['First Party'],"['Purpose', 'Choice Type (opt)']",['Purpose_Advertising or marketing'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,32,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,33,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Other', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,34,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Other']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,35,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,36,['First Party'],"['Information Type', 'Legal Basis for Collection']",['Information Type_Generic personal information'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,37,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,38,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Purpose_Unspecified', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,39,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Purpose_Unspecified', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,40,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,41,['Third Party'],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,42,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,43,['Third Party'],"['Does/Does Not (opt)', 'Anonymization (opt)']",['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,44,['Third Party'],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,45,['Third Party'],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,46,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,47,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,48,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,49,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,50,[],['Purpose'],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,51,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Essential service or feature'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,52,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Essential service or feature'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,53,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Analytics or research'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,54,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Advertising or marketing'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,55,['Third Party'],['Purpose'],['Purpose_Other'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,56,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,57,['Third Party'],['Third-Party Collection Process'],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,58,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,59,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,60,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Anonymization (opt)', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Does/Does Not (opt)_Does Not', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,61,[],"['Information Type', 'Choice Type (opt)']",['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,62,[],['Choice Type (opt)'],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,63,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,64,['First Party'],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,65,['First Party'],"['Information Type', 'Legal Basis for Collection', 'Choice Type (opt)']",['Information Type_Generic personal information'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,66,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,67,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,68,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,69,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,70,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,71,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,72,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,73,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,74,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,75,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,76,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,77,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True
+50,78,[],[],[],TRAIN,https://legal.mysugr.com/documents/privacy_policy_eu/current.html,True

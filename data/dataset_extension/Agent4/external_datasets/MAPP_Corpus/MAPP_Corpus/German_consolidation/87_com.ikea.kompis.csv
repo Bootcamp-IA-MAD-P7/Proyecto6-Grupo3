@@ -1,0 +1,97 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+87,1,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,2,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,3,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,4,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,5,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,6,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,7,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,8,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,9,['Third Party'],['Purpose'],['Purpose_Service operation and security'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,10,['Third Party'],['Third-Party Collection Process'],['Third-Party Collection Process_Shared by first party with a third party'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,11,"['First Party', 'Third Party']","['Collection Process', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,12,['First Party'],"['Information Type', 'Legal Basis for Collection']",['Legal Basis for Collection_Consent'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,13,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Contact information', 'Purpose_Unspecified', 'Legal Basis for Collection_Other']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,14,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Purpose_Unspecified', 'Legal Basis for Collection_Other']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,15,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,16,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,17,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,18,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,19,['First Party'],['Legal Basis for Collection'],"['Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,20,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,21,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,22,['First Party'],['Legal Basis for Collection'],"['Information Type_Unspecified', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,23,['First Party'],['Purpose'],['Purpose_Service operation and security'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,24,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Contact information', 'Information Type_IP address and device IDs', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,25,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Contact information', 'Information Type_IP address and device IDs', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,26,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,27,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,28,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,29,['First Party'],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,30,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,31,['First Party'],['Legal Basis for Collection'],"['Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,32,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Optional service or feature', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,33,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,34,[],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,35,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,36,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,37,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,38,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,39,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,40,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,41,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,42,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,43,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,44,[],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,45,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Unspecified']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,46,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,47,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Unspecified', 'Purpose_Analytics or research']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,48,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,49,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,50,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,51,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,52,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,53,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,54,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,55,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,56,['First Party'],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,57,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Generic personal information']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,58,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Analytics or research']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,59,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,60,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Contact information', 'Purpose_Advertising or marketing', 'Choice Type (opt)_Opt-out link']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,61,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,62,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,63,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Optional service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,64,['First Party'],['Legal Basis for Collection'],"['Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,65,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Consent']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,66,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Essential service or feature']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,67,['First Party'],"['Information Type', 'Purpose']",['Information Type_Contact information'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,68,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Essential service or feature']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,69,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,70,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Contractual necessity', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,71,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,72,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,73,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,74,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,75,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,76,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,77,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,78,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,79,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,80,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Contact information', 'Third-Party Entity_Named third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,81,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,82,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,83,[],['Information Type'],"['Information Type_Generic personal information', 'Purpose_Unspecified']",TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,84,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,85,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,86,['First Party'],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,87,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,88,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,89,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,90,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,91,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,92,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,93,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,94,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,95,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True
+87,96,[],[],[],TRAIN,https://www.ikea.com/de/de/customer-service/privacy-policy/,True

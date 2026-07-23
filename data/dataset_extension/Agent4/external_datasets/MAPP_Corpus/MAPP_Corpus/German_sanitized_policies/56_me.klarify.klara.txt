@@ -1,0 +1,160 @@
+Diese Webseite verwendet Cookies Einige Cookies werden für Statistiken verwendet, andere werden von Drittanbietern platziert. Indem Sie auf „OK" klicken, akzeptieren Sie die Verwendung von Cookies. Mehr Details und Wahlmöglichkeiten in unsererDatenschutzerklärung Alle Cookies akzeptieren Details zeigen Details ausblenden Cookie-Erklärung Über cookie Unbedingt erforderlich Unbedingt erforderliche Cookies tragen dazu bei, dass sich die User auf der Website bewegen können, indem grundlegende Einrichtungen wie das Navigieren auf den Seiten und der Zugang zu sicheren Bereichen gewährleistet sind. Ohne diese Cookies würde die Website nicht zweckmäßig funktionieren.
+
+Name: CookieInformationConsent Anbieter: uk.klarify.me Zweck: Unterstützt die technischen Funktionen der Website.
+
+Ablauf: ein Jahr Name: __cfduid Anbieter: .streetify.io Zweck: Erforderlich, damit die Website ordnungsgemäß funktioniert.
+
+Ablauf: ein Monat Name: ARRAffinity Anbieter: .streetify.io Zweck: Erforderlich, damit die Website ordnungsgemäß funktioniert.
+
+Ablauf: Session Funktional Funktionale Cookies ermöglichen es, Informationen zu speichern, die das Erscheinungsbild oder die Handlungen auf der Website ändern können. Dabei könnte es sich um Ihre bevorzugte Sprache oder Region handeln.
+
+Name: AWSELB Anbieter: eu.trustspot.io Zweck: Unterstützt den visuellen Inhalt und die Website-Elemente auf der Website.
+
+Ablauf: eine Stunde Name: _shopify_sa_p Anbieter: .uk.klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 28 Minuten Name: tscisession Anbieter: eu.trustspot.io Zweck: Unterstützt den visuellen Inhalt und die Website-Elemente auf der Website.
+
+Ablauf: 2 Stunden Name: _landing_page Anbieter: uk.klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 14 Tage Name: _shopify_s Anbieter: .klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 29 Minuten Name: _shopify_y Anbieter: uk.klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: ein Jahr Name: cart_sig Anbieter: uk.klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 14 Tage Name: secure_customer_sig Anbieter: uk.klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 20 Jahre Name: AWSELB Anbieter: trustspot.io Zweck: Unterstützt den visuellen Inhalt und die Website-Elemente auf der Website.
+
+Ablauf: eine Stunde Name: _shopify_fs Anbieter: .klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 2 Jahre Name: _shopify_sa_t Anbieter: .uk.klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 28 Minuten Name: _orig_referrer Anbieter: uk.klarify.me Zweck: Unterstützt die Funktionen eines "Content Management Systems", um sicherzustellen, dass die Website ordnungsgemäß funktioniert.
+
+Ablauf: 14 Tage Statistik Statistische Cookies helfen dem Websitebetreiber dabei zu verstehen, wie Besucher mit der Website interagieren, indem Informationen gesammelt und Berichte erstellt werden.
+
+Name: Anbieter: .klarify.me Zweck: Sammelt Informationen zu den Benutzern und deren Aktivitäten auf der Website zu Analyse- und Berichtszwecken.
+
+Ablauf: 29 Minuten Name: Anbieter: uk.klarify.me Zweck: Sammelt Informationen zu den Benutzern und deren Aktivitäten auf der Website zu Analyse- und Berichtszwecken.
+
+Ablauf: ein Jahr Name: SNC Anbieter: uk.klarify.me Zweck: Sammelt Informationen über die Benutzer und ihre Aktivitäten auf der Website. Die Informationen werden verwendet, um das Benutzerverhalten zu verfolgen, zu analysieren und die individuellen Benutzeranforderungen zu erfüllen.
+
+Ablauf: ein Jahr Name: SNS Anbieter: uk.klarify.me Zweck: Sammelt Informationen über die Benutzer und ihre Aktivitäten auf der Website. Die Informationen werden verwendet, um das Benutzerverhalten zu verfolgen, zu analysieren und die individuellen Benutzeranforderungen zu erfüllen.
+
+Ablauf: Session Name: _gat_UA-xxx-xxx Anbieter: .klarify.me Zweck: Sammelt Informationen zu den Benutzern und deren Aktivitäten auf der Website zu Analyse- und Berichtszwecken.
+
+Ablauf: eine Minute Name: _gat Anbieter: .klarify.me Zweck: Sammelt Informationen zu den Benutzern und deren Aktivitäten auf der Website zu Analyse- und Berichtszwecken.
+
+Ablauf: ein paar Sekunden Name: _ga Anbieter: .klarify.me Zweck: Sammelt Informationen zu den Benutzern und deren Aktivitäten auf der Website zu Analyse- und Berichtszwecken.
+
+Ablauf: 2 Jahre Name: _gid Anbieter: .klarify.me Zweck: Sammelt Informationen zu den Benutzern und deren Aktivitäten auf der Website zu Analyse- und Berichtszwecken.
+
+Ablauf: ein Tag Werbung Werbe-Cookies werden genutzt, um Besucher über verschiedene Websites zu identifizieren. Ziel und Zweck ist es, den einzelnen Webnutzern Werbung zu zeigen, die für sie relevant und interessant ist, und damit wertvoller für Herausgeber und Drittinserenten.
+
+Name: Anbieter: www.facebook.com Zweck: Unterstützt Online-Marketing, indem Informationen über die Nutzer erfasst werden, um Produkte über Partner und andere Plattformen zu bewerben.
+
+Ablauf: Session Name: _fbp Anbieter: .klarify.me Zweck: Identifiziert Browser zum Zwecke der Bereitstellung von Werbe- und Site-Analytics-Diensten.
+
+Ablauf: 3 Monate Name: Anbieter: .facebook.com Zweck: Facebooks primäres Werbecookie, mit dem die Relevanz von Anzeigen übermittelt, gemessen und verbessert wird.
+
+Ablauf: 3 Monate Name: ATN Anbieter: .atdmt.com Zweck: Wird für Online-Marketing verwendet, indem Informationen über die Benutzer und ihre Aktivitäten auf der Website erfasst werden. Die Informationen werden verwendet, um den Nutzer durch verschiedene Kanäle und Geräte mit Werbung zu erreichen.
+
+Ablauf: 2 Jahre Name: Anbieter: .adform.net Zweck: Unterstützt die Integration einer Drittanbieterplattform auf der Website, um zielgerichtete Werbung zu liefern.
+
+Ablauf: ein Monat Name: _gcl_au Anbieter: .klarify.me Zweck: Unterstützt die Integration einer Drittanbieterplattform auf der Website, um zielgerichtete Werbung zu liefern.
+
+Ablauf: 3 Monate Name: uid Anbieter: .adform.net Zweck: Unterstützt die Integration einer Drittanbieterplattform auf der Website, um zielgerichtete Werbung zu liefern.
+
+Ablauf: 2 Monate Name: IDE Anbieter: .doubleclick.net Zweck: Wird für Online-Marketing verwendet, indem Informationen über die Benutzer und ihre Aktivitäten auf der Website erfasst werden. Die Informationen werden verwendet, um den Nutzer durch verschiedene Kanäle und Geräte mit Werbung zu erreichen.
+
+Ablauf: ein Jahr Nicht klassifiziert Wir sind gerade dabei, zusammen mit den Providern der einzelnen Cookies nicht klassifizierte Cookies zu klassifizieren.
+
+Name: AWSELBCORS Anbieter: eu.trustspot.io Zweck: Ablauf: eine Stunde Name: cookietest Anbieter: uk.klarify.me Zweck: Warten Ablauf: Session Name: _shopify_d Anbieter: .klarify.me Zweck: Ablauf: Session Name: AWSELBCORS Anbieter: trustspot.io Zweck: Ablauf: eine Stunde Name: location_popup Anbieter: uk.klarify.me Zweck: Ablauf: Session Name: _shopify_d Anbieter: .uk.klarify.me Zweck: Ablauf: Session Name: discount_code Anbieter: de.klarify.me Zweck: Ablauf: Session Name: cart_ver Anbieter: de.klarify.me Zweck: Ablauf: 14 Tage Name: discount Anbieter: de.klarify.me Zweck: Ablauf: Session Ihre Einwilligung trifft auf die folgenden Domains zu: uk.klarify.me, de.klarify.me, klarifyme.co.uk Die Cookie-Erklärung wurde das letzte Mal am 22.06.2020 aktualisiert 22.06.2020 Was sind Cookies? Ein Cookie ist eine kleine Datei, die auf Ihrem Computer, Tablet oder Mobiltelefon gespeichert wird. Ein Cookie ist kein Programm, das schädliche Software oder einen Virus enthalten kann.
+
+Verwendung von Cookies auf dieser Webseite Cookies dienen dazu, dass die Webseite funktioniert. Cookies helfen uns, einen Überblick über Ihren Besuch der Webseite zu erhalten, sodass wir unsere Seite optimieren und an Ihre Bedürfnisse und Interessen anpassen können. Cookies speichern z. B. welche Waren Sie Ihrem Einkaufskorb hinzugefügt haben, ob Sie die Seite früher bereits besucht haben, ob Sie sich angemeldet haben und in welcher Sprache und mit welcher Währung Sie die Seite gerne anschauen möchten. Wir verwenden Cookies auch dazu, um Ihnen auf anderen Webseiten maßgeschneiderte Werbeanzeigen anzeigen lassen zu können. Ganz allgemein verwenden wir Cookies als Teil unseres Services, Ihnen die Inhalte anzeigen zu können, die für Sie am relevantesten sind.
+
+Wie lange werden Cookies gespeichert? Wie lange Cookies auf Ihrem Gerät gespeichert werden ist ganz unterschiedlich. Die Dauer wird immer ab dem letzten Besuch unserer Webseite gerechnet. Wenn ein Cookie erlischt, wird dieses automatisch gelöscht. Unten finden Sie eine vollständige Liste mit allen Cookies.
+
+So lehnen Sie Cookies ab oder löschen diese Sie können Cookies jederzeit auf Ihrem Computer, Tablet oder Mobiltelefon ablehnen, indem Sie die Einstellungen Ihres Browsers ändern. Wo Sie die Einstellungen ändern können, hängt von Ihremverwendeten Browser ab. Wenn Sie die Einstellungen ändern, achten Sie bitte darauf, dass es Funktionen und Dienste gibt, die Sie nicht mehr nutzen können, da diese voraussetzen, dass die Webseite die von Ihnen getroffene Auswahl speichern kann.
+
+Cookies von Google Analytics können Sie hier deaktivieren.Sie können hier auch Werbeeinstellungen ändern, über die Informationen in verschiedenen Netzwerken geteilt werden.
+
+Sie können dem Setzen von Hotjar Tracking Cookies auf anderen Webseiten widersprechen, wenn Sie diesen Link anklicken.
+
+Cookies löschen Cookies, die Sie bereits akzeptiert haben, können Sie nachträglich löschen. Wenn Sie einen PC mit einem neueren Browser nutzen, können Sie Cookies über folgende Tastenkombination löschen: STRG + UMSCHALT + ENTF.
+
+Sollte die Tastenkombination nicht funktionieren und/oder wenn Sie einen MAC nutzen, müssen Sie prüfen, welchen Browser Sie verwenden und anschließend auf den folgenden Link klicken: Internet Explorer Mozilla Firefox Google Chrome Opera Safari Flash cookies Apple Android Windows 7Bitte beachten: Wenn Sie mehrere Internetbrowser verwenden, sollten Sie in jedem Browser die Cookies löschen.
+
+Haben Sie Fragen? Wenn Sie Anmerkungen oder Fragen zu unseren Informationen und/oder der Verarbeitung persönlicher Daten haben, stehen wir Ihnen jederzeit gern zur Verfügung. Diese Cookie-Richtlinie wird monatlich von Cookie Information aktualisiert. Bei Fragen zu dieser Richtlinie wenden Sie sich bitte an info@cookieinformation.com. ShopSymptome Augen Nase Lunge HautAllergietypen Heuschnupfen Hausstaubmilben Tierhaare HautKategorie Sanfte Allergielinderung Allergietest HautpflegeBrands klarify.me AllergoCHECK© Magazin Über uns FacharztsucheKlara - Datenschutzerklärung Datum des Inkrafttretens: 1. Mai 2018 Zuletzt geändert am: 1. März 2019 Diese Datenschutzerklärung informiert Sie darüber, wie Ihre Daten verarbeitet werden, wenn Sie diese „Klara" App (nachfolgend „App") downloaden und nutzen.
+
+Wenn Sie mit dem Inhalt dieser Erklärung nicht einverstanden sind, sollten Sie die App nicht nutzen und von Ihrem Mobilgerät entfernen.
+
+WER WIRD SIND (UNSERE IDENTITÄT UND KONTAKTDATEN) Diese App wird Ihnen von ALK e-com A/S, Unternehmensidentifikationsnummer (DK) 39266881 mit Sitz in Bøge Allé 6-8, 2970 Hørsholm, Dänemark (nachfolgend: „ALK e-com" oder „wir") bereitgestellt.
+
+Unsere Telefonnummer: 040-703845-0 E-Mail: kundenservice@klarifyme.de Der Datenschutzbeauftragte für ALK in Deutschland ist: Kanzlei Bech-Bruun Langelinie Allé 35 2100 Kopenhagen DK CVR nr.: 3853 8071 Telefon: + 45 72 27 30 02 E-Mail: dpo.alk@bechbruun.com Secure E-Mail via: https://dpo.bechbruun.com/alk WELCHE DATEN VERARBEITET WERDEN & WARUM WELCHE DATEN WIR VERARBEITEN Wir verarbeiten folgende personenbezogene Daten von Ihnen: Vorname, Nachname, E-Mail-Adresse, Geburtsdatum, Geschlecht, Analytische Nutzungsdaten, geographischer Ort, Pollen-Log des Nutzers einschließlich Datum und Zeit, ob Benachrichtigungen an- oder ausgeschaltet sind, ob eine Einwilligung zum Bezug eines Newsletters gegeben worden ist und Gesundheitsdaten, sofern diese von Ihnen bereitgestellt werden.
+
+Daten werden üblicherweise direkt von Ihnen erhoben. Sie müssen keine personenbezogenen Daten zur Verfügung stellen, wenn Sie dies nicht wollen.
+
+WIE WIR IHRE PERSONENBEZOGENEN DATEN VERARBEITEN Im Allgemeinen verarbeiten wir Ihre Daten nur, wenn diese für unsere legitimen Geschäftszwecke benötigt werden, wenn wir dies aufgrund einschlägiger Gesetze tun müssen oder wenn Sie uns Ihre Daten freiwillig zur Verfügung stellen (z.B. wenn Ihre Zustimmung erteilen).
+
+Wir verarbeiten sensible personenbezogene Daten, wie beispielsweise Gesundheitsdaten, nur, wenn dies gemäß einschlägigen Gesetzen zulässig ist oder Sie uns dazu Ihre ausdrückliche und informierte Zustimmung erteilen.
+
+Wir erheben nicht wissentlich Online-Daten über Kinder (Minderjährige) durch die App, und in anderen Situationen erheben wir solche Daten nur, wenn dies gemäß einschlägigen Gesetzen relevant und angemessen ist.
+
+Wir brauchen stets einen Grund („Zweck") und eine Rechtsgrundlage, um Ihre personenbezogenen Daten zu verarbeiten.
+
+Sofern nicht ausdrücklich anders in dieser Datenschutzerklärung erwähnt, verarbeiten wir Ihre personenbezogenen Daten nicht für unsere eigene Nutzung.
+
+Die von der App verwendeten Daten werden entweder außerhalb unserer Kontrolle auf Ihrem Gerät gespeichert oder wie nachstehend beschrieben von Google Analytics verwendet.
+
+Wenn Sie die App benutzen, werden Sie um Ihre Zustimmung zur Datenverarbeitung und ob Sie den Zugriff auf Ihren Standort erlauben, während Sie die App benutzen, um Ihnen genauere Luftqualitäts- und Pollenflugdaten zu liefern und um ihre Erkenntnisse während der Nutzung der App zu personalisieren.
+
+Wenn Sie nicht wollen, müssen Sie keine Zustimmung geben. Dann wird ihr Standort auch nicht verwendet. Sie können Ihre Entscheidung jederzeit in Ihren Einstellungen wieder ändern.
+
+Sie können über Ihre Einstellungen auch die Daten, welche die App über Sie erhoben hat, jederzeit downloaden und löschen; es sei denn wir müssen bestimmte Daten aus rechtlichen Gründen behalten (wie näher im Abschnitt Löschung unten ausgeführt). Dies betrifft nicht die Löschung von anonymisierten Daten, die für statistische Zwecke verwendet werden.
+
+Die App merkt sich Ihre Einstellungen, die Sie ändern können und die gelöscht werden, wenn Sie die App und die damit verbundenen Daten von Ihrem Gerät löschen.
+
+FÜR WELCHE ZWECKE WIR IHRE PERSONENBEZOGENEN DATEN VERARBEITEN Zweck Rechtsgrundlage Zur Installation der App, zur Erstellung eines Profils, zum Teilen und Empfangen von Informationen, Diensten oder anderen Angeboten die Ihren Bedürfnissen angepasst sindEinwilligung Berechtigte Interessen (zur Bereitstellung der App) Durchführung des mit Ihnen geschlossenen Vertrages Zur Problemlösung oder zur Bereitstellung von Antworten auf Ihre Anfragen (soweit relevant)Berechtigte Interessen (zur Verbesserung der App) Durchführung des mit Ihnen geschlossenen Vertrages Zur Personalisierung Ihrer Nutzererfahrung, zur Anpassung Ihrer Inhalte und zur Bereitstellung personalisierter AngeboteEinwilligung Berechtigte Interessen (zur Bereitstellung besserer Produkte und Dienstleistungen) Zur Messung der Performance der App und des Nutzerverhaltens, um die Nutzererfahrung zu verbessernBerechtigte Interessen (zur Verbesserung und Entwicklung unserer Produkte und Dienstleistungen)DAUER DER SPEICHERUNG Daten werden nur so lange gespeichert, wie Sie dies wünschen (vgl. den Abschnitt „Ihre Rechte") oder wie wir es mit Blick auf die Geschäftssituation oder den Dienst für relevant erachten; je nachdem welches Ereignis früher eintritt.
+
+GOOGLE ANALYTICS Diese App nutzt Google Analytics. Bitte informieren Sie sich unter "Wie Google Daten verwendet, wenn Sie Websites oder Apps unserer Partner verwenden", (www.google.com/policies/privacy/partners/).
+
+WEM GEGENÜBER WIR IHRE PERSONENBEZOGENEN DATEN OFFENLEGEN (EMPFÄNGER VON PERSONENBEZOGENEN DATEN)i. MITARBEITER UND EXTERNE DATENVERARBEITER VON ALK Die Empfänger Ihrer personenbezogenen Daten sind Mitarbeiter der ALK Group und externe Datenverarbeiter, die spezifische Dienstleistungen erbringen und personenbezogene Daten in unserem Auftrag und nur nach unseren Weisungen verarbeiten. Sie erhalten Ihre personenbezogenen Daten nur auf der Basis von "need-to-know", unterliegen der Geheimhaltungspflicht und unterzeichnen entsprechende rechtliche Dokumente. Die vollständige Liste der Unternehmen, die die ALK Group bilden, finden Sie hier. Die Liste der relevanten externen Datenverarbeiter finden Sie hier.
+
+Personenbezogene Daten werden nicht an Dritte außerhalb des Europäischen Wirtschaftsraums weitergegeben.
+
+ii. Unabhängige Dritte Wir können Ihre personenbezogenen Daten an Dritte (wie z.B. Rechtsanwälte) weitergeben, wenn dies für die Begründung, Ausübung oder Verteidigung von Rechtsansprüchen oder für Behörden erforderlich ist, wenn dies gesetzlich vorgeschrieben ist oder es von unabhängigen Prüfern erfordert wird.
+
+SICHERHEIT Wir setzen angemessene technische und organisatorische Sicherheitsmaßnahmen ein, um einen Missbrauch der App oder der darin enthaltenen Daten zu vermeiden. Wir empfehlen allerdings auch, den Zugriff auf das mobile Endgerät, auf dem die App verwendet wird, mit einem Zugriffsschutz (z.B. PIN-Code oder Fingerabdruck-Scan) zu beschränken.
+
+WAS SIND IHRE RECHTE? Wenn Sie eines Ihrer Rechte ausüben möchten, kontaktieren Sie uns bitte über unsere Kontaktdaten am Anfang dieser Erklärungi. AUSKUNFT UND BERICHTIGUNG Sie können auf Ihre Daten zugreifen und fehlerhafte Daten korrigieren.
+
+Sie sind berechtigt, eine Kopie Ihrer Daten zu erhalten, die Ihnen so zur Verfügung gestellt werden, dass die Rechte und die Privatsphäre anderer Personen gewahrt bleiben.
+
+Sie haben auch das Recht, von uns die Übermittlung aller relevanten Einzelheiten zur Verarbeitung Ihrer personenbezogenen Daten zu verlangen.
+
+ii. DATEN-PORTABILITÄT Sie sind berechtigt, Daten, die Sie uns zur Verfügung gestellt haben, in einem portablen Format (üblich, strukturiert und maschinenlesbar) zu erhalten oder, wenn möglich, direkt an eine andere von Ihnen benannte (natürlich oder juristische) Person übertragen zu lassen.
+
+Bitte beachten Sie, dass wir Ihnen die Daten so zur Verfügung stellen, dass dabei die Rechte und Privatsphäre anderer Personen respektiert werden.
+
+iii. WIDERSPRUCHSRECHT Sie können der Verarbeitung Ihrer personenbezogenen Daten, die aufgrund unserer legitimen Interessen aus Gründen, die Ihre Situation betreffen, verarbeitet werden und wenn diese Daten ohne Angabe von Gründen für Direktmarketingzwecke verarbeitet werden, widersprechen.
+
+iv. RECHT ZUM WIDERRUF DER EINWILLIGUNG Wenn Sie in der Verwendung Ihrer personenbezogenen Daten eingewilligt haben, haben Sie das Recht, diese Einwilligung jederzeit zu widerrufen. Zu diesem Zweck können Sie uns unter data.protection@alk.net oder über unsere o.g. Kontaktdaten kontaktieren.
+
+Ihr Widerruf der Einwilligung hat keinen Einfluss auf die Rechtmäßigkeit der Verarbeitung der Daten vor deren Widerruf.
+
+v. DATENLÖSCHUNG („Recht auf Vergessenwerden") Sie können jederzeit verlangen, dass Ihre personenbezogenen Daten gelöscht und nicht mehr verarbeitet werden. In einigen Fällen kann die Durchführung der Löschung jedoch verzögert werden (z. B. wenn einige Daten aus steuerlichen Gründen noch gespeichert werden müssen). In solchen Fällen werden Sie ausdrücklich über den Grund für eine solche Verschiebung und darüber, wann die Löschung vorgesehen ist, informiert: Ausgenommen davon sind anonyme statistische Daten, die keine personenbezogenen Daten enthalten.
+
+vi. BESCHRÄNKUNG DER VERARBEITUNG Anstatt Ihre Daten löschen zu lassen, können Sie diese beschränken. Die weitere Verarbeitung von derartigen gesperrten Daten kann nur mit Ihrer Einwilligung oder aus Gründen erfolgen, die im geltenden Recht ausdrücklich vorgesehen sind.
+
+Sollte die Beschränkung aus gerechtfertigten gesetzlichen Gründen nicht möglich sein, werden Sie ausdrücklich über diese Gründe sowie die Aufhebung der Sperre informiert.
+
+vii. BESCHWERDEN Wenn Sie sich beschweren möchten, kontaktieren Sie uns bitte über unsere o.g. Kontaktdaten oder senden Sie eine E-Mail an data.protection@alk.net.
+
+viii. MÖGLICHKEIT DER BESCHWERDEEINLEGUNG BEI DER AUFSICHTSBEHÖRDE Wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen EU-Recht verstößt, sind Sie berechtigt, bei einer Aufsichtsbehörde Beschwerde einzureichen, insbesondere in dem EU-Mitgliedstaat, in dem Sie Ihren gewöhnlichen Aufenthalt oder Arbeitsplatz haben oder an dem Ort der mutmaßlichen Zuwiderhandlung.
+
+ÄNDERUNGEN DIESER ERKLÄRUNG Diese Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden. Wenn wir wesentliche Änderungen vornehmen, werden wir Sie durch einen gut wahrnehmbaren Hinweis in der App informieren. Shop Symptome Augen Nase Lunge Haut Allergietypen Heuschnupfen Hausstaubmilben Tierhaare Haut Kategorie Sanfte Allergielinderung Allergietest Hautpflege Brands klarify.me AllergoCHECK© Magazin Über uns Facharztsuche ANMELDEN Shop Symptome Augen Nase Lunge Haut Allergietypen Heuschnupfen Hausstaubmilben Tierhaare Haut Kategorie Sanfte Allergielinderung Allergietest Hautpflege Brands klarify.me AllergoCHECK© Magazin Über uns Facharztsuche ANMELDENDrücke die Eingabetaste, um zu suchen, oder die Esc-Taste, um zu schließenWillkommen bei klarify.me Registriere Dich und erhalte, neben praktischen Infos und cleveren Produkten, 15% Rabatt* auf Deine erste Bestellung!Registrieren *nicht mit anderen Rabattaktionen kombinierbar. Dyson-Produkte sind zudem ausgeschlossen Dein Warenkorb Dein Warenkorb ist leer.
+
+Weiter einkaufen Wunschliste Dein Wunschzettel ist leer Facebook Instagram View Our Reviews On TrustSpot Hilfe Kontakt FAQ Versand & Zahlung Finde einen FacharztInformationen AGB Datenschutz Widerrufsrecht Impressum Zertifikat der DVFAUnser Newsletter Zahlungsarten ALK e-com A/S ∙ Bøge Allé 6 ∙ DK-2970 Hørsholm ∙ DK 39266881 / DE815741125 ∙ Rechtliche Hinweise© 2019 ALK e-com A/S ∙ Alle Rechte vorbehalten...Käuferschutz inklusive
+

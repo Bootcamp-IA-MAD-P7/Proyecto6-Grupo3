@@ -1,0 +1,78 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+107,1,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,2,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,3,"['First Party', 'Third Party']","['Collection Process', 'Collection Mode (opt)', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,4,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,5,['Third Party'],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,6,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,7,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,8,['First Party'],"['Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,9,[],[],"['Information Type_Unspecified', 'Purpose_Unspecified']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,10,['First Party'],['Legal Basis for Collection'],"['Information Type_Unspecified', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Vital interest', 'Legal Basis for Collection_Public interest/official authority']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,11,['First Party'],"['Information Type', 'Purpose', 'User Type (opt)']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,12,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,13,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,14,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,15,['First Party'],"['Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Collection Mode (opt)']",['Purpose_Optional service or feature'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,16,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Demographic data', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Directly received from third party', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,17,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Directly received from third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,18,['Third Party'],['Third-Party Collection Process'],['Information Type_Unspecified'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,19,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,20,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,21,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,22,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Analytics or research']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,23,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Collection Process_Directly received from third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,24,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,25,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,26,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,27,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Location', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,28,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Legal Basis for Collection_Consent']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,29,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Collection Mode (opt)', 'Third-Party Entity', 'Choice Type (opt)', 'User Type (opt)', 'Anonymization (opt)', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Does/Does Not (opt)_Does', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Browser/device privacy controls', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,30,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,31,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)', 'Choice Type (opt)']",['Collection Mode (opt)_Explicit'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,32,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,33,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Unspecified']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,34,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Advertising or marketing']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,35,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,36,[],[],['Choice Type (opt)_Unspecified'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,37,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out link'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,38,['First Party'],"['Purpose', 'Choice Type (opt)']",[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,39,[],"['Purpose', 'Choice Type (opt)']",[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,40,['Third Party'],"['Purpose', 'Does/Does Not (opt)', 'Anonymization (opt)']","['Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,41,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,42,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,43,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']",['Information Type_Unspecified'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,44,[],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,45,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Analytics or research']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,46,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Third-Party Entity_Named third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,47,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,48,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,49,['Third Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Merger or acquisition']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,50,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,51,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,52,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,53,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,54,['Third Party'],"['Third-Party Entity', 'Anonymization (opt)', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Anonymization (opt)_Aggregated or anonymized', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,55,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,56,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,57,[],['Choice Type (opt)'],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,58,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,59,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Unspecified', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,60,"['First Party', 'Third Party']","['Purpose', 'Legal Basis for Collection']","['Purpose_Service operation and security', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.tumblr.com/privacy/de,True
+107,61,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,62,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,63,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,64,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,65,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,66,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,67,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,68,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,69,['First Party'],['Legal Basis for Collection'],['Information Type_Unspecified'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,70,[],[],['Information Type_Unspecified'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,71,['First Party'],"['Purpose', 'Does/Does Not (opt)']",['Does/Does Not (opt)_Does'],TRAIN,https://www.tumblr.com/privacy/de,True
+107,72,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,73,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,74,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,75,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,76,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True
+107,77,[],[],[],TRAIN,https://www.tumblr.com/privacy/de,True

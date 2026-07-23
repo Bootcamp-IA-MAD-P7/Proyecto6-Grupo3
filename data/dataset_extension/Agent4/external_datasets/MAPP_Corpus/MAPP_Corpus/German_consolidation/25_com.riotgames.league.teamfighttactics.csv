@@ -1,0 +1,115 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+25,1,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,2,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,3,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,4,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,5,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,6,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,7,['First Party'],"['Collection Process', 'Collection Mode (opt)']","['Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Collection Mode (opt)_Implicit']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,8,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,9,[],"['Collection Mode (opt)', 'Choice Type (opt)']","['Collection Mode (opt)_Explicit', ""Choice Type (opt)_Don't use service/feature""]",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,10,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Political, religious, or philosophical belief', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Personalization or customization', 'Collection Mode (opt)_Explicit']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,11,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Collection Mode (opt)', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Collection Mode (opt)_Implicit', 'Third-Party Entity_Other users']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,12,"['First Party', 'Third Party']","['Information Type', 'Collection Process']","['Information Type_User online activities', 'Collection Process_Collected on first-party website/app']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,13,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,14,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_Computer information']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,15,['First Party'],['Information Type'],"['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,16,['First Party'],['Collection Process'],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,17,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Other', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Unspecified', 'Collection Process_Directly received from third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,18,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Other', 'Collection Process_Directly received from third party', 'Choice Type (opt)_Third-party privacy controls']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,19,['First Party'],"['Purpose', 'Collection Process']",['Purpose_Advertising or marketing'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,20,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,21,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Computer information', 'Collection Process_Directly received from third party', 'Third-Party Entity_Named third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,22,['First Party'],['Collection Process'],['Collection Process_Directly received from third party'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,23,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,24,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,25,['First Party'],['Purpose'],['Purpose_Other'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,26,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Collection Process']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Purpose_Other', 'Collection Process_Collected on first-party website/app', 'Collection Process_Other', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,27,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Other']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,28,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,29,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,30,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,31,[],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,32,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Directly received from third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,33,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_User online activities', 'Purpose_Advertising or marketing', 'Third-Party Entity_Named third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,34,['Third Party'],"['Third-Party Entity', 'Choice Type (opt)', 'Choice Scope (opt)']","['Third-Party Entity_Unnamed third party', 'Choice Type (opt)_Opt-out link', 'Choice Type (opt)_Third-party privacy controls', 'Choice Type (opt)_Other']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,35,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,36,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Directly received from third party', 'Third-Party Entity_Named third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,37,['Third Party'],['Information Type'],"['Information Type_Location', 'Information Type_Demographic data', 'Information Type_Unspecified']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,38,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,39,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,40,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Essential service or feature', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Legal Basis for Collection_Other']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,41,['First Party'],"['Legal Basis for Collection', 'Choice Type (opt)']","['Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Vital interest', 'Legal Basis for Collection_Public interest/official authority', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Legal Basis for Collection_Other']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,42,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,43,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,44,['First Party'],['Purpose'],['Purpose_Legal requirement'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,45,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,46,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,47,['First Party'],"['Purpose', 'Legal Basis for Collection']",['Legal Basis for Collection_Legitimate interests of first or third party'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,48,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Analytics or research', 'Purpose_Service operation and security', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,49,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,50,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Unspecified', 'Does/Does Not (opt)_Does Not']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,51,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Merger or acquisition', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,52,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Financial', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other', 'Third-Party Collection Process_Shared by first party with a third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,53,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Purpose_Service operation and security', 'Choice Type (opt)_Opt-out via contacting company']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,54,[],['Purpose'],['Purpose_Merger or acquisition'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,55,['Third Party'],['Third-Party Entity'],['Information Type_Unspecified'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,56,[],['Purpose'],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,57,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,58,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,59,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Purpose_Service operation and security', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,60,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,61,['First Party'],"['Purpose', 'Collection Mode (opt)']","['Purpose_Service operation and security', 'Collection Mode (opt)_Implicit']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,62,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,63,['First Party'],"['Purpose', 'Collection Process', 'Legal Basis for Collection', 'Does/Does Not (opt)', 'User Type (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Does/Does Not (opt)_Does Not', 'User Type (opt)_Users with account']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,64,['First Party'],['Purpose'],['Purpose_Service operation and security'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,65,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,66,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,67,['Third Party'],['Third-Party Collection Process'],['Information Type_Unspecified'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,68,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_User online activities', 'Third-Party Entity_Named third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,69,"['First Party', 'Third Party']","['Information Type', 'Third-Party Entity']",[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,70,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Directly received from third party', 'Third-Party Entity_Named third party']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,71,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,72,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,73,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Other part of company/affiliate'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,74,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,75,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Named third party'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,76,['First Party'],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,77,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,78,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,79,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,80,[],[],['Choice Type (opt)_Unspecified'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,81,['First Party'],"['Information Type', 'Purpose', 'User Type (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Legal requirement', 'User Type (opt)_Users without account']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,82,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,83,[],['Choice Type (opt)'],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,84,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,85,[],['Choice Type (opt)'],"['Choice Type (opt)_First-party privacy controls', 'Choice Type (opt)_Unspecified']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,86,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,87,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out link'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,88,[],"['Choice Type (opt)', 'Choice Scope (opt)']","['Choice Type (opt)_Opt-out via contacting company', 'Choice Scope (opt)_Use']",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,89,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,90,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', ""Choice Type (opt)_Don't use service/feature""]",TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,91,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,92,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,93,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,94,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,95,[],[],['Choice Type (opt)_Unspecified'],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,96,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,97,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,98,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,99,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,100,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,101,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,102,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,103,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,104,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,105,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,106,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,107,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,108,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,109,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,110,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,111,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,112,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,113,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False
+25,114,[],[],[],TEST,https://www.riotgames.com/de/privacy-notice-DE,False

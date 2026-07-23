@@ -1,0 +1,54 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+43,1,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,2,['First Party'],"['Purpose', 'User Type (opt)']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'User Type (opt)_Users with account']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,3,['First Party'],"['Information Type', 'Collection Process', 'Legal Basis for Collection']",['Collection Process_Collected on first-party website/app'],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,4,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Legal requirement', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,5,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,6,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,7,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,8,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,9,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,10,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,11,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Choice Type (opt)_Third-party privacy controls']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,12,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,13,['First Party'],"['Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Legal Basis for Collection_Consent']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,14,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,15,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,16,[],"['Information Type', 'Purpose', 'Anonymization (opt)']",['Information Type_IP address and device IDs'],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,17,[],['Choice Type (opt)'],['Choice Type (opt)_Third-party privacy controls'],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,18,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,19,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_IP address and device IDs', 'Purpose_Advertising or marketing']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,20,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,21,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,22,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,23,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,24,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,25,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,26,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Generic personal information']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,27,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,28,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,29,['First Party'],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,30,['First Party'],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,31,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,32,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,33,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,34,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,35,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,36,[],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,37,[],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Demographic data', 'Purpose_Optional service or feature']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,38,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,39,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,40,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,41,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,42,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,43,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,44,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,45,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,46,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,47,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,48,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,49,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,50,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,51,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,52,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True
+43,53,[],[],[],TRAIN,https://www.boehringer-ingelheim.de/datenschutzerklaerung,True

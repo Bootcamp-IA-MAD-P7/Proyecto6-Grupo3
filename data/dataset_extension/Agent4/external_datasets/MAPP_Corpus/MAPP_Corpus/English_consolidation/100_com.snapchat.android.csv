@@ -1,0 +1,62 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+100,1,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,2,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,3,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,4,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,5,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,6,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,7,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,8,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,9,['First Party'],['Collection Process'],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,10,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,11,['First Party'],['Information Type'],['Information Type_User online activities'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,12,['First Party'],['Information Type'],"['Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,13,['First Party'],['Information Type'],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,14,['First Party'],"['Information Type', 'Purpose']",['Purpose_Essential service or feature'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,15,['First Party'],['Information Type'],['Information Type_Location'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,16,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app', 'Collection Process_Tracked user on third-party website/app', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,17,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,18,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Unspecified', 'Collection Process_Directly received from third party']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,19,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Advertising or marketing', 'Collection Process_Directly received from third party']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,20,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Analytics or research']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,21,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,22,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,23,['First Party'],"['Information Type', 'Purpose']",['Information Type_Other'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,24,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,25,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,26,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,27,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,28,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,29,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,30,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,31,['Third Party'],"['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,32,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,33,['Third Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,34,['Third Party'],['Purpose'],['Purpose_Merger or acquisition'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,35,['Third Party'],"['Purpose', 'Third-Party Entity']",['Third-Party Entity_Unnamed third party'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,36,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Unnamed third party'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,37,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,38,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,39,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,40,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Advertising or marketing']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,41,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,42,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,43,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,44,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,45,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,46,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,47,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,48,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,49,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,50,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,51,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,52,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,53,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,54,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,55,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,56,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,57,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,58,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,59,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,60,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True
+100,61,[],[],[],TRAIN,https://www.snap.com/en-US/privacy/privacy-policy/,True

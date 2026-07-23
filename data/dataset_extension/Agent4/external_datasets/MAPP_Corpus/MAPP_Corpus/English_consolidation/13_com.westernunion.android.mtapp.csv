@@ -1,0 +1,40 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+13,1,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,2,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,3,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,4,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Unspecified', 'Collection Process_Collected on first-party website/app']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,5,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Legal requirement']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,6,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Unspecified']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,8,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,9,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,10,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,11,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,12,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,13,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Collection Process_Unspecified']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,14,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Collection Process_Unspecified', 'Legal Basis for Collection_Contractual necessity']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,15,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,16,['First Party'],['Purpose'],['Purpose_Service operation and security'],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,17,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Other']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,18,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,19,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,20,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,21,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,22,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,23,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,24,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Entity_Other part of company/affiliate']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,25,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,26,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Legal requirement', 'Purpose_Unspecified']",TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,27,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,28,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,29,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,30,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,31,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,32,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,33,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,34,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,35,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,36,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,37,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,38,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True
+13,39,[],[],[],TEST,https://www.westernunion.com/content/wucom/global/en/privacy-statement.html,True

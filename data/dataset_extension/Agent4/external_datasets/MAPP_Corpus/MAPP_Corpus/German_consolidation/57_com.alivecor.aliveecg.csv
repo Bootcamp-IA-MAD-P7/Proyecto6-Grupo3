@@ -1,0 +1,70 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+57,1,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,2,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,3,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,4,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,5,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,6,['First Party'],"['Collection Process', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,7,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,8,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Information Type_Location', 'Information Type_Computer information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Tracked user on third-party website/app']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,9,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,10,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Computer information']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,11,['First Party'],['Information Type'],"['Information Type_Health, genetic, or biometric data', 'Information Type_Contact information']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,12,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,13,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,14,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_Unspecified']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,15,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,16,['First Party'],"['Information Type', 'Collection Process']",['Collection Process_Collected on first-party website/app'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,17,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,18,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,19,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,21,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,22,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,23,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,24,['First Party'],['Purpose'],['Purpose_Service operation and security'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,25,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,26,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Unnamed third party'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,27,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,28,['Third Party'],"['Purpose', 'Third-Party Entity']",['Third-Party Entity_Unnamed third party'],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,29,['Third Party'],"['Purpose', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,30,[],"['Information Type', 'Anonymization (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Demographic data']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,31,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,32,['Third Party'],"['Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,33,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,34,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Legal requirement']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,35,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,36,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Service operation and security']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,37,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,38,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,39,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,40,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,41,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,42,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,43,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,44,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,45,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,46,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,47,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,48,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,49,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,50,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,51,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,52,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,53,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,54,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,55,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,56,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://www.alivecor.com/privacy/de/,False
+57,57,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,58,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,59,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,60,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,61,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,62,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,63,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,64,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,65,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,66,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,67,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,68,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False
+57,69,[],[],[],TRAIN,https://www.alivecor.com/privacy/de/,False

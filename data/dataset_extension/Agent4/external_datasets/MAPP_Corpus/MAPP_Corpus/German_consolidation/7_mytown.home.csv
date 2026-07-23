@@ -1,0 +1,21 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+7,1,[],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,2,[],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,3,[],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,4,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,5,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_Other']",TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,6,['First Party'],['Information Type'],['Information Type_IP address and device IDs'],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,7,['First Party'],['Information Type'],['Information Type_Location'],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,8,['First Party'],['Information Type'],['Information Type_Financial'],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,9,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,10,['First Party'],['Information Type'],"['Information Type_Demographic data', 'Information Type_User online activities']",TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,11,['First Party'],"['Information Type', 'Purpose']","['Purpose_Essential service or feature', 'Purpose_Analytics or research']",TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,12,['Third Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,13,['Third Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,14,['Third Party'],['Purpose'],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,15,[],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,16,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity']","['Purpose_Essential service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,17,['First Party'],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,18,[],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,19,[],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
+7,20,[],[],[],TRAIN,https://my-town.com/datenschutzrichtlinie/,True
