@@ -1,0 +1,213 @@
+{
+ "dataset": "PrivacyLens Dataset",
+ "version": "1.0.0",
+ "date": "2026-07-22",
+ "status": "APROBADO CON OBSERVACIONES",
+ "validacion_final": [
+  {
+   "check": "Sin duplicados de IDs",
+   "resultado": "PASS",
+   "criticidad": "CRITICAL"
+  },
+  {
+   "check": "Sin IDs repetidos en predicciones",
+   "resultado": "PASS",
+   "criticidad": "CRITICAL"
+  },
+  {
+   "check": "Sin texto corrupto (U+FFFD)",
+   "resultado": "PASS",
+   "criticidad": "CRITICAL"
+  },
+  {
+   "check": "Sin embeddings faltantes",
+   "resultado": "PASS",
+   "criticidad": "CRITICAL"
+  },
+  {
+   "check": "Sin categorías inválidas",
+   "resultado": "PASS",
+   "criticidad": "CRITICAL"
+  },
+  {
+   "check": "Sin insights alarmistas",
+   "resultado": "PASS",
+   "criticidad": "CRITICAL"
+  },
+  {
+   "check": "Sin explicaciones vacías",
+   "resultado": "PASS",
+   "criticidad": "HIGH"
+  },
+  {
+   "check": "Sin evidencias inexistentes (no-Other)",
+   "resultado": "PASS",
+   "criticidad": "HIGH"
+  },
+  {
+   "check": "Sin referencias rotas (párrafo→predicción)",
+   "resultado": "PASS",
+   "criticidad": "HIGH"
+  },
+  {
+   "check": "Duplicados de texto intra-documento",
+   "resultado": "WARNING",
+   "criticidad": "WARNING"
+  }
+ ],
+ "incidencias": [],
+ "contradicciones_clasificadas": [
+  {
+   "document_id": "DOC_00007",
+   "parrafos": [
+    "DOC_00007_P0024",
+    "DOC_00007_P0044"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00007",
+   "parrafos": [
+    "DOC_00007_P0024",
+    "DOC_00007_P0073"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00007",
+   "parrafos": [
+    "DOC_00007_P0024",
+    "DOC_00007_P0113"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00010",
+   "parrafos": [
+    "DOC_00010_P0035",
+    "DOC_00010_P0013"
+   ],
+   "severidad": "LOW"
+  },
+  {
+   "document_id": "DOC_00014",
+   "parrafos": [
+    "DOC_00014_P0148",
+    "DOC_00014_P0053"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00014",
+   "parrafos": [
+    "DOC_00014_P0148",
+    "DOC_00014_P0055"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00014",
+   "parrafos": [
+    "DOC_00014_P0148",
+    "DOC_00014_P0059"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00014",
+   "parrafos": [
+    "DOC_00014_P0189",
+    "DOC_00014_P0053"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00014",
+   "parrafos": [
+    "DOC_00014_P0189",
+    "DOC_00014_P0055"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00014",
+   "parrafos": [
+    "DOC_00014_P0189",
+    "DOC_00014_P0059"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00015",
+   "parrafos": [
+    "DOC_00015_P0721",
+    "DOC_00015_P0102"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00015",
+   "parrafos": [
+    "DOC_00015_P0721",
+    "DOC_00015_P0103"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00015",
+   "parrafos": [
+    "DOC_00015_P0721",
+    "DOC_00015_P0105"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00016",
+   "parrafos": [
+    "DOC_00016_P0037",
+    "DOC_00016_P0039"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00016",
+   "parrafos": [
+    "DOC_00016_P0037",
+    "DOC_00016_P0051"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00016",
+   "parrafos": [
+    "DOC_00016_P0037",
+    "DOC_00016_P0053"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00016",
+   "parrafos": [
+    "DOC_00016_P0050",
+    "DOC_00016_P0039"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00016",
+   "parrafos": [
+    "DOC_00016_P0050",
+    "DOC_00016_P0051"
+   ],
+   "severidad": "HIGH"
+  },
+  {
+   "document_id": "DOC_00016",
+   "parrafos": [
+    "DOC_00016_P0050",
+    "DOC_00016_P0053"
+   ],
+   "severidad": "HIGH"
+  }
+ ]
+}

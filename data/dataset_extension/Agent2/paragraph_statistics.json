@@ -1,0 +1,1129 @@
+{
+ "dataset_version": "PrivacyLens-Extended-2026-v1",
+ "generated": "2026-07-22",
+ "documents": 33,
+ "paragraphs_total": 10797,
+ "paragraphs_per_document": {
+  "DOC_00001": 185,
+  "DOC_00002": 165,
+  "DOC_00003": 99,
+  "DOC_00004": 454,
+  "DOC_00005": 144,
+  "DOC_00006": 1188,
+  "DOC_00007": 112,
+  "DOC_00008": 145,
+  "DOC_00009": 53,
+  "DOC_00010": 36,
+  "DOC_00011": 516,
+  "DOC_00012": 197,
+  "DOC_00013": 1106,
+  "DOC_00014": 156,
+  "DOC_00015": 636,
+  "DOC_00016": 238,
+  "DOC_00017": 201,
+  "DOC_00018": 174,
+  "DOC_00019": 35,
+  "DOC_00020": 212,
+  "DOC_00021": 383,
+  "DOC_00022": 59,
+  "DOC_00023": 162,
+  "DOC_00024": 107,
+  "DOC_00025": 46,
+  "DOC_00026": 1031,
+  "DOC_00027": 111,
+  "DOC_00028": 601,
+  "DOC_00029": 125,
+  "DOC_00030": 203,
+  "DOC_00031": 1256,
+  "DOC_00032": 118,
+  "DOC_00033": 543
+ },
+ "words": {
+  "mean": 28.4,
+  "max": 418,
+  "min": 1,
+  "median": 15
+ },
+ "paragraph_language_distribution": {
+  "es": 8609,
+  "en": 2188
+ },
+ "language_mismatches": 97,
+ "feature_counts": {
+  "contains_url": 200,
+  "contains_email": 168,
+  "contains_phone": 4,
+  "contains_dates": 77,
+  "contains_percentages": 6,
+  "contains_articles": 168,
+  "contains_lists": 674,
+  "contains_tables": 1,
+  "contains_legal_reference": 235
+ },
+ "paragraphs_with_entities": 2574,
+ "entity_type_counts": {
+  "ORGANIZATION": 1937,
+  "DATE": 84,
+  "COUNTRY": 581,
+  "EMAIL": 178,
+  "URL": 213,
+  "LAW": 145,
+  "ARTICLE": 190,
+  "REGULATION": 28
+ },
+ "embedding": {
+  "model": "tfidf-hash-256-v1",
+  "dimension": 256,
+  "note": "TF-IDF hasheado (unigramas), L2-normalizado. Apto para clustering, búsqueda semántica básica y detección de duplicados. Sustituible por embeddings neuronales en fases posteriores."
+ },
+ "quality_issues": {
+  "total": 4716,
+  "by_type": {
+   "parrafo_casi_vacio": 1177,
+   "idioma_inesperado": 97,
+   "duplicado_exacto_en_documento": 3442
+  },
+  "issues": [
+   {
+    "paragraph_id": "DOC_00001_P0067",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0106",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0112",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0115",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0118",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0135",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0137",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0141",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0157",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0166",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0176",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0182",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0189",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0194",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0202",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00002_P0237",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00003_P0023",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00003_P0045",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00003_P0059",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00003_P0073",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00003_P0095",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0017",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0033",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0034",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0035",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0038",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0041",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0043",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0047",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0049",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0134",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0163",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0183",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0187",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0255",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0256",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0259",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0275",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0284",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0353",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0373",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0383",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0384",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0385",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0387",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0390",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0392",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0394",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0398",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0406",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0423",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0426",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0430",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0436",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0437",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0442",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0449",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0450",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0454",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0458",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0459",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0462",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00004_P0465",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0004",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0008",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0012",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0016",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0020",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0024",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0028",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0032",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0036",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0040",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0044",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0127",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0129",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0131",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0142",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0158",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0160",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0162",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0164",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0166",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0168",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0170",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0187",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0188",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0189",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0190",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00005_P0191",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0003",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0005",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0007",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0009",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0011",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0013",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0015",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0017",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0019",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0021",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0023",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0024",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0032",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0039",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0040",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0049",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0050",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0056",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0057",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0063",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0066",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0067",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0116",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0130",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0147",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0148",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0153",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0162",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0191",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0214",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0219",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0236",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0237",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0242",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0243",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0245",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0249",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0250",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0269",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0270",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0275",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0276",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0278",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0284",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0288",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0289",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0293",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0311",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0312",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0317",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0318",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0320",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0342",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0343",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0370",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0377",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0394",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0396",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0407",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0411",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0413",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0422",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0424",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0451",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0454",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0475",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0476",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0477",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0480",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0483",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0484",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0486",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0517",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0519",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0532",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0533",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0534",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0537",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0540",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0541",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0547",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0549",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0568",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0578",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0583",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0586",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0589",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0591",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0592",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0596",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0598",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0599",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0601",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0614",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0617",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0618",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0620",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0625",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0628",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0633",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0635",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0636",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0637",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0639",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0645",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0646",
+    "issue": "idioma_inesperado",
+    "severity": "LOW",
+    "detail": "en vs doc es"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0649",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0650",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0652",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   },
+   {
+    "paragraph_id": "DOC_00006_P0675",
+    "issue": "parrafo_casi_vacio",
+    "severity": "LOW"
+   }
+  ]
+ }
+}
