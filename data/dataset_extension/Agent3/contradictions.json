@@ -1,0 +1,230 @@
+[
+ {
+  "document_id": "DOC_00007",
+  "company": "ClickUp",
+  "parrafos_implicados": [
+   "DOC_00007_P0024",
+   "DOC_00007_P0044"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell any data, including your personal data. We will only collect and process your personal data in accordance with applicable data protection and privacy laws. We need to collect and process certain personal data in order to provide you with access to ClickUp. If you registered with us, y",
+  "texto_afirmacion": "We may receive information about you and your activities on and off the Services from third-party partners, such as advertising and market research partners who provide us with information about your interest in, and engagement with, our Services and online advertisements, or in cases where you give"
+ },
+ {
+  "document_id": "DOC_00007",
+  "company": "ClickUp",
+  "parrafos_implicados": [
+   "DOC_00007_P0024",
+   "DOC_00007_P0073"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell any data, including your personal data. We will only collect and process your personal data in accordance with applicable data protection and privacy laws. We need to collect and process certain personal data in order to provide you with access to ClickUp. If you registered with us, y",
+  "texto_afirmacion": "Your data, including personal data that we collect from you, may be transferred to, stored at and processed by us and other third parties outside the country in which you reside, including, but not limited to the United States, where data protection and privacy regulations may not offer the same lev"
+ },
+ {
+  "document_id": "DOC_00007",
+  "company": "ClickUp",
+  "parrafos_implicados": [
+   "DOC_00007_P0024",
+   "DOC_00007_P0113"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell any data, including your personal data. We will only collect and process your personal data in accordance with applicable data protection and privacy laws. We need to collect and process certain personal data in order to provide you with access to ClickUp. If you registered with us, y",
+  "texto_afirmacion": ". We share this information with the categories of third parties as set forth in the"
+ },
+ {
+  "document_id": "DOC_00010",
+  "company": "DuckDuckGo",
+  "parrafos_implicados": [
+   "DOC_00010_P0035",
+   "DOC_00010_P0013"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell your personal information.",
+  "texto_afirmacion": "In the process of delivering and improving our search results and other content, we also prevent our hosting and content providers from creating a history of your searches, chats, and browsing. At a technical level, we achieve this by calling for content (for example, images) on your behalf from our"
+ },
+ {
+  "document_id": "DOC_00014",
+  "company": "GitHub Copilot",
+  "parrafos_implicados": [
+   "DOC_00014_P0148",
+   "DOC_00014_P0053"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "You may use the Global Privacy Control (GPC) to communicate your privacy preferences. If GitHub detects the GPC signal from your device, GitHub will not share your data (we do not sell your data). To learn more, visit Global Privacy Control — Take Control Of Your Privacy",
+  "texto_afirmacion": "We may share Personal Data with the following recipients:"
+ },
+ {
+  "document_id": "DOC_00014",
+  "company": "GitHub Copilot",
+  "parrafos_implicados": [
+   "DOC_00014_P0148",
+   "DOC_00014_P0055"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "You may use the Global Privacy Control (GPC) to communicate your privacy preferences. If GitHub detects the GPC signal from your device, GitHub will not share your data (we do not sell your data). To learn more, visit Global Privacy Control — Take Control Of Your Privacy",
+  "texto_afirmacion": "Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, legal and compliance obligations, product development and improvement (including training and improving artif"
+ },
+ {
+  "document_id": "DOC_00014",
+  "company": "GitHub Copilot",
+  "parrafos_implicados": [
+   "DOC_00014_P0148",
+   "DOC_00014_P0059"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "You may use the Global Privacy Control (GPC) to communicate your privacy preferences. If GitHub detects the GPC signal from your device, GitHub will not share your data (we do not sell your data). To learn more, visit Global Privacy Control — Take Control Of Your Privacy",
+  "texto_afirmacion": "Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services. We may share your data with these partners and resellers where allowed, and with your consent when required."
+ },
+ {
+  "document_id": "DOC_00014",
+  "company": "GitHub Copilot",
+  "parrafos_implicados": [
+   "DOC_00014_P0189",
+   "DOC_00014_P0053"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.",
+  "texto_afirmacion": "We may share Personal Data with the following recipients:"
+ },
+ {
+  "document_id": "DOC_00014",
+  "company": "GitHub Copilot",
+  "parrafos_implicados": [
+   "DOC_00014_P0189",
+   "DOC_00014_P0055"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.",
+  "texto_afirmacion": "Affiliates: Personal Data may be shared with GitHub affiliates, including Microsoft, to facilitate customer service, marketing and advertising, order fulfillment, billing, technical support, legal and compliance obligations, product development and improvement (including training and improving artif"
+ },
+ {
+  "document_id": "DOC_00014",
+  "company": "GitHub Copilot",
+  "parrafos_implicados": [
+   "DOC_00014_P0189",
+   "DOC_00014_P0059"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell your covered information, as defined under Chapter 603A of the Nevada Revised Statutes. If you still have questions about your covered information or anything else in our Privacy Statement, please send an email to privacy[at]github[dot]com.",
+  "texto_afirmacion": "Partners and Resellers: We cooperate with third-parties that offer sales, consulting, support, and technical services for our Services. We may share your data with these partners and resellers where allowed, and with your consent when required."
+ },
+ {
+  "document_id": "DOC_00015",
+  "company": "Glovo",
+  "parrafos_implicados": [
+   "DOC_00015_P0721",
+   "DOC_00015_P0102"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "No compartimos tus datos con terceros, excepto con aquellos contactos que nos permitiste incorporar en tu cuenta de Glovo y/o amigos que aceptaste expresamente que formarán parte de tu lista de amigos de Glovo. No se realizarán transferencias internacionales de datos.",
+  "texto_afirmacion": "¿Con quién compartimos sus datos?"
+ },
+ {
+  "document_id": "DOC_00015",
+  "company": "Glovo",
+  "parrafos_implicados": [
+   "DOC_00015_P0721",
+   "DOC_00015_P0103"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "No compartimos tus datos con terceros, excepto con aquellos contactos que nos permitiste incorporar en tu cuenta de Glovo y/o amigos que aceptaste expresamente que formarán parte de tu lista de amigos de Glovo. No se realizarán transferencias internacionales de datos.",
+  "texto_afirmacion": "Si usted es un Usuario, podemos compartir sus datos con dos grupos diferentes de destinatarios:"
+ },
+ {
+  "document_id": "DOC_00015",
+  "company": "Glovo",
+  "parrafos_implicados": [
+   "DOC_00015_P0721",
+   "DOC_00015_P0105"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "No compartimos tus datos con terceros, excepto con aquellos contactos que nos permitiste incorporar en tu cuenta de Glovo y/o amigos que aceptaste expresamente que formarán parte de tu lista de amigos de Glovo. No se realizarán transferencias internacionales de datos.",
+  "texto_afirmacion": "Si usted es un Mandatario, podemos compartir sus datos con diferentes grupos de destinatarios:"
+ },
+ {
+  "document_id": "DOC_00016",
+  "company": "Google Cloud",
+  "parrafos_implicados": [
+   "DOC_00016_P0037",
+   "DOC_00016_P0039"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not share Service Data with companies, organizations, or individuals outside of Google except in the following cases:",
+  "texto_afirmacion": "We share Service Data outside of Google when you or our customer choose(s) to procure a third-party service through Google Cloud Platform, the Google Cloud Platform Marketplace or the Google Workspace Marketplace, or use a third-party application that requests access to your Service Data."
+ },
+ {
+  "document_id": "DOC_00016",
+  "company": "Google Cloud",
+  "parrafos_implicados": [
+   "DOC_00016_P0037",
+   "DOC_00016_P0051"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not share Service Data with companies, organizations, or individuals outside of Google except in the following cases:",
+  "texto_afirmacion": "We share Service Data with trusted third party providers to process it for us as we instruct them and in compliance with this Privacy Notice and appropriate confidentiality and security measures. In particular, we share Service Data with our third party providers when you request technical support s"
+ },
+ {
+  "document_id": "DOC_00016",
+  "company": "Google Cloud",
+  "parrafos_implicados": [
+   "DOC_00016_P0037",
+   "DOC_00016_P0053"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not share Service Data with companies, organizations, or individuals outside of Google except in the following cases:",
+  "texto_afirmacion": "We share Service Data outside of Google when we have a good-faith belief that access to, or disclosure that Service Data is reasonably necessary to:"
+ },
+ {
+  "document_id": "DOC_00016",
+  "company": "Google Cloud",
+  "parrafos_implicados": [
+   "DOC_00016_P0050",
+   "DOC_00016_P0039"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell your Service Data to any third parties.",
+  "texto_afirmacion": "We share Service Data outside of Google when you or our customer choose(s) to procure a third-party service through Google Cloud Platform, the Google Cloud Platform Marketplace or the Google Workspace Marketplace, or use a third-party application that requests access to your Service Data."
+ },
+ {
+  "document_id": "DOC_00016",
+  "company": "Google Cloud",
+  "parrafos_implicados": [
+   "DOC_00016_P0050",
+   "DOC_00016_P0051"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell your Service Data to any third parties.",
+  "texto_afirmacion": "We share Service Data with trusted third party providers to process it for us as we instruct them and in compliance with this Privacy Notice and appropriate confidentiality and security measures. In particular, we share Service Data with our third party providers when you request technical support s"
+ },
+ {
+  "document_id": "DOC_00016",
+  "company": "Google Cloud",
+  "parrafos_implicados": [
+   "DOC_00016_P0050",
+   "DOC_00016_P0053"
+  ],
+  "confianza": 70,
+  "explicacion": "Un párrafo niega la cesión/venta de datos mientras otro describe una posible cesión a terceros; puede tratarse de ámbitos distintos, no de una incoherencia real.",
+  "texto_negacion": "We do not sell your Service Data to any third parties.",
+  "texto_afirmacion": "We share Service Data outside of Google when we have a good-faith belief that access to, or disclosure that Service Data is reasonably necessary to:"
+ }
+]
