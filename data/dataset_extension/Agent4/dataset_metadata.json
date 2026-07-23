@@ -1,0 +1,49 @@
+{
+  "dataset_name": "PrivacyLens Dataset",
+  "version": "1.0.0",
+  "creation_date": "2026-07-22",
+  "documents": 33,
+  "companies": 33,
+  "paragraphs": 10797,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "sectors": [
+    "Bancos",
+    "Buscadores",
+    "Cloud",
+    "Delivery",
+    "Ecommerce",
+    "Educación",
+    "Inteligencia Artificial",
+    "Marketplace segunda mano",
+    "Productividad",
+    "Redes Sociales",
+    "Retail",
+    "Seguros",
+    "Streaming",
+    "Telecomunicaciones",
+    "Transporte",
+    "Viajes"
+  ],
+  "categories": [
+    "First Party Collection/Use",
+    "Third Party Sharing/Collection",
+    "User Choice/Control",
+    "User Access, Edit & Deletion",
+    "Data Retention",
+    "Data Security",
+    "Policy Change",
+    "Do Not Track",
+    "International & Specific Audiences",
+    "Other"
+  ],
+  "embedding_model": "tfidf-hash-256-v1",
+  "embedding_dimension": 256,
+  "ner": "rule-based legal NER (es/en)",
+  "opp115_compatible": true,
+  "base_documents": "33 políticas oficiales post-RGPD (hash SHA-256 por documento en dataset/metadata/)",
+  "pipeline": "Agente0 fuentes → Agente1 extracción → Agente2 segmentación → Agente3 preanotación → Agente4 QA/release",
+  "validation_status": "APROBADO CON OBSERVACIONES"
+}

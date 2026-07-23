@@ -1,0 +1,64 @@
+{
+ "dataset": {
+  "documents": 33,
+  "companies": 33,
+  "sectors": [
+   "Bancos",
+   "Buscadores",
+   "Cloud",
+   "Delivery",
+   "Ecommerce",
+   "Educación",
+   "Inteligencia Artificial",
+   "Marketplace segunda mano",
+   "Productividad",
+   "Redes Sociales",
+   "Retail",
+   "Seguros",
+   "Streaming",
+   "Telecomunicaciones",
+   "Transporte",
+   "Viajes"
+  ],
+  "languages": [
+   "en",
+   "es"
+  ]
+ },
+ "paragraphs": {
+  "total": 10797,
+  "mean_per_document": 327.2,
+  "std_per_document": 349.8,
+  "words_mean": 28.4,
+  "words_max": 418,
+  "words_min": 1
+ },
+ "categories": {
+  "distribution": {
+   "Other": 8191,
+   "Third Party Sharing/Collection": 1038,
+   "User Choice/Control": 544,
+   "First Party Collection/Use": 411,
+   "Data Retention": 196,
+   "User Access, Edit & Deletion": 173,
+   "Data Security": 110,
+   "International & Specific Audiences": 85,
+   "Policy Change": 40,
+   "Do Not Track": 9
+  },
+  "imbalance_ratio_max_min": 910.1,
+  "note": "Desbalance esperado: 'Other' actúa como clase negativa; ponderar clases o sobremuestrear en el entrenamiento."
+ },
+ "quality": {
+  "duplicados_exactos_intra_documento": 3434,
+  "documentos_incompletos": [
+   "Reddit (falta sección de compartición)",
+   "Renfe (2 políticas de servicio inaccesibles)"
+  ],
+  "embeddings_faltantes": 0,
+  "explicaciones_incompletas": 0,
+  "entidades_detectadas": 2574,
+  "cobertura_rgpd_pct": 20.9,
+  "cobertura_opp115_pct": 24.1
+ }
+}
