@@ -1,0 +1,21 @@
+{
+  "name": "privacylens-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Frontend web de PrivacyLens — Legal AI que traduce políticas de privacidad a lenguaje claro",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
