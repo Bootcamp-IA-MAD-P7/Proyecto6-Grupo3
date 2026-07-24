@@ -1,0 +1,31 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+47,1,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,2,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,3,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,4,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,5,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,6,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_Other', 'Purpose_Service operation and security', 'Purpose_Unspecified', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,7,[],['Does/Does Not (opt)'],"['Does/Does Not (opt)_Does', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,8,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,9,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,10,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,11,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,12,"['First Party', 'Third Party']","['Information Type', 'Collection Mode (opt)', 'Third-Party Entity', 'Anonymization (opt)']","['Information Type_Location', 'Information Type_User online activities', 'Collection Mode (opt)_Explicit', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,13,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,14,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,15,['Third Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Other', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Entity_Other', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,16,[],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,17,[],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,18,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Merger or acquisition']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,19,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,20,"['First Party', 'Third Party']","['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,21,['Third Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,22,['First Party'],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does']",TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,23,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,24,['First Party'],"['Information Type', 'Choice Type (opt)']",['Information Type_Generic personal information'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,25,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,26,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,27,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,28,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,29,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False
+47,30,[],[],[],TRAIN,https://www.imprivata.de/de/privacy-policy,False

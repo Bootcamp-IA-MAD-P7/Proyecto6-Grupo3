@@ -1,0 +1,23 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+106,1,[],[],[],TEST,https://jodel.com/privacy/,True
+106,2,[],[],[],TEST,https://jodel.com/privacy/,True
+106,3,[],[],[],TEST,https://jodel.com/privacy/,True
+106,4,['First Party'],"['Information Type', 'Collection Process']","['Information Type_IP address and device IDs', 'Collection Process_Collected on first-party website/app']",TEST,https://jodel.com/privacy/,True
+106,5,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TEST,https://jodel.com/privacy/,True
+106,6,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TEST,https://jodel.com/privacy/,True
+106,7,['First Party'],['Purpose'],['Purpose_Legal requirement'],TEST,https://jodel.com/privacy/,True
+106,8,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Legal requirement', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Browser/device privacy controls']",TEST,https://jodel.com/privacy/,True
+106,9,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Third-Party Entity_Named third party']",TEST,https://jodel.com/privacy/,True
+106,10,[],['Choice Type (opt)'],[],TEST,https://jodel.com/privacy/,True
+106,11,['First Party'],['Legal Basis for Collection'],"['Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TEST,https://jodel.com/privacy/,True
+106,12,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity']","['Purpose_Essential service or feature', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Entity_Named third party']",TEST,https://jodel.com/privacy/,True
+106,13,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TEST,https://jodel.com/privacy/,True
+106,14,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Contractual necessity'],TEST,https://jodel.com/privacy/,True
+106,15,[],[],[],TEST,https://jodel.com/privacy/,True
+106,16,[],[],[],TEST,https://jodel.com/privacy/,True
+106,17,[],[],[],TEST,https://jodel.com/privacy/,True
+106,18,[],[],[],TEST,https://jodel.com/privacy/,True
+106,19,[],[],[],TEST,https://jodel.com/privacy/,True
+106,20,[],[],[],TEST,https://jodel.com/privacy/,True
+106,21,[],[],[],TEST,https://jodel.com/privacy/,True
+106,22,[],[],[],TEST,https://jodel.com/privacy/,True

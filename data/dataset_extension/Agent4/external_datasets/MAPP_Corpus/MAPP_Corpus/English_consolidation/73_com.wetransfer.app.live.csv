@@ -1,0 +1,65 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+73,1,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,2,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,3,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,4,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,5,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Choice Type (opt)_Opt-out link']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,6,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Other', 'Collection Process_Collected on first-party website/app']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,8,['First Party'],['Information Type'],['Information Type_Other'],TRAIN,https://wetransfer.com/legal/privacy,False
+73,9,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,10,['First Party'],['Information Type'],"['Information Type_Computer information', 'Information Type_Generic personal information']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,11,['First Party'],['Information Type'],"['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,12,['First Party'],['Information Type'],"['Information Type_Location', 'Information Type_User online activities']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,13,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Other', 'Collection Process_Directly received from third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,14,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Anonymization (opt)']","['Information Type_Demographic data', 'Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Legal requirement', 'Collection Process_Directly received from third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,15,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,16,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,17,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,18,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Service operation and security']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,19,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Generic personal information', 'Purpose_Analytics or research']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_Location', 'Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,21,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,22,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Contractual necessity']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,23,['First Party'],['Legal Basis for Collection'],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,24,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://wetransfer.com/legal/privacy,False
+73,25,"['First Party', 'Third Party']","['Collection Process', 'Legal Basis for Collection', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Unspecified', 'Collection Process_Shared by first party with a third party', 'Legal Basis for Collection_Legitimate interests of first or third party', 'Third-Party Entity_Named third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,26,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Third-Party Entity_Named third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,27,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Third-Party Entity_Named third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,28,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Optional service or feature', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,29,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,30,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,31,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,32,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,33,['Third Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://wetransfer.com/legal/privacy,False
+73,34,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,35,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,36,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,37,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Service operation and security']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,38,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,39,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,40,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Analytics or research']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,41,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://wetransfer.com/legal/privacy,False
+73,42,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,43,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,44,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,45,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,46,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,47,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,48,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,49,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,50,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,51,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,52,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,53,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,54,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,55,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,56,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,57,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,58,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,59,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,60,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,61,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,62,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False
+73,63,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://wetransfer.com/legal/privacy,False
+73,64,[],[],[],TRAIN,https://wetransfer.com/legal/privacy,False

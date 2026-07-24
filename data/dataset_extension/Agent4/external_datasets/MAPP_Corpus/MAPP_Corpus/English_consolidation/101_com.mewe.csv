@@ -1,0 +1,32 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+101,1,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,2,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,3,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,4,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,5,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,6,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,7,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,8,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,9,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,10,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,11,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,12,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,13,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,14,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,15,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mewe.com/privacy,True
+101,16,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Service operation and security', 'Collection Process_Shared by first party with a third party']",TRAIN,https://mewe.com/privacy,True
+101,17,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Analytics or research']",TRAIN,https://mewe.com/privacy,True
+101,18,['Third Party'],"['Purpose', 'Third-Party Entity']",['Purpose_Service operation and security'],TRAIN,https://mewe.com/privacy,True
+101,19,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Financial', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Third-Party Entity_Named third party']",TRAIN,https://mewe.com/privacy,True
+101,20,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mewe.com/privacy,True
+101,21,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Service operation and security']",TRAIN,https://mewe.com/privacy,True
+101,22,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,23,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,24,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,25,['First Party'],"['Information Type', 'Purpose']",['Purpose_Legal requirement'],TRAIN,https://mewe.com/privacy,True
+101,26,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,27,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,28,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,29,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,30,[],[],[],TRAIN,https://mewe.com/privacy,True
+101,31,[],[],[],TRAIN,https://mewe.com/privacy,True

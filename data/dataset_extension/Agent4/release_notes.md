@@ -1,6 +1,10 @@
-# PrivacyLens Dataset v1.0.0 — Release Notes
+# PrivacyLens Dataset — Release Notes
 
 **Para:** equipo PrivacyLens (Grupo 3) · **Fecha:** 2026-07-22
+
+> **Actualización v1.1.0 (mismo día):** el campo `rgpd_articles` usa ahora el mapeo académico oficial de Poplavska et al. 2020 (JURIX) y se añade `rgpd_principles_poplavska` (principios del Art. 5). Archivo de evaluación vigente: **`privacylens_dataset_v1_1.parquet`** (sustituye a `privacylens_dataset_v1.parquet`).
+
+## Qué incluye esta versión (v1.0.0)
 
 ## Qué incluye esta versión
 
@@ -12,9 +16,9 @@ Primera versión del dataset PrivacyLens Extended 2026, complementario de OPP-11
 - **NER jurídico** por reglas en `paragraph_entities.json`.
 - **Trazabilidad completa:** hash SHA-256 por documento fuente; cada predicción reconstruible vía `explainability.json`.
 
-## Archivo autorizado para entrenamiento
+## Rol de este dataset (specs/2_spec.md §1.3)
 
-`privacylens_dataset_v1.parquet` (espejo en CSV para inspección). Es el único archivo autorizado para entrenar el modelo Ensemble.
+**Material de evaluación y demo, no de entrenamiento.** `privacylens_dataset_v1_1.parquet` (espejo en CSV para inspección) es el archivo de evaluación vigente. Sus etiquetas son **de plata**: preanotación automática por reglas léxicas, sin revisión humana. **Prohibido entrenar con ellas** (specs/2_spec.md §11: "Entrenar con etiquetas generadas automáticamente sin validación humana" queda explícitamente fuera de alcance).
 
 ## Incidencias conocidas
 

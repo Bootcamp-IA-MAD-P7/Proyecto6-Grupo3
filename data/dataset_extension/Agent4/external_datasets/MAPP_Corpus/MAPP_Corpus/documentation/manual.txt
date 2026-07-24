@@ -1,0 +1,92 @@
+MAPP Corpus Manual
+=====================
+v1.0 Release
+
+
+Usage Information
+=================
+
+(C) Copyright 2022, all rights reserved. This dataset was developed by Carnegie Mellon University under the Usable Privacy Policy Project (www.usableprivacy.org). For any questions about this data, including licensing, please contact Prof. Norman Sadeh (sadeh@cs.cmu.edu).
+
+The annotations are made available for research, teaching, and scholarship purposes only, with further parameters in the spirit of a Creative Commons Attribution-NonCommercial License.
+
+If you use this dataset as part of a publication, you must cite the following LREC paper:
+
+A Tale of Two Regulatory Regimes: Creation and Analysis of a Bilingual Privacy Policy Corpus. Siddhant Arora, Henry Hosseini, Christine Utz, Vinayshekhar Bannihatti Kumar, Tristan Dhellemmes, Abhilasha Ravichander, Peter Story, Jasmine Mangat, Rex Chen, Martin Degeling, Tom Norton, Thomas Hupperich, Shomir Wilson, and Norman Sadeh. In Proceedings of the 13th Edition of the Language Resources and Evaluation Conference (LREC), Marseille, Paris, June 2022.
+
+The above paper is also an essential read for understanding the structure and contents of the corpus.
+
+Additionally, please email Norman Sadeh (sadeh@cs.cmu.edu) with copies of publications, technical reports, and other papers that use the MAPP corpus.
+
+Overview
+========
+
+This archive contains data processed and produced by the fine-grained annotation effort of the Usable Privacy Policy Project. Briefly, we had skilled annotators (i.e., graduate students in law) read a collection of mobile app privacy policies and annotate the policies with information on the privacy practices that they describe. These skilled workers used a web-based annotation tool to do this.
+
+Contained in this archive are the following subdirectories:
+-*English_consolidation/* contains CSV files showing the output of English annotators with inter-annotator redundancies removed.
+-*German_consolidation/* contains CSV files showing the output of German annotators with inter-annotator redundancies removed.
+-*documentation/* contains information about the archive contents.
+-*English_sanitized_policies/* contains the English privacy policy texts in a simplified, segmented format.
+-*German_sanitized_policies/* contains the German privacy policy texts in a simplified, segmented format.
+
+Version History
+===============
+
+*2022-08-31*: Original release of the MAPP Corpus (v1.0). 
+
+Terminology
+===========
+
+In this dataset, a *privacy practice* (or *data practice* or simply *practice*) is a structured annotation derived from privacy policy text by interpreting it. All privacy practices in the MAPP Corpus were created by human annotators. A practice consists of the following:
+-a selection of one of 2 *categories* ("first party collection/use", "third party collection/use")
+-a set of *attribute*-*value* selections (some attributes are optional, and each attribute is associated with a closed set of multiple potential values)
+-a set of *spans* of text selected from the policy, each associated with a value (spans are optional for some values)
+
+Privacy policies were divided into *segments* (very roughly paragraph-length snippets of text) for workers to read and annotate, one segment at a time - see LREC paper for more details. The annotation activity consisted of identifying zero or more data practices per segment. Three annotators worked on each policy's segments.
+
+In summary: a privacy policy is split into segments; each annotator identified zero or more data practices per segment ; each data practice consists of a data practice category (e.g.,"first party collection/use") selection and selections of values for attributes as associated with that data practice category; and some values are associated with text spans in the privacy policy. Please refer to the annotaion scheme included in "documentation/" folder.
+
+Consolidation
+=============
+
+Since multiple annotators worked on each privacy policy, they produced some redundant annotations. The English_consolidation/ directory contains the results of the consolidation algorithm to create standard gold annotations for  English privacy policies, as described in the paper. Similarly, German_consolidation/ directory contains the gold standard annotation for German privacy policies.
+
+Each CSV file in the consolidation directory uses the Excel dialect. Each row contains the information for a single segment. The columns are:
+
+1. (A) policy ID (this corresponds to the numeric prefixes in the policy filename, as found in other directories)
+2. (B) segment ID (the sequential identifier of the policy segment; e.g., the first segment in a policy's text is segment 1)
+3. (C) category name
+4. (D) attribute name
+5. (E) value name
+6. (F) policy type (indicates is policy is for training classifiers or testing)
+7. (G) policy URL
+8. (H) MAPP 59 (indicates is policy is part of semi-parallel corpus)
+
+The attribute-value dictionary (column 7/G), at its highest level, consists of keys (strings that correspond to attribute names) that map to nested dictionaries. The nested dictionaries have keys that specify the selected text, its location in the segment, and the value associated with the attribute.
+
+Note that practices in some categories have optional attributes (i.e., the annotator was not required to select a value for these attributes). The string "not-selected" represents unselected values.
+
+Documentation
+=============
+
+The contents of documentation/ explain the rest of the archive contents.
+-Annotation scheme.xslx is an XML file representing the deatiled annotation scheme.
+-readme.txt is this file.
+
+Sanitized Policies
+==================
+
+The sanitized_policies/ directory contains the simplified representations of the privacy policies that annotators viewed. All that remains is policy text with minimal markup for items like section titles and lists. The HTML in these files is divided into the segments. A new line serves as the separator between segments. No additional files are included in this directory.
+
+Credits
+=======
+
+This documentation was written by Siddhant Arora.
+
+We thank our policy annotators, who worked with us from the University of Pittsburgh and Fordham University. Without them this dataset would not have been possible.
+
+This research was partially funded by the National Science Foundation under grant agreement CNS-1330596 and CNS-1914486.
+
+
+END

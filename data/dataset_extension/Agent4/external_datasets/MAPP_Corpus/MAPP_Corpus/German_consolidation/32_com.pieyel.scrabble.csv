@@ -1,0 +1,38 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+32,1,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,2,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://scopely.com/privacy-de/,False
+32,3,['First Party'],"['Collection Process', 'Collection Mode (opt)']",['Collection Mode (opt)_Implicit'],TRAIN,https://scopely.com/privacy-de/,False
+32,4,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Other']",TRAIN,https://scopely.com/privacy-de/,False
+32,5,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Mode (opt)_Implicit']",TRAIN,https://scopely.com/privacy-de/,False
+32,6,['First Party'],"['Information Type', 'Purpose']","['Information Type_Location', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://scopely.com/privacy-de/,False
+32,7,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://scopely.com/privacy-de/,False
+32,8,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://scopely.com/privacy-de/,False
+32,9,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Other']",TRAIN,https://scopely.com/privacy-de/,False
+32,10,['First Party'],"['Purpose', 'Collection Mode (opt)', 'Choice Type (opt)']","['Purpose_Optional service or feature', 'Collection Mode (opt)_Explicit', 'Choice Type (opt)_Opt-in']",TRAIN,https://scopely.com/privacy-de/,False
+32,11,"['First Party', 'Third Party']","['Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Collection Process_Directly received from third party', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Entity_Other users', 'Third-Party Entity_Other', 'Choice Type (opt)_Opt-in']",TRAIN,https://scopely.com/privacy-de/,False
+32,12,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Third-Party Entity_Unnamed third party']",TRAIN,https://scopely.com/privacy-de/,False
+32,13,[],['Choice Type (opt)'],"['Choice Type (opt)_Opt-in', 'Choice Type (opt)_First-party privacy controls', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://scopely.com/privacy-de/,False
+32,14,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,15,['First Party'],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,16,[],['Choice Type (opt)'],[],TRAIN,https://scopely.com/privacy-de/,False
+32,17,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://scopely.com/privacy-de/,False
+32,18,['First Party'],"['Information Type', 'Choice Type (opt)']",['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://scopely.com/privacy-de/,False
+32,19,"['First Party', 'Third Party']",['Purpose'],"['Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://scopely.com/privacy-de/,False
+32,20,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://scopely.com/privacy-de/,False
+32,21,[],['Choice Type (opt)'],[],TRAIN,https://scopely.com/privacy-de/,False
+32,22,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,23,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,24,['First Party'],['Choice Type (opt)'],[],TRAIN,https://scopely.com/privacy-de/,False
+32,25,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,26,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://scopely.com/privacy-de/,False
+32,27,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,28,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Legal Basis for Collection_Public interest/official authority']",TRAIN,https://scopely.com/privacy-de/,False
+32,29,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://scopely.com/privacy-de/,False
+32,30,['Third Party'],['Purpose'],['Purpose_Other'],TRAIN,https://scopely.com/privacy-de/,False
+32,31,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,32,['First Party'],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,33,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,34,['First Party'],['Purpose'],[],TRAIN,https://scopely.com/privacy-de/,False
+32,35,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,36,[],[],[],TRAIN,https://scopely.com/privacy-de/,False
+32,37,[],[],[],TRAIN,https://scopely.com/privacy-de/,False

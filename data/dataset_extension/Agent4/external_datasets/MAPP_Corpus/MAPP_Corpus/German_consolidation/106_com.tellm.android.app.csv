@@ -1,0 +1,26 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+106,1,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,2,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,3,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,4,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,5,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,6,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,7,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,8,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Mode (opt)_Implicit']",TRAIN,https://jodel.com/de/privacy/,True
+106,9,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Collection Mode (opt)', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not', 'Collection Mode (opt)_Explicit']",TRAIN,https://jodel.com/de/privacy/,True
+106,10,['First Party'],"['Purpose', 'Does/Does Not (opt)', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Mode (opt)_Explicit']",TRAIN,https://jodel.com/de/privacy/,True
+106,11,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Legal requirement', 'Collection Mode (opt)_Explicit']",TRAIN,https://jodel.com/de/privacy/,True
+106,12,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Legal requirement', 'Does/Does Not (opt)_Does', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Browser/device privacy controls', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,https://jodel.com/de/privacy/,True
+106,13,[],['Information Type'],['Information Type_User online activities'],TRAIN,https://jodel.com/de/privacy/,True
+106,14,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,15,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://jodel.com/de/privacy/,True
+106,16,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Legal Basis for Collection', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Other', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://jodel.com/de/privacy/,True
+106,17,['First Party'],['Legal Basis for Collection'],[],TRAIN,https://jodel.com/de/privacy/,True
+106,18,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,19,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://jodel.com/de/privacy/,True
+106,20,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,21,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,22,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,23,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,24,[],[],[],TRAIN,https://jodel.com/de/privacy/,True
+106,25,[],[],[],TRAIN,https://jodel.com/de/privacy/,True

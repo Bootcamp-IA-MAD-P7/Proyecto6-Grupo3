@@ -1,0 +1,62 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+17,1,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,2,['First Party'],"['Purpose', 'Collection Process']",[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,3,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,4,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,5,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,6,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,7,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,8,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,9,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,10,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,11,['First Party'],['Purpose'],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,12,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,13,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,14,['First Party'],['Purpose'],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,15,['First Party'],['Purpose'],['Purpose_Legal requirement'],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,16,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,17,[],['Purpose'],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,18,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,19,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,20,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,21,[],['Purpose'],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,22,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,23,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,24,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,25,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,26,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,27,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,28,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,29,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,30,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,31,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,32,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,33,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,34,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,35,[],['User Type (opt)'],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,36,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,37,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,38,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,39,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,40,['Third Party'],"['Information Type', 'Third-Party Collection Process']",['Third-Party Collection Process_Other'],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,41,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,42,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,43,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,44,['First Party'],"['Choice Type (opt)', 'User Type (opt)']",[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,45,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out link'],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,46,[],['Choice Type (opt)'],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,47,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,48,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,49,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,50,['First Party'],"['Purpose', 'Does/Does Not (opt)', 'Anonymization (opt)']",[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,51,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,52,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,53,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,54,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,55,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,56,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,57,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,58,[],['Choice Type (opt)'],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,59,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,60,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True
+17,61,[],[],[],TEST,https://www.gameloft.com/de/privacy-notice/,True

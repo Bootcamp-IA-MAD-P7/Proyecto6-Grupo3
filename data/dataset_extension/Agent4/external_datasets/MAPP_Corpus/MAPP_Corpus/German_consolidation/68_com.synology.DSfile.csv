@@ -1,0 +1,134 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+68,1,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,2,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,3,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,4,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,5,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,6,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,7,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,8,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,9,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,10,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,11,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,12,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Mode (opt)_Explicit', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,13,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,14,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Service operation and security', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,15,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,16,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,17,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,18,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Unspecified', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,19,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,20,['First Party'],"['Information Type', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,21,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,22,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,23,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,24,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,25,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,26,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,27,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,28,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,29,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,30,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,31,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,32,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,33,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,34,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,35,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,36,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,37,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,38,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,39,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,40,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,41,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,42,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,43,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_IP address and device IDs', 'Purpose_Essential service or feature', 'Collection Process_Unspecified']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,44,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,45,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,46,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,47,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,48,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,49,['First Party'],"['Information Type', 'Purpose']",['Purpose_Analytics or research'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,50,['First Party'],"['Information Type', 'Purpose']",['Information Type_IP address and device IDs'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,51,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,52,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,53,[],['Anonymization (opt)'],['Anonymization (opt)_Aggregated or anonymized'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,54,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,55,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,56,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,57,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,58,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,59,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,60,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,61,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,62,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,63,['First Party'],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,64,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,65,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_IP address and device IDs']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,66,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,67,['First Party'],['Purpose'],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,68,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,69,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,70,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,71,['First Party'],"['Information Type', 'Purpose']",['Information Type_Financial'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,72,['First Party'],['Collection Process'],['Information Type_Unspecified'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,73,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,74,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,75,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-in'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,76,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,77,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Collection Process_Unspecified']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,78,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,79,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,80,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,81,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,82,['First Party'],"['Purpose', 'Does/Does Not (opt)']","['Information Type_Unspecified', 'Purpose_Other', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,83,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,84,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,85,['First Party'],['Collection Process'],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,86,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,87,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,88,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,89,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,90,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,91,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,92,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'User Type (opt)']","['Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'User Type (opt)_Users with account']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,93,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,94,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,95,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,96,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,97,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Other']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,98,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,99,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,100,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,101,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,102,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,103,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,104,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,105,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,106,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,107,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,108,[],['Information Type'],"['Information Type_Computer information', 'Information Type_Other']",TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,109,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,110,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,111,['First Party'],['Information Type'],['Information Type_Computer information'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,112,['First Party'],['Purpose'],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,113,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,114,['First Party'],['Information Type'],['Information Type_Computer information'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,115,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,116,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,117,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,118,['First Party'],"['Information Type', 'Collection Process', 'Choice Type (opt)']",['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,119,['First Party'],"['Purpose', 'Collection Process']",['Collection Process_Directly received from third party'],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,120,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,121,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,122,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,123,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,124,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,125,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,126,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,127,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,128,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,129,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,130,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,131,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,132,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False
+68,133,[],[],[],TRAIN,https://www.synology.com/de-de/company/legal/privacy,False

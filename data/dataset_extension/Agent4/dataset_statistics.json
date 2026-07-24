@@ -59,6 +59,23 @@
   "explicaciones_incompletas": 0,
   "entidades_detectadas": 2574,
   "cobertura_rgpd_pct": 20.9,
-  "cobertura_opp115_pct": 24.1
+  "cobertura_opp115_pct": 24.1,
+  "cobertura_rgpd_pct_v1.1.0": 19.8,
+  "cobertura_principios_art5_pct_v1.1.0": 20.1
+ },
+ "rgpd_mapping": {
+  "source": "Poplavska et al. 2020 (JURIX) - Connections Between OPP-115 and the GDPR",
+  "top_articles": {
+   "Art. 4": 1795,
+   "Art. 6": 1795,
+   "Art. 9": 1698,
+   "Art. 30": 1503,
+   "Art. 49": 1379,
+   "Art. 37": 1222,
+   "Art. 38": 1222,
+   "Art. 39": 1222,
+   "Art. 19": 1058,
+   "Art. 28": 1000
+  }
  }
 }

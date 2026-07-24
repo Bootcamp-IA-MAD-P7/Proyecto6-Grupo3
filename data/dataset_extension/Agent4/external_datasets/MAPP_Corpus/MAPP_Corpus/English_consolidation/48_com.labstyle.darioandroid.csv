@@ -1,0 +1,70 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+48,1,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,2,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,3,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,4,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,5,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,6,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,7,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,8,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,9,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,10,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,11,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,12,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,13,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,14,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Computer information', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mydario.com/privacy-policy/,True
+48,15,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mydario.com/privacy-policy/,True
+48,16,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Tracked user on third-party website/app']",TRAIN,https://mydario.com/privacy-policy/,True
+48,17,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Health, genetic, or biometric data', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mydario.com/privacy-policy/,True
+48,18,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Other']",TRAIN,https://mydario.com/privacy-policy/,True
+48,19,['First Party'],['Information Type'],"['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information']",TRAIN,https://mydario.com/privacy-policy/,True
+48,20,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Location'],TRAIN,https://mydario.com/privacy-policy/,True
+48,21,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TRAIN,https://mydario.com/privacy-policy/,True
+48,22,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,23,['Third Party'],"['Purpose', 'Collection Process', 'Anonymization (opt)']","['Purpose_Analytics or research', 'Collection Process_Shared by first party with a third party', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://mydario.com/privacy-policy/,True
+48,24,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,25,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mydario.com/privacy-policy/,True
+48,26,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://mydario.com/privacy-policy/,True
+48,27,[],['Choice Type (opt)'],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,28,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Third-Party Entity_Unnamed third party']",TRAIN,https://mydario.com/privacy-policy/,True
+48,29,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app']",TRAIN,https://mydario.com/privacy-policy/,True
+48,30,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://mydario.com/privacy-policy/,True
+48,31,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,32,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://mydario.com/privacy-policy/,True
+48,33,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://mydario.com/privacy-policy/,True
+48,34,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,35,['Third Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party']",TRAIN,https://mydario.com/privacy-policy/,True
+48,36,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Choice Type (opt)_Opt-in']",TRAIN,https://mydario.com/privacy-policy/,True
+48,37,['Third Party'],"['Information Type', 'Purpose', 'Collection Process']","['Purpose_Analytics or research', 'Purpose_Legal requirement', 'Purpose_Other', 'Collection Process_Shared by first party with a third party']",TRAIN,https://mydario.com/privacy-policy/,True
+48,38,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_Generic personal information', 'Purpose_Analytics or research', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://mydario.com/privacy-policy/,True
+48,39,['Third Party'],"['Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party']",TRAIN,https://mydario.com/privacy-policy/,True
+48,40,['Third Party'],"['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Third-Party Entity_Unnamed third party']",TRAIN,https://mydario.com/privacy-policy/,True
+48,41,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,42,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,43,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,44,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,45,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,46,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,47,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Named third party'],TRAIN,https://mydario.com/privacy-policy/,True
+48,48,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,49,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,50,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,51,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,52,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,53,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,54,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,55,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,56,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,57,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,58,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,59,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://mydario.com/privacy-policy/,True
+48,60,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,61,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,62,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Choice Type (opt)_Opt-in']",TRAIN,https://mydario.com/privacy-policy/,True
+48,63,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,64,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,65,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,66,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,67,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,68,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True
+48,69,[],[],[],TRAIN,https://mydario.com/privacy-policy/,True

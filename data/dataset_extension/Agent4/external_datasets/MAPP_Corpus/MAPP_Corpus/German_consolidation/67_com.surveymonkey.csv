@@ -1,0 +1,60 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+67,1,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,2,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,3,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,4,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,5,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,6,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,7,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,8,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,9,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,10,[],['Collection Mode (opt)'],['Collection Mode (opt)_Explicit'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,11,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,12,['First Party'],['Information Type'],"['Information Type_IP address and device IDs', 'Information Type_Computer information']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,13,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,14,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,15,['First Party'],['Information Type'],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,16,['First Party'],"['Information Type', 'Purpose', 'User Type (opt)']","['Information Type_Contact information', 'User Type (opt)_Users with account']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,17,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,18,['First Party'],['Choice Type (opt)'],['Choice Type (opt)_First-party privacy controls'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,19,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,20,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)', 'User Type (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Does/Does Not (opt)_Does Not', 'User Type (opt)_Users with account']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,21,['First Party'],"['Information Type', 'User Type (opt)']","['Information Type_Unspecified', 'User Type (opt)_Users with account']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,22,['Third Party'],"['Information Type', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Other', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,23,['Third Party'],"['Information Type', 'Third-Party Entity']",['Information Type_Contact information'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,24,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Advertising or marketing', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,25,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,26,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,27,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,28,['First Party'],['Information Type'],['Information Type_Cookies and tracking elements'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,29,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,30,['First Party'],"['Information Type', 'Anonymization (opt)']",['Information Type_User online activities'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,31,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Service operation and security']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,32,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,33,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Purpose_Personalization or customization']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,34,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,35,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,36,['First Party'],"['Information Type', 'Choice Type (opt)']",[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,37,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,38,['First Party'],"['Information Type', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Does/Does Not (opt)_Does Not', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,39,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,40,['First Party'],"['Information Type', 'Does/Does Not (opt)']",['Does/Does Not (opt)_Does Not'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,41,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,42,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,43,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,44,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,45,['First Party'],"['Information Type', 'Legal Basis for Collection']",['Information Type_Generic personal information'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,46,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,47,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,48,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Choice Type (opt)_Opt-out via contacting company', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,49,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,50,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,51,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,52,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,53,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,54,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,55,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,56,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,57,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,58,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False
+67,59,[],[],[],TRAIN,https://www.surveymonkey.de/mp/legal/privacy-policy/,False

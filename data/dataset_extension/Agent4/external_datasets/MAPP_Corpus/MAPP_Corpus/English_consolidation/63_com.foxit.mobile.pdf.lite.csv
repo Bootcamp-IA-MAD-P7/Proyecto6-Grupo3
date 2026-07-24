@@ -1,0 +1,67 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+63,1,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,2,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,3,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,4,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,5,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,6,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,8,['First Party'],['Purpose'],"['Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,9,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,10,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,11,['First Party'],['Legal Basis for Collection'],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,12,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Financial', 'Information Type_Contact information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,13,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Other', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,14,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,15,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Legal Basis for Collection_Consent']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,16,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Legal Basis for Collection_Consent', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,17,['First Party'],['Purpose'],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,18,['First Party'],"['Purpose', 'Legal Basis for Collection']","['Purpose_Analytics or research', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,19,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,20,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Purpose_Analytics or research', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,21,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,22,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,23,[],"['Information Type', 'Choice Type (opt)']","['Choice Type (opt)_Opt-in', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,24,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Collection Process_Entered by user on first-party website/app', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,25,['Third Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,26,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,27,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Collection Process_Entered by user on first-party website/app', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,28,['Third Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,29,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,30,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Collection Process_Other', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Third-party privacy controls']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,31,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,32,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Tracked on first-party website/app by third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,33,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,34,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,35,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,36,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Collection Process_Tracked on first-party website/app by third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,37,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Unspecified', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,38,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,39,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Legal Basis for Collection', 'Third-Party Entity']","['Information Type_Social media data', 'Information Type_Unspecified', 'Purpose_Unspecified', 'Collection Process_Shared by first party with a third party', 'Collection Process_Directly received from third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,40,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,41,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection', 'Third-Party Entity']","['Collection Process_Entered by user on first-party website/app', 'Legal Basis for Collection_Contractual necessity', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,42,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,43,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Collection Process_Entered by user on first-party website/app', 'Third-Party Entity_Named third party']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,44,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,45,['Third Party'],"['Information Type', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Social media data', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,46,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,47,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,48,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,49,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,50,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,51,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,52,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,53,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,54,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,55,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,56,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Other', 'Purpose_Analytics or research', 'Choice Type (opt)_Opt-out link']",TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,57,['First Party'],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,58,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,59,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,60,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,61,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,62,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,63,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,64,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,65,[],[],[],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True
+63,66,['First Party'],"['Information Type', 'Purpose']",['Information Type_Cookies and tracking elements'],TRAIN,https://www.foxitsoftware.com/company/privacy-policy.php,True

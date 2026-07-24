@@ -1,0 +1,370 @@
+Klarna Datenschutzerklärung Ihre Privatsphäre ist uns bei Klarna sehr wichtig. Daher erheben und verarbeiten wir Ihre personenbezogenen Daten stets verantwortungsbewusst und unter Beachtung Ihrer Privatsphäre. Diese Datenschutzerklärung erläutert, wie Klarna Bank AB (publ) („Klarna") Ihre personenbezogenen Daten erhebt und nutzt, wenn Sie Dienstleistungen von Klarna (die „Dienste") nutzen und Kunde bei uns werden. Sie nutzen unsere Dienste beispielsweise immer dann, wenn Sie mit einer unserer Zahlungsmethoden bezahlen, uns kontaktieren, das Klarna Webportal und die Mobilapplikation (die „Klarna App") nutzen oder Ihre Angaben an der Kasse eines Händlers automatisch ausgefüllt werden. Diese Datenschutzerklärung informiert Sie ebenso über Ihre Rechte in Bezug auf Ihre personenbezogenen Daten und darüber, wie Sie diese Rechte ausüben können.
+
+Sofern in dem nachfolgenden Abschnitt 1 nichts anderes geregelt ist, gilt diese Datenschutzerklärung für alle von Klarna verarbeiteten Daten. Es ist daher wichtig, dass Sie diese Datenschutzerklärung lesen und verstehen.
+
+Einige unserer Dienste bieten Ihnen Zugang zu Inhalten und Funktionen, die von anderen Unternehmen oder Organisationen als Klarna angeboten werden ("Dritte"). Dies ist z.B. der Fall, wenn wir von unseren Websites auf Websites Dritter verlinken oder wenn Sie auf Websites Dritter zugreifen, während Sie den Webbrowser in der Klarna App benutzen. Diese Datenschutzerklärung gilt nicht für die Erhebung und Nutzung Ihrer personenbezogenen Daten in den Diensten Dritter, und Klarna ist nicht verantwortlich für die Verarbeitung Ihrer personenbezogenen Daten durch diese Dritten.
+
+„Wir", „unser" oder „uns" bezeichnet die Klarna Bank AB (publ), eine Gesellschaft schwedischen Rechts, eingetragen im schwedischen Unternehmensregister unter der Nummer 556737-0431 und mit Hauptgeschäftssitz in Sveavägen 46, 111 34 Stockholm, Schweden. Gemäß europäischem Datenschutzrecht sind wir „Verantwortlicher" für Ihre personenbezogenen Daten, die wir von Ihnen erhalten oder die wir auf andere Weise erheben, und wir sind dafür verantwortlich, dass Ihre Daten in Übereinstimmung mit den anwendbaren Datenschutzgesetzen genutzt werden.
+
+1. Andere Datenschutzerklärungen von Klarna Die Dienste Klarna Ident und Klarna Open Banking verwenden Ihre personenbezogenen Daten gemäß den Bestimmungen in den jeweiligen eigenen Datenschutzerklärungen dieser "Dienste", die Ihnen bei der Nutzung dieser Dienste angezeigt werden. Diese gesonderten Hinweise gelten dann anstelle der hier genannten Informationen. Gesonderte Datenschutzerklärungen können auch für bestimmte Aktionen oder Angebote gelten, die nur zeitweilig verfügbar sind. In diesem Fall werden diese gesonderten Datenschutzerklärungen im Rahmen der Aktion oder des Angebots angezeigt.
+
+Sind Sie Mitarbeiter von Klarna, Bewerber für eine Stelle bei Klarna oder Mitarbeiter eines Händlers, der mit Klarna zusammenarbeitet, gelten für die Verarbeitung Ihrer personenbezogenen Daten durch Klarna für diese Zwecke andere Datenschutzerklärungen; Sie erhalten die entsprechenden Informationen im Rahmen Ihres Kontaktes zu Klarna. Kontaktieren Sie uns über die in Abschnitt 13 genannten Angaben, wenn Sie ein Exemplar der jeweiligen Datenschutzerklärung erhalten möchten.
+
+2. Welche Angaben verwenden wir? 2.1 Angaben, die Sie uns mitteilen Sie teilen uns Angaben über sich mit, wenn Sie einen der Dienste von Klarna nutzen, z. B. wenn Sie sich dafür entscheiden, mit einer Klarna-Zahlungsmethode zu bezahlen, uns kontaktieren oder die Klarna App nutzen. Beachten Sie bitte, dass Sie bei Nutzung unserer Dienste nur Ihre eigenen personenbezogenen Daten angeben dürfen, damit diese Ihnen ordnungsgemäß zur Verfügung gestellt werden können.
+
+Abhängig davon, welchen Dienst Sie nutzen, sind folgende personenbezogene Daten betroffen: Kontakt- und Identifikationsinformationen: Name, Geburtsdatum, nationale Ausweisnummer, Titel, Rechnungs- und Lieferadresse, E-Mail-Adresse, Mobiltelefonnummer; Nationalität, Gehalt etc.
+
+Zahlungsinformationen: Debit- und Kreditkartendaten (Kartennummer, Gültigkeitsdatum und die CVV-Prüfziffer), Kontonummer etc.
+
+Besondere Kategorien von Daten: Sie können sich im alleinigen Ermessen entscheiden, ob Sie uns „besondere Kategorien personenbezogener Daten" im Sinne der EU-Verordnung 2016/679 („DS-GVO") freiwillig zur Verfügung stellen wollen. Das betrifft beispielsweise Daten, aus denen religiöse, politische oder weltanschauliche Überzeugungen oder eine Gewerkschaftszugehörigkeit hervorgehen, oder Gesundheitsdaten und Daten zum Sexualleben oder der sexuellen Orientierung. Wir benötigen diese Art von Daten niemals zur Erbringung unserer Dienste. Die Zurverfügungstellung dieser Daten erfolgt immer freiwillig und auf Grundlage Ihrer ausdrücklichen Einwilligung. Abschnitt 5 können Sie entnehmen, wie eine solche Einwilligung widerrufen werden kann.
+
+Sie können jederzeit Ihre Profilinformationen wie Kontaktdaten und andere Einstellungen ändern. Die Änderungen können Sie entweder in der Klarna App selbst vornehmen oder uns dafür kontaktieren.
+
+2.2 Daten, die wir von Ihnen erfassen Abhängig davon, welche unserer Dienste Sie nutzen, können wir folgende Ihrer Daten entweder selbst oder über Dritte (z. B. Auskunfteien/Betrugspräventionsstellen, Händler, öffentliche Datenbanken) erheben: Kontakt- und Identifikationsinformationen: Name, Geburtsdatum, nationale Ausweisnummer, Titel, Beruf, Geschlecht, Rechnungs- und Lieferadresse, E-Mail-Adresse, Mobiltelefonnummer, Nationalität etc.
+
+Informationen über Waren/Dienstleistungen: Details zu den Waren/Dienstleistungen, die Sie kaufen bzw. bestellen, wie z. B. die Art der Waren oder die Sendungsnummer.
+
+Finanzinformationen: Eingeholte Auskünfte Dritter über Finanzen, z. B. Ihr Einkommen, eventuelle Kreditverpflichtungen, negative Bonitätseinträge, Zahlungshistorie und Kreditgewährungen.
+
+Informationen über die Interaktion zwischen Ihnen und Klarna: Art Ihrer Nutzung der Dienste, einschließlich Angaben zu offenen und bisherige Verbindlichkeiten und Ihre (Rück-)Zahlungshistorie bei Klarna; technische Daten wie Seitenladezeiten, Downloadfehler, persönliche Präferenzen; Ihre Interaktion mit dem Klarna-Kundendienst etc.
+
+Aufgezeichnete Telefonate: Wir zeichnen die Telefonate auf, wenn Sie unseren Kundendienst anrufen.
+
+Informationen über die Interaktion zwischen Ihnen und den Händlern: Ihre Kontakte mit Händlern, die Sie besuchen oder bei denen Sie einkaufen, wie z. B. ob die Waren zugestellt wurden und die Art des Händlers.
+
+Gerätebezogene Informationen: z. B. IP-Adresse, Spracheinstellungen, Browsereinstellungen, Zeitzoneneinstellungen, Betriebssystem und -plattform und Bildschirmauflösung. In Abschnitt 11 erfahren Sie mehr darüber, wie wir ggf. Informationen von Ihrem Gerät erheben oder Informationen auf Ihrem Gerät speichern.
+
+Informationen aus Sanktions- und PEP-Listen: Wir können Ihre Angaben mit Listen von sanktionierten Personen und politisch exponierten Personen, sogenannte PEP-Listen, abgleichen. Diese Listen enthalten Informationen wie Namen, Geburtsdatum, Geburtsort, Beruf oder Stellung und den Grund für die Aufnahme in die Liste.
+
+Dienste-spezifische Informationen: Um Ihnen einige unserer Dienste zur Verfügung zu stellen, können wir zusätzliche personenbezogene Daten erheben und verarbeiten, die nicht in den o. g. Kategorien erfasst sind. Abschnitt 4 gibt Auskunft darüber, welche dieser zusätzlichen personenbezogenen Daten für einen bestimmten Dienst verarbeitet werden.
+
+3. Welche Ihrer personenbezogenen Daten verarbeiten wir, zu welchem Zweck und auf welcher Rechtsgrundlage?Je nachdem, welche Dienste Sie nutzen, darf Klarna Ihre personenbezogenen Daten für die nachfolgend aufgeführten Zwecke auf Basis der für den jeweiligen Zweck angegebenen Rechtsgrundlagen verarbeiten. Weitergehende Informationen darüber, wie wir Ihre Daten im Falle bestimmter Dienste verarbeiten, finden Sie in Abschnitt 4.
+
+Verarbeitung zum Zweck der Erbringung unserer Dienste Zweck der Verarbeitung Personenbezogene Daten Rechtliche Grundlage für die Verarbeitung Verwaltung der Kundenbeziehung mit Ihnen in verschiedenen Szenarien, z. B. zur Verarbeitung Ihrer Zahlung oder zur Erfüllung unserer Verpflichtungen aus zwischen Ihnen und uns geschlossenen Kreditverträgen.
+
+Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, Dienste-spezifische Informationen.
+
+Vertragserfüllung Erstellung und Versendung von Informationen in einem elektronischen Format (keine Werbung).
+
+Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, Dienste-spezifische Informationen.
+
+Vertragserfüllung Überprüfung der geeignetsten Art der Kontaktaufnahme mit Ihnen zur Information über offene Forderungen.
+
+Kontakt- und Identifikationsinformationen, Finanzinformationen (sofern bei uns vorhanden) und Informationen über die Interaktion zwischen Ihnen und Klarna.
+
+Klarna hat ein berechtigtes Interesse daran, mit Ihnen auf dem wirksamsten Weg in Kontakt treten zu können.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Überprüfung, in welcher Reihenfolge Ihnen verschiedene Zahlungsmethoden beim Kassiervorgang eines Händlers präsentiert werden sollten. Diese Datenverarbeitung und Präsentation hat jedoch keinen Einfluss darauf, welche Zahlungsmethoden Ihnen zur Verfügung stehen.
+
+Sie können dem jederzeit widersprechen, indem Sie uns über die untenstehenden Kontaktdaten kontaktieren.
+
+Diese Verarbeitung stellt ein Profiling dar. Weitere Informationen zum Profiling finden Sie in Abschnitt 6.
+
+Kontakt- und Identifikationsinformationen, Informationen über Waren/Dienstleistungen, Informationen über die Interaktion zwischen Ihnen und Klarna sowie Informationen über die Interaktion zwischen Ihnen und den Händlern.
+
+Wenn Sie die in Abschnitt 4.4 dargestellten Klarna-Nutzungsbedingungen akzeptiert haben, ist die geltende Rechtsgrundlage die Erfüllung der vertraglichen Verpflichtungen.
+
+Wenn Sie diese Bedingungen jedoch nicht akzeptiert haben, stützt Klarna diese Verarbeitung auf ein berechtigtes Interesse, da Klarna (und Sie als Kunde) ein berechtigtes Interesse daran haben, dass Ihre bevorzugte Zahlungsweise an einer gut sichtbaren Stelle in der Kasse präsentiert wird.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Erfüllung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse daran, dass Ihre persönlichen Daten nicht zu diesem Zweck verarbeitet werden, überwiegt.
+
+Durchführung von Kundenzufriedenheitsumfragen zu unseren Diensten (z. B. nach einer Kontaktaufnahme mit dem Klarna Kundendienst) per E-Mail, SMS, Telefon oder auf andere Weise.
+
+Sie können dem jederzeit widersprechen. Sie werden auch bei jeder Nutzung Ihrer E-Mail-Adresse oder Telefonnummer zu diesem Zweck über Ihr Widerspruchsrecht (‚opt-out') informiert.
+
+Kontakt- und Identifikationsinformationen, Informationen über Waren/Dienstleistungen, Informationen über die Interaktion zwischen Ihnen und Klarna, und Informationen über die Interaktion zwischen Ihnen und den Händlern.
+
+Klarna hat ein berechtigtes Interesse an der Durchführung von Kundenzufriedenheitsumfragen.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Bei Anrufen: Ihre ausdrückliche Einwilligung Durchführung von Bonitätsprüfungen vor Kreditgewährung (s. a. Abschnitt 4.1 zu den Klarna Kredit-Diensten und Abschnitt 7.4. zu unserer Kooperation mit Kreditauskunfteien).
+
+Kontakt- und Identifikationsinformationen, Finanzinformationen und Informationen über die Interaktion zwischen Ihnen und Klarna.
+
+Einhaltung gesetzlicher Bestimmungen bei gesetzlich geregelten Kreditvergaben. Unterliegt ein Kredit keinen solchen gesetzlichen Regelungen, erfolgt die Verarbeitung zum Zwecke der Vertragserfüllung.
+
+Verhinderung von IT-Angriffen (z. B. DDoS-Angriffe) auf die Dienste von Klarna im Rahmen unserer Bemühungen um Schutz und Sicherheit unserer Dienste.
+
+Kontakt- und Identifikationsinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, und Gerätedaten.
+
+Klarna hat ein berechtigtes Interesse daran, unsere Dienste vor Gefahren zu schützen.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Um Sie als besonders schutzwürdigen Kunden behandeln zu können (sofern Sie sich aufgrund persönlicher Umstände in einer besonders schutzwürdigen Lage befinden).
+
+Kontakt- und Identifikationsinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, und besondere Kategorien personenbezogener Daten.
+
+Aufgrund Ihrer Einwilligung.Verbesserung unserer Dienste, Schulung und Qualitätssicherung und Dokumentation der zwischen Ihnen und dem Kundenservice von Klarna besprochenen Belange und Entscheidungen.
+
+Aufgezeichnete Telefonate.Aufgrund Ihrer Einwilligung.Übermittlung Ihrer Daten an Händler, Dienstleister und andere Empfänger. (s. a. Abschnitt 7 mit weiteren Hinweisen zu Art und Zweck der Datenweitergabe).
+
+Alle Kategorien personenbezogener Daten gemäß Abschnitt 2.Das hängt von den Empfängern ab, s. a. Abschnitt 7. So hat Klarna beispielsweise ein berechtigtes Interesse an der Einbeziehung von Dienstleistern zur Erbringung der Dienste, und wir sind möglicherweise gesetzlich verpflichtet, Daten an Behörden weiterzugeben. Datenübermittlungen zu anderen Zahlungsdienstleistern müssen zur Durchführung des Zahlungsvertrags mit Ihnen erfolgen.
+
+Durchführung von Risikoanalysen, Betrugsprävention und Risikomanagement (z. B. zur Überprüfung Ihrer Identität und Abgleich mit Betrugspräventionsstellen oder ähnlichen Einrichtungen).
+
+Sie finden unter Abschnitt 7 eine ausführlichere Beschreibung der Unternehmen, mit denen wir bei der Betrugsprävention kooperieren.
+
+Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, und Gerätebezogene Informationen.
+
+Klarna und andere Beteiligte (in erster Linie unsere Kunden) haben ein berechtigtes Interesse am Risikomanagement des Geschäftes von Klarna , z. B. im Umgang mit Betrugsrisiken.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Außerdem ist Klarna rechtlich verpflichtet, die Identität ihrer Kunden zu ermitteln.
+
+Forderungsbeitreibung, d. h. Inkasso und Verkauf von Forderungen.Kontakt- und Identifikationsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, und Informationen über die Interaktion zwischen Ihnen und den Händlern.
+
+Klarna hat ein berechtigtes Interesse an Inkasso und Verkauf von Forderungen.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Produktverbesserung und Forschung Anonymisierung Ihrer personenbezogenen Daten für die Produktentwicklung zur Analyse des Kundenverhaltens.
+
+Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, und Dienste-spezifische Informationen.
+
+Klarna hat ein berechtigtes Interesse an der Anonymisierung Ihrer personenbezogenen Daten für die Produktentwicklung zur Analyse des Kundenverhaltens.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Durchführung von Datenanalysen für Produktverbesserung und Produktprüfung (z. B. zur Verbesserung von Risiko- und Betrugsmodellen).
+
+Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, Informationen aus Sanktions- und PEP-Listen, und Dienste-spezifische Informationen.
+
+Klarna hat ein berechtigtes Interesse an der Durchführung von Datenanalysen zur Produktverbesserung und Produktprüfung.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Ermöglichen von interner Forschung und Erstellung von statistischen Modellen.Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, und Dienste-spezifische Informationen.
+
+Klarna hat ein berechtigtes Interesse an der Unterstützung interner Forschung und der Erstellung statistischer Modelle.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Ermöglichen von externer Forschung, z. B. durch Universitäten oder andere Einrichtungen.
+
+Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, und Dienste-spezifische Informationen.
+
+Klarna hat ein berechtigtes Interesse an der Förderung externer Forschung und trägt mit der Förderung der Forschung zum Gemeinwohl der Gesellschaft bei.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Compliance und Abwehr rechtlicher Ansprüche gegen Klarna Einhaltung anwendbarer Gesetze, wie z. B. Geldwäsche- und Rechnungslegungsvorschriften und gesetzliche Eigenkapitalanforderungen.
+
+Kontakt- und Identifikationsinformationen, Zahlungsinformationen, Informationen über Waren/Dienstleistungen, Finanzinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, Informationen aus Sanktions- und PEP-Listen, und Dienste-spezifische Informationen.
+
+Einhaltung gesetzlicher Vorschriften.Abgleich von Sanktionslisten und Listen sog. ‚politisch exponierter Personen' (PEP).
+
+Kontakt- und Identifikationsinformationen, Informationen aus externen Sanktions- und PEP-Listen.Einhaltung gesetzlicher Vorschriften.Schutz Klarnas vor rechtlichen Ansprüchen und Durchsetzung rechtlicher Ansprüche von Klarna.
+
+Alle Kategorien personenbezogener Daten gemäß Abschnitt 2.Klarna hat ein berechtigtes Interesse an der Abwehr von rechtlichen Ansprüchen und an der Durchsetzung ihrer Rechte.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Zu Werbezwecken Um Ihnen Werbung und Angebote rund um unsere Dienste zur Verfügung zu stellen.
+
+Sie können dem jederzeit widersprechen, indem Sie Kontakt zu uns aufnehmen, s. Abschnitt 13.
+
+Kontakt- und Identifikationsinformationen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, und Dienste-spezifische Informationen.
+
+Klarna hat ein berechtigtes Interesse daran, Ihnen Angebote und Werbung zur Verfügung zu stellen.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Auswahl der an Sie gerichteten Werbung. Diese Verarbeitung endet auch dann, wenn Sie dem Erhalt von Werbung widersprechen.
+
+Kontakt- und Identifikationsinformationen, Informationen über Waren/Dienstleistungen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und den Händlern, Gerätebezogene Informationen, und Dienste-spezifische Informationen.
+
+Klarna hat ein berechtigtes Interesse an der Entscheidung, welche Art von Werbung Sie erhalten sollen.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+Bereitstellung von Links, die gesponsert sind und die Produkte und Dienstleistungen von Händlern vermarkten.
+
+Informationen über Waren/Dienstleistungen, Informationen über die Interaktion zwischen Ihnen und Klarna, Informationen über die Interaktion zwischen Ihnen und Händlern, Geräteinformationen und dienstleistungsspezifische Informationen.
+
+Klarna hat ein berechtigtes Interesse an der Bereitstellung von Links, die gesponsert sind und die unsere Händler in der Klarna App und auf unserer Website vermarkten.
+
+Wir stellen sicher, dass die zu diesem Zweck durchgeführte Verarbeitung zur Wahrung unseres berechtigten Interesses notwendig ist und dass unser Interesse Ihr Interesse überwiegt, Ihre personenbezogenen Daten nicht für diesen Zweck verarbeiten zu lassen.
+
+4. Dienste-spezifische Verarbeitung Ihrer personenbezogenen Daten für bestimmte Klarna DiensteDieser Abschnitt befasst sich mit bestimmten Verarbeitungstätigkeiten in Bezug auf Ihre personenbezogenen Daten bei bestimmten Diensten. Mehr Informationen zu diesen Diensten, einschließlich ihrer Besonderheiten, finden Sie in den jeweiligen AGBs.
+
+4.1 Klarna Kredit-Dienste Bei folgenden Diensten gewähren wir Ihnen einen Kredit: Pay Later (Rechnung), Pay Now (wenn per Lastschrift), Financing, Klarna Card und die Einmalkarte (beide in der Klarna App verfügbar). Zur Erbringung der Dienste überprüfen wir Ihre Bonität. Die Bonitätsprüfung basiert auf den von Ihnen zur Verfügung gestellten Kontakt- und Identifikationsinformationen, auf den Informationen über die Interaktion zwischen Ihnen und Klarna und auf Finanzinformationen. Finanzinformationen sind u. a. extern bezogene Informationen von Kreditauskunfteien, wie z. B. Einträge über Einkommen und Zahlungsverhalten. Weitere Informationen über unsere Nutzung von Kreditauskunfteien finden Sie in Abschnitt 7.4.
+
+Die Klarna Card und die Einmalkarte Bei Beantragung einer Klarna Card oder einer Einmalkarte (in der Klarna App verfügbar) führt Klarna dieselbe Bonitätsprüfung durch wie für unsere anderen Kredit-Dienste. Wenn Sie eine Klarna Card haben, aktualisiert Klarna fortlaufend Ihren Bonitätsstatus bei uns aufgrund Ihrer Interaktion mit Klarna.
+
+Wir teilen Informationen über Sie und Ihre mit der Klarna Card getätigten Einkäufe an VISA und Mitglieder des VISA-Kartennetzwerkes mit, soweit dies zur Durchführung der Kartentransaktion, zur Betrugsprävention und zur Einhaltung anwendbarer Vorschriften erforderlich ist. Wenn Sie Ihre Klarna Card erneuern oder eine neue erhalten, übermitteln wir diese Informationen an VISA, damit VISA diese Information Dritten, bei denen Sie Ihre Kartendetails hinterlegt haben (beispielsweise für wiederkehrende Transaktionen), weitergeben kann.
+
+Sollten Sie Ihre Klarna Card einer digitalen Kartenverwaltung (Wallet) hinzufügen, müssen wir ggf. Ihre Daten mit dem Kartenverwaltungsbetreiber gemäß dessen Datenschutzerklärung austauschen.
+
+4.2 Dienst „Kartenanbindung" Sobald Sie Ihre Kredit- oder Debitkarte mit Klarna verbinden, erhält Klarna Ihre Kartendaten und Informationen über die Transaktionen, die Sie durchführen, wenn Sie mit der verbundenen Karte Waren oder Dienstleistungen bei einem Händler erwerben, der an dem mit diesem Dienst verbundenen Treueprogramm von Klarna teilnimmt.
+
+Klarna gibt Ihre Kartendaten an unseren Dienstleister (Fidel Ltd.) und das entsprechende Zahlungskarten-Netzwerk weiter, so dass Klarna Transaktionsinformationen für Einkäufe, die mit der verlinkten Karte bei einem teilnehmenden Händler getätigt werden, empfangen kann.
+
+Das Zahlungskarten-Netzwerk überwacht dann die Transaktionen auf Ihrer verbundenen Karte, um festzustellen, ob Sie einen Kauf bei einem Händler getätigt haben, der am Treueprogramm teilnimmt, und übermittelt diese Transaktionsdaten an den Dienstanbieter von Klarna (Fidel Ltd). Der Dienstanbieter übermittelt diese Transaktionsdaten dann an Klarna.
+
+Klarna überprüft Ihre Transaktionen mit teilnehmenden Händlern darauf, ob die Transaktionen prämienfähig sind.
+
+4.3 Veranstaltungshinweise, die auf einer Social-Media-Website eines Drittanbieters veröffentlicht wurdenWenn Sie auf eine unserer Werbeaktionen oder Veranstaltungshinweise geklickt haben, die auf einer Social-Media-Website eines Drittanbieters veröffentlicht wurden, erhalten wir möglicherweise Kontaktinformationen, die als Teil Ihres Benutzerprofils solcher Social Media bereitgestellt werden (wie z. B. Ihren Namen, Ihre E-Mail-Adresse und Telefonnummer und andere relevante Geschäftsinformationen wie Name und Adresse Ihrer Organisation und Ihre Branche).
+
+4.4 Die Klarna-Nutzererfahrung gemäß den Klarna-Nutzungsbedingungen Um das Nutzungserlebnis vor und nach dem Kauf möglichst praktisch zu gestalten, bietet Klarna die nachfolgend beschriebenen Dienste an, die auch in den Klarna-Nutzungsbedingungen näher beschrieben sind. Die Nutzung dieser Dienste erfordert die folgenden Verarbeitung Ihrer personenbezogenen Daten: Bisherige Transaktionen Wir speichern Informationen über Waren/Dienstleistungen, die Sie unter Verwendung unserer Dienste erwerben oder zu denen Sie uns anderweitig Zugang gewähren, um diese Informationen für Sie anzuzeigen.
+
+Automatisches Ausfüllen Ihrer Informationen (‚Autofill') Das automatische Ausfüllen Ihrer Informationen erfolgt auf zwei Arten: durch Ihre Eingabe oder durch ein Cookie: Automatisches Ausfüllen durch eigene Eingabe Wenn Sie die Dienste nutzen, fragen wir Sie möglicherweise nach Ihren Kontakt- und Identifizierungsdaten, wie Name, Anschrift, Telefonnummer, E-Mail-Adresse, Geburtsdatum oder nationale Ausweisnummer, sowie gegebenenfalls weitere Informationen. Wir halten diese Informationen in unseren Systemen fest; bei Ihrem nächsten Besuch oder wenn Sie das nächste Mal unseren Service nutzen, brauchen Sie nur einige Informationen wie Telefonnummer, E-Mail, Postleitzahl oder nationale Ausweisnummer (je nach Land) anzugeben, damit wir die restlichen Felder automatisch mit Ihren anderen Daten ausfüllen können.
+
+Automatisches Ausfüllen durch Cookie Eine weitere Möglichkeit, Ihre Daten automatisch auszufüllen, besteht darin, dass wir Cookies auf Ihrem Gerät (Computer, Tablett, Mobiltelefon usw.) platzieren, die es Ihnen ermöglichen, Ihre Informationen wie Name, Anschrift, Telefonnummer, E-Mail, Geburtsdatum, nationale Ausweisnummer und Kartendaten bei Klarna selbst zu speichern. In diesem Fall verwenden wir das Cookie, um diese Daten von den Systemen von Klarna abzurufen, wenn Sie unsere Dienste mit demselben Gerät nutzen. Wir werden dann Ihre Daten automatisch ausfüllen, wenn Sie mit Klarna in Verbindung treten.
+
+Deaktivierung der Funktion ‚Autofill' Sollten Sie die Autofill-Funktionalitäten nicht nutzen wollen, können Sie uns kontaktieren, um Ihre Einstellungen anzupassen. Sie können Ihre Einstellungen auch direkt in der Klarna App oder im Bestellvorgang bei einem Händler anpassen. Sie können jederzeit Cookies auf Ihrem Gerät löschen, so dass auch unsere Cookies gelöscht werden.
+
+Voreinstellung der bevorzugten Zahlungsmethode Klarna kann die von Ihnen beim Einkauf bevorzugte Zahlungsmethode ermitteln und diese für Sie vorab auswählen. Diese Verarbeitung und Darstellung hat jedoch keinen Einfluss auf die Ihnen zur Verfügung stehenden Zahlungswege. Um dies zu ermitteln, verarbeitet Klarna Informationen über die Interaktion zwischen Ihnen und Klarna, wie z. B. Informationen über Ihre zuvor ausgewählten Zahlungsmethoden, den Bestellwert und den Händler. Diese Verarbeitung stellt Profiling dar. Weitere Informationen zu Profiling finden Sie in Abschnitt 6.
+
+Angebote und Vorteile Um Ihnen Vorteile wie Rabatte, Sonderaktionen, Vorverkäufe, Werbeaktionen, Händler-Angebote, Proben, Werbegeschenke usw. anbieten zu können, berücksichtigen wir die Daten über die Interaktion zwischen Ihnen und Klarna (z. B. die Anzahl der Einkäufe innerhalb eines bestimmten Zeitraums), Ihre Kontakt- und Identifikationsinformationen, Informationen über Waren/Dienstleistungen und Informationen über die Interaktionzwischen Ihnen und den Händlern. Hierbei kann es zu Profiling kommen. Weitere Informationen zu Profiling finden Sie in Abschnitt 6.
+
+Die Informationen bilden die Grundlage für unsere Marketing- und Kundenanalysen, Geschäfts- und Methodenentwicklung und Statistiken.
+
+Im Rahmen des Angebots- und Vorteilsprogramms können Klarna und Klarnas Dienstleister und Auftragnehmer (in unserem Namen) diese Informationen in Postdiensten, Textnachrichten, E-Mails, sozialen Medien und anderen digitalen Kanälen nutzen, um mit Ihnen zu kommunizieren und Ihnen Angebote und Vorteile zukommen zu lassen. Zu diesem Zweck werden Klarna und ihre Dienstleister und Auftragnehmer keinen direkten Weg (z. B. E-Mail oder SMS) nutzen, wenn Sie direkter Werbung widersprochen haben (bzw. wenn Sie dieser nicht ausdrücklich zugestimmt haben, sofern dies in Ihrem Land gesetzlich vorgeschrieben ist).
+
+Sie können sich von Angeboten und Vorteilen abmelden, indem Sie dem in jedem unserer E-Mails enthaltenen Link folgen oder uns kontaktieren (s. Abschnitt 13).
+
+Die Klarna App Wenn Sie die Klarna App nutzen, werden weitere personenbezogene Daten verarbeitet, um die von Ihnen in der Klarna App ausgewählten Dienste, wie unten beschrieben, bereitzustellen; darüber hinaus kann der Anbieter solcher Angebote, wenn Sie sich für die Einlösung von Prämien oder die Teilnahme an bestimmten Angeboten entscheiden, daraus ableiten, dass Sie die Dienstleistungen von Klarna regelmäßig nutzen.
+
+Personalisierte Artikel und Werbung: Sie können personalisierte Artikel und Werbung basierend auf Ihren bisherigen Einkäufen sehen.
+
+Links, die gesponsert sind: Wenn Sie auf einen Link, der gesponsert ist, klicken und der für ein Produkt oder eine Dienstleistung eines Händlers wirbt, werden Sie über einen Dritten, ein sogenanntes "Affiliate-Netzwerk", auf die Website des Händlers umgeleitet (siehe Abschnitt 7.14). Das Affiliate-Netzwerk könnte eine Tracking-Technologie auf Ihrem Gerät platzieren, die die Information enthält, dass Sie auf einen solchen Link in der Klarna App geklickt haben, die dann dazu verwendet wird, Ihren Besuch auf der Website eines Händlers zu verfolgen, um eine mögliche Provision für Klarna zu berechnen.
+
+Personalisierte Klarna-Übersicht: Anzeige einer Übersicht über Ihre Klarna-Einkäufe und Ihren Bestellverlauf, Zugang zu möglichen Rückzahlungen, Erledigung von Zahlungen und Verlängerung von Zahlungsfristen.
+
+Kuratierte Einkaufskollektionen: Wenn Sie uns Informationen darüber mitgeteilt haben, an welchen Themen, Produkten und Dienstleistungen Sie generell interessiert sind, werden wir diese Informationen verwenden, um Ihnen personalisierte Einkaufskollektionen zur Verfügung zu stellen, in denen Sie auf Ihre Interessen zugeschnittene Produkte und Dienstleistungen finden können.
+
+Lieferung und Paketverfolgung: In manchen Fällen können Sie den Weg Ihres Pakets nachverfolgen.
+
+Möglichkeit, Händlern zu folgen: Wenn Sie sich für einen Händler entscheiden, erhalten Sie Informationen über Aktionen, an die dieser Händler angeschlossen ist. Klarna prüft dann automatisch, ob Ihre Einkäufe Sie zu Rabatten oder anderen Angeboten innerhalb der laufenden Aktion dieses Händlers berechtigen.
+
+Kredit-Dienste: Aufgrund Ihrer bisherigen Einkäufe werden Ihnen ggf. Kredite eingeräumt.
+
+Einkaufen mit der Einmalkarte: Bei Einkäufen über die Klarna App können Sie die Klarna-Zahlungsmethoden bei fast jedem Händler mit einer Einmalkarte nutzen. Wenn Sie diese Einmalkarte nutzen, sammelt Klarna Informationen über Ihre Einkäufe und zeigt diese in der App an.
+
+Kundenbetreuung: Wenn Sie unseren Kundenservice über die Klarna App nutzen, haben wir Zugriff auf die von Ihnen zur Verfügung gestellten Informationen.
+
+Email Connect: Wenn Sie Ihr E-Mail-Konto mit dem Email Connect-Dienst von Klarna verbunden haben, greift Klarna regelmäßig auf Ihr E-Mail-Konto zu und erfasst einkaufsbezogene Informationen wie Tracking-IDs und andere Informationen über Waren und Dienstleistungen sowie die Interaktionen zwischen Ihnen und den Händlern, um diese Informationen in die Klarna-App zu übertragen. Sie können diesen Dienst jederzeit abschalten und damit den Zugriff durch Klarna unterbinden.
+
+Store Locator: Sie können sich dafür entscheiden, uns Ihren Standort mitzuteilen. In diesem Fall stimmen Sie zu, dass wir diese Informationen verwenden dürfen, um Geschäfte in Ihrer Nähe anzuzeigen. Sie können Ihre Zustimmung jederzeit widerrufen, indem Sie diese Freigabe auf Ihrem Gerät ausschalten. Klarna wird Ihren Standort nicht mehr speichern, nachdem wir Ihnen die Geschäfte gezeigt haben.
+
+Der Webbrowser in der App: Die Klarna App enthält einen Webbrowser, mit dem Sie auf die Webseiten von Händlern und Online-Shops zugreifen können, um dann mit den Klarna-Zahlungsmethoden auch bei Händlern einzukaufen, die unsere Zahlungsmethoden noch nicht verwenden. Klarna sammelt Informationen darüber, wie Sie den Browser nutzen, um Ihnen relevante Angebote und Aktionen zu unterbreiten. Darüber hinaus können Websites, die Sie besuchen, ihre eigenen Cookies und andere Tracking-Technologien auf Ihrem Gerät setzen.
+
+Wunschzettel: Sie haben die Möglichkeit, Produkte und Dienstleistungen in der Klarna App Ihrem Wunschzettel hinzuzufügen, um sie später zu finden oder ihre Preise zu verfolgen. Sie können Ihren Wunschzettel auch anderen Personen wie Freunden und Verwandten zugänglich machen, die dann Ihr Profilbild und Ihren Profilnamen sehen können. In einigen Fällen, wenn Sie auf der Website eines Händlers eingeloggt sind, kann der Link zu einem Produkt oder einer Dienstleistung, die Sie Ihrer Wunschliste hinzufügen möchten, persönliche Informationen über Sie von dieser Website enthalten, wie z. B. Ihre E-Mail-Adresse.
+
+Ihre verbundenen Bankkonten (Persönlicher Finanz-Dienst) Mit der Nutzung dieses Dienstes erhalten Sie einen Überblick über Ihre Finanzen, nicht nur über Ihre Transaktionen mit Klarna, sondern auch über Ihre verbundenen Bankkonten. Wenn Sie sich für diesen Dienst entscheiden, verarbeitet Klarna Informationen über die externen Bankkonten und andere Konten (z. B. Kartenkonten), die Sie verbinden möchten, und sammelt personenbezogene Daten wie Kontonummer, Bank, frühere Transaktionen auf dem Konto und verfügbare Gelder und Vermögenswerte. Basierend auf diesen Daten zeigt Klarna Ihnen Ihre Finanzsituation auf und stellt Ihnen Möglichkeiten zur Verfügung, mit denen Sie Ihre Finanzen durch auf Ihre individuelle Situation zugeschnittene Angebote überwachen können (basierend auf Profiling, wie in Abschnitt 6 erläutert). Dies erfolgt durch den Vergleich Ihrer Ausgaben mit den Ausgaben anderer Nutzer des Dienstes. Auf Grundlage dieses Vergleichs können wir Ihnen gemeinsam mit unseren Partnern Möglichkeiten zur Minimierung Ihrer fixen und variablen Kosten anbieten.
+
+Profilbild: Sie können ein Profilbild in die Klarna App hochladen; in diesem Fall erscheint dieses Bild in verschiedenen Klarna-Schnittstellen (z. B. im Klarna Kassiervorgang bei einem Händler oder in der Klarna App). Die Klarna-Schnittstellen können auch in Händlerapps integriert sein. Das Bild kann auch anderen angezeigt werden, wenn Sie Ihr Gerät mit anderen teilen (sofern Sie die Autofill-Funktion durch Cookies verwenden), oder wenn Sie Inhalte aus Ihrer Klarna App mit anderen teilen. Sie können Ihr Profilbild jederzeit in der App löschen oder uns für eine Löschung kontaktieren.
+
+5. Widerruf einer Einwilligung In Fällen, in denen Klarna Ihre personenbezogenen Daten aufgrund Ihrer Einwilligung oder ausdrücklichen Einwilligung verarbeitet (z. B. wenn Sie eine Vollmacht vorlegen, wonach eine andere Person auf Ihre Daten zugreifen darf, wenn Sie uns Informationen zur Verfügung stellen, aus denen hervorgeht, dass Sie ein besonders schutzwürdiger Kunde sind, oder wenn Sie besondere Kategorien personenbezogener Daten in unsere Dienste hochladen), können Sie diese Einwilligung jederzeit widerrufen, indem Sie uns kontaktieren oder Ihre hochgeladenen Daten in der Klarna App löschen. Der Widerruf der Einwilligung führt zu keinerlei Nachteilen für Sie, da wir diese Art von Informationen zur Bereitstellung unserer Dienste nicht benötigen.
+
+6. Profiling und automatisierte Entscheidungsfindung durch Klarna ‚Profiling' bezeichnet die automatisierte Verarbeitung personenbezogener Daten zur Bewertung bestimmter persönlicher Aspekte, z. B. zur Analyse oder Vorhersage von Merkmalen Ihrer finanziellen Situation oder Ihrer Vorlieben, wie beispielsweise Vorlieben beim Einkauf. Wir setzen Profiling auf Grundlage der von uns über Sie gespeicherten personenbezogenen Daten ein, um individuelle oder automatisierte Entscheidungen über Sie für folgende Zwecke zu treffen: Entscheidungen ohne rechtliche oder ähnlich erhebliche Wirkung Klarna trifft die folgenden Entscheidungen ohne rechtliche oder ähnlich erhebliche Wirkung für Sie: Vorhersage, welche Werbeinhalte für Sie von Interesse sein könnten. Sie können dem jederzeit widersprechen und sich von der Werbung und diesem Profiling abmelden, indem Sie uns kontaktieren. Weitere Informationen über unsere Verarbeitung personenbezogener Daten zu Werbezwecken finden Sie in Abschnitt 3.
+
+Entscheidung, welche Treueboni für Sie geeignet sind (siehe Abschnitt 4.4 Angebote und Vorteile für weitere Informationen).
+
+Entscheidung über die geeignetste Art der Kontaktaufnahme mit Ihnen wegen offener Forderungen (s. Abschnitt 3 für weitere Informationen).
+
+Entscheidung, welche Inhalte Ihnen in der Klarna App angezeigt werden sollen. Siehe Abschnitt 4.4. Die Klarna App für weitere Informationen.
+
+Entscheidung, in welcher Reihenfolge Ihnen verschiedene Zahlungsmethoden beim Kassiervorgang eines Händlers präsentiert werden sollen.
+
+Darüber hinaus verwenden einige unserer Dienste (z. b. wenn Sie Bankkonten oder andere Konten in unserer Klarna App verbinden) Profiling, um Ihnen den passenden Dienst zu liefern, z. B. um Ihnen relevante Finanzthemen zur Verfügung zu stellen oder um auszuwählen, welche Angebote Sie nach den Bestimmungen des jeweiligen Dienstes erhalten.
+
+Entscheidungen mit rechtlicher oder ähnlich erheblicher Wirkung Automatisierte Entscheidungsfindung mit rechtlicher Wirkung oder automatisierte Entscheidungen mit ähnlich erheblicher Wirkung bedeutet, dass einige Entscheidungen in unseren Diensten ausschließlich automatisiert und ohne jegliche Einwirkung durch unsere Mitarbeiter erfolgen und erheblichen Einfluss auf Sie als Verbraucher haben. Durch die automatisierte Entscheidungsfindung erhöht Klarna die Objektivität und Transparenz der Entscheidungen bei der Erbringung dieser Dienste.
+
+Wir verwenden diese Art der automatisierten Entscheidung, wenn wir: entscheiden, Ihren Antrag auf Nutzung eines Kredit-Dienstes zu genehmigen; entscheiden, Ihren Antrag auf Nutzung eines Kredit-Dienstes nicht zu genehmigen;entscheiden, ob Sie ein Betrugs- oder Geldwäscherisiko darstellen, da unsere Verarbeitung verdächtige Verhaltensmuster Ihrerseits erkennt, Ihr Verhalten Abweichungen zu Ihrer bisherigen Nutzung unserer Dienste zeigt oder Sie Ihre wahre Identität bewusst verborgen zu haben scheinen. Im Einzelfall prüft Klarna auch, ob ein bestimmter Kunde auf einer sog. Sanktionsliste aufgeführt ist.
+
+Weitere Informationen über die Art der für diese Zwecke verarbeiteten personenbezogenen Daten finden Sie in Abschnitt 3.
+
+Sie haben jederzeit das Recht, eine automatisierte Entscheidung mit rechtlicher oder ähnlich erheblicher Wirkung (zusammen mit dem damit verbundenen Profiling) anzufechten, indem Sie uns über die in Abschnitt 13 genannte E-Mail-Adresse kontaktieren. Der Klarna-Kundendienst wird sich dann mit Ihrem Fall befassen.
+
+7. Wem dürfen wir Ihre personenbezogenen Daten mitteilen? Wir können Ihre personenbezogenen Daten an die unten aufgeführten Kategorien von Empfängern für die unten aufgeführten Zwecke weitergeben. An welche Empfänger und für welche Zwecke wir Ihre personenbezogenen Daten weitergeben richtet sich nach dem von Ihnen genutzten Dienst. Bei der Weitergabe Ihrer personenbezogenen Daten ergreifen wir alle geeigneten vertraglichen, rechtlichen, technischen und organisatorischen Maßnahmen, um sicherzustellen, dass Ihre personenbezogenen Daten unter Wahrung eines angemessenen Schutzniveaus und in Übereinstimmung mit dem geltenden Recht behandelt werden.
+
+7.1 Dienstleister und Auftragnehmer Klarna kann personenbezogene Daten an Dienstleister und Auftragnehmer weitergeben, die wir zur Erbringung unserer Dienste für Sie beauftragen. Dienstleister und Auftragnehmer sind berechtigt, die von Klarna erhaltenen personenbezogenen Daten nur im Auftrag von Klarna zu verarbeiten. Bei diesen Dienstleistern und Auftragnehmern handelt es sich etwa um Software- und Datenspeicheranbieter, Zahlungsverarbeitungsdienste und Unternehmensberater.
+
+7.2 Händler Klarna gibt personenbezogene Daten an die Händler weiter, die Sie besuchen oder bei denen Sie kaufen (zu denen auch die Konzernunternehmen der Händler gehören können, wenn Sie vom Händler darüber informiert worden sind). Auf diese Weise kann der Händler Ihre Bestellung ausführen und verwalten und Ihre Geschäftsbeziehung oder die Geschäftsbeziehung mit einem Konzernunternehmen verwalten, z. B. indem er Ihre Identität überprüft, Ihnen die Ware zusendet, Fragen und Streitigkeiten löst, entsprechende Werbung sendet und Missbrauch verhindert. Die personenbezogenen Daten, die einem Händler mitgeteilt werden, unterliegen den Datenschutzbestimmungen und -praktiken dieses Händlers.
+
+7.3 Zahlungsdienstleister Zahlungsdienstleister bieten Händlern und Klarna Dienstleistungen für die Annahme elektronischer Zahlungen über verschiedene Zahlungsmethoden wie Kreditkarte und bankbasierte Zahlungen wie Lastschrift, Überweisungen usw. an. Einige Händler verwenden Zahlungsdienstleister, an die sie Ihre Daten weitergeben, um Zahlungen durchzuführen. Diese Weitergabe erfolgt gemäß den jeweils eigenen Datenschutzerklärungen der Händler. Die Händler können außerdem für die Bearbeitung und Verwaltung von Zahlungen von uns verlangen, dass wir Ihre Daten an die Zahlungsdienstleister weitergeben. Einige Zahlungsdienstleister erfassen und verwenden Ihre Daten auch eigenständig gemäß ihren jeweils eigenen Datenschutzerklärungen. Dies ist z. B. der Fall, wenn Sie eine digitale Brieftasche (Wallet) verwenden.
+
+7.4 Kreditauskunfteien Wenn Sie die Nutzung eines Kredit-Dienstes beantragen (siehe Abschnitt 4.1 für eine Beschreibung unserer Kredit-Dienste), können Ihre personenbezogenen Daten an Kreditauskunfteien weitergegeben werden, um Ihre Kreditwürdigkeit in Verbindung mit Ihrem Antrag zu beurteilen, um Ihre Identität und Ihre Kontaktdaten zu bestätigen und Sie und andere Kunden vor Betrug zu schützen. Diese Weitergabe erfolgt im Rahmen der Bonitätsprüfung.
+
+In Deutschland sendet Klarna den Kreditauskunfteien Ihren Namen, Ihre Adresse, Ihr Geburtsdatum und Ihre Telefonnummer, um das Ergebnis der Bonitätsprüfung zu erhalten. Unsere Bonitätsprüfung hat keinen Einfluss auf Ihre Kreditwürdigkeit, mit Ausnahme der von der Schufa durchgeführten Bonitätsprüfung, die sich auf Ihre Kreditwürdigkeit auswirkt.
+
+Klarna kann unbezahlte Schulden an Inkassobüros weiterleiten, die ihrerseits Informationen über Ihre verspäteten Zahlungen an die Kreditauskunfteien weitergeben können, was sich auf Ihre Kreditwürdigkeit auswirken kann.
+
+Die Kreditauskunfteien werden Ihre Informationen gemäß ihren eigenen Datenschutzhinweisen verarbeiten, und Sie können hier herausfinden, mit welchen Agenturen wir zusammenarbeiten.
+
+Bitte beachten Sie, dass Klarna die von einer Kreditauskunftei erhaltene Bonitätsprüfung nur in einem Skriptdatenformat vorhält. Dementsprechend wird empfohlen, eine Kopie der Bewertung direkt bei der Auskunftei anzufordern, wenn Sie eine lesbare Fassung wünschen.
+
+7.5 Betrugspräventionsstellen und Identitätsauskunfteien Ihre personenbezogenen Daten können an Betrugsbekämpfungsstellen und Identitätsauskunfteien weitergegeben werden, um Ihre Identität und die Richtigkeit der von Ihnen zur Verfügung gestellten Daten zu überprüfen und um möglichen strafbaren Handlungen vorzubeugen. Die Unternehmen, die mit uns in Deutschland zusammenarbeiten, sind in der Liste hier aufgeführt. Bitte beachten Sie, dass diese Unternehmen Ihre Daten in Übereinstimmung mit den jeweils eigenen Datenschutzerklärungen verarbeiten.
+
+7.6 Die Klarna Gruppe Ihre Informationen können mit Unternehmen innerhalb der Klarna Gruppe geteilt werden. Dies geschieht aufgrund unseres berechtigten Interesses, unsere Dienstleistungen anbieten zu können.
+
+7.7 Social-Media-Unternehmen Wenn Sie uns über Social Media wie Facebook oder Twitter kontaktieren, werden Ihre Daten zusätzlich bei diesen Unternehmen in Übereinstimmung mit den jeweils eigenen Datenschutzerklärungen gespeichert und verarbeitet.
+
+7.8 Bevollmächtigter Vertreter Klarna wird Ihre Daten an eine von Ihnen entsprechend bevollmächtigte Person weitergeben. Diese Weitergabe erfolgt auf der Grundlage Ihrer Einwilligung.
+
+7.9 Google Wenn Sie die Klarna App über einen Webbrowser verwenden, erfasst Google Ihre Geräteinformationen über den dort implementierten reCAPTCHA-Dienst, manchmal in Kombination mit allen Informationen, die Sie in den reCAPTCHA-Dienst eingeben. Google verarbeitet diese Informationen gemäß seinen eigenen Datenschutzbestimmungen. Klarna verarbeitet diese Daten auf der Grundlage seines berechtigten Interesses an der Durchführung seiner Geschäfte, da der reCAPTCHA-Dienst den Missbrauch unserer Dienste verhindert.
+
+7.10 Behörden Klarna wird erforderliche Informationen an Behörden wie Polizei, Steuerbehörden oder andere Stellen mitteilen, sofern wir gesetzlich dazu verpflichtet sind oder wenn Sie uns unter bestimmten Umständen dazu auffordern. Ein Beispiel für entsprechende, gesetzlich vorgeschriebenen Mitteilungen ist die Offenlegung zum Zwecke der Geldwäsche- und Terrorismusbekämpfung.
+
+7.11 Logistik- und Transportunternehmen Klarna ist zur Weitergabe Ihrer Daten an Logistik- und Transportunternehmen, die die von Ihnen bestellten Waren liefern, berechtigt, sofern Sie sich für eine Paketverfolgung entschieden haben. Diese Daten umfassen zum Beispiel personenbezogene Daten, Kontaktinformationen und Sendungsverfolgungsnummer. Bitte beachten Sie, dass Transport- und Logistikunternehmen Ihre Daten in Übereinstimmung mit den jeweils eigenen Datenschutzerklärungen verarbeiten.
+
+7.12 Partner in den Bereichen Persönlicher Finanz-Dienst und Angebots- und VorteilsprogrammBei Teilnahme an Angeboten und Vorteilen, die Klarna innerhalb des Persönlichen Finanz-Diensts oder Angebots- und Vorteilsprogramms erbringt, kann Klarna personenbezogene Daten weitergeben, soweit dies erforderlich ist, um Ihnen den Zugang zu Angeboten zu ermöglichen, die in Zusammenarbeit mit unseren Partnern durchgeführt werden (einschließlich der Tatsache, dass Sie Kunde von Klarna sind). In jedem Angebot wird angezeigt, welche personenbezogenen Daten weitergegeben werden.
+
+7.13 Inkassounternehmen Klarna kann Ihre Angaben bei Verkauf oder Abtretung des Inkassos von offenen Forderungen an Dritte, z. B. Inkassounternehmen, weitergeben. Diese Weitergabe personenbezogener Daten erfolgt auf Grundlage unseres berechtigten Interesses zu Inkasso und Verkauf von Forderungen. Die Inkassounternehmen verarbeiten Ihre Daten in Übereinstimmung mit den jeweils eigenen Datenschutzerklärungen bzw. im Namen von Klarna.
+
+Die Inkassobüros können Ihre unbezahlten Schulden auch an Kreditauskunfteien melden, was sich auf Ihr Kreditwürdigkeit und Ihre Möglichkeit, in Zukunft Kredite zu erhalten, auswirken kann.
+
+7.14 Affiliate-Netzwerke Klarna kann die Information, dass Sie auf Links, die gesponsert sind, geklickt haben (d.h. Links, die Produkte oder Dienstleistungen von Händlern bewerben), an sogenannte "Affiliate-Netzwerke" weitergeben. Diese Weitergabe findet statt, wenn Sie auf einen solchen Link klicken, da Sie dann über das "Affiliate-Netzwerk" auf die Website des Geschäfts weitergeleitet werden. Das Affiliate-Netzwerk kann auf Ihrem Gerät eine Tracking-Technologie platzieren, die die Information enthält, dass Sie auf einen solchen Link in einer der Klarna-Schnittstellen geklickt haben, um Ihren Besuch auf der Webseite eines Händlers zu verfolgen, um eine mögliche Provision für Klarna zu berechnen. Die Affiliate-Netzwerke verarbeiten Ihre personenbezogenen Daten im Einklang mit ihren eigenen Datenschutzerklärungen verarbeiten.
+
+7.15 Unternehmenskauf bzw. -verkauf Falls Klarna Unternehmen oder Vermögenswerte erwirbt oder veräußert, ist Klarna berechtigt, Ihre personenbezogenen Daten an mögliche Käufer bzw. Verkäufer weiterzugeben. Werden Klarna oder im Wesentlichen sämtliche Vermögenswerte von Klarna von einem Dritten erworben, können personenbezogene Daten über Kunden von Klarna offengelegt und weitergegeben werden.
+
+8. Wo werden Ihre personenbezogenen Daten verarbeitet? Wir versuchen stets, Ihre Daten innerhalb der EU/EWR zu verarbeiten. In bestimmten Situationen, z. B. wenn wir Ihre personenbezogenen Daten an ein Unternehmen der Klarna Gruppe oder einen Dienstleister oder Auftragnehmer außerhalb der EU/EWR weitergeben, können Ihre personenbezogenen Daten dennoch an einen Bestimmungsort außerhalb der EU/EWR übermittelt und dort verarbeitet werden. Befindet sich der Händler, bei dem Sie einkaufen, außerhalb der EU/EWR, bedeutet unsere Weitergabe Ihrer personenbezogenen Daten an den Händler auch, dass Ihre Daten außerhalb der EU/EWR übertragen werden.
+
+Wir stellen sicher, dass ein angemessenes Schutzniveau aufrechterhalten bleibt und dass bei der Übermittlung Ihrer Daten außerhalb von EU/EWR geeignete Schutzvorkehrungen in Übereinstimmung mit den geltenden datenschutzrechtlichen Anforderungen, wie beispielsweise der DSGVO, getroffen werden. Diese Schutzvorkehrungen bestehen darin, sicherzustellen, dass das Drittland bzw. der jeweilige Staat einer Angemessenheitsentscheidung der Europäischen Kommission unterliegt, die Standardvertragsklauseln der Europäischen Kommission abgeschlossen wurde oder der Empfänger unter dem US-Privacy Shield zertifiziert ist.
+
+9. Wie lange verarbeiten wir Ihre personenbezogenen Daten? Wir verarbeiten Ihre Daten so lange, wie wir diese zur Erfüllung des jeweiligen Verarbeitungszwecks benötigen. Die Zwecke sind hier in dieser Datenschutzerklärung beschrieben. Dies bedeutet, dass wir selbst dann, wenn die Verarbeitung Ihrer Daten aufgrund eines bestimmten Verarbeitungszwecks beendet ist, Ihre personenbezogenen Daten noch solange speichern müssen, wie dies aufgrund eines anderen Verarbeitungszweckes notwendig ist, und wir diese Daten dann nur zu diesem anderen Zweck verwenden. Im Einzelnen: Solange Sie unsere Klarna-Nutzungsbedingungen akzeptiert haben und bis Sie diese widerrufen (indem Sie sich mit uns in Verbindung setzen oder uns anweisen, Daten zu löschen, z. B. bei Ausübung des Rechts auf Löschung), werden wir die personenbezogenen Daten verarbeiten, die wir benötigen, um Ihnen Dienste anbieten zu können; dies betrifft u. a. Daten über Ihre bisherigen Einkäufe.
+
+Wir verarbeiten Ihre personenbezogenen Daten aus einer Bonitätsabfrage zum Zweck einer neuen Bonitätsprüfung für einen Zeitraum von 90 Tagen nach Durchführung der Abfrage.
+
+Wir verarbeiten personenbezogene Daten in Bezug auf Verbindlichkeiten zum Zwecke neuer Bonitätsprüfungen für einen Zeitraum von drei (3) Jahren ab Begleichung der Verbindlichkeit (sei es durch Bezahlung, Abschreibung durch Klarna oder Forderungsverkauf durch Klarna).
+
+Zur Qualitätssicherung verarbeiten wir Telefonaufzeichnungen für einen Zeitraum von 90 Tagen.
+
+Wir verarbeiten personenbezogene Daten zum Zweck der Einhaltung geltender Gesetze, wie z. B. Verbraucherschutzgesetze, Bank- und Anti-Geldwäscheregelungen und Rechnungslegungsvorschriften. Je nachdem, welches Recht anwendbar ist, können Ihre personenbezogenen Daten bis zu zehn Jahre nach Beendigung der Kundenbeziehung verarbeitet werden.
+
+10. Ihre Rechte in Bezug auf personenbezogene Daten Recht auf Information: Sie haben das Recht darüber informiert zu werden, wie wir Ihre personenbezogenen Daten verarbeiten. Dem kommen wir nach, indem wir Ihnen diese Datenschutzerklärung oder andere Informationen auf unserer Webseite zur Verfügung stellen und indem wir Ihre Fragen beantworten.
+
+Recht auf Auskunft über Ihre Daten: Sie können eine Kopie Ihrer Daten anfordern, wenn Sie wissen möchten, welche personenbezogenen Daten wir über Sie verarbeiten. Diese Kopie kann auch in einem maschinenlesbaren Format übermittelt werden (z.B. "Datenportabilität").
+
+Recht auf Berichtigung: Sie haben das Recht auf Berichtigung unrichtiger oder unvollständiger Daten über Sie.
+
+Recht auf Löschung: Sie haben das Recht, die Löschung Ihrer personenbezogenen Daten zu verlangen, z. B. wenn eine Verarbeitung zu dem ursprünglich erhobenen Zweck nicht mehr erforderlich ist oder wenn Sie Ihre Einwilligung widerrufen haben. Wie bereits in Abschnitten 3 und 9 näher beschrieben, muss Klarna jedoch bestimmte gesetzliche Verpflichtungen einhalten, die es uns unmöglich machen, einige Ihrer personenbezogenen Daten direkt zu löschen.
+
+Recht auf Einschränkung der Verarbeitung oder Widerspruch gegen unsere Datenverarbeitung: Wenn Sie der Auffassung sind, dass Ihre Informationen falsch sind oder wir Ihre Daten unrechtmäßig verwenden, haben Sie das Recht, uns aufzufordern, die Verarbeitung einzustellen. Sie können auch unserer Verarbeitung widersprechen, wenn Sie glauben, dass es Umstände gibt, die eine solche Verarbeitung unrechtmäßig machen würden. Darüber hinaus können Sie jederzeit Einspruch dagegen erheben, dass wir Ihre Daten für Direktwerbung verwenden.
+
+Recht auf Anfechtung einer automatisierten Entscheidung: Sie haben das Recht, eine von Klarna getroffene automatisierte Entscheidung anzufechten. Siehe Abschnitt 6 für weitere Informationen darüber, wie Klarna automatisierte Entscheidungen verwendet.
+
+Recht auf Widerruf der Einwilligung: Wie in Abschnitt 5 dargelegt, können Sie, wenn wir Ihre Daten auf der Grundlage einer Einwilligung oder ausdrücklichen Zustimmung verarbeiten, diese Einwilligung jederzeit widerrufen.
+
+Beschwerderecht: Sie haben das Recht, eine Beschwerde bei Ihrer nationalen Aufsichtsbehörde oder der schwedischen Datenschutzbehörde („DPA") einzureichen. Beschwerden an die schwedische DPA können über diesen Link eingereicht werden: https://www.datainspektionen.se/other-lang/in-english/.
+
+Individuelle Einstellungen von Diensten in der Klarna App: In der Klarna App bietet Ihnen Klarna die Möglichkeit, Ihre Einstellungen für bestimmte Dienste anzupassen, z. B. ob Sie Benachrichtigungen oder personalisierte Werbung erhalten möchten. Wir werden Ihre Wünsche immer respektieren.
+
+11. Was ist mit Cookies und anderen Tracking-Technologien? Um Ihnen ein passendes und möglichst praktisches Nutzungserlebnis bieten zu können, nutzen wir in unseren Online-Diensten wie unserer Webseite, der Klarna App und dem Checkout von Händlern, die mit Klarna kooperieren, Cookies und ähnliche Tracking-Technologien. Informationen über die von uns verwendeten Tracking-Technologien finden Sie in der jeweiligen Schnittstelle wo Sie auch relevante Tracking-Technologien akzeptieren bzw. ablehnen können.
+
+12. Aktualisierung dieser Datenschutzerklärung Wir arbeiten ständig daran, unser Dienste-Angebot zu verbessern und Ihnen ein noch praktischeres Nutzungserlebnis zu bieten. Hierzu zählen nicht nur Änderungen bei bestehenden Diensten, sondern auch neue Dienste im Laufe der Zeit. Es ist daher wichtig, dass Sie diese Datenschutzerklärung bei jeder Nutzung eines Dienstes von Klarna lesen, da sich die Verarbeitung Ihrer personenbezogenen Daten seit der letzten Nutzung unserer Dienste geändert haben kann.
+
+13. Unsere Kontaktdaten: Klarna Bank AB (publ) ist eine Gesellschaft schwedischen Rechts, eingetragen im schwedischen Unternehmensregister unter der Nummer 556737-0431 mit Hauptgeschäftssitz in Sveavägen 46, 111 34 Stockholm, Schweden.
+
+Klarna hat einen Datenschutzbeauftragten und ein Team von Datenschutzexperten, die sich ausschließlich mit Datenschutz und Privatsphäre befassen. Darüber hinaus verfügen wir über ein spezielles Kundenserviceteam für Datenschutzfragen. Sie erreichen sie jederzeit unter datenschutz@klarna.de.
+
+Die Klarna Bank AB (publ) unterliegt den schwedischen Datenschutzbestimmungen. Besuchen Sie www.Klarna.com, um mehr über Klarna zu erfahren.
+
+Zuletzt aktualisiert: 28 juni 2020.
+

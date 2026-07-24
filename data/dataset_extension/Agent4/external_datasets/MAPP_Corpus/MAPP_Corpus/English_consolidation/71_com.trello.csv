@@ -1,0 +1,96 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+71,1,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,2,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,3,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,4,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,5,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,6,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Other', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,8,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Other', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,9,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,10,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Financial'],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,11,['First Party'],['Information Type'],['Information Type_User online activities'],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,12,['First Party'],['Information Type'],"['Information Type_User online activities', 'Information Type_Other']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,13,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,14,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,15,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Directly received from third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,16,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Unspecified', 'Collection Process_Directly received from third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,17,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Optional service or feature', 'Collection Process_Entered by user on third-party website/app', 'Collection Process_Other']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,18,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Directly received from third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,19,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Location', 'Information Type_Other', 'Collection Process_Directly received from third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,20,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Other', 'Collection Process_Directly received from third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,21,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Purpose_Advertising or marketing', 'Collection Process_Directly received from third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,22,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,23,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,24,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Purpose_Analytics or research']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,25,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Essential service or feature']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,26,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,27,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Service operation and security']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,28,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,29,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,30,['First Party'],"['Legal Basis for Collection', 'User Type (opt)']","['Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party', 'User Type (opt)_Other']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,31,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,32,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,33,['Third Party'],"['Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other users']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,34,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Other', 'Purpose_Other', 'Third-Party Entity_Public']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,35,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party', 'Third-Party Entity_Other users']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,36,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,37,['Third Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,38,['Third Party'],"['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Unspecified', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,39,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Personalization or customization', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,40,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Optional service or feature', 'Third-Party Entity_Named third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,41,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,42,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,43,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,44,['Third Party'],"['Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,45,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,46,['Third Party'],"['Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,47,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,48,['Third Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Merger or acquisition', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,49,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,50,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,51,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,52,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,53,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,54,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,55,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,56,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,57,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,58,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,59,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,60,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,61,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,62,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,63,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,64,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,65,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,66,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,67,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,68,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,69,['Third Party'],"['Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,70,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,71,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,72,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,73,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,74,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,75,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,76,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,77,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,78,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,79,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,80,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,81,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,82,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,83,['First Party'],['Purpose'],"['Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,84,[],"['Does/Does Not (opt)', 'User Type (opt)']","['Does/Does Not (opt)_Does Not', 'User Type (opt)_Other']",TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,85,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,86,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,87,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,88,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,89,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,90,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,91,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,92,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,93,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,94,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True
+71,95,[],[],[],TRAIN,https://www.atlassian.com/legal/privacy-policy,True

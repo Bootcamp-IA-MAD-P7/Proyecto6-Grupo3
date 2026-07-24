@@ -1,0 +1,34 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+82,1,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,2,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,3,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,4,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,5,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,6,[],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,7,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,8,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Social media data', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Optional service or feature', 'Collection Process_Directly received from third party', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,9,['First Party'],"['Information Type', 'Purpose']","['Information Type_User online activities', 'Information Type_IP address and device IDs']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,10,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,11,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Collection Process_Tracked on first-party website/app by third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,12,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,13,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,14,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,15,['Third Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,16,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,17,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,18,['First Party'],"['Information Type', 'Purpose']",['Purpose_Legal requirement'],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,19,[],['Purpose'],['Purpose_Merger or acquisition'],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,20,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,21,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,22,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,23,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,24,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,25,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,26,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,27,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,28,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,29,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,30,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,31,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,32,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True
+82,33,[],[],[],TRAIN,https://www.adidas.com/us/what-is-the-privacy-policy.html,True

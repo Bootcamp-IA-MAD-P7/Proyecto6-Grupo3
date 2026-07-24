@@ -1,0 +1,68 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+62,1,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,2,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,3,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,4,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,5,['First Party'],['Information Type'],"['Information Type_Computer information', 'Information Type_Other']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,6,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,7,['First Party'],"['Information Type', 'Collection Mode (opt)', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Collection Mode (opt)_Explicit', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,8,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)', 'Choice Type (opt)', 'User Type (opt)']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit', ""Choice Type (opt)_Don't use service/feature"", 'User Type (opt)_Users with account']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,9,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Generic personal information', 'Information Type_Other', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,10,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Generic personal information', 'Information Type_Other', 'Purpose_Advertising or marketing', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,11,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Third-Party Entity_Named third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,12,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,13,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,14,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Collection Process_Directly received from third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,15,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Collection Process_Directly received from third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,16,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,17,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,18,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,19,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,20,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Other']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,21,['First Party'],"['Information Type', 'Purpose', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Other', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,22,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,23,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Vital interest', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,24,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,25,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Contact information', 'Purpose_Advertising or marketing', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,26,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_User online activities', 'Purpose_Analytics or research', 'Legal Basis for Collection_Legitimate interests of first or third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,27,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,28,['Third Party'],"['Information Type', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,29,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,30,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,31,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,32,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,33,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,34,['Third Party'],"['Information Type', 'Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Opt-in', 'Anonymization (opt)_Identifiable']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,35,['Third Party'],"['Information Type', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Third-Party Entity_Other users', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,36,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Other', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,37,['Third Party'],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,38,['Third Party'],"['Information Type', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Other', 'Third-Party Entity_Other users', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,39,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,40,[],['Does/Does Not (opt)'],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,41,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,42,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,43,['First Party'],"['Information Type', 'Choice Type (opt)', 'User Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_First-party privacy controls', 'User Type (opt)_Users with account']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,44,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out link'],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,45,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,46,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,47,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,48,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,49,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Location', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,50,[],['Choice Type (opt)'],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,51,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,52,[],['Does/Does Not (opt)'],"['Does/Does Not (opt)_Does', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,53,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,54,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,55,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,56,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,57,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,58,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,59,['First Party'],"['Information Type', 'User Type (opt)']","['Information Type_Personal identifier', 'User Type (opt)_Users without account']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,60,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,61,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,62,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,63,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,64,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,65,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,66,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True
+62,67,[],[],[],TRAIN,https://www.docusign.de/unternehmen/datenschutz,True

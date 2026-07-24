@@ -1,0 +1,64 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+89,1,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,2,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,3,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,4,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,5,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_IP address and device IDs', 'Collection Process_Directly received from third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,6,['First Party'],['Information Type'],"['Information Type_Location', 'Information Type_Demographic data']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,7,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,8,['First Party'],['Collection Process'],"['Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,9,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,10,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,11,[],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,12,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Purpose_Unspecified']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,13,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Entity_Other part of company/affiliate', 'Choice Type (opt)_Opt-in']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,14,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,15,['Third Party'],"['Purpose', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Shared by first party with a third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,16,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,17,[],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,18,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,19,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,20,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,21,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Directly received from third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,22,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,23,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,24,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,25,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,26,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,27,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,28,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,29,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,30,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,31,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,32,['Third Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Named third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,33,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,34,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,35,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,36,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,37,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,38,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,39,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,40,['Third Party'],"['Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Unspecified', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,41,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,42,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,43,['Third Party'],"['Information Type', 'Collection Process']",['Information Type_Generic personal information'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,44,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Personal identifier', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,45,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,46,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,47,['Third Party'],"['Information Type', 'Purpose']",['Information Type_Other'],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,48,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_Social media data', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,49,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_IP address and device IDs', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,50,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Personal identifier', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,51,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_Demographic data', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,52,"['First Party', 'Third Party']","['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Advertising or marketing']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,53,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Purpose_Advertising or marketing', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,54,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Advertising or marketing']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,55,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Unspecified']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,56,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,57,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Personal identifier', 'Collection Process_Collected on first-party website/app']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,58,['Third Party'],"['Information Type', 'Purpose']","['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Legal requirement']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,59,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,60,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party']",TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,61,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,62,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True
+89,63,[],[],[],TRAIN,https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/privacy,True

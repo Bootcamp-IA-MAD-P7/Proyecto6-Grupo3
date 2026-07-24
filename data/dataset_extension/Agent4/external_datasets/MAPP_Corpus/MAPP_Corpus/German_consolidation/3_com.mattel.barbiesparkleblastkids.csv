@@ -1,0 +1,118 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+3,1,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,2,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,3,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,4,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,5,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Other', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,6,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Other']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,7,['First Party'],['Information Type'],"['Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,8,['First Party'],['Information Type'],['Information Type_Location'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,9,['First Party'],['Information Type'],"['Information Type_Demographic data', 'Information Type_Other']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,10,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,11,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,12,['First Party'],['Information Type'],['Information Type_Social media data'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,13,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,14,['First Party'],['Information Type'],['Information Type_Social media data'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,15,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Directly received from third party']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,16,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,17,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,18,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,19,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,20,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,21,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,22,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,23,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,24,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,25,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,26,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,27,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,28,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,29,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,30,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information', 'Purpose_Essential service or feature']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,31,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,32,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,33,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,34,['First Party'],['Purpose'],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,35,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,36,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Computer information', 'Information Type_Other', 'Collection Process_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,37,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Essential service or feature', 'Collection Process_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,38,['First Party'],"['Information Type', 'Purpose']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Social media data', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,39,['First Party'],"['Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Collection Process_Unspecified', 'Collection Mode (opt)_Explicit', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,40,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,41,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Unspecified', 'Purpose_Optional service or feature', 'Collection Process_Unspecified', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,42,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,43,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,44,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,45,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,46,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Collection Process_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,47,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Collection Process_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,48,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,49,[],[],['Information Type_Unspecified'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,50,['First Party'],['Legal Basis for Collection'],"['Information Type_Unspecified', 'Legal Basis for Collection_Consent']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,51,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Directly received from third party']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,52,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Other', 'Collection Process_Unspecified']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,53,['First Party'],['Information Type'],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,54,[],"['Information Type', 'Purpose']",['Purpose_Advertising or marketing'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,55,[],['Information Type'],['Information Type_Social media data'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,56,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection']","['Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Legal Basis for Collection_Consent']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,57,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,58,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,59,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,60,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Contact information', 'Purpose_Advertising or marketing', 'Legal Basis for Collection_Consent']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,61,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,62,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,63,[],['Information Type'],['Information Type_User online activities'],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,64,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,65,[],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,66,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,67,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,68,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,69,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,70,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,71,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,72,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,73,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,74,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,75,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,76,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,77,[],['Choice Type (opt)'],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,78,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,79,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,80,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,81,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,82,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,83,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,84,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection', 'Collection Mode (opt)']","['Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Purpose_Service operation and security', 'Collection Process_Unspecified', 'Legal Basis for Collection_Consent']",TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,85,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,86,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,87,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,88,['First Party'],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,89,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,90,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,91,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,92,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,93,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,94,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,95,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,96,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,97,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,98,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,99,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,100,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,101,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,102,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,103,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,104,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,105,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,106,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,107,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,108,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,109,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,110,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,111,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,112,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,113,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,114,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,115,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,116,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False
+3,117,[],[],[],TRAIN,https://www.mattel.com/de-de/datenschutzerklarung,False

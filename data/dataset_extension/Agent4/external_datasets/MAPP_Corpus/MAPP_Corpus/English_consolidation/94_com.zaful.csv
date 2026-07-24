@@ -1,0 +1,46 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+94,1,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,2,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,3,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Legal requirement', 'Collection Process_Unspecified']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,4,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,5,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,6,['First Party'],"['Information Type', 'Purpose', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Other', 'Purpose_Unspecified', 'Collection Mode (opt)_Explicit']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,7,['First Party'],"['Information Type', 'Legal Basis for Collection', 'User Type (opt)']","['Information Type_Generic personal information', 'Legal Basis for Collection_Consent', 'Legal Basis for Collection_Contractual necessity', 'Legal Basis for Collection_Compliance with a legal obligation', 'Legal Basis for Collection_Legitimate interests of first or third party', 'User Type (opt)_Other']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,8,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,9,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,10,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,11,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,12,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,13,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,14,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,15,['First Party'],"['Information Type', 'Purpose']",['Information Type_Cookies and tracking elements'],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,16,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,17,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Legal requirement', 'Collection Process_Tracked on first-party website/app by third party', 'Third-Party Entity_Named third party']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,18,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Tracked on first-party website/app by third party', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,19,[],"['Information Type', 'Choice Type (opt)']","['Information Type_Cookies and tracking elements', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,20,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party']",TRAIN,https://www.zaful.com/privacy-policy/,True
+94,21,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,22,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,23,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,24,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,25,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,26,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,27,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,28,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,29,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,30,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,31,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,32,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,33,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,34,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,35,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,36,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,37,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,38,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,39,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,40,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,41,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,42,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,43,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,44,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True
+94,45,[],[],[],TRAIN,https://www.zaful.com/privacy-policy/,True

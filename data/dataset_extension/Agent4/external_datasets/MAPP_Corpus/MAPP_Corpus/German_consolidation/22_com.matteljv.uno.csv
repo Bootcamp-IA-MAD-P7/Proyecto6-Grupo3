@@ -1,0 +1,73 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+22,1,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,2,[],['Choice Type (opt)'],"[""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,3,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,4,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,5,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,6,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,7,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,8,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Social media data', 'Information Type_Generic personal information', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Entered by user on third-party website/app']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,9,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,10,['First Party'],['Information Type'],['Information Type_Financial'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,11,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,12,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_Location', 'Collection Mode (opt)_Implicit']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,13,['First Party'],['Does/Does Not (opt)'],['Does/Does Not (opt)_Does Not'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,14,['First Party'],['Information Type'],['Information Type_Generic personal information'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,15,['First Party'],['Information Type'],['Information Type_Other'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,16,['First Party'],"['Information Type', 'Collection Process', 'Choice Type (opt)']","['Information Type_Social media data', 'Collection Process_Entered by user on third-party website/app', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,17,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Cookies and tracking elements'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,18,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,19,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,20,[],['Does/Does Not (opt)'],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,21,['First Party'],"['Information Type', 'Purpose', 'Does/Does Not (opt)']","['Information Type_IP address and device IDs', 'Purpose_Essential service or feature', 'Does/Does Not (opt)_Does Not']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,22,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,23,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,24,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,25,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,26,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Essential service or feature', 'Purpose_Legal requirement', 'Collection Process_Entered by user on third-party website/app']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,27,['First Party'],"['Information Type', 'Purpose']",['Purpose_Essential service or feature'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,28,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Contact information', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,29,['First Party'],"['Information Type', 'Purpose', 'Legal Basis for Collection', 'Choice Type (opt)']","['Information Type_Location', 'Purpose_Essential service or feature', 'Choice Type (opt)_Opt-in']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,30,['First Party'],"['Information Type', 'Purpose']","['Information Type_Social media data', 'Purpose_Optional service or feature']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,31,['First Party'],"['Information Type', 'Purpose']",['Information Type_Generic personal information'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,32,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,33,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Collection Process_Unspecified']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,34,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,35,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,36,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,37,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Essential service or feature', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,38,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,39,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,40,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_IP address and device IDs', 'Choice Type (opt)_Opt-out link']",TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,41,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,42,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Compliance with a legal obligation'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,43,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,44,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,45,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,46,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,47,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Contact information'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,48,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,49,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,50,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out via contacting company'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,51,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,52,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,53,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,54,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,55,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,56,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,57,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,58,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,59,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,60,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,61,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,62,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,63,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,64,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,65,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,66,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,67,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,68,[],['Choice Type (opt)'],['Choice Type (opt)_Opt-out link'],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,69,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,70,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,71,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True
+22,72,[],[],[],TRAIN,https://www.mattel163.com/geprivacy-Statement.html,True

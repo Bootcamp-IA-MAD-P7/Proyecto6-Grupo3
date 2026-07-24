@@ -1,0 +1,100 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+29,1,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,2,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,3,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,4,['First Party'],"['Purpose', 'Choice Type (opt)']","['Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://king.com/privacyPolicy,True
+29,5,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,6,['First Party'],"['Information Type', 'Purpose']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://king.com/privacyPolicy,True
+29,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_User online activities', 'Information Type_Computer information', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Process_Directly received from third party', 'Collection Process_Unspecified']",TRAIN,https://king.com/privacyPolicy,True
+29,8,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Other', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://king.com/privacyPolicy,True
+29,9,['First Party'],['Information Type'],"['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs']",TRAIN,https://king.com/privacyPolicy,True
+29,10,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Purpose_Essential service or feature', 'Collection Process_Directly received from third party']",TRAIN,https://king.com/privacyPolicy,True
+29,11,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,12,['First Party'],"['Information Type', 'Purpose']",[],TRAIN,https://king.com/privacyPolicy,True
+29,13,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://king.com/privacyPolicy,True
+29,14,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,15,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Unspecified']",TRAIN,https://king.com/privacyPolicy,True
+29,16,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,17,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://king.com/privacyPolicy,True
+29,18,['First Party'],"['Information Type', 'Purpose']","['Information Type_Other', 'Purpose_Essential service or feature']",TRAIN,https://king.com/privacyPolicy,True
+29,19,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Demographic data', 'Information Type_User online activities', 'Collection Process_Collected on first-party website/app']",TRAIN,https://king.com/privacyPolicy,True
+29,20,['First Party'],"['Purpose', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Mode (opt)_Explicit']",TRAIN,https://king.com/privacyPolicy,True
+29,21,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,22,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://king.com/privacyPolicy,True
+29,23,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://king.com/privacyPolicy,True
+29,24,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Collection Process_Unspecified']",TRAIN,https://king.com/privacyPolicy,True
+29,25,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Service operation and security']",TRAIN,https://king.com/privacyPolicy,True
+29,26,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Legal requirement']",TRAIN,https://king.com/privacyPolicy,True
+29,27,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_User online activities', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TRAIN,https://king.com/privacyPolicy,True
+29,28,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Computer information', 'Information Type_Other', 'Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Collection Mode (opt)_Explicit']",TRAIN,https://king.com/privacyPolicy,True
+29,29,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://king.com/privacyPolicy,True
+29,30,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,31,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://king.com/privacyPolicy,True
+29,32,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,33,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,34,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,35,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,36,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Social media data', 'Information Type_Unspecified', 'Collection Process_Directly received from third party']",TRAIN,https://king.com/privacyPolicy,True
+29,37,['First Party'],"['Information Type', 'Purpose']","['Information Type_Contact information', 'Purpose_Advertising or marketing', 'Collection Process_Unspecified']",TRAIN,https://king.com/privacyPolicy,True
+29,38,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,39,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,40,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Other', 'Information Type_Unspecified', 'Purpose_Optional service or feature', 'Collection Process_Directly received from third party']",TRAIN,https://king.com/privacyPolicy,True
+29,41,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,42,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,43,"['First Party', 'Third Party']","['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Unspecified', 'Third-Party Entity_Unnamed third party']",TRAIN,https://king.com/privacyPolicy,True
+29,44,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://king.com/privacyPolicy,True
+29,45,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Location', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Directly received from third party']",TRAIN,https://king.com/privacyPolicy,True
+29,46,['Third Party'],"['Purpose', 'Collection Process']","['Purpose_Advertising or marketing', 'Collection Process_Shared by first party with a third party']",TRAIN,https://king.com/privacyPolicy,True
+29,47,['Third Party'],"['Purpose', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Collection Process_Unspecified', 'Third-Party Entity_Named third party']",TRAIN,https://king.com/privacyPolicy,True
+29,48,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,49,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,50,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,51,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,52,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://king.com/privacyPolicy,True
+29,53,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://king.com/privacyPolicy,True
+29,54,[],[],['Information Type_Unspecified'],TRAIN,https://king.com/privacyPolicy,True
+29,55,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Advertising or marketing']",TRAIN,https://king.com/privacyPolicy,True
+29,56,[],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research']",TRAIN,https://king.com/privacyPolicy,True
+29,57,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,58,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,59,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,60,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,61,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,62,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Purpose_Other', 'Third-Party Entity_Named third party']",TRAIN,https://king.com/privacyPolicy,True
+29,63,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,64,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,65,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,66,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,67,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://king.com/privacyPolicy,True
+29,68,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,69,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,70,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,71,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,72,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,73,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,74,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,75,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,76,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,77,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,78,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,79,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,80,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,81,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,82,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,83,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,84,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,85,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,86,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition']",TRAIN,https://king.com/privacyPolicy,True
+29,87,['Third Party'],"['Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Unspecified', 'Purpose_Essential service or feature', 'Collection Process_Shared by first party with a third party', 'Third-Party Entity_Named third party']",TRAIN,https://king.com/privacyPolicy,True
+29,88,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,89,['First Party'],"['Information Type', 'Purpose']","['Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Legal requirement']",TRAIN,https://king.com/privacyPolicy,True
+29,90,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,91,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,92,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,93,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,94,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,95,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,96,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,97,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,98,[],[],[],TRAIN,https://king.com/privacyPolicy,True
+29,99,[],[],[],TRAIN,https://king.com/privacyPolicy,True

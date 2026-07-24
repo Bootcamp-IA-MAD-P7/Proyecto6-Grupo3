@@ -1,0 +1,127 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+74,1,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,2,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,3,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,4,[],[],['Information Type_Unspecified'],TRAIN,https://de.wix.com/about/privacy,True
+74,5,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,6,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,7,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,8,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,9,['First Party'],"['Collection Process', 'Collection Mode (opt)']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://de.wix.com/about/privacy,True
+74,10,['First Party'],"['Information Type', 'Collection Process', 'Collection Mode (opt)']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Personal identifier', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information']",TRAIN,https://de.wix.com/about/privacy,True
+74,11,['First Party'],"['Information Type', 'Collection Process']",['Information Type_Generic personal information'],TRAIN,https://de.wix.com/about/privacy,True
+74,12,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,13,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,14,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://de.wix.com/about/privacy,True
+74,15,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://de.wix.com/about/privacy,True
+74,16,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://de.wix.com/about/privacy,True
+74,17,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,18,['First Party'],['Collection Process'],"['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://de.wix.com/about/privacy,True
+74,19,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Legal Basis for Collection']","['Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Other', 'Collection Process_Collected on first-party website/app', 'Collection Process_Unspecified']",TRAIN,https://de.wix.com/about/privacy,True
+74,20,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,21,['First Party'],"['Information Type', 'Purpose', 'Collection Process']",[],TRAIN,https://de.wix.com/about/privacy,True
+74,22,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://de.wix.com/about/privacy,True
+74,23,['First Party'],['Purpose'],['Purpose_Legal requirement'],TRAIN,https://de.wix.com/about/privacy,True
+74,24,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,25,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,26,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,27,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,28,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,29,['Third Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://de.wix.com/about/privacy,True
+74,30,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,31,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,32,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,33,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,34,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,35,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,36,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,37,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,38,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,39,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,40,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,41,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Collection Process_Unspecified']",TRAIN,https://de.wix.com/about/privacy,True
+74,42,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,43,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,44,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,45,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,46,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,47,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,48,['First Party'],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,49,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,50,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,51,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,52,['First Party'],"['Information Type', 'Purpose']",['Information Type_Demographic data'],TRAIN,https://de.wix.com/about/privacy,True
+74,53,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Other']",TRAIN,https://de.wix.com/about/privacy,True
+74,54,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,55,['First Party'],['Information Type'],['Information Type_Contact information'],TRAIN,https://de.wix.com/about/privacy,True
+74,56,['First Party'],['Purpose'],['Purpose_Other'],TRAIN,https://de.wix.com/about/privacy,True
+74,57,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Other', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://de.wix.com/about/privacy,True
+74,58,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Entity_Unnamed third party']",TRAIN,https://de.wix.com/about/privacy,True
+74,59,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,60,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,61,['Third Party'],"['Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://de.wix.com/about/privacy,True
+74,62,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,63,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Legal requirement']",TRAIN,https://de.wix.com/about/privacy,True
+74,64,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://de.wix.com/about/privacy,True
+74,65,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Unnamed third party']",TRAIN,https://de.wix.com/about/privacy,True
+74,66,['Third Party'],"['Information Type', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Collection Process_Entered by user on first-party website/app']",TRAIN,https://de.wix.com/about/privacy,True
+74,67,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,68,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,69,['Third Party'],"['Information Type', 'Third-Party Collection Process']",['Information Type_Generic personal information'],TRAIN,https://de.wix.com/about/privacy,True
+74,70,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,71,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,72,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,73,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Purpose_Merger or acquisition', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party', 'Third-Party Entity_Other part of company/affiliate', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://de.wix.com/about/privacy,True
+74,74,['Third Party'],"['Information Type', 'Third-Party Collection Process']","['Information Type_Generic personal information', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://de.wix.com/about/privacy,True
+74,75,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research', 'Purpose_Service operation and security']",TRAIN,https://de.wix.com/about/privacy,True
+74,76,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,77,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,78,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,79,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://de.wix.com/about/privacy,True
+74,80,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Third-Party Collection Process']","['Information Type_User online activities', 'Purpose_Advertising or marketing', 'Third-Party Collection Process_Tracked on first-party website/app by third party']",TRAIN,https://de.wix.com/about/privacy,True
+74,81,['First Party'],"['Purpose', 'Collection Process']","['Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Other']",TRAIN,https://de.wix.com/about/privacy,True
+74,82,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,83,"['First Party', 'Third Party']",['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://de.wix.com/about/privacy,True
+74,84,['First Party'],['Purpose'],"['Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TRAIN,https://de.wix.com/about/privacy,True
+74,85,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://de.wix.com/about/privacy,True
+74,86,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://de.wix.com/about/privacy,True
+74,87,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,88,['First Party'],['Purpose'],[],TRAIN,https://de.wix.com/about/privacy,True
+74,89,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,90,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,91,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,92,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,93,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,94,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,95,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,96,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,97,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,98,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,99,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,100,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,101,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,102,['First Party'],['Purpose'],[],TRAIN,https://de.wix.com/about/privacy,True
+74,103,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,104,['First Party'],['Purpose'],[],TRAIN,https://de.wix.com/about/privacy,True
+74,105,['First Party'],['Purpose'],[],TRAIN,https://de.wix.com/about/privacy,True
+74,106,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,107,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,108,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,109,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,110,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,111,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,112,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,113,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,114,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,115,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,116,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,117,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,118,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,119,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,120,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,121,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,122,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,123,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,124,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,125,[],[],[],TRAIN,https://de.wix.com/about/privacy,True
+74,126,[],[],[],TRAIN,https://de.wix.com/about/privacy,True

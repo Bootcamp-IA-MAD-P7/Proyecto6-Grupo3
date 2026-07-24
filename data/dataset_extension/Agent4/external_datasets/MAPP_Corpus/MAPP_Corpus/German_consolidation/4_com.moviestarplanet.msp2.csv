@@ -1,0 +1,15 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+4,1,[],[],[],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,2,[],[],[],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,3,[],[],[],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,4,[],[],[],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,5,['First Party'],['Information Type'],"['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Other']",TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,6,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app']",TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,7,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Service operation and security']",TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,8,['Third Party'],"['Purpose', 'Third-Party Collection Process']","['Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Third-Party Collection Process_Shared by first party with a third party']",TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,9,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,10,[],[],[],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,11,['Third Party'],"['Does/Does Not (opt)', 'Third-Party Collection Process']",['Third-Party Collection Process_Shared by first party with a third party'],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,12,[],[],[],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,13,['First Party'],"['Information Type', 'Purpose', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Essential service or feature']",TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True
+4,14,[],[],[],TRAIN,https://moviestarplanet.zendesk.com/hc/de/articles/213208965-Datenschutzrichtlinie,True

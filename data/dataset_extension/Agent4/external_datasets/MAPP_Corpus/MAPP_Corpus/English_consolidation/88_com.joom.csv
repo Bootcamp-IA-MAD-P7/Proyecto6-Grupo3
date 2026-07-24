@@ -1,0 +1,37 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+88,1,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,2,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,3,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,4,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,5,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,6,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,7,['First Party'],"['Information Type', 'Does/Does Not (opt)']",[],TRAIN,https://www.joom.com/en/privacy,True
+88,8,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_Social media data', 'Information Type_IP address and device IDs', 'Information Type_Computer information', 'Information Type_Other']",TRAIN,https://www.joom.com/en/privacy,True
+88,9,['First Party'],['Collection Process'],['Collection Process_Collected on first-party website/app'],TRAIN,https://www.joom.com/en/privacy,True
+88,10,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TRAIN,https://www.joom.com/en/privacy,True
+88,11,['First Party'],"['Information Type', 'Purpose']","['Information Type_Cookies and tracking elements', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security']",TRAIN,https://www.joom.com/en/privacy,True
+88,12,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.joom.com/en/privacy,True
+88,13,['First Party'],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,14,['First Party'],['Purpose'],['Purpose_Advertising or marketing'],TRAIN,https://www.joom.com/en/privacy,True
+88,15,['First Party'],['Purpose'],['Purpose_Analytics or research'],TRAIN,https://www.joom.com/en/privacy,True
+88,16,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,17,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,18,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,19,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,20,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,21,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,22,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,23,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,24,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,25,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,26,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,27,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,28,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,29,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,30,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,31,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,32,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,33,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,34,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,35,[],[],[],TRAIN,https://www.joom.com/en/privacy,True
+88,36,[],[],[],TRAIN,https://www.joom.com/en/privacy,True

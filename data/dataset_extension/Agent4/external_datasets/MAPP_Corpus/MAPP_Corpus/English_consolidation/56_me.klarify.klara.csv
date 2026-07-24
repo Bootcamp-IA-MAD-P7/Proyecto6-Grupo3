@@ -1,0 +1,53 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+56,1,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,2,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,3,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,4,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,5,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,6,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,7,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,8,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,9,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,10,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,11,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,12,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,13,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,14,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,15,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,16,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,17,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,18,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,19,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,20,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,21,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,22,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,23,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,24,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,25,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,26,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,27,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,28,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,29,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,30,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,31,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,32,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,33,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,34,['First Party'],"['Collection Process', 'Choice Type (opt)']","['Information Type_Unspecified', 'Collection Process_Collected on first-party website/app', 'Choice Type (opt)_Opt-in']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,35,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,36,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Generic personal information', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Unspecified', 'Collection Process_Collected on first-party website/app']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,37,['First Party'],"['Information Type', 'Collection Process', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', ""Choice Type (opt)_Don't use service/feature""]",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,38,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Contact information', 'Purpose_Essential service or feature', 'Collection Process_Collected on first-party website/app', 'Choice Type (opt)_Opt-out link', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,39,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_Unspecified', 'Purpose_Essential service or feature', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,40,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)']","['Information Type_Health, genetic, or biometric data', 'Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app', 'Choice Type (opt)_First-party privacy controls']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,41,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Personalization or customization', 'Collection Process_Collected on first-party website/app', ""Choice Type (opt)_Don't use service/feature"", 'Choice Type (opt)_First-party privacy controls', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,42,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Collection Process_Shared by first party with a third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Named third party']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,43,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Anonymization (opt)']","['Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Collection Process_Collected on first-party website/app']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,44,['First Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Information Type_User online activities', 'Information Type_Cookies and tracking elements', 'Information Type_Generic personal information', 'Purpose_Analytics or research', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,45,"['First Party', 'Third Party']","['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Third-Party Entity', 'Choice Type (opt)', 'Anonymization (opt)']","['Information Type_Location', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Cookies and tracking elements', 'Information Type_Unspecified', 'Purpose_Analytics or research', 'Purpose_Other', 'Collection Process_Tracked on first-party website/app by third party', 'Does/Does Not (opt)_Does Not', 'Third-Party Entity_Named third party', 'Choice Type (opt)_Opt-out link', 'Anonymization (opt)_Aggregated or anonymized']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,46,['Third Party'],['Third-Party Entity'],['Third-Party Entity_Named third party'],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,47,"['First Party', 'Third Party']","['Information Type', 'Collection Process', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_User online activities', 'Collection Process_Tracked on first-party website/app by third party', 'Collection Process_Collected on first-party website/app', 'Third-Party Entity_Unnamed third party', 'Choice Type (opt)_Browser/device privacy controls']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,48,['First Party'],"['Information Type', 'Collection Process', 'Does/Does Not (opt)']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app', 'Does/Does Not (opt)_Does Not']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,49,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Choice Type (opt)_Opt-out via contacting company']",TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,50,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,51,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True
+56,52,[],[],[],TRAIN,https://us.klarify.me/pages/privacy-policy,True

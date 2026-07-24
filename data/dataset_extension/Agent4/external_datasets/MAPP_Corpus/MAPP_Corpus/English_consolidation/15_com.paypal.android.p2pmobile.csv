@@ -1,0 +1,57 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+15,1,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,2,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,3,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,4,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,5,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,6,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,7,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,8,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,9,['First Party'],['Purpose'],"['Information Type_Unspecified', 'Purpose_Essential service or feature']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,10,['First Party'],"['Information Type', 'Purpose']",['Purpose_Essential service or feature'],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,11,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,12,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,13,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,14,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,15,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,16,['First Party'],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,17,['First Party'],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Financial', 'Information Type_Location', 'Information Type_IP address and device IDs', 'Information Type_Unspecified', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,18,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Demographic data', 'Information Type_Personal identifier', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information', 'Information Type_Other', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,19,['First Party'],"['Purpose', 'Collection Process']","['Purpose_Advertising or marketing', 'Purpose_Personalization or customization', 'Purpose_Service operation and security', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,20,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,21,[],['Choice Type (opt)'],['Choice Type (opt)_Browser/device privacy controls'],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,22,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,23,['First Party'],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,24,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,25,['First Party'],"['Information Type', 'Purpose']","['Information Type_Generic personal information', 'Purpose_Advertising or marketing', 'Purpose_Personalization or customization']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,26,['First Party'],['Purpose'],['Purpose_Personalization or customization'],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,27,['First Party'],"['Information Type', 'Purpose']","['Information Type_Location', 'Purpose_Personalization or customization', 'Purpose_Service operation and security']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,28,['First Party'],"['Information Type', 'Purpose']",['Purpose_Legal requirement'],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,29,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Advertising or marketing', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Collection Process_Shared by first party with a third party']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,30,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,31,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Service operation and security', 'Purpose_Legal requirement', 'Third-Party Entity_Other part of company/affiliate']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,32,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,33,['Third Party'],"['Purpose', 'Third-Party Entity']","['Purpose_Legal requirement', 'Third-Party Entity_Named third party']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,34,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,35,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,36,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,37,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,38,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,39,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,40,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,41,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,42,[],['Information Type'],['Information Type_Financial'],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,43,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,44,[],['Purpose'],['Purpose_Essential service or feature'],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,45,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,46,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,47,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,48,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,49,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,50,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,51,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,52,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,53,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,54,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,55,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True
+15,56,[],[],[],TRAIN,https://www.paypal.com/us/webapps/mpp/ua/privacy-full,True

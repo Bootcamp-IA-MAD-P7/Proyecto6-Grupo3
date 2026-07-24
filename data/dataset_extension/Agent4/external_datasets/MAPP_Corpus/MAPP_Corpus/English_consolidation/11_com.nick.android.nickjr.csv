@@ -1,0 +1,46 @@
+policy id,segment_id,category name,attribute name,value name,policy_type,privacy_policy_link,MAPP_59
+11,1,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,2,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,3,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,4,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,5,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,6,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,7,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Collection Process_Collected on first-party website/app']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,8,['First Party'],"['Information Type', 'Collection Process']","['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Location', 'Information Type_Personal identifier', 'Information Type_Generic personal information', 'Purpose_Unspecified', 'Collection Process_Collected on first-party website/app']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,9,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,10,['First Party'],"['Information Type', 'Collection Mode (opt)']","['Information Type_IP address and device IDs', 'Collection Mode (opt)_Implicit']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,11,['First Party'],['Collection Process'],['Collection Process_Directly received from third party'],TEST,http://www.nickjr.com/privacy-policy/,True
+11,12,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,13,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,14,['First Party'],['Purpose'],"['Purpose_Essential service or feature', 'Purpose_Optional service or feature', 'Purpose_Advertising or marketing', 'Purpose_Analytics or research', 'Purpose_Service operation and security', 'Purpose_Legal requirement']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,15,['Third Party'],"['Information Type', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Unspecified', 'Third-Party Entity_Other part of company/affiliate']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,16,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Unspecified', 'Third-Party Entity_Unnamed third party', 'Third-Party Entity_Other part of company/affiliate']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,17,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Essential service or feature', 'Purpose_Merger or acquisition', 'Collection Process_Unspecified', 'Third-Party Entity_Unnamed third party']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,18,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Merger or acquisition', 'Collection Process_Unspecified', 'Third-Party Entity_Unnamed third party']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,19,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity']","['Information Type_Generic personal information', 'Purpose_Service operation and security', 'Purpose_Legal requirement', 'Purpose_Merger or acquisition', 'Collection Process_Unspecified', 'Third-Party Entity_Unnamed third party']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,20,['Third Party'],"['Information Type', 'Purpose', 'Third-Party Entity', 'Choice Type (opt)']","['Information Type_Generic personal information', 'Purpose_Legal requirement', 'Collection Process_Unspecified', 'Choice Type (opt)_Opt-out via contacting company']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,21,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,22,[],"['Information Type', 'Purpose', 'Collection Process']","['Information Type_Cookies and tracking elements', 'Purpose_Analytics or research']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,23,['Third Party'],"['Information Type', 'Purpose', 'Collection Process', 'Does/Does Not (opt)', 'Choice Type (opt)']","['Purpose_Advertising or marketing', 'Does/Does Not (opt)_Does Not', 'Choice Type (opt)_Browser/device privacy controls']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,24,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,25,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,26,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,27,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,28,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,29,['First Party'],"['Information Type', 'Choice Type (opt)']","['Information Type_Location', 'Purpose_Unspecified']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,30,[],['Choice Type (opt)'],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,31,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,32,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,33,['First Party'],['Information Type'],"['Information Type_Financial', 'Information Type_Contact information', 'Information Type_Demographic data', 'Information Type_User online activities', 'Information Type_IP address and device IDs', 'Information Type_Generic personal information']",TEST,http://www.nickjr.com/privacy-policy/,True
+11,34,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,35,[],['Choice Type (opt)'],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,36,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,37,['First Party'],['Information Type'],['Information Type_Generic personal information'],TEST,http://www.nickjr.com/privacy-policy/,True
+11,38,['First Party'],['Legal Basis for Collection'],['Legal Basis for Collection_Consent'],TEST,http://www.nickjr.com/privacy-policy/,True
+11,39,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,40,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,41,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,42,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,43,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,44,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
+11,45,[],[],[],TEST,http://www.nickjr.com/privacy-policy/,True
