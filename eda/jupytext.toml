@@ -1,0 +1,1 @@
+formats = "eda//ipynb,eda//py:percent"
