@@ -1,0 +1,13 @@
+# Dependencias de Node (se instalan con `npm install`)
+node_modules/
+
+# Build de producción
+dist/
+
+# Archivos de entorno locales (nunca subir claves)
+.env
+.env.local
+
+# Cachés y logs
+*.log
+.vite/
