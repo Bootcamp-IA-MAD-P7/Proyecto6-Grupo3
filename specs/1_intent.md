@@ -2,11 +2,12 @@
 
 **Proyecto:** Clasificador de políticas de privacidad — Proyecto 6, Grupo 3
 **Bootcamp:** IA School, Factoría F5 Madrid
-**Versión:** 0.2 (borrador para revisión del equipo)
+**Versión:** 0.3 (24 de julio de 2026)
 
 > Nota de idioma: este documento está en español porque su público son personas
 > (equipo que aprende, docentes) y así es más accesible. Los términos técnicos van
-> en inglés. El idioma de las propias specs queda por ratificar (ver TODO al final).
+> en inglés. **Ratificado (24 jul):** las specs se escriben en español; la convención
+> completa está en `specs/README.md`.
 
 ---
 
@@ -76,8 +77,14 @@ nivel superior puede ponerlo en riesgo. El suelo queda protegido cuando existe:
 - **Soporte de español mediante traducción en la inferencia**, con **degradación
   elegante**: si el servicio de traducción no está disponible, la aplicación avisa y
   sigue funcionando en inglés en lugar de fallar.
-- **Conjunto de prueba en español validado a mano** (100-200 fragmentos), sin el cual
-  no se puede afirmar que el español funciona.
+- **Conjunto de prueba en español validado a mano**, sin el cual no se puede afirmar
+  que el español funciona.
+
+  > **⚠️ Cifra a reconciliar.** Este documento pedía 100-200 fragmentos; `3_plan` §6
+  > planifica una sesión de 30-40. Con el tiempo real disponible, 30-40 es lo que cabe.
+  > **Hay que decidir cuál manda y corregir el otro documento**, porque el informe no
+  > puede citar dos cifras distintas. Ver también `2_spec` §13.3: `do_not_track` tiene
+  > 1 sola fila en español y queda fuera de la verificación en cualquier caso.
 - **Demo en Streamlit** que recibe una política y devuelve la clasificación.
 - Informe técnico con interpretación del rendimiento y de los límites.
 - README con instalación, ejecución y estructura del proyecto.
@@ -127,7 +134,8 @@ pero nunca a costa de romper el suelo.
 - Las decisiones técnicas relevantes se registran en `specs/`, no se quedan en el
   chat ni en el Discord.
 - **Glosario compartido vivo** (Google Doc), congelado en `specs/GLOSSARY.md` al
-  cerrar cada sprint.
+  cerrar cada sprint. **Pendiente:** el archivo `specs/GLOSSARY.md` todavía no existe,
+  y se han acumulado tres sesiones de términos. Sprint 1 cierra esta semana.
 
 ## Manejo de distintos niveles técnicos
 
@@ -164,12 +172,27 @@ Regla principal: **primero un suelo esencial estable, después mejoras increment
 
 ## Pendientes (TODO)
 
-- [ ] Ratificar en qué idioma se escriben las specs.
+- [x] ~~Ratificar en qué idioma se escriben las specs~~ — español; ver `specs/README.md`.
+- [x] ~~Unificar el flujo de ramas~~ — hecho el 23 de julio (#21). `dev` es la rama por
+      defecto.
+- [x] ~~Acordar por escrito la norma de datos generados y convertir los procesos
+      existentes en scripts reproducibles~~ — norma en `2_spec` §12.1; los scripts
+      01-05 existen.
 - [ ] Ratificar el alcance del suelo protegido (ver nota en Nivel Esencial).
-- [ ] Definir los **roles** del equipo y el dueño de cada modelo (issue del tablero).
-- [ ] Unificar el flujo de ramas (`main` y `dev` han avanzado por caminos distintos).
-- [ ] Acordar por escrito la norma de datos generados y convertir los procesos
-      existentes en scripts reproducibles.
+- [ ] **Reconciliar el tamaño del conjunto de prueba en español** (100-200 aquí frente a
+      30-40 en `3_plan`).
+- [ ] Definir los **roles** del equipo y el **dueño de cada modelo** (#1). Bloquea el
+      lunes.
+- [ ] Crear `specs/GLOSSARY.md` al cerrar el Sprint 1.
+
+## Cambios respecto a la versión 0.2 (24 de julio de 2026)
+
+- Ratificado el idioma de las specs (español) y remitida la convención completa al
+  `README` de `specs/`.
+- Marcada la contradicción del tamaño del conjunto de prueba en español (100-200 aquí
+  frente a 30-40 en `3_plan`).
+- Cerrados tres TODO: idioma de las specs, flujo de ramas y norma de datos generados.
+- Señalado que `specs/GLOSSARY.md` sigue sin existir.
 
 ## Cambios respecto a la versión 0.1
 
