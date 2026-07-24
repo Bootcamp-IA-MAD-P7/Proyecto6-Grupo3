@@ -72,19 +72,20 @@ plt.show()
 # ### Conclusiones
 #
 # La media es de 1.23 etiquetas por fragmento, con un 13.7% de fragmentos
-# (520 de 3792) sin ninguna categoria activa — corresponden a texto
+# (520 de 3792) sin ninguna categoría activa — corresponden a texto
 # clasificado como "Other" (contacto, introducciones), que se excluye del
-# target por decision de la spec.
+# target por decisión de la spec.
 #
-# La distribucion muestra que la mayoria de fragmentos tiene 0, 1 o 2
-# etiquetas, pero existe una cola de fragmentos con hasta 8 categorias a la
-# vez. Esto confirma que el problema es multi-etiqueta y no multiclase:
-# forzar una sola categoria por fragmento descartaria informacion real en el
-# 25% de fragmentos que tienen 2 o mas categorias simultaneas.
+# La distribución muestra que la mayoría de fragmentos tiene 0, 1 o 2
+# etiquetas, aunque también existen casos excepcionales que acumulan hasta
+# 8 categorías de forma simultánea. Esto confirma que el problema es
+# multi-etiqueta y no multiclase: forzar una sola categoría por fragmento
+# descartaría información real en el 25% de fragmentos que tienen 2 o más
+# categorías simultáneas.
 #
-# La combinacion mas frecuente entre categorias distintas es
+# La combinación más frecuente entre categorías distintas es
 # `first_party_collection_use` + `third_party_sharing_collection`
-# (503 fragmentos comparten ambas) — coincide con el patron mas comun en
-# politicas de privacidad: un mismo parrafo que declara que recogen un dato
-# y ademas lo comparten con terceros.
+# (503 fragmentos comparten ambas) — coincide con el patrón más común en
+# políticas de privacidad: un mismo párrafo que declara que recogen un dato
+# y además lo comparten con terceros.
 

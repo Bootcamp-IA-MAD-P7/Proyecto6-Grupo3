@@ -1,9 +1,9 @@
 # %%
-# ## EDA - Distrución y desbalance de las 9 categorías
+# ## EDA - Distribución y desbalance de las 9 categorías
 #
 # Objetivo: cuantificar cuántas veces aparece cada una de las 9 categorías
 # en la tabla de entrenamiento generada a partir de OPP-115, y visualizar
-# el desbalanece entre la más frecuente y la menos frecuente.
+# el desbalance entre la más frecuente y la menos frecuente.
 
 # %% 1. Imports
 import os
@@ -52,15 +52,15 @@ print(f"Ratio de desbalance      : {ratio:.1f}:1")
 # %% [markdown]
 # ### Conclusiones
 #
-# Las 9 categorias estan fuertemente desbalanceadas: `first_party_collection_use`
+# Las 9 categorías están fuertemente desbalanceadas: `first_party_collection_use`
 # aparece en 1521 fragmentos, mientras que `do_not_track` aparece en solo 32
-# (ratio 47.5:1). Cuatro categorias (`do_not_track`, `data_retention`,
+# (ratio 47.5:1). Cuatro categorías (`do_not_track`, `data_retention`,
 # `policy_change`, `user_access_edit_deletion`) tienen menos de 250 apariciones,
-# muy por debajo de las dos mas frecuentes.
+# muy por debajo de las dos más frecuentes.
 #
-# Esto confirma por que el equipo eligio macro-F1 como metrica principal
-# (2_spec.md): con una metrica que pese por instancia (micro-F1 o accuracy),
-# el modelo podria ignorar casi por completo categorias raras como
-# `do_not_track` y aun asi sacar una nota alta, porque pesan poco en el total.
-# Macro-F1 obliga a que el modelo tambien funcione bien en las categorias con
+# Esto confirma por qué el equipo eligió macro-F1 como métrica principal
+# (2_spec.md): con una métrica que pese por instancia (micro-F1 o accuracy),
+# el modelo podría ignorar casi por completo categorías raras como
+# `do_not_track` y aún así sacar una nota alta, porque pesan poco en el total.
+# Macro-F1 obliga a que el modelo también funcione bien en las categorías con
 # pocos ejemplos, no solo en las frecuentes.

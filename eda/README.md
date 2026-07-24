@@ -5,8 +5,32 @@ Esta carpeta contiene los scripts ejecutables de análisis exploratorio encargad
 
 ---
 
-
 ## 🛠️ Scripts y Responsabilidades
+
+### 📄 `01_target_distribution.py` (Issue #48)
+* **Objetivo:** Cuantificar cuántas veces aparece cada una de las 9 categorías en la tabla de entrenamiento generada a partir de OPP-115, y visualizar el desbalance entre la más frecuente y la menos frecuente.
+* **Qué hace:**
+  * Cuenta las apariciones de cada una de las 9 etiquetas objetivo.
+  * Genera un gráfico de barras horizontales con la distribución.
+  * Cuantifica el ratio de desbalance entre la categoría más frecuente y la menos frecuente.
+* **Artefactos generados:** 
+  * 📊 `reports/figures/target_distribution.png`
+* **Conclusiones:** Las 9 categorías están fuertemente desbalanceadas (ratio 47.5:1 entre `first_party_collection_use` y `do_not_track`). Esto justifica la elección de la métrica **macro-F1** en las SPECs para evitar que el modelo ignore las clases minoritarias.
+
+---
+
+### 📄 `02_target_multilabel.py` (Issue #49)
+* **Objetivo:** Demostrar con datos que este es un problema multi-etiqueta (no multiclase), mostrando cuántas categorías tiene cada fragmento a la vez y qué combinaciones aparecen juntas más seguido.
+* **Qué hace:**
+  * Calcula el número de etiquetas por fragmento y detecta cuántos fragmentos no tienen etiqueta (texto clasificado como "Other").
+  * Genera un gráfico de distribución del número de etiquetas por fragmento.
+  * Construye una matriz de co-ocurrencia y un mapa de calor (*heatmap*).
+* **Artefactos generados:** 
+  * 📊 `reports/figures/multilabel_distribution.png`
+  * 📊 `reports/figures/cooccurrence_heatmap.png`
+* **Conclusiones:** Se confirma que el problema es multi-etiqueta (media de 1.23 etiquetas por fragmento). Aunque la gran mayoría de fragmentos tiene entre 0 y 2 etiquetas, también hay casos excepcionales que acumulan hasta 8 categorías de forma simultánea. Esto demuestra que forzar una sola categoría por fragmento descartaría información real. La combinación más frecuente es `first_party_collection_use` + `third_party_sharing_collection`.
+
+---
 
 ### 📄 `03_text_length_vocab.py` (Sub-issue #50)
 * **Objetivo:** Analizar la distribución de la longitud de los textos de OPP-115 y la densidad del vocabulario.
