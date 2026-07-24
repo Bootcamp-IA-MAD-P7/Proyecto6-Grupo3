@@ -1,8 +1,14 @@
 # SPEC 3 — Plan
 
 **Proyecto:** Clasificador de políticas de privacidad — Proyecto 6, Grupo 3
-**Versión:** 0.2 (borrador para revisión del equipo)
-**Plazo real restante:** 6 días de trabajo (jueves 23, viernes 24, lunes 27, martes 28, miércoles 29, jueves 30)
+**Versión:** 0.3 (actualizada el 24 de julio; el calendario corre un día, pendiente de confirmar en equipo)
+**Plazo real restante:** 3 días de trabajo (lunes 27, martes 28 y miércoles 29) más el
+día de cierre (jueves 30)
+
+> **⚠️ El calendario corrió un día.** El frente de datos necesitó una jornada adicional
+> para cerrar la tabla de entrenamiento (#31) y el conjunto de evaluación (#33). El
+> mapeo real de días es el de §5, no el de la v0.2. **Pendiente de confirmar por el
+> equipo.**
 
 > Este plan organiza el trabajo en fases verificables. Cada fase debe dejar el
 > proyecto en un estado **ejecutable y demostrable**, no a medias.
@@ -46,16 +52,26 @@ cuatro modelos y el meta.
 **Esto es la condición para que el plan funcione.** Cuatro personas entrenando en
 paralelo solo produce cuatro modelos comparables si comparten el punto de partida:
 
-| A congelar | Por qué |
-|---|---|
-| **Pipeline de preprocesado** común | Si cada uno limpia y vectoriza a su manera, las métricas no se pueden comparar |
-| **Partición** train/validación/test, **por política** y con **semilla fija** | Cuatro modelos medidos sobre particiones distintas no se pueden clasificar entre sí |
-| **Deduplicación** aplicada antes de partir | Un párrafo repetido a los dos lados infla las métricas de todos por igual |
-| **Contrato de salida** (`2_spec` §9) | Es lo que permite que la interfaz se construya sin esperar al modelo |
-| **Formato de las métricas** (macro-F1 + gap train/validación) | Para que la tabla comparativa se rellene sola y no haya que rehacer cálculos |
+| A congelar | Estado (24 jul) | Dónde vive |
+|---|---|---|
+| **Pipeline de preprocesado** común | ✅ **Congelado** | `2_spec` §4.5 · `scripts/05_vectorize.py` |
+| **Partición** train/val/test, por política, con semilla fija | ✅ **Congelada** | `2_spec` §4.4 · `split_assignment.csv` |
+| **Deduplicación** aplicada antes de partir | ✅ Hecha | `2_spec` §1.3 · `scripts/03_...` |
+| **Criterio de terminado** de un modelo base | ✅ Redactado, ❌ **sin adoptar en los issues** | `2_spec` §6.1 |
+| **Contrato de salida** (`2_spec` §9) | ❌ **Sin congelar** | bloquea al frente de producto (#19) |
+| **Formato de las métricas** y tabla comparativa | ❌ **Sin acordar** | issue #22 |
+| **Qué cuatro modelos y quién lleva cada uno** | ❌ **Sin decidir** | issues #2 y #1 |
 
-Sin esto, el día 4 hay cuatro modelos que no se pueden comparar ni combinar, y el
-meta-modelo no es posible. **Es tarea del día 1, no del lunes.**
+Las tres primeras filas son las que hacían falta antes de entrenar y ya están. **Las
+cuatro últimas bloquean el lunes**, y las tres últimas son decisiones de equipo que no
+puede tomar una persona sola.
+
+Además existe ya un **baseline de referencia**: macro-F1 **0,7466** en validación
+(`2_spec` §3.1). Es el suelo contra el que se comparan los cuatro modelos, y es alto:
+un modelo que quede en 0,72 no ha fracasado.
+
+**Contrato de datos pegable:** `specs/4_data_contract.md`. Cualquiera que vaya a
+escribir código —con o sin ayuda de una IA— empieza por ahí.
 
 ## 4. Frentes de trabajo
 
@@ -76,28 +92,36 @@ Cómo se activan con este plan:
 
 - [ ] **TODO:** asignar personas a frentes y **dueño de cada modelo** (issue del tablero).
 
-## 5. Fase A — Modelado en paralelo (días 1-3: jueves, viernes, lunes)
+## 5. Fase A — Modelado en paralelo
 
 ### Objetivo
 
 Los **≥4 modelos base diversos** entrenados, medidos con el mismo criterio y
-comparables entre sí, más el **meta-modelo** si el lunes da margen.
+comparables entre sí, más el **meta-modelo** si da margen.
 
-### Día 1 (jueves) — base común
+### Jueves 23 — datos (hecho)
 
-- Congelar todo lo del §3. Nadie entrena antes de que exista.
-- Bajar OPP-115 a `data/dataset/` y cruzar los fragmentos con el archivo de
-  anotaciones (sin ese cruce no hay target).
-- EDA: distribución de las nueve categorías, desbalance, cuántas etiquetas por
-  fragmento.
-- Cerrar **qué cuatro modelos** y quién lleva cada uno.
+Tabla de entrenamiento (#31) y conjunto de evaluación (#33) cerrados con evidencia.
+Flujo de ramas unificado, `dev` como rama por defecto (#21).
 
-### Días 2-3 (viernes, lunes) — entrenamiento
+### Viernes 24 — base común y EDA (hecho)
 
-- Cada persona entrena su modelo sobre el pipeline y la partición comunes.
-- Cada modelo se cierra con: **macro-F1** de train y validación, **gap** calculado, y
-  su fila en la **tabla comparativa** compartida.
-- El lunes por la tarde: **meta-modelo por stacking** sobre los cuatro.
+- Partición congelada (#18) y vectorización congelada (#8). Ver `2_spec` §4.4 y §4.5.
+- EDA completo: los cuatro sub-issues del #6 (#48-#51). Ver `2_spec` §4.6.
+- Baseline de referencia en macro-F1 0,7466 (`2_spec` §3.1).
+- **No cerrado:** qué cuatro modelos, dueño de cada uno, formato de la tabla
+  comparativa. Son las decisiones que bloquean el lunes.
+
+### Lunes 27 — entrenamiento
+
+- Cada persona entrena su modelo cargando los artefactos de `artifacts/`, contra el
+  criterio de terminado común de `2_spec` §6.1.
+- Cada modelo se cierra con: **macro-F1** de train y validación, **gap** calculado,
+  **F1 por cada una de las nueve categorías**, y su fila en la tabla comparativa.
+- **Por la tarde, prioridad alta:** validar la premisa inglés→español por lotes con el
+  primer modelo disponible (`2_spec` §15). Es un go/no-go de arquitectura y hacerlo el
+  lunes deja tres días para reaccionar; hacerlo el miércoles deja cero.
+- Meta-modelo por stacking solo si sobra margen; si no, martes.
 
 ### En paralelo, sin robar tiempo al modelado
 
@@ -127,7 +151,7 @@ Cada persona preprocesa a su manera y los modelos no se pueden comparar (lo prev
 el §3) · gap por encima del 5% en varios modelos · `do_not_track` sin ejemplos en algún
 grupo por su escasez · el meta-modelo no cabe el lunes (se documenta y se hace el martes).
 
-## 6. Fase B — Producto y capas (días 4-5: martes, miércoles)
+## 6. Fase B — Producto y capas (martes 28 y miércoles 29)
 
 Aquí se cierra el suelo protegido y se suman las capas. El equipo converge.
 
@@ -149,8 +173,9 @@ Aquí se cierra el suelo protegido y se suman las capas. El equipo converge.
 
 ### Verificación en español (todo el equipo, una sesión del martes)
 
-**30-40 fragmentos** en español revisados a mano entre todos, repartidos entre las
-categorías que más pesan en el semáforo. No es una métrica publicable: es una
+**30-40 fragmentos** en español revisados a mano entre todos, concentrados en las
+**4-5 categorías con volumen real** en español. `do_not_track` tiene 1 sola fila y no
+se puede cubrir; así se declara (`2_spec` §13.3). No es una métrica publicable: es una
 **verificación**, y así se presenta ("revisamos 40 fragmentos y el modelo acertó en N").
 
 **Descartado:** medir contra la preanotación automática de la extensión del dataset.
@@ -163,7 +188,7 @@ una política en inglés devuelve categorías · una en español también, y con
 quitada avisa y sigue en inglés · el semáforo tiene pesos documentados · cada categoría
 muestra su artículo del RGPD.
 
-## 7. Fase C — Cierre y defensa (día 6: jueves 30)
+## 7. Fase C — Cierre y defensa (jueves 30)
 
 **Día de congelación: no entra nada nuevo.** Solo se arregla lo que esté roto.
 
@@ -203,10 +228,14 @@ recortado y explicado se defiende; una funcionalidad prometida y ausente, no.
 | El suelo no existe hasta el día 5 | Esqueleto de Streamlit desde el día 1 contra la salida simulada del §9 |
 | Cuatro modelos no comparables entre sí | Congelar pipeline, partición y semilla el día 1 (§3) |
 | El producto no cabe en dos días | Orden de corte decidido de antemano (§8) |
-| `main` y `dev` divergen | Unificar el flujo a un solo camino **hoy**, antes de que cuatro personas empiecen a entrenar en ramas distintas |
+| ~~`main` y `dev` divergen~~ | ✅ Resuelto el 23 de julio (#21). `dev` es la rama por defecto |
 | Datos generados pesados en el repo | Norma escrita (`2_spec` §12); no se reescribe el historial a mitad de proyecto |
 | La presentación promete más que el código | El frente de QA revisa la coherencia el día 6 |
-| Todo se junta el último día | El día 6 es de congelación: nada nuevo entra |
+| Todo se junta el último día | El día de cierre es de congelación: nada nuevo entra |
+| **Un modelo se entrena sobre datos partidos por su cuenta** y su métrica no es comparable | Contrato de datos pegable (`specs/4_data_contract.md`) + las tres reglas de `2_spec` §6.2. Ya ocurrió una vez en un script de EDA |
+| **La premisa inglés→español no funciona** y se descubre el miércoles | Validarla por lotes el lunes por la tarde, con el primer modelo |
+| **El equipo no sabe si su macro-F1 es bueno** porque falta la referencia de la literatura | Investigación del #2, hacer en paralelo. Sin ella, el informe declara que la elección fue por criterio propio |
+| Archivos pesados ya rastreados bloquean merges entre ramas | Ejecutar el destracking del `2_spec` §12.1 (#34). `.gitignore` no basta: hace falta `git rm --cached` |
 
 ---
 
@@ -229,11 +258,43 @@ dailies asíncronas funcionen.
 
 ## Pendientes (TODO)
 
-- [ ] Asignar personas a frentes y **dueño de cada modelo**.
+- [ ] **Confirmar este calendario** en la daily. Es el cambio principal de la v0.3.
+- [ ] Asignar personas a frentes y **dueño de cada modelo** (#1).
+- [ ] Cerrar **qué cuatro modelos** (#2).
+- [ ] Acordar el **formato de la tabla comparativa** (#22) y su ubicación en `reports/`.
+- [ ] Adoptar el **criterio de terminado común** (`2_spec` §6.1) en #9, #23, #24, #25.
 - [ ] Confirmar en la consigna si los ≥4 modelos + meta son requisito calificable.
-- [ ] Cerrar **qué cuatro modelos** (investigación sobre la literatura).
-- [ ] Unificar el flujo de ramas **hoy**, antes de empezar a entrenar en paralelo.
+- [x] ~~Unificar el flujo de ramas~~ — hecho el 23 de julio (#21).
 - [ ] Fijar hora de la sesión de verificación en español (martes).
+- [ ] Convención de nombres de figura en `reports/figures/`: ahora conviven dos estilos
+      (descriptivo, `target_distribution.png`; y por issue, `50_longitud_texto.png`).
+      Elegir una y escribirla en el README de `reports/`.
+
+## Normas de proceso acordadas
+
+- **Antes de desglosar un issue en sub-issues, se avisa en el issue madre.** El 23-24 de
+  julio se crearon dos árboles de EDA en paralelo y hubo que cerrar siete issues
+  duplicados.
+- **`test` se abre una sola vez, con el equipo presente.** No es una tarea individual.
+- **Un fallback que inventa datos es peor que un crash.** Ante un archivo o columna que
+  no aparece, `raise`, no `print` de advertencia (`2_spec` §6.2).
+- **Cualquiera que vaya a escribir código empieza pegando `specs/4_data_contract.md`**
+  en su asistente de IA.
+
+## Cambios respecto a la versión 0.2 (24 de julio de 2026)
+
+- **El calendario corre un día.** Entrenamiento el lunes 27, producto martes y
+  miércoles, cierre jueves 30. Pendiente de confirmar en equipo.
+- §3 reescrito: ya no es una lista de cosas que congelar sino una **tabla de estado**.
+  Pipeline, partición y deduplicación están hechos; contrato de salida, formato de
+  métricas y elección de modelos siguen bloqueando el lunes.
+- §5 reescrito con lo realmente ejecutado el jueves y el viernes, y con el lunes
+  detallado.
+- Añadida la **validación de la premisa inglés→español** como tarea del lunes por la
+  tarde, no del final: es un go/no-go de arquitectura.
+- §9 riesgos: cuatro riesgos nuevos, todos observados durante la sesión del 24.
+- Nueva sección de **normas de proceso** acordadas.
+- Referencias al nuevo `specs/4_data_contract.md`.
 
 ## Cambios respecto a la versión 0.1
 
