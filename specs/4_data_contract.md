@@ -1,7 +1,7 @@
 # SPEC 4 — Contrato de datos
 
 **Proyecto:** Clasificador de políticas de privacidad — Proyecto 6, Grupo 3
-**Versión:** 1.0 (24 de julio de 2026)
+**Versión:** 1.1 (25 de julio de 2026)
 
 > Este documento existe para **una** cosa: que cualquiera del equipo pueda pegar el
 > bloque de abajo en su asistente de IA y obtenga código que encaje con el resto del
@@ -76,10 +76,14 @@ ENTRADA 3 — artifacts/  (generado por scripts/05_vectorize.py, no versionado)
 REGLAS NO NEGOCIABLES
 1. NO vuelvas a partir los datos. No uses train_test_split, GroupShuffleSplit,
    KFold ni ninguna variante. La partición ya existe: se lee de
-   split_assignment.csv. Si tu propuesta incluye partir los datos, está mal.
-2. NO reentrenes el vectorizador. Se carga con joblib desde
-   artifacts/tfidf_vectorizer.joblib. Si necesitas hacer fit de algo, hazlo
-   SOLO sobre las filas de train.
+   split_assignment.csv. Filtra por la columna `split`. Esto vale para TODOS
+   los modelos, incluido el transformer: lo que nunca cambia es qué filas
+   están en train/val/test.
+2. NO reentrenes el vectorizador TF-IDF. Se carga con joblib desde
+   artifacts/tfidf_vectorizer.joblib. Excepción: un transformer NO usa TF-IDF,
+   trae su propio tokenizador y lee el `text` crudo — pero sigue respetando la
+   partición del punto 1. La vectorización TF-IDF es solo para los modelos de
+   bolsa de palabras (SVC, NB, LightGBM).
 3. NO uses el conjunto test. Se evalúa contra val. test se abre una sola vez
    al final del proyecto.
 4. Ante un archivo o columna que no encuentres, lanza una excepción (raise).
@@ -97,6 +101,21 @@ frecuente (do_not_track, 32).
 
 Baseline de referencia ya existente: macro-F1 0.7466 en validación, con
 OneVsRest + LogisticRegression(class_weight="balanced") sobre estos artefactos.
+Es el suelo de la tabla comparativa, NO uno de los cuatro modelos base.
+
+MODELOS BASE (uno por persona, mismo criterio de terminado)
+Cuatro familias distintas para que el ensamble sirva:
+  1. LinearSVC          (lineal; NO da probabilidad nativa -> envolver en
+                         CalibratedClassifierCV(method="sigmoid"))
+  2. ComplementNB       (probabilístico; predict_proba nativo)
+  3. LightGBM           (árboles; predict_proba nativo)
+  4. DeBERTa-v3-small   (transformer; NO usa las matrices TF-IDF, trae su
+                         propio tokenizador; problem_type="multi_label_classification")
+Regla: todo modelo base devuelve una probabilidad por categoría. Si el
+algoritmo no la da, se calibra.
+
+PRODUCTO: web React (PrivacyLens) + API. La API sirve el contrato de salida
+(2_spec §9). Streamlit NO se usa.
 ```
 
 ---
@@ -180,7 +199,12 @@ if "policy_id" not in df.columns:
 | `scripts/04_build_split.py` | `split_assignment.csv` | #18 |
 | `scripts/05_vectorize.py` | `artifacts/` | #8 |
 | `scripts/06_smoke_test.py` | baseline de referencia | — |
-| `models/*` | un modelo base por persona | #9, #23, #24, #25 |
+| `models/01_linear_svc.py` | LinearSVC calibrado | #9 |
+| `models/02_complement_nb.py` | ComplementNB | #23 |
+| `models/03_lightgbm.py` | LightGBM | #24 |
+| `models/04_deberta.py` | DeBERTa-v3-small (no usa TF-IDF) | #25 |
+
+Los nombres de archivo son orientativos; lo fijo es un modelo por issue.
 
 ## Flujo de trabajo diario
 

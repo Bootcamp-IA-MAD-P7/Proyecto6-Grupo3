@@ -1,4 +1,3 @@
-# specs — decisions, glossary, OPP-115 to GDPR mapping, exposure-level logic
 # specs — decisions, OPP-115 to GDPR mapping, exposure-level logic
 
 ## Qué hay
@@ -9,7 +8,7 @@
 | `2_spec.md` | Qué se construye. **El documento que manda:** target, métricas, partición, contrato de salida, limitaciones, alcance |
 | `3_plan.md` | Cómo y cuándo: fases, frentes de trabajo, orden de corte si falta tiempo |
 | `4_data_contract.md` | El contrato de datos en formato **pegable**. Lo que hay que dar a un asistente de IA antes de escribir código |
-| `GLOSSARY.md` | Glosario del equipo. Vive como documento compartido y se congela aquí al cerrar cada sprint (ver `1_intent`) |
+
 
 ## Por dónde empezar
 
