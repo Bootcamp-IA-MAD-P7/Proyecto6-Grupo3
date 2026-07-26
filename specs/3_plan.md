@@ -1,7 +1,7 @@
 # SPEC 3 — Plan
 
 **Proyecto:** Clasificador de políticas de privacidad — Proyecto 6, Grupo 3
-**Versión:** 0.3 (actualizada el 24 de julio; el calendario corre un día, pendiente de confirmar en equipo)
+**Versión:** 0.4 (25 de julio; Streamlit -> React, seguridad como diseño)
 **Plazo real restante:** 3 días de trabajo (lunes 27, martes 28 y miércoles 29) más el
 día de cierre (jueves 30)
 
@@ -78,7 +78,7 @@ escribir código —con o sin ayuda de una IA— empieza por ahí.
 | Frente | Alcance |
 |---|---|
 | **Datos y modelo** | Dataset, EDA, preprocesado, partición, los ≥4 modelos base, meta-modelo, métricas |
-| **Producto** | Streamlit, traducción (caché + degradación elegante), después API y extensión |
+| **Producto** | Web React (PrivacyLens) + API, traducción (caché + degradación elegante), después extensión |
 | **Legal, exposición y QA** | Mapeo RGPD, pesos del semáforo, informe, coherencia entre demo/informe/presentación |
 
 Cómo se activan con este plan:
@@ -122,12 +122,15 @@ Flujo de ramas unificado, `dev` como rama por defecto (#21).
   primer modelo disponible (`2_spec` §15). Es un go/no-go de arquitectura y hacerlo el
   lunes deja tres días para reaccionar; hacerlo el miércoles deja cero.
 - Meta-modelo por stacking solo si sobra margen; si no, martes.
+- **Instalar hoy** `torch transformers` y `lightgbm` (`2_spec` §6.5): con mala conexión,
+  dejarlo para el lunes cuesta media mañana.
 
 ### En paralelo, sin robar tiempo al modelado
 
-- **Producto:** esqueleto de Streamlit contra una **salida simulada** del §9 — que la
-  pantalla exista y pinte categorías falsas. Cuando el modelo llegue, solo se cambia
-  la fuente de datos.
+- **Producto:** la web React (PrivacyLens) ya existe en `frontend/`. Falta el backend:
+  se monta con un **stub** que devuelve el contrato del §9 con datos inventados, sin
+  esperar al modelo. Cuando el modelo llegue, se cambia solo esa función. **Puede
+  montarlo una persona en un rato suelto; no compite con el modelado del fin de semana.**
 - **Legal:** descargar y versionar el mapeo RGPD (83 KB) · esqueleto del informe ·
   README iniciado · convención de idioma escrita en `specs/`.
 
@@ -135,7 +138,7 @@ Flujo de ramas unificado, `dev` como rama por defecto (#21).
 
 Cuatro modelos entrenados · tabla comparativa con macro-F1 y gap de cada uno ·
 meta-modelo (o su bloqueo documentado) · EDA con visualizaciones · pipeline y
-partición versionados · esqueleto de Streamlit.
+partición versionados · backend con stub (contrato del §9) · web React ya existente.
 
 ### Verificación
 
@@ -157,11 +160,14 @@ Aquí se cierra el suelo protegido y se suman las capas. El equipo converge.
 
 ### Producto (prioridad máxima: aquí vive el suelo)
 
-- Conectar el modelo real al Streamlit ya esqueletado.
+- Conectar el modelo real a la API: reemplazar el *stub* del §9 por `predict_proba`.
+- Conectar la web React (PrivacyLens) a la API.
 - **Traducción** es→en con **caché** y **degradación elegante**: sin clave o sin red,
-  avisa y sigue funcionando en inglés.
-- `.env.example` versionado; ninguna clave en el repositorio.
-- **API** solo si Streamlit ya está sólido.
+  avisa y sigue funcionando en inglés (issue #27).
+- **Mínimos de seguridad del backend (`2_spec` §11.1):** límite de tamaño de entrada,
+  CORS restringido al origen de la web, saneo del texto renderizado, `.env.example`
+  versionado sin ninguna clave real. Es parte del suelo, no un extra.
+- La **API ya es Esencial**, no un si-da-tiempo: la web no funciona sin ella.
 
 ### Legal, exposición y QA
 
@@ -183,10 +189,11 @@ Diría si nuestro modelo se parece a un buscador de palabras clave, no si aciert
 
 ### Verificación de la fase
 
-`uv sync`, la app arranca con el comando del README **sin configurar ninguna clave** ·
-una política en inglés devuelve categorías · una en español también, y con la clave
-quitada avisa y sigue en inglés · el semáforo tiene pesos documentados · cada categoría
-muestra su artículo del RGPD.
+`uv sync`, la API arranca y la web PrivacyLens carga con el comando del README **sin
+configurar ninguna clave** · una política en inglés devuelve categorías · una en español
+también, y con la clave quitada avisa y sigue en inglés · el semáforo tiene pesos
+documentados · cada categoría muestra su artículo del RGPD · **CORS restringido y límite
+de tamaño de entrada verificados** (§11.1).
 
 ## 7. Fase C — Cierre y defensa (jueves 30)
 
@@ -211,11 +218,14 @@ cada persona sabe defender su parte.
 Decidido de antemano para no improvisar el último día. Se corta de arriba abajo:
 
 1. **Extensión de Chrome** — la más cara y la más frágil; se documenta como pendiente.
-2. **API** — si Streamlit ya demuestra el producto, la API es infraestructura.
+2. **Búsqueda de política en footer (scraping)** — mejora, no suelo. El MVP acepta texto
+   pegado o URL directa. Además arrastra riesgo de SSRF (`2_spec` §11.1).
 3. **Meta-modelo** — se conservan los cuatro base y su comparativa.
 4. **Mapeo RGPD** — barato, así que solo se corta en caso extremo.
 
-**No se cortan nunca:** la demo de Streamlit funcionando, los ≥4 modelos base con su
+**La API ya NO se corta:** subió al suelo protegido, la web no funciona sin ella.
+
+**No se cortan nunca:** la web PrivacyLens + API funcionando, los ≥4 modelos base con su
 comparativa, el informe, ni el semáforo (es el diferencial del proyecto).
 
 Lo que se corta **se documenta** como trabajo pendiente con su motivo. Un alcance
@@ -225,7 +235,7 @@ recortado y explicado se defiende; una funcionalidad prometida y ausente, no.
 
 | Riesgo | Mitigación |
 |---|---|
-| El suelo no existe hasta el día 5 | Esqueleto de Streamlit desde el día 1 contra la salida simulada del §9 |
+| El suelo no existe hasta el día 5 | Backend con stub desde ya (web React ya existe); la web se conecta al stub sin esperar al modelo |
 | Cuatro modelos no comparables entre sí | Congelar pipeline, partición y semilla el día 1 (§3) |
 | El producto no cabe en dos días | Orden de corte decidido de antemano (§8) |
 | ~~`main` y `dev` divergen~~ | ✅ Resuelto el 23 de julio (#21). `dev` es la rama por defecto |
@@ -281,6 +291,17 @@ dailies asíncronas funcionen.
 - **Cualquiera que vaya a escribir código empieza pegando `specs/4_data_contract.md`**
   en su asistente de IA.
 
+## Cambios respecto a la versión 0.3 (25 de julio de 2026)
+
+- **Streamlit -> web React (PrivacyLens) + API.** La API sube al suelo protegido y ya no
+  se corta. La web ya existe en `frontend/`; falta el backend, que se monta con un stub
+  sin esperar al modelo.
+- **Seguridad como diseño** en la Fase B y en la verificación: límite de tamaño, CORS
+  restringido, saneo del texto (`2_spec` §11.1).
+- **Orden de corte** actualizado: entra la búsqueda por footer (scraping) como
+  cortable; la API sale de la lista de cortables.
+- Recordatorio de instalar el entorno del transformer hoy (`2_spec` §6.5).
+
 ## Cambios respecto a la versión 0.2 (24 de julio de 2026)
 
 - **El calendario corre un día.** Entrenamiento el lunes 27, producto martes y
@@ -302,6 +323,6 @@ dailies asíncronas funcionen.
   con una persona por modelo (días 1-3) y producto después (días 4-5).
 - Nuevo §3: lo que hay que congelar **antes** de que nadie entrene. Es la condición
   para que cuatro modelos entrenados en paralelo sean comparables y combinables.
-- El esqueleto de Streamlit se adelanta al día 1 contra una salida simulada, para
-  compensar que el suelo no se cierra hasta el día 5.
+- El backend con stub se monta contra el contrato del §9 para compensar que el suelo
+  no se cierra hasta el día 5. (En v0.2 esto era un esqueleto de Streamlit.)
 - Días y fechas concretas en lugar de sprints de una semana.

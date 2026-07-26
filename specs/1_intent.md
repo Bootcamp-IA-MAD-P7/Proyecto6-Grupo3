@@ -2,7 +2,7 @@
 
 **Proyecto:** Clasificador de políticas de privacidad — Proyecto 6, Grupo 3
 **Bootcamp:** IA School, Factoría F5 Madrid
-**Versión:** 0.3 (24 de julio de 2026)
+**Versión:** 0.4 (25 de julio de 2026)
 
 > Nota de idioma: este documento está en español porque su público son personas
 > (equipo que aprende, docentes) y así es más accesible. Los términos técnicos van
@@ -77,22 +77,35 @@ nivel superior puede ponerlo en riesgo. El suelo queda protegido cuando existe:
 - **Soporte de español mediante traducción en la inferencia**, con **degradación
   elegante**: si el servicio de traducción no está disponible, la aplicación avisa y
   sigue funcionando en inglés en lugar de fallar.
+- **Entrada del MVP:** el usuario pega el texto de la política, o da la URL directa de
+  la propia política. Buscar la política a partir de la URL de la web (footer) es una
+  mejora de Nivel Avanzado, no del suelo.
 - **Conjunto de prueba en español validado a mano**, sin el cual no se puede afirmar
   que el español funciona.
 
-  > **⚠️ Cifra a reconciliar.** Este documento pedía 100-200 fragmentos; `3_plan` §6
-  > planifica una sesión de 30-40. Con el tiempo real disponible, 30-40 es lo que cabe.
-  > **Hay que decidir cuál manda y corregir el otro documento**, porque el informe no
-  > puede citar dos cifras distintas. Ver también `2_spec` §13.3: `do_not_track` tiene
-  > 1 sola fila en español y queda fuera de la verificación en cualquier caso.
-- **Demo en Streamlit** que recibe una política y devuelve la clasificación.
+  > **⚠️ Cifra a reconciliar (decisión de equipo, pendiente).** Este documento pedía
+  > 100-200 fragmentos; `3_plan` §6 planifica una sesión de 30-40. Con el tiempo real,
+  > 30-40 es lo que cabe. **No urge decidirlo hoy:** la verificación en español es tarea
+  > de la Fase B (martes), cuando ya exista traducción y modelo. Se cierra en la daily
+  > antes de esa sesión. Nota firme: `do_not_track` tiene 1 sola fila en español y queda
+  > fuera de la verificación en cualquier caso (`2_spec` §13.3).
+- **Web (PrivacyLens, React + Vite)** que recibe una política y muestra la
+  clasificación. Sustituye a la demo de Streamlit de versiones anteriores.
+- **API** que sirve el modelo y que la web consume. **Sube al suelo protegido:** sin
+  ella la web no funciona, así que deja de ser Nivel Avanzado.
+- **Seguridad mínima del backend, como requisito del suelo y no como mejora** (ver
+  `2_spec` §11.1): cero secretos en el repo, límite de tamaño del texto de entrada,
+  CORS restringido al origen de la web, y saneo de cualquier texto que la web renderice.
 - Informe técnico con interpretación del rendimiento y de los límites.
 - README con instalación, ejecución y estructura del proyecto.
 
-> **Nota de alcance para ratificar:** al incorporar el español, el suelo protegido
-> ha crecido (añade un servicio externo y una tarea de etiquetado manual) mientras
-> que la capa de exposición —el diferencial del proyecto— sigue en Nivel Medio. El
-> equipo debería confirmar que este reparto es el que quiere.
+> **Nota de alcance para ratificar.** El suelo protegido ha crecido dos veces: con el
+> español (servicio de traducción + etiquetado manual) y ahora con el cambio de
+> Streamlit a web React + API. Montar API + web + modelo es más trabajo que una demo
+> Streamlit que llamaba a Python directamente, aunque es más sólido como producto
+> final. Mientras tanto la capa de exposición —el diferencial del proyecto— sigue en
+> Nivel Medio. El equipo debería confirmar conscientemente que este reparto es el que
+> quiere: si el tiempo aprieta, el suelo es más caro de defender que antes.
 
 ## Niveles incrementales (aspiración)
 
@@ -102,10 +115,15 @@ orden de prioridad:
 - **Nivel Medio:** capa de **exposición** (bajo/medio/alto) — es el diferencial del
   proyecto y lo primero que se suma; y los **≥4 modelos base diversos + meta-modelo
   por stacking**.
-- **Nivel Avanzado:** **mapeo al RGPD** integrado en la salida; **API** que sirve el
-  modelo.
+- **Nivel Avanzado:** **mapeo al RGPD** integrado en la salida; **búsqueda automática
+  de la política** en el footer de una web cuando el usuario da la URL en lugar del
+  texto (scraping). Esta búsqueda sigue enlaces y descarga páginas externas: es una
+  superficie de entrada con riesgo de SSRF y de contenido malicioso, y se diseña como
+  capa **separada** de la API de clasificación (`2_spec` §11.1).
 - **Nivel Aspiracional:** **extensión de Chrome** que lee la política de la web
-  visitada y muestra el resultado sin copiar y pegar; presentaciones pulidas.
+  visitada y muestra el resultado sin copiar y pegar; presentaciones pulidas. La
+  extensión resuelve por otra vía el problema que ataca el scraper: lee el texto
+  directo del navegador.
 
 Si un nivel superior no llega a completarse, se documenta como trabajo pendiente,
 pero nunca a costa de romper el suelo.
@@ -152,7 +170,7 @@ categorías a fondo y produce evidencia que el proyecto necesita.
 
 Al terminar, el repositorio debe permitir:
 
-- Instalar dependencias (`uv sync`) y ejecutar la demo de Streamlit.
+- Instalar dependencias (`uv sync`), levantar la API y abrir la web PrivacyLens.
 - Clasificar una política **en inglés o en español**.
 - Reproducir el entrenamiento o explicar cómo se generó el modelo.
 - Consultar métricas y evidencia del rendimiento, incluida la del español.
@@ -178,12 +196,23 @@ Regla principal: **primero un suelo esencial estable, después mejoras increment
 - [x] ~~Acordar por escrito la norma de datos generados y convertir los procesos
       existentes en scripts reproducibles~~ — norma en `2_spec` §12.1; los scripts
       01-05 existen.
-- [ ] Ratificar el alcance del suelo protegido (ver nota en Nivel Esencial).
-- [ ] **Reconciliar el tamaño del conjunto de prueba en español** (100-200 aquí frente a
-      30-40 en `3_plan`).
-- [ ] Definir los **roles** del equipo y el **dueño de cada modelo** (#1). Bloquea el
-      lunes.
+- [ ] Ratificar el alcance del suelo protegido, ahora que incluye API + web + seguridad.
+- [ ] **Reconciliar el tamaño del conjunto de prueba en español** (decisión de Fase B).
+- [ ] Definir los **roles** del equipo y el **dueño de cada modelo** (#1).
 - [ ] Crear `specs/GLOSSARY.md` al cerrar el Sprint 1.
+- [ ] Cerrar en el tablero los issues #48-#51 y #6 (trabajo hecho y en `dev`, issues aún
+      abiertos) y el #20 (Streamlit, ya sin objeto).
+
+## Cambios respecto a la versión 0.3 (25 de julio de 2026)
+
+- **Streamlit eliminado.** El MVP es una **web React + Vite (PrivacyLens)** que consume
+  una **API**. La API sube al suelo protegido.
+- **Seguridad del backend entra como requisito del suelo**, no como trabajo futuro
+  (`2_spec` §11.1).
+- Entrada del MVP aclarada: pegar texto o URL directa de la política. La búsqueda en el
+  footer (scraping) es Nivel Avanzado, capa separada, con riesgo de SSRF anotado.
+- La contradicción del tamaño del conjunto en español se marca como decisión de Fase B,
+  sin borrar ninguna cifra.
 
 ## Cambios respecto a la versión 0.2 (24 de julio de 2026)
 

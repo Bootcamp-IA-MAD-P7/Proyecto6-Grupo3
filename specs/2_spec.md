@@ -1,7 +1,7 @@
 # SPEC 2 — Spec (fuente única de verdad)
 
 **Proyecto:** Clasificador de políticas de privacidad — Proyecto 6, Grupo 3
-**Versión:** 0.3 (actualizada el 24 de julio de 2026 con la base común de modelado y los resultados del EDA)
+**Versión:** 0.4 (25 de julio de 2026: modelos base con nombre, frontend React, seguridad como diseño)
 
 > Este documento manda sobre el resto. Si el código, un notebook, una rama o una
 > decisión lo contradicen, se corrige el trabajo **o** se actualiza este documento
@@ -477,11 +477,54 @@ partieron los datos.
 Regla de código que sale de ahí: **un fallback que inventa datos es peor que un crash.**
 Ante una columna que no se encuentra, `raise`, no `print` de advertencia.
 
-- [ ] **TODO:** elegir los cuatro. Tres formas de armar la lista, a decidir en equipo:
-  por familia de algoritmo (lineal / árboles / vecinos / red, todos sobre TF-IDF), por
-  representación (cambiar el paso texto→números, no solo el clasificador), o mixto. La
-  segunda da más diversidad real —los errores serán más distintos, que es lo que hace
-  útil al ensamble— pero cuesta más y no reutiliza los artefactos del §4.5.
+### 6.3 Los cuatro modelos base (propuesta, pendiente de confirmar en la daily)
+
+Elegidos por **diversidad de familia**: cada uno mira el texto de una forma distinta, así
+que sus errores no coinciden y el meta-modelo tiene algo que combinar.
+
+| # | Modelo | Familia | Representación | Respaldo |
+|---|---|---|---|---|
+| 1 | **LinearSVC** | Lineal, margen máximo | TF-IDF congelado | Ganó en Wilson 2016 y en Liu 2018 (sobre este corpus) |
+| 2 | **ComplementNB** | Probabilístico | TF-IDF (o CountVectorizer) | Variante diseñada para clases desbalanceadas |
+| 3 | **LightGBM** | Árboles / ensemble | TF-IDF | Captura combinaciones no lineales de palabras |
+| 4 | **DeBERTa-v3-small** | Transformer | Embeddings propios | Único que lee orden y contexto; entiende negación y sinónimos |
+
+La **regresión logística del baseline (§3.1) NO es uno de los cuatro**: se queda como
+suelo de la tabla comparativa. Los cuatro huecos son modelos nuevos.
+
+**Contexto de la literatura (issue #2):** el rango publicado de macro-F1 sobre OPP-115
+con BERT es 65-76% (Mousavi Nejad et al. 2020). Nuestro baseline está en 74,66%. SVM es
+el clásico más fuerte en este corpus; CNN es mala apuesta (perdió contra TF-IDF+SVM en
+Liu et al.). Los transformers ganan, pero por poco (BERT +5% sobre el estado del arte
+previo, XLNet +1-3% sobre BERT). **Aviso: los números entre papers no son comparables**
+—varían el patrón de oro, la partición, el número de categorías y el nivel de análisis—
+así que en el informe se cita el rango como referencia, no como meta exacta.
+
+### 6.4 Regla de calibración: todo modelo base emite probabilidad por categoría
+
+El semáforo (§7), el umbral multi-etiqueta (§2.3) y el contrato de salida (§9) necesitan
+una **probabilidad** por categoría, no una etiqueta cruda. Por tanto:
+
+> **Todo modelo base debe devolver una probabilidad por categoría. Si su algoritmo no la
+> da de forma nativa, se calibra.**
+
+- `LinearSVC` **no** da probabilidad (devuelve distancia al margen). Se envuelve en
+  `CalibratedClassifierCV(method="sigmoid")`, que la deriva por validación cruzada
+  **dentro de train** (no toca val ni test). Es una línea.
+- `ComplementNB` y `LightGBM` la dan de forma nativa (`predict_proba`).
+- El transformer da logits que se pasan por sigmoide; requiere
+  `problem_type="multi_label_classification"`, que **no** es la configuración por defecto.
+
+### 6.5 Requisitos de entorno (instalar HOY, no el lunes)
+
+- Transformer: `uv add torch transformers` — son varios GB, con mala conexión es media
+  mañana perdida si se deja para el lunes.
+- Árboles: `uv add lightgbm`.
+- SVM, NB y calibración: ya cubiertos por scikit-learn.
+
+- [ ] **TODO:** confirmar los cuatro en la daily. El único hueco realmente en discusión
+  es el #1 (LinearSVC frente a la LogisticRegression que ya es el baseline); los otros
+  tres vienen de la propuesta del equipo.
 - [ ] **TODO:** la investigación de literatura sobre OPP-115 (issue #2) sigue
   pendiente. **Si los cuatro se eligen sin ella, el informe no puede afirmar que la
   elección se basó en la literatura.** Se declara que fue por criterio propio.
@@ -564,9 +607,15 @@ de "¿de dónde sale que este párrafo es el artículo 28?".
 
 ## 9. Contrato de salida del modelo
 
-Este contrato lo consumen **tres** piezas: la API, la demo de Streamlit y la
+Este contrato lo consumen **tres** piezas: la API, la web PrivacyLens (React) y la
 extensión de Chrome. Se define **completo desde el principio** para no tener que
 rehacerlo cuando llegue la extensión.
+
+**Este contrato es la pieza que permite construir en paralelo.** El backend se puede
+montar HOY, sin modelo, devolviendo esta misma estructura con datos de un *stub* (una
+función que inventa probabilidades). El día que exista el modelo, se reemplaza esa
+función por `predict_proba`; la web nunca nota el cambio porque la forma de la respuesta
+no varía. Lo que el stub decida ahora **es** el contrato: congelarlo es escribirlo.
 
 Nivel de detalle acordado: **documento + fragmento**.
 
@@ -614,9 +663,12 @@ Notas del contrato:
   el párrafo en la página.
 - `translated` indica si el fragmento pasó por el traductor, para poder desglosar
   métricas y avisar al usuario.
-- El bloque `fragments` permite a la extensión resaltar el párrafo concreto.
-  **Streamlit no está obligado a pintarlo en el MVP**: el campo existe desde el
-  principio, la interfaz lo muestra cuando dé tiempo.
+- El bloque `fragments` permite a la web y a la extensión resaltar el párrafo concreto.
+  La web no está obligada a pintarlo en el MVP: el campo existe desde el principio, la
+  interfaz lo muestra cuando dé tiempo.
+- **Aviso de seguridad (§11.1):** el campo `text` es contenido no confiable (viene de una
+  web externa). Si la web React lo resalta con `dangerouslySetInnerHTML` sin sanear, es
+  XSS. Se sanea antes de renderizar.
 - `confidence` a nivel de documento y `score` a nivel de fragmento salen de las
   probabilidades del modelo multi-etiqueta.
 
@@ -624,11 +676,16 @@ Notas del contrato:
 
 | Pieza | Muestra | Nivel |
 |---|---|---|
-| **Streamlit** (demo) | Categorías detectadas + aviso de estimación + aviso si la traducción no está disponible | Esencial |
+| **Web PrivacyLens** (React + Vite) | Categorías detectadas + aviso de estimación + aviso si la traducción no está disponible | **Esencial** |
+| **API** (backend) | El contrato completo del §9. La web la consume | **Esencial** (subió desde Avanzado) |
 | **Informe técnico** | Métricas, macro-F1 global y por idioma, análisis de errores, límites | Esencial |
 | **Semáforo** | Nivel de exposición bajo/medio/alto | Medio |
-| **API** | El contrato completo del §9 | Avanzado |
+| **Búsqueda de política en footer** (scraping) | Acepta la URL de una web y localiza su política | Avanzado |
 | **Extensión de Chrome** | Semáforo en la web visitada + resaltado por fragmento | Aspiracional |
+
+El repo ya tiene `frontend/` (Vite + React + react-router-dom, producto **PrivacyLens**)
+y `backend/` (aún solo un README). El stack de la API está por confirmar; si es FastAPI
+vive en el mismo entorno `uv` que el modelo y cargar el artefacto es trivial.
 
 ## 11. Fuera de alcance
 
@@ -640,6 +697,38 @@ Queda **explícitamente fuera** de este proyecto:
 - **Entrenar con etiquetas generadas automáticamente** sin validación humana.
 - Capa MLOps (Champion/Challenger, A/B testing, data drift, auto-reemplazo).
 - Despliegue en la nube, Docker, CI/CD.
+- **Hardening de seguridad de nivel producción.** Lo que SÍ entra está en §11.1; lo que
+  queda fuera (rate limiting avanzado, WAF, pentesting, auth de usuarios) va al apartado
+  de trabajo futuro del informe.
+
+## 11.1 Seguridad como diseño (requisito del suelo, no mejora)
+
+Decisión del 25 de julio: la seguridad se piensa **cuando se monta el backend**, no
+después. Asegurar una API ya construida es la vía por la que se cuelan los fallos. Un
+informe de revisión sobre el repo (25 jul) confirmó que **hoy no hay secretos
+commiteados**; el resto son riesgos a prevenir al construir, no problemas presentes.
+
+**Mínimos obligatorios del backend (parte del suelo protegido):**
+
+| # | Requisito | Por qué | Estado |
+|---|---|---|---|
+| 1 | **Cero secretos en el repo.** Claves en `.env` (ignorado), `.env.example` versionado | Repo público | ✅ limpio hoy, mantener |
+| 2 | **Límite de tamaño** del texto que entra a la API | Sin él, alguien manda 2 GB y tumba el backend | ❌ fijar en el issue de API |
+| 3 | **CORS restringido** al origen de la web (Vite, `localhost:5173` en local), nunca `allow_origins=["*"]` | Un `*` deja que cualquier web llame a la API | ❌ al montar |
+| 4 | **Saneo del texto renderizado** en la web (no `dangerouslySetInnerHTML` sin limpiar) | El `text` de los fragmentos viene de una web externa: XSS (§9) | ❌ al implementar el resaltado |
+
+**Riesgos anticipados, a trabajo futuro del informe (no del suelo):**
+
+- **SSRF** en la búsqueda de política por footer: seguir una URL dada por el usuario
+  puede apuntar a una red interna. Cuando se implemente el scraper (Nivel Avanzado),
+  validar el destino y limitar tamaño y tiempo de descarga.
+- **Carga de `.joblib`:** `joblib.load` sobre un archivo malicioso ejecuta código. Hoy
+  el riesgo es bajo (los artefactos los genera el propio equipo), pero si algún día se
+  carga un modelo de origen externo, es una puerta abierta.
+
+Para un proyecto de bootcamp, cubrir los cuatro mínimos cubre el grueso del riesgo real.
+Lo demás se **nombra** en el informe como superficie identificada y priorizada, que ya
+demuestra criterio.
 
 ## 12. Datos generados en el repositorio
 
@@ -784,7 +873,7 @@ se corrige, pero se declara.
 preprocesado reproducible · clasificador multi-etiqueta de las nueve categorías
 funcionando · macro-F1 con gap train/validación <5% · español vía traducción con
 degradación elegante · conjunto de prueba en español validado a mano · demo en
-Streamlit · informe técnico · README ejecutable sin necesidad de claves.
+web PrivacyLens + API · informe técnico · README ejecutable sin necesidad de claves.
 
 **Medio:** capa de exposición implementada y justificada · ≥4 modelos base +
 meta-modelo por stacking.
@@ -812,7 +901,10 @@ meta-modelo por stacking.
 
 ### Bloquean el entrenamiento (decisión de equipo, urgente)
 
-- [ ] Elegir los **cuatro modelos base** y el **dueño de cada uno** (§6, issues #2, #1).
+- [ ] Confirmar los **cuatro modelos base** propuestos en §6.3 y el **dueño de cada uno**
+      (issues #2, #1). El único hueco en discusión es el #1 (LinearSVC vs LogReg).
+- [ ] Instalar hoy `torch transformers` y `lightgbm` (§6.5): con mala conexión, dejarlo
+      para el lunes cuesta media mañana.
 - [ ] **Formato de la tabla comparativa** (issue #22): modelo, dueño, macro-F1,
       micro-F1, **F1 por cada una de las nueve categorías**, gap train/val, tiempo.
       La columna de F1 por categoría no es opcional: es la que hizo visibles los
@@ -840,13 +932,34 @@ meta-modelo por stacking.
 - [ ] **Proveedor de traducción**, cuotas y elegibilidad de acceso (§5).
 - [ ] **Cómo etiquetar** el conjunto de prueba en español (§4.3).
 - [ ] Ejecutar el destracking del §12.1 (issue #34).
-- [ ] Que `eda/04` lea `split_assignment.csv` en lugar de calcular su propia partición
-      (§6.2), y regenerar su figura.
+- [x] ~~Que `eda/04` lea `split_assignment.csv`~~ — hecho el 25 de julio (PR #58): ahora
+      lee la partición oficial, audita el leakage contra ella y lanza `raise` si falta
+      el archivo o una columna. El `eda/README.md` quedó desactualizado describiendo el
+      comportamiento viejo: corregirlo.
 - [ ] Ratificar el **idioma** de las specs.
-- [ ] **Contrato de salida** (§9): sigue sin congelar y es lo que desbloquea al frente
-      de producto (issue #19).
+- [ ] **Contrato de salida** (§9): congelar montando el backend con *stub*. Es lo que
+      desbloquea al frente de producto (issue #19) y se puede hacer sin modelo.
+- [ ] **Mínimos de seguridad del backend** (§11.1): fijar límite de tamaño y CORS en el
+      issue de la API antes de aceptar texto externo.
+- [ ] Cerrar el issue **#20** (Streamlit): sin objeto tras el cambio a React.
+- [ ] Corregir `eda/README.md`, `scripts/README.md` (solo documenta 01-02 de seis
+      scripts) y `models/README.md` (plantilla vacía).
 
 ## 16. Historial de cambios
+
+### Cambios respecto a la versión 0.3 (25 de julio de 2026)
+
+- **§6.3-6.5 nuevos:** los cuatro modelos base con nombre (LinearSVC, ComplementNB,
+  LightGBM, DeBERTa-v3-small), la regla de que todo modelo emite probabilidad calibrada,
+  y los requisitos de entorno a instalar hoy. Incluye el contexto de literatura del #2.
+- **Streamlit eliminado** de §9 y §10, sustituido por la web React (PrivacyLens) y la
+  API. La API sube a Esencial.
+- **§9:** el contrato se congela montando el backend con un *stub*, sin esperar al
+  modelo. Añadido el aviso de XSS sobre el campo `text`.
+- **§11.1 nuevo: seguridad como diseño**, con cuatro mínimos obligatorios del backend
+  como parte del suelo, y SSRF/joblib anotados como trabajo futuro.
+- **§15:** marcado `eda/04` como resuelto (PR #58); añadidos los pendientes de
+  seguridad, entorno y limpieza de READMEs.
 
 ### Cambios respecto a la versión 0.2 (24 de julio de 2026)
 
