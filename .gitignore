@@ -1,4 +1,9 @@
 .venv/
+__pycache__/
+*.pyc
+
+# secrets — never versioned; backend/.env.example is the versioned template
+.env
 
 # OPP-115 raw dataset — intocable, no versionado
 data/dataset/*

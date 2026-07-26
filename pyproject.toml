@@ -3,13 +3,16 @@ name = "proyecto6-grupo3"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "fastapi>=0.140.0",
     "joblib>=1.5.3",
     "jupyter>=1.1.1",
     "jupytext>=1.19.5",
     "matplotlib>=3.11.1",
     "numpy>=2.5.1",
     "pandas>=3.0.3",
+    "pydantic-settings>=2.14.2",
     "scikit-learn>=1.9.0",
     "scipy>=1.18.0",
     "seaborn>=0.13.2",
+    "uvicorn[standard]>=0.51.0",
 ]
