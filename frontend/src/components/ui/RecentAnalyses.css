@@ -1,0 +1,93 @@
+/* ============================================================
+   RecentAnalyses.css — Tarjetas de análisis recientes
+   El atributo data-tint rota los 4 tintes de la paleta para
+   que los avatares no queden todos iguales (pero siempre
+   monocromos dentro de la identidad).
+   ============================================================ */
+
+.recent {
+  margin-top: 64px;
+  margin-bottom: 90px;
+}
+
+.recent__title {
+  font-family: var(--font-display);
+  font-size: 13px;
+  letter-spacing: 2.5px;
+  color: var(--color-muted);
+  text-align: center;
+  margin-bottom: 26px;
+  font-weight: 700;
+}
+
+.recent__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.rcard {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 20px 22px;
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid var(--color-border);
+  border-radius: 18px;
+  cursor: pointer;
+  text-align: left;
+  font-family: var(--font-body);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.rcard:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Avatar monocromo: el tinte cambia por posición, no por marca */
+.rcard__logo {
+  width: 44px;
+  height: 44px;
+  border-radius: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 19px;
+  flex-shrink: 0;
+  background: var(--color-navy-soft);
+  border: 1px solid rgba(29, 53, 87, 0.16);
+  color: var(--color-primary);
+}
+.rcard[data-tint='1'] .rcard__logo {
+  background: var(--color-blue-soft);
+  border-color: rgba(69, 123, 157, 0.28);
+  color: var(--color-secondary);
+}
+.rcard[data-tint='2'] .rcard__logo {
+  background: var(--color-teal-soft);
+  border-color: rgba(42, 157, 143, 0.28);
+  color: var(--color-accent);
+}
+.rcard[data-tint='3'] .rcard__logo {
+  background: var(--color-indigo-soft);
+  border-color: rgba(108, 127, 196, 0.3);
+  color: var(--color-indigo);
+}
+
+.rcard__info h4 {
+  font-family: var(--font-display);
+  font-size: 16px;
+  color: var(--color-primary);
+}
+.rcard__info span {
+  font-size: 12.5px;
+  color: var(--color-muted);
+}
+
+.rcard__arrow {
+  margin-left: auto;
+  color: var(--color-secondary);
+  font-weight: 700;
+}
