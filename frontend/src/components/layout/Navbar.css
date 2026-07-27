@@ -1,0 +1,69 @@
+/* ============================================================
+   Navbar.css — Estilos de la barra de navegación
+   ------------------------------------------------------------
+   Convención BEM: .bloque__elemento--modificador.
+   Así cualquier compañero sabe a qué componente pertenece
+   cada clase con solo leerla.
+   ============================================================ */
+
+.navbar {
+  position: sticky;
+  top: 16px;
+  z-index: 50;
+  max-width: var(--layout-max-width);
+  margin: 16px auto 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 24px;
+  border-radius: 18px;
+
+  /* Efecto cristal: fondo translúcido + desenfoque */
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+
+.navbar__brand {
+  text-decoration: none;
+}
+
+.navbar__links {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.navbar__link {
+  color: var(--color-muted);
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.navbar__link:hover {
+  color: var(--color-primary);
+}
+/* NavLink añade automáticamente la clase .active a la ruta actual */
+.navbar__link.active {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+/* Botón destacado (llamada a la acción) */
+.navbar__cta {
+  background: var(--color-primary);
+  color: #fff;
+  padding: 9px 20px;
+  border-radius: 11px;
+  font-weight: 600;
+  font-size: 15px;
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(29, 53, 87, 0.25);
+  transition: transform 0.15s;
+}
+.navbar__cta:hover {
+  transform: translateY(-2px);
+}
