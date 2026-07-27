@@ -1,0 +1,131 @@
+/* ============================================================
+   AnalysisPreviewCard.css — Tarjeta flotante de análisis
+   ============================================================ */
+
+.preview {
+  position: relative;
+}
+
+/* Tarjeta decorativa trasera (degradado azul→turquesa, rotada) */
+.preview__back {
+  position: absolute;
+  inset: 24px -18px -18px 30px;
+  border-radius: 24px;
+  background: linear-gradient(135deg, rgba(69, 123, 157, 0.14), rgba(42, 157, 143, 0.14));
+  transform: rotate(3deg);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+.analysis-card {
+  position: relative;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  border-radius: 24px;
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-lg);
+  padding: 30px 30px 26px;
+  transform: rotate(-1.5deg);
+}
+
+.analysis-card__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.analysis-card__title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.analysis-card__title h3 {
+  font-family: var(--font-display);
+  font-size: 18px;
+  color: var(--color-primary);
+}
+
+/* Avatar de empresa: monocromo, en la paleta (NO color de marca) */
+.analysis-card__logo {
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-secondary));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 19px;
+}
+
+.analysis-card__domain {
+  font-size: 12.5px;
+  color: var(--color-muted);
+}
+
+.analysis-card__badge {
+  padding: 6px 13px;
+  border-radius: var(--radius-pill);
+  background: var(--color-teal-soft);
+  color: var(--color-accent);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+/* Resumen de la IA — turquesa (la máquina habla) */
+.analysis-card__summary {
+  border-left: 3.5px solid var(--color-accent);
+  background: rgba(42, 157, 143, 0.06);
+  padding: 14px 16px;
+  border-radius: 0 14px 14px 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--color-text);
+  margin-bottom: 20px;
+}
+.analysis-card__summary small {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 1.2px;
+  color: var(--color-accent);
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.analysis-card__chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  margin-bottom: 20px;
+}
+
+/* Evidencia del documento — ámbar (el texto legal habla) */
+.analysis-card__evidence {
+  background: var(--color-amber-soft);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  border-left: 3.5px solid var(--color-amber);
+  border-radius: 14px;
+  padding: 14px 16px;
+  font-size: 13.5px;
+  color: var(--color-text);
+  font-style: italic;
+}
+.analysis-card__evidence small {
+  display: block;
+  font-style: normal;
+  font-size: 11px;
+  letter-spacing: 1.2px;
+  color: var(--color-amber-deep);
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+.analysis-card__evidence b {
+  display: block;
+  font-style: normal;
+  color: var(--color-amber-deep);
+  font-size: 12.5px;
+  margin-top: 8px;
+  font-weight: 600;
+}
