@@ -1,0 +1,76 @@
+/* ============================================================
+   global.css — Estilos base de toda la aplicación
+   ------------------------------------------------------------
+   · Reset mínimo.
+   · Tipografía y fondo por defecto.
+   · Fondos decorativos reutilizables (.aurora + .grid-bg):
+     el "halo" de color y la rejilla tipo documento legal que
+     dan personalidad a la home. Se usan en las páginas
+     públicas (NO en el dashboard técnico, que debe ser sobrio).
+   ============================================================ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Fondo "aurora": halos suaves azul + turquesa ---- */
+.aurora {
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  overflow: hidden;
+  pointer-events: none; /* nunca bloquea clics */
+}
+.aurora::before {
+  content: '';
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(69, 123, 157, 0.22), transparent 65%);
+  top: -350px;
+  right: -200px;
+  filter: blur(40px);
+}
+.aurora::after {
+  content: '';
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(42, 157, 143, 0.18), transparent 65%);
+  bottom: -300px;
+  left: -250px;
+  filter: blur(40px);
+}
+
+/* ---------- Rejilla tipo "documento legal" (sutil) --------- */
+.grid-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(29, 53, 87, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(29, 53, 87, 0.035) 1px, transparent 1px);
+  background-size: 56px 56px;
+  /* La máscara hace que la rejilla se desvanezca hacia abajo */
+  mask-image: radial-gradient(ellipse 90% 70% at 50% 0%, black 30%, transparent 75%);
+  -webkit-mask-image: radial-gradient(ellipse 90% 70% at 50% 0%, black 30%, transparent 75%);
+}
+
+/* ---------- Utilidad: contenedor centrado de página -------- */
+.container {
+  max-width: var(--layout-max-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
