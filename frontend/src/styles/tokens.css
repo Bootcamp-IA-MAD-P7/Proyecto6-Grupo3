@@ -1,0 +1,60 @@
+/* ============================================================
+   tokens.css — DESIGN TOKENS de PrivacyLens
+   ------------------------------------------------------------
+   ÚNICA fuente de verdad para colores, tipografías, radios y
+   sombras. REGLA DE ORO PARA EL EQUIPO:
+   ❌ Nunca escribir un color hexadecimal en un componente.
+   ✅ Siempre usar estas variables (var(--color-...)).
+   Así, si cambiamos la paleta, se cambia en UN solo sitio.
+
+   SISTEMA DE COLOR (aprobado con el mood board):
+   · Azul petróleo → estructura, marca, botones
+   · Azul medio    → enlaces, datos, gráficas
+   · Turquesa      → "la voz de la IA" (resúmenes, detecciones)
+   · Ámbar         → "la voz del documento" (evidencias citadas)
+   · Índigo        → color de apoyo para categorías
+   ============================================================ */
+
+:root {
+  /* ---------- Colores base ---------- */
+  --color-bg: #F8FAFC;        /* Fondo general (nunca blanco puro) */
+  --color-card: #FFFFFF;      /* Superficie de tarjetas */
+  --color-primary: #1D3557;   /* Azul petróleo — estructura/marca */
+  --color-secondary: #457B9D; /* Azul medio — enlaces y datos */
+  --color-accent: #2A9D8F;    /* Turquesa — voz de la IA */
+  --color-text: #1F2937;      /* Texto principal (nunca negro puro) */
+  --color-muted: #64748B;     /* Texto secundario */
+  --color-border: #E2E8F0;    /* Bordes sutiles */
+
+  /* ---------- Ámbar (voz del documento / evidencias) ---------- */
+  --color-amber: #F59E0B;
+  --color-amber-deep: #D97706;
+  --color-amber-soft: #FEF6E7;
+
+  /* ---------- Índigo (apoyo) ---------- */
+  --color-indigo: #6C7FC4;
+  --color-indigo-soft: #EEF1FA;
+
+  /* ---------- Fondos suaves (tintes de la paleta) ---------- */
+  --color-teal-soft: #E6F6F4;
+  --color-blue-soft: #EAF2F8;
+  --color-navy-soft: #E9EDF4;
+
+  /* ---------- Tipografías ---------- */
+  --font-display: 'Manrope', system-ui, sans-serif; /* Títulos y números */
+  --font-body: 'Inter', system-ui, sans-serif;      /* Texto general */
+
+  /* ---------- Radios de borde ---------- */
+  --radius-sm: 12px;
+  --radius-md: 16px;
+  --radius-lg: 22px;
+  --radius-pill: 100px;
+
+  /* ---------- Sombras (elevación) ---------- */
+  --shadow-sm: 0 8px 24px rgba(29, 53, 87, 0.07);
+  --shadow-md: 0 16px 40px rgba(29, 53, 87, 0.12);
+  --shadow-lg: 0 30px 70px rgba(29, 53, 87, 0.16);
+
+  /* ---------- Layout ---------- */
+  --layout-max-width: 1180px;
+}
