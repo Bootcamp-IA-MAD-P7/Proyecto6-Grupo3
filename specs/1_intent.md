@@ -15,16 +15,14 @@
 
 Construir una solución de Machine Learning que **lea políticas de privacidad y
 clasifique cada fragmento** en **nueve categorías** de prácticas de datos (las 10 del
-dataset OPP-115 menos `Other`, ver `2_spec` §2.2). Sobre esa clasificación se monta
-una capa propia que:
+dataset OPP-115 menos `Other`, ver `2_spec` §2.2). Sobre esa clasificación se monta una capa propia que:
 
 1. traduce las categorías detectadas a un **nivel de exposición** para el usuario
    (bajo / medio / alto), y
 2. conecta cada categoría con el **artículo del RGPD** correspondiente, como
    contexto educativo.
 
-El objetivo final es que **cualquier persona entienda en segundos qué hace una web
-con sus datos**, sin necesidad de leer un texto legal largo.
+El objetivo final es que **cualquier persona entienda en segundos qué hace una web con sus datos**, sin necesidad de leer un texto legal largo.
 
 ## Problema que se quiere resolver
 
@@ -34,16 +32,13 @@ privacidad. La herramienta convierte ese texto en algo comprensible y accionable
 
 El problema se formula así:
 
-- **Entrada:** el texto de una política (dividido en fragmentos), en inglés o en
-  español.
+- **Entrada:** el texto de una política (dividido en fragmentos), en inglés o en español.
 - **Salida:** la(s) categoría(s) de cada fragmento → agregadas en un nivel de
   exposición y enlazadas al RGPD.
-- **Decisión que apoya:** ayudar al usuario a entender y valorar qué hace un sitio
-  con sus datos antes de fiarse de él.
+- **Decisión que apoya:** ayudar al usuario a entender y valorar qué hace un sitio con sus datos antes de fiarse de él.
 
 **Principio rector:** medimos **exposición de la privacidad, no cumplimiento legal**.
-Una práctica puede ser perfectamente legal según el RGPD y aun así exponer mucho al
-usuario. El desarrollo de este principio está en `2_spec` §6.1.
+Una práctica puede ser perfectamente legal según el RGPD y aun así exponer mucho al usuario. El desarrollo de este principio está en `2_spec` §6.1.
 
 ## Por qué usamos metodología SPEC (SDD)
 
@@ -59,48 +54,35 @@ Las specs definen:
 - Qué tareas corresponden a cada frente de trabajo.
 - Qué evidencia debe existir antes de dar una fase por cerrada.
 
-Regla: si una tarea, rama, notebook o decisión contradice esta especificación, se
-corrige el trabajo **o** se actualiza la especificación de forma explícita. Nunca
-conviven dos versiones de la verdad.
+Regla: si una tarea, rama, notebook o decisión contradice esta especificación, se corrige el trabajo **o** se actualiza la especificación de forma explícita. Nunca conviven dos versiones de la verdad.
 
 ## Nivel Esencial (suelo protegido)
 
-Es el mínimo que tiene que funcionar **sí o sí**, aunque el tiempo apriete. Ningún
-nivel superior puede ponerlo en riesgo. El suelo queda protegido cuando existe:
+Es el mínimo que tiene que funcionar **sí o sí**, aunque el tiempo apriete. Ningún nivel superior puede ponerlo en riesgo. El suelo queda protegido cuando existe:
 
 - Dataset OPP-115 cargado y documentado.
 - EDA con visualizaciones relevantes para clasificación.
 - Preprocesado de texto reproducible.
-- Un **clasificador multi-etiqueta funcional de las nueve categorías** (aunque sea
-  un solo modelo).
+- Un **clasificador multi-etiqueta funcional de las nueve categorías** (aunque sea un solo modelo).
 - **Macro-F1** calculada, con diferencia train/validación por debajo del 5%.
-- **Soporte de español mediante traducción en la inferencia**, con **degradación
-  elegante**: si el servicio de traducción no está disponible, la aplicación avisa y
-  sigue funcionando en inglés en lugar de fallar.
-- **Entrada del MVP:** el usuario pega el texto de la política, o da la URL directa de
-  la propia política. Buscar la política a partir de la URL de la web (footer) es una
-  mejora de Nivel Avanzado, no del suelo.
-- **Conjunto de prueba en español validado a mano**, sin el cual no se puede afirmar
-  que el español funciona.
+- **Soporte de español mediante traducción en la inferencia**, con **degradación elegante**: si el servicio de traducción no está disponible, la aplicación avisa y sigue funcionando en inglés en lugar de fallar.
+- **Entrada del MVP:** el usuario pega el texto de la política, o da la URL directa de la propia política. Buscar la política a partir de la URL de la web (footer) es una mejora de Nivel Avanzado, no del suelo.
+- **Conjunto de prueba en español validado a mano**, sin el cual no se puede afirmar que el español funciona.
 
-  > **⚠️ Cifra a reconciliar (decisión de equipo, pendiente).** Este documento pedía
-  > 100-200 fragmentos; `3_plan` §6 planifica una sesión de 30-40. Con el tiempo real,
+  > **⚠️ Cifra a reconciliar (decisión de equipo, pendiente).** Este documento pedía 100-200 fragmentos; `3_plan` §6 planifica una sesión de 30-40. Con el tiempo real,
   > 30-40 es lo que cabe. **No urge decidirlo hoy:** la verificación en español es tarea
   > de la Fase B (martes), cuando ya exista traducción y modelo. Se cierra en la daily
   > antes de esa sesión. Nota firme: `do_not_track` tiene 1 sola fila en español y queda
   > fuera de la verificación en cualquier caso (`2_spec` §13.3).
 - **Web (PrivacyLens, React + Vite)** que recibe una política y muestra la
   clasificación. Sustituye a la demo de Streamlit de versiones anteriores.
-- **API** que sirve el modelo y que la web consume. **Sube al suelo protegido:** sin
-  ella la web no funciona, así que deja de ser Nivel Avanzado.
-- **Seguridad mínima del backend, como requisito del suelo y no como mejora** (ver
-  `2_spec` §11.1): cero secretos en el repo, límite de tamaño del texto de entrada,
-  CORS restringido al origen de la web, y saneo de cualquier texto que la web renderice.
+- **API** que sirve el modelo y que la web consume. **Sube al suelo protegido:** sin ella la web no funciona, así que deja de ser Nivel Avanzado.
+
+- **Seguridad mínima del backend, como requisito del suelo y no como mejora** (ver`2_spec` §11.1): cero secretos en el repo, límite de tamaño del texto de entrada,CORS restringido al origen de la web, y saneo de cualquier texto que la web renderice.
 - Informe técnico con interpretación del rendimiento y de los límites.
 - README con instalación, ejecución y estructura del proyecto.
 
-> **Nota de alcance para ratificar.** El suelo protegido ha crecido dos veces: con el
-> español (servicio de traducción + etiquetado manual) y ahora con el cambio de
+> **Nota de alcance para ratificar.** El suelo protegido ha crecido dos veces: con el español (servicio de traducción + etiquetado manual) y ahora con el cambio de
 > Streamlit a web React + API. Montar API + web + modelo es más trabajo que una demo
 > Streamlit que llamaba a Python directamente, aunque es más sólido como producto
 > final. Mientras tanto la capa de exposición —el diferencial del proyecto— sigue en
@@ -109,8 +91,7 @@ nivel superior puede ponerlo en riesgo. El suelo queda protegido cuando existe:
 
 ## Niveles incrementales (aspiración)
 
-Se construyen **encima** del suelo, y solo cuando el suelo es verificable, en este
-orden de prioridad:
+Se construyen **encima** del suelo, y solo cuando el suelo es verificable, en este orden de prioridad:
 
 - **Nivel Medio:** capa de **exposición** (bajo/medio/alto) — es el diferencial del
   proyecto y lo primero que se suma; y los **≥4 modelos base diversos + meta-modelo
@@ -125,8 +106,7 @@ orden de prioridad:
   extensión resuelve por otra vía el problema que ataca el scraper: lee el texto
   directo del navegador.
 
-Si un nivel superior no llega a completarse, se documenta como trabajo pendiente,
-pero nunca a costa de romper el suelo.
+Si un nivel superior no llega a completarse, se documenta como trabajo pendiente, pero nunca a costa de romper el suelo.
 
 ## Principios de trabajo del equipo
 
@@ -146,21 +126,15 @@ pero nunca a costa de romper el suelo.
   referencia sin validar.
 - **Credenciales:** ninguna clave de API se sube al repositorio. Van en `.env`
   (ignorado), con un `.env.example` versionado que documenta los nombres.
-- Ramas limpias, commits descriptivos y pull requests revisables, con un solo camino
-  de integración.
+- Ramas limpias, commits descriptivos y pull requests revisables, con un solo camino de integración.
 - Cada tarea se cierra con **evidencia verificable** (comando, captura o artefacto).
 - Las decisiones técnicas relevantes se registran en `specs/`, no se quedan en el
   chat ni en el Discord.
-- **Glosario compartido vivo** (Google Doc), congelado en `specs/GLOSSARY.md` al
-  cerrar cada sprint. **Pendiente:** el archivo `specs/GLOSSARY.md` todavía no existe,
-  y se han acumulado tres sesiones de términos. Sprint 1 cierra esta semana.
 
 ## Manejo de distintos niveles técnicos
 
 El equipo aprende entre sí y tiene niveles técnicos distintos. La planificación debe
-dar a cada persona tareas útiles, claras y verificables, sin hacer a nadie de perfil
-más bajo responsable único de un componente crítico. Cada ticket indica si es
-**apto junior**.
+dar a cada persona tareas útiles, claras y verificables
 
 La validación manual del conjunto de prueba en español es un buen ejemplo de tarea
 apta para cualquier nivel: no requiere programar, obliga a entender las nueve

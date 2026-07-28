@@ -1,0 +1,31 @@
+/* ============================================================
+   AnalysisPage.css — Página de resultado (esqueleto FASE 2)
+   ============================================================ */
+
+.analysis-page {
+  padding: 48px 24px 90px;
+  max-width: 760px; /* la radiografía se lee mejor en columna estrecha */
+}
+
+.analysis-page__back {
+  color: var(--color-secondary);
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.analysis-page__title {
+  font-family: var(--font-display);
+  font-size: 38px;
+  font-weight: 800;
+  color: var(--color-primary);
+  margin: 18px 0 28px;
+  letter-spacing: -0.5px;
+}
+
+.analysis-page__note {
+  color: var(--color-muted);
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
