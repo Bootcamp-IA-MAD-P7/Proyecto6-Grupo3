@@ -19,3 +19,4 @@ data/dataset_extension/external_datasets/
 **/.DS_Store
 **/__MACOSX/
 **/._*
+artifacts/
