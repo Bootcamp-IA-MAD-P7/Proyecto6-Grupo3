@@ -19,4 +19,6 @@ data/dataset_extension/external_datasets/
 **/.DS_Store
 **/__MACOSX/
 **/._*
-artifacts/
+
+# Ignorar artefactos generados localmente (SPEC 1, SPEC 2 §12 y SPEC 4) 
+artifacts/*
