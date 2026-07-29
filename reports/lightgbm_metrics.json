@@ -1,0 +1,109 @@
+{
+  "model": "LightGBM (9 cabezas binarias, chi2 3000 features)",
+  "issue": 24,
+  "family": "gradient boosting sobre arboles",
+  "threshold": 0.5,
+  "macro_f1_val": 0.6982,
+  "micro_f1_val": 0.7343,
+  "macro_f1_train_internal": 0.9791,
+  "overfit_gap": 0.2808,
+  "gap_is_blocker": true,
+  "f1_per_category_val": {
+    "first_party_collection_use": 0.7939,
+    "third_party_sharing_collection": 0.803,
+    "user_choice_control": 0.6146,
+    "user_access_edit_deletion": 0.5,
+    "data_retention": 0.4706,
+    "data_security": 0.62,
+    "policy_change": 0.6857,
+    "do_not_track": 1.0,
+    "international_specific_audiences": 0.7963
+  },
+  "positives_in_val": {
+    "first_party_collection_use": 232,
+    "third_party_sharing_collection": 200,
+    "user_choice_control": 103,
+    "user_access_edit_deletion": 39,
+    "data_retention": 22,
+    "data_security": 59,
+    "policy_change": 37,
+    "do_not_track": 6,
+    "international_specific_audiences": 61
+  },
+  "trees_used_per_category": {
+    "first_party_collection_use": 179,
+    "third_party_sharing_collection": 94,
+    "user_choice_control": 137,
+    "user_access_edit_deletion": 115,
+    "data_retention": 143,
+    "data_security": 88,
+    "policy_change": 126,
+    "do_not_track": 300,
+    "international_specific_audiences": 174
+  },
+  "threshold_diagnostic": {
+    "first_party_collection_use": {
+      "positivos": 232,
+      "proba_media": 0.746,
+      "entre_030_050": 16
+    },
+    "third_party_sharing_collection": {
+      "positivos": 200,
+      "proba_media": 0.735,
+      "entre_030_050": 13
+    },
+    "user_choice_control": {
+      "positivos": 103,
+      "proba_media": 0.588,
+      "entre_030_050": 8
+    },
+    "user_access_edit_deletion": {
+      "positivos": 39,
+      "proba_media": 0.476,
+      "entre_030_050": 2
+    },
+    "data_retention": {
+      "positivos": 22,
+      "proba_media": 0.412,
+      "entre_030_050": 3
+    },
+    "data_security": {
+      "positivos": 59,
+      "proba_media": 0.567,
+      "entre_030_050": 6
+    },
+    "policy_change": {
+      "positivos": 37,
+      "proba_media": 0.628,
+      "entre_030_050": 0
+    },
+    "do_not_track": {
+      "positivos": 6,
+      "proba_media": 0.983,
+      "entre_030_050": 0
+    },
+    "international_specific_audiences": {
+      "positivos": 61,
+      "proba_media": 0.687,
+      "entre_030_050": 1
+    }
+  },
+  "experiments_run": {
+    "capacity_passes": {
+      "leaves31": 0.6973,
+      "leaves15": 0.6859,
+      "leaves7": 0.5724
+    },
+    "class_weight": {
+      "balanced": 0.6973,
+      "none": 0.6472
+    },
+    "n_features": {
+      "13389": 0.6973,
+      "3000": 0.6982,
+      "1500": 0.6948,
+      "500": 0.6418
+    }
+  },
+  "notes": "Gap declarado como bloqueo (2_spec 3), causa estructural: mas features que filas. Cuatro vias intentadas, ninguna acerca al 5% sin destruir el modelo. do_not_track F1 sobre 6 positivos en val: cifra no robusta. Pendiente de equipo: el baseline nunca reporto su gap."
+}
