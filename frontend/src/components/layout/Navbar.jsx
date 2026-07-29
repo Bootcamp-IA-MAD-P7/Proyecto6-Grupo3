@@ -21,6 +21,9 @@ export default function Navbar() {
         <NavLink to="/" end className="navbar__link">
           Analizador
         </NavLink>
+        <NavLink to="/riesgos" className="navbar__link">
+          Riesgos
+        </NavLink>
         <NavLink to="/modelo" className="navbar__link">
           Modelo
         </NavLink>

@@ -1,16 +1,3 @@
-// ============================================================
-//  HomePage.jsx — Página principal (el analizador)
-// ------------------------------------------------------------
-//  QUÉ HACE: la landing de PrivacyLens. Estructura:
-//   1. Hero: titular + caja de URL protagonista
-//   2. Tarjeta flotante con un análisis de ejemplo
-//   3. Métricas del corpus/modelo (StatCards)
-//   4. Análisis recientes
-//
-//  DATOS: todo llega a través de analysisService (mock por
-//  ahora, API real cuando el backend esté listo — ver
-//  src/services/analysisService.js).
-// ============================================================
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import UrlAnalyzerBox from '../components/ui/UrlAnalyzerBox'
@@ -18,35 +5,29 @@ import AnalysisPreviewCard from '../components/ui/AnalysisPreviewCard'
 import StatCard from '../components/ui/StatCard'
 import RecentAnalyses from '../components/ui/RecentAnalyses'
 import { analyzeUrl, getRecentAnalyses, getGlobalStats } from '../services/analysisService'
+import fingerprintImage from '../../huella-digital.png'
 import './HomePage.css'
 
-// Orden de colores de los filetes de las tarjetas de métricas
 const STAT_TONES = ['primary', 'secondary', 'accent', 'amber']
 
 export default function HomePage() {
   const navigate = useNavigate()
-
-  // Estado: datos que vienen del servicio (mock o API)
   const [preview, setPreview] = useState(null)
   const [recent, setRecent] = useState([])
   const [stats, setStats] = useState([])
 
-  // Al montar la página, cargamos los datos de ejemplo
   useEffect(() => {
     getRecentAnalyses().then(setRecent)
     getGlobalStats().then(setStats)
     analyzeUrl('https://spotify.com/legal/privacy-policy').then(setPreview)
   }, [])
 
-  // Cuando el usuario pulsa "Analizar" navegamos a la página
-  // de resultado pasando la URL en el estado de la ruta.
   const handleAnalyze = async (url) => {
     navigate('/analisis', { state: { url } })
   }
 
   return (
     <>
-      {/* ---------- HERO ---------- */}
       <section className="hero container">
         <div className="hero__content">
           <span className="hero__badge">
@@ -65,8 +46,13 @@ export default function HomePage() {
             persona puede entender. Con evidencias, sin jerga y sin alarmismos.
           </p>
 
-          {/* La caja protagonista: al analizar navega a /analisis */}
           <UrlAnalyzerBox onAnalyze={handleAnalyze} />
+
+          <div className="hero__benefits" aria-label="Ventajas de PrivacyLens">
+            <span>✓ Analiza políticas en segundos</span>
+            <span>✓ IA entrenada con OPP-115</span>
+            <span>✓ Basado en categorías de privacidad</span>
+          </div>
 
           <p className="hero__alt">
             ¿Sin URL? <a href="#texto">Pega el texto de la política directamente →</a>
@@ -79,21 +65,31 @@ export default function HomePage() {
           </div>
         </div>
 
-        {/* Tarjeta flotante con el análisis de ejemplo */}
-        <AnalysisPreviewCard analysis={preview} />
+        <div className="hero__visual">
+          <img
+            className="hero__fingerprint"
+            src={fingerprintImage}
+            alt=""
+            aria-hidden="true"
+          />
+          <AnalysisPreviewCard analysis={preview} />
+        </div>
       </section>
 
-      {/* ---------- MÉTRICAS DEL CORPUS / MODELO ---------- */}
-      <section className="stats container">
-        {stats.map((s, i) => (
-          <StatCard key={s.label} value={s.value} label={s.label} tone={STAT_TONES[i % 4]} />
+      <section className="stats container" aria-label="Métricas de PrivacyLens">
+        {stats.map((stat, index) => (
+          <StatCard
+            key={stat.label}
+            value={stat.value}
+            label={stat.label}
+            tone={STAT_TONES[index % 4]}
+          />
         ))}
       </section>
 
-      {/* ---------- ANÁLISIS RECIENTES ---------- */}
       <RecentAnalyses
         items={recent}
-        onSelect={(slug) => navigate(`/analisis`, { state: { slug } })}
+        onSelect={(slug) => navigate('/analisis', { state: { slug } })}
       />
     </>
   )
