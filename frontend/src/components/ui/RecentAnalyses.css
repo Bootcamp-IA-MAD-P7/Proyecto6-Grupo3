@@ -6,8 +6,8 @@
    ============================================================ */
 
 .recent {
-  margin-top: 64px;
-  margin-bottom: 90px;
+  margin-top: 16px;
+  margin-bottom: 20px;
 }
 
 .recent__title {
@@ -16,7 +16,7 @@
   letter-spacing: 2.5px;
   color: var(--color-muted);
   text-align: center;
-  margin-bottom: 26px;
+  margin-bottom: 10px;
   font-weight: 700;
 }
 
@@ -29,8 +29,8 @@
 .rcard {
   display: flex;
   align-items: center;
-  gap: 14px;
-  padding: 20px 22px;
+  gap: 11px;
+  padding: 11px 15px;
   background: rgba(255, 255, 255, 0.85);
   border: 1px solid var(--color-border);
   border-radius: 18px;
@@ -46,15 +46,15 @@
 
 /* Avatar monocromo: el tinte cambia por posición, no por marca */
 .rcard__logo {
-  width: 44px;
-  height: 44px;
+  width: 36px;
+  height: 36px;
   border-radius: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: var(--font-display);
   font-weight: 800;
-  font-size: 19px;
+  font-size: 16px;
   flex-shrink: 0;
   background: var(--color-navy-soft);
   border: 1px solid rgba(29, 53, 87, 0.16);
@@ -90,4 +90,16 @@
   margin-left: auto;
   color: var(--color-secondary);
   font-weight: 700;
+}
+
+@media (max-width: 900px) {
+  .recent__grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 540px) {
+  .recent {
+    margin-top: 18px;
+    margin-bottom: 24px;
+  }
+  .recent__grid { grid-template-columns: 1fr; }
 }

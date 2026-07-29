@@ -16,10 +16,33 @@
 }
 
 body {
+  min-width: 320px;
+  min-height: 100vh;
   font-family: var(--font-body);
   background: var(--color-bg);
   color: var(--color-text);
   -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-main {
+  flex: 1;
+}
+
+a,
+button,
+input {
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 3px solid rgba(42, 157, 143, 0.3);
+  outline-offset: 3px;
 }
 
 /* ---------- Fondo "aurora": halos suaves azul + turquesa ---- */

@@ -65,3 +65,14 @@
   opacity: 0.65;
   cursor: wait;
 }
+
+@media (max-width: 560px) {
+  .urlbox {
+    align-items: stretch;
+    flex-direction: column;
+    padding: 10px;
+  }
+  .urlbox__icon { display: none; }
+  .urlbox__input { padding: 13px 10px; }
+  .urlbox__button { width: 100%; }
+}
