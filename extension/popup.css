@@ -1,0 +1,232 @@
+/* Definición de variables y estilos base */
+:root {
+  /* Colores principales */
+  --main-bg-translucent: rgba(255, 255, 255, 0.7); /* Transparencia base */
+  --primary-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  --text-color: #334155;
+  --text-muted: #64748B;
+  
+  /* Colores del semáforo */
+  --red-luz: #EF4444;
+  --yellow-luz: #F59E0B;
+  --green-luz: #10B981;
+  --luz-disabled: #CBD5E1; /* Color apagado */
+  
+  /* Colores de categorías */
+  --bg-darkblue: rgba(14, 165, 233, 0.1);
+  --border-darkblue: #0EA5E9;
+  --bg-green: rgba(16, 185, 129, 0.1);
+  --border-green: #10B981;
+  --bg-lightpurple: rgba(139, 92, 246, 0.1);
+  --border-lightpurple: #8B5CF6;
+  --bg-yellow: rgba(245, 158, 11, 0.1);
+  --border-yellow: #F59E0B;
+}
+
+/* Reinicio de márgenes y fuentes */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  width: 350px; /* Ancho de la extensión */
+  padding: 15px;
+  background-color: #F1F5F9; /* Fondo suave del navegador para contrastar */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* --- Contenedor Principal (Efecto Cristal) --- */
+.main-container {
+  width: 100%;
+  background-color: var(--main-bg-translucent);
+  backdrop-filter: blur(16px) saturate(180%); /* Efecto de desenfoque de fondo */
+  -webkit-backdrop-filter: blur(10px); /* Para Safari */
+  border: 1px solid rgba(255, 255, 255, 0.5); /* Borde sutil */
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: var(--primary-shadow);
+}
+
+/* --- Top Bar: Semáforo y Estado --- */
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.semaforo-container {
+  display: flex;
+  gap: 6px;
+}
+
+.luz {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+}
+
+/* Estados de las luces del semáforo */
+.luz.red.active { background-color: var(--red-luz); border-color: #B91C1C; }
+.luz.yellow.active { background-color: var(--yellow-luz); border-color: #B45309; }
+.luz.green.active { background-color: var(--green-luz); border-color: #047857; }
+
+.luz.disabled {
+  background-color: var(--luz-disabled);
+}
+
+/* Insignia de estado */
+.status-badge {
+  background-color: #ECFDF5;
+  border: 1px solid #A7F3D0;
+  padding: 4px 10px;
+  border-radius: 20px;
+}
+
+.status-text {
+  font-size: 11px;
+  color: #047857;
+  font-weight: 600;
+}
+
+/* --- Sección de Información del Sitio --- */
+.site-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  background-color: #334155;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.site-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1E293B;
+}
+
+.site-url {
+  font-size: 12px;
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.site-url:hover {
+  text-decoration: underline;
+}
+
+/* --- Caja de Resumen IA --- */
+.ia-summary-box {
+  background-color: #F8FAFC;
+  border-left: 3px solid var(--border-green);
+  padding: 15px;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 18px;
+}
+
+.summary-label {
+  font-size: 11px;
+  font-weight: 800;
+  color: #0D9488;
+  letter-spacing: 0.5px;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.summary-content {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--text-color);
+}
+
+/* --- Sección de Categorías (Etiquetas) --- */
+.categories-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.tag-category {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 15px;
+  border: 1px solid;
+}
+
+.tag-category .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+
+/* Colores específicos de cada etiqueta */
+.tag-darkblue { background-color: var(--bg-darkblue); border-color: var(--border-darkblue); color: #0369A1; }
+.tag-darkblue .dot { background-color: var(--border-darkblue); }
+
+.tag-green { background-color: var(--bg-green); border-color: var(--border-green); color: #059669; }
+.tag-green .dot { background-color: var(--border-green); }
+
+.tag-lightpurple { background-color: var(--bg-lightpurple); border-color: var(--border-lightpurple); color: #6D28D9; }
+.tag-lightpurple .dot { background-color: var(--border-lightpurple); }
+
+.tag-yellow { background-color: var(--bg-yellow); border-color: var(--border-yellow); color: #B45309; }
+.tag-yellow .dot { background-color: var(--border-yellow); }
+
+/* --- Caja de Evidencia del Documento --- */
+.evidence-box {
+  background-color: #FFFBEB;
+  border: 1px solid #FDE68A;
+  border-left: 3px solid var(--border-yellow);
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.evidence-label {
+  font-size: 11px;
+  font-weight: 800;
+  color: #B45309;
+  letter-spacing: 0.5px;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.evidence-quote {
+  font-size: 12px;
+  font-style: italic;
+  color: var(--text-color);
+  line-height: 1.4;
+  margin-bottom: 6px;
+}
+
+.evidence-link {
+  font-size: 12px;
+  font-weight: 700;
+  color: #92400E;
+  text-decoration: none;
+}
+
+.evidence-link:hover {
+  text-decoration: underline;
+}

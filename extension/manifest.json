@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Clasificador OPP-115",
+  "version": "1.0",
+  "description": "Extensión para analizar políticas de privacidad.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "fazt.png"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8000/*",
+    "http://localhost:8000/*"
+  ]
+}
