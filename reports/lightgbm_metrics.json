@@ -1,6 +1,5 @@
 {
   "model": "LightGBM (9 cabezas binarias, chi2 3000 features)",
-  "owner": "Ari",
   "issue": 24,
   "family": "gradient boosting sobre arboles",
   "threshold": 0.5,
