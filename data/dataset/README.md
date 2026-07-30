@@ -1,26 +1,27 @@
-# dataset — original OPP-115 dataset files (.csv annotations, policy texts)
+# Corpus OPP-115
 
-## Cómo obtener los datos
+Esta carpeta contiene los textos y anotaciones originales utilizados para construir el conjunto de entrenamiento.
 
-OPP-115 — el corpus de entrenamiento, con sus anotaciones. Descarga: https://usableprivacy.org/data
+## Verificación
 
-Cita obligatoria si se usa en una publicación:
+Desde la raíz:
 
-Wilson, S., Schaub, F., Dara, A., Liu, F., Cherivirala, S., Giovanni Leon, P., Schaarup Andersen, M., Zimmeck, S., Sathyendra, K. M., Russell, N. C., Norton, T. B., Hovy, E., Reidenberg, J. & Sadeh, N. (2016). The Creation and Analysis of a Website Privacy Policy Corpus. ACL 2016.
-
-Mapeo OPP-115 → RGPD — tabla de consulta categoría → artículo. Misma página: JURIX_2020_OPP-115_GDPR_v1.0.zip (83 KB).
-
-Este archivo sí se versiona, por dos razones: pesa 83 KB y es fuente de referencia, no producto derivado.
-
-### Cita obligatoria:
-
-Poplavska, E., Norton, T. B., Wilson, S. & Sadeh, N. (2020). From Prescription to Description: Mapping the GDPR to a Privacy Policy Corpus Annotation Scheme. JURIX 2020, pp. 243-246. DOI: 10.3233/FAIA200874.
-
-Cómo comprobar que la descarga está completa
-
-El dataset no sirve solo con los textos: hace falta el archivo de anotaciones, que es el que dice a qué categorías pertenece cada fragmento. Sin él no hay target y no se puede entrenar nada.
-
-## bash
+```bash
 uv run python scripts/01_inspect_opp115.py
+```
 
-Ese script imprime qué hay dentro y confirma que las anotaciones están presentes.
+El script valida la presencia de políticas y anotaciones. Sin las anotaciones no puede generarse `training_table.csv`.
+
+## Fuente
+
+OPP-115 puede obtenerse en [Usable Privacy Project](https://usableprivacy.org/data).
+
+Referencia:
+
+> Wilson, S. et al. (2016). *The Creation and Analysis of a Website Privacy Policy Corpus*. ACL 2016.
+
+El mapeo entre categorías OPP-115 y RGPD utilizado como referencia académica procede de:
+
+> Poplavska, E., Norton, T. B., Wilson, S. & Sadeh, N. (2020). *From Prescription to Description: Mapping the GDPR to a Privacy Policy Corpus Annotation Scheme*. JURIX 2020. DOI: 10.3233/FAIA200874.
+
+Consulte las condiciones y requisitos de citación de las fuentes originales antes de redistribuir o publicar resultados.

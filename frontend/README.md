@@ -1,80 +1,85 @@
-# PrivacyLens Frontend
+# Frontend de PrivacyLens
 
-Frontend web de **PrivacyLens** — Legal AI que traduce políticas de privacidad a lenguaje claro.
+Aplicación pública construida con React 18, React Router 6 y Vite 5. No utiliza una librería de componentes ni dependencias de iconos; la interfaz se implementa con JSX, CSS y recursos locales.
 
-## Stack técnico
+## Páginas y rutas
 
-- React 18
-- React Router DOM (navegación entre páginas)
-- Vite (servidor de desarrollo y build)
-
-## Estructura del proyecto
-
-```
-src/
-├── components/   # Componentes reutilizables (tarjetas, cajas de UI, etc.)
-├── pages/        # Vistas / páginas de la app
-├── services/     # Capa de acceso a datos (API y mocks)
-├── config/       # Configuración de la app
-├── styles/       # Estilos globales
-├── App.jsx       # Componente raíz (rutas)
-└── main.jsx      # Punto de entrada
-```
-
-## Páginas
-
-| Página | Ruta | Estado | Descripción |
-|---|---|---|---|
-| `HomePage` | `/` | ✅ Funcional | Landing principal. Caja para pegar una URL, tarjeta de análisis de ejemplo, métricas del corpus/modelo y lista de análisis recientes. |
-| `AnalysisPage` | `/analisis` | 🚧 Esqueleto (Fase 2) | Página de resultado ("radiografía" de la política): resumen, categorías detectadas, evidencias y artículos del RGPD relacionados. |
-| `ModelPage` | `/modelo` | 🚧 Esqueleto (Fase 3) | Explica el modelo de IA: métricas del corpus y, más adelante, rendimiento por categoría. |
-| `PlaceholderPage` | rutas futuras | 🚧 Genérica | Página "en construcción" para rutas que todavía no tienen vista propia (ej. categorías, extensión). |
-
-## Conexión con el backend
-
-Toda la comunicación con el backend pasa por `src/services/analysisService.js`. Los componentes **nunca** hacen `fetch` directamente, siempre llaman a este servicio.
-
-Actualmente funciona en modo **mock** (`USE_MOCK = true` en `analysisService.js`), usando datos de ejemplo definidos en `src/services/mockData.js`.
-
-Contrato de API previsto para cuando el backend esté disponible:
-
-| Método | Endpoint | Descripción |
+| Ruta | Componente | Estado |
 |---|---|---|
-| `POST` | `/api/analyze` | Recibe `{ url }` y devuelve el resultado del análisis de la política. |
-| `GET` | `/api/analyses/recent` | Devuelve los últimos análisis realizados. |
-| `GET` | `/api/stats` | Devuelve las métricas globales del corpus y del modelo. |
+| `/` | `HomePage` | Home y formulario de URL con contenido de demostración |
+| `/analisis` | `AnalysisPage` | Resultado preliminar basado en el mock |
+| `/riesgos` | `RisksPage` | Seis riesgos y diálogos educativos |
+| `/rgpd` | `GdprPage` | Ocho derechos y guía práctica |
+| `/aprende` | `LearnPage` | Recursos y hábitos educativos |
+| `/modelo` | `ModelPage` | PrivacyLens Lab; tarjetas visuales aún sin navegación interna |
+| `/categorias` | `CategoriesPage` | Catálogo interactivo y diálogos explicativos |
+| `/extension` | `ExtensionPage` | Presentación visual de la futura extensión |
 
-Para conectar con el backend real:
-1. Cambiar `USE_MOCK` a `false` en `analysisService.js`.
-2. Verificar el proxy `/api` en `vite.config.js`.
-3. Ajustar los nombres de campos si la API real difiere del mock.
+Las rutas desconocidas redirigen a `/`.
 
-## Instalación
+## Estructura
 
-```bash
-npm install
+```text
+src/
+├── components/
+│   ├── brand/       Logo
+│   ├── layout/      Navbar y footer globales
+│   └── ui/          Tarjetas, formulario y elementos reutilizables
+├── config/          Catálogo visual de categorías
+├── pages/           Vistas y estilos por página
+├── services/        API y datos de demostración
+├── styles/          Tokens y estilos globales
+├── App.jsx          Enrutamiento
+└── main.jsx         Entrada de React
 ```
 
-## Ejecución en desarrollo
+Las imágenes utilizadas por las páginas se encuentran en la raíz de `frontend/`.
+
+## Datos y backend
+
+`src/services/analysisService.js` centraliza el acceso a datos. El valor actual es:
+
+```js
+const USE_MOCK = true
+```
+
+Por tanto:
+
+- `analyzeUrl`, `getRecentAnalyses` y `getGlobalStats` devuelven datos locales.
+- La Home mantiene una tarjeta visual con `MOCK_ANALYSIS`.
+- El backend no se consulta desde la interfaz actual.
+
+El código alternativo usa `POST /api/analyze`, `GET /api/analyses/recent` y `GET /api/stats`, pero el backend real solo implementa el primero para texto y no ofrece los dos endpoints GET de datos. Desactivar el mock requiere adaptar el formulario y el componente de resultados al contrato real; no basta con cambiar el booleano.
+
+Durante desarrollo, Vite reenvía `/api/*` a `http://localhost:8000`.
+
+## Instalación y ejecución
 
 ```bash
+cd frontend
+npm install
 npm run dev
 ```
 
-## Build de producción
+Build y previsualización:
 
 ```bash
 npm run build
-```
-
-## Previsualizar build
-
-```bash
 npm run preview
 ```
 
-## Roadmap
+No hay suite de tests ni scripts de lint definidos en `package.json`.
 
-- **Fase 1** ✅ — Home funcional con datos mock.
-- **Fase 2** 🚧 — Completar `AnalysisPage`: cobertura por categoría, evidencias, artículos RGPD, visor del documento original.
-- **Fase 3** 🚧 — Completar `ModelPage`: gráficas de F1 por categoría y matriz de confusión, alimentadas por la API real.
+## Responsive y accesibilidad
+
+- Navbar y footer compartidos.
+- Cuadrículas adaptativas para escritorio, tablet y móvil.
+- Diálogos de riesgos y categorías cerrables mediante botón, clic exterior y Escape.
+- Navegación interna con `Link` y `NavLink`.
+
+## Limitaciones actuales
+
+- El análisis visible es demostrativo.
+- `AnalysisPage` es una presentación preliminar, no la radiografía completa descrita en especificaciones antiguas.
+- Los botones de los módulos de PrivacyLens Lab no ejecutan acciones.
+- La página de Extensión no implica que exista un paquete Chrome instalable.
