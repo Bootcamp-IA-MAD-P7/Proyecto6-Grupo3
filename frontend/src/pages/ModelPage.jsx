@@ -1,80 +1,108 @@
-import StatCard from '../components/ui/StatCard'
-import { MOCK_STATS } from '../services/mockData'
+import { Link } from 'react-router-dom'
+import labIllustration from '../../privaylens lab.jpg'
 import './ModelPage.css'
 
-const PIPELINE_STEPS = [
+const LAB_MODULES = [
   {
-    number: '01',
-    name: 'TF-IDF',
-    detail: 'Convierte el lenguaje de cada fragmento en características comparables.',
+    icon: '🤖',
+    title: 'El modelo',
+    description: 'Cómo funciona el algoritmo que clasifica cada fragmento.',
+    action: 'Explorar',
   },
   {
-    number: '02',
-    name: 'LinearSVC',
-    detail: 'Aprende los patrones que distinguen cada práctica de privacidad.',
+    icon: '📊',
+    title: 'Rendimiento',
+    description: 'Conoce las métricas obtenidas durante la evaluación del modelo.',
+    action: 'Ver métricas',
   },
   {
-    number: '03',
-    name: '9 categorías',
-    detail: 'Devuelve una lectura estructurada y fácil de interpretar.',
+    icon: '⚙️',
+    title: 'Entrenamiento',
+    description: 'Cómo se prepararon los datos antes del aprendizaje.',
+    action: 'Descubrir',
+  },
+  {
+    icon: '📚',
+    title: 'Dataset',
+    description: 'Información sobre OPP-115 y el conjunto de entrenamiento.',
+    action: 'Más información',
+  },
+  {
+    icon: '🔄',
+    title: 'Pipeline',
+    description: 'Paso a paso del proceso seguido desde una política hasta el resultado.',
+    action: 'Ver proceso',
   },
 ]
 
 export default function ModelPage() {
   return (
-    <section className="model-page container">
-      <header className="model-page__heading">
-        <span className="page-heading__eyebrow">Tecnología explicable</span>
-        <h1 className="model-page__title">El modelo, explicado</h1>
-        <p className="model-page__sub">
-          Sin tablas crípticas. Así de bien entiende PrivacyLens cada categoría.
-        </p>
-      </header>
+    <div className="lab-page">
+      <section className="lab-hero">
+        <div className="lab-hero__inner container">
+          <div className="lab-hero__copy">
+            <span className="lab-eyebrow">LABORATORIO DE IA</span>
+            <h1>PrivacyLens Lab</h1>
+            <p>
+              Descubre cómo la inteligencia artificial analiza una política de privacidad y
+              la transforma en información comprensible para cualquier persona.
+            </p>
+          </div>
 
-      <div className="model-page__stats">
-        {MOCK_STATS.map((stat, index) => (
-          <StatCard
-            key={stat.label}
-            value={stat.value}
-            label={stat.label}
-            tone={['primary', 'secondary', 'accent', 'amber'][index % 4]}
-          />
-        ))}
-      </div>
-
-      <section className="pipeline" aria-labelledby="pipeline-title">
-        <div className="pipeline__intro">
-          <span>Cómo funciona</span>
-          <h2 id="pipeline-title">Del texto legal a una lectura clara</h2>
-          <p>Un flujo compacto y reproducible, diseñado para mantener cada resultado trazable.</p>
+          <div className="lab-hero__visual">
+            <img
+              src={labIllustration}
+              alt="Panel tecnológico con visualizaciones de datos e inteligencia artificial"
+            />
+            <span className="lab-hero__status">
+              <i aria-hidden="true" />
+              Sistema preparado
+            </span>
+          </div>
         </div>
+      </section>
 
-        <div className="pipeline__steps">
-          {PIPELINE_STEPS.map((step, index) => (
-            <div className="pipeline__item" key={step.name}>
-              <article className="pipeline-card">
-                <span className="pipeline-card__number">{step.number}</span>
-                <div className="pipeline-card__icon" aria-hidden="true">
-                  {index === 0 ? 'Aa' : index === 1 ? '∑' : '9'}
-                </div>
-                <h3>{step.name}</h3>
-                <p>{step.detail}</p>
-              </article>
-              {index < PIPELINE_STEPS.length - 1 && (
-                <span className="pipeline__connector" aria-hidden="true">
-                  <i />
-                  <b>→</b>
-                </span>
-              )}
-            </div>
+      <section className="lab-intro container">
+        <span className="lab-intro__mark" aria-hidden="true">AI</span>
+        <p>
+          PrivacyLens utiliza técnicas de <strong>Procesamiento del Lenguaje Natural</strong> y
+          {' '}<strong>Machine Learning</strong> para identificar automáticamente distintos
+          tipos de información presentes en una política de privacidad.
+        </p>
+      </section>
+
+      <section className="lab-modules container" id="lab-modules">
+        <header className="lab-section-heading">
+          <span className="lab-eyebrow">MÓDULOS DEL LABORATORIO</span>
+          <h2>Explora cómo aprende PrivacyLens</h2>
+          <p>Cada módulo abre una parte diferente del proceso de inteligencia artificial.</p>
+        </header>
+
+        <div className="lab-grid">
+          {LAB_MODULES.map((module, index) => (
+            <article className={`lab-card lab-card--${index + 1}`} key={module.title}>
+              <div className="lab-card__top">
+                <span className="lab-card__index">{String(index + 1).padStart(2, '0')}</span>
+                <span className="lab-card__icon" aria-hidden="true">{module.icon}</span>
+              </div>
+              <h3>{module.title}</h3>
+              <p>{module.description}</p>
+              <button type="button">{module.action} <span aria-hidden="true">→</span></button>
+            </article>
           ))}
         </div>
       </section>
 
-      <p className="model-page__todo">
-        Las gráficas de rendimiento se activarán cuando el backend exponga
-        las métricas de validación del modelo.
-      </p>
-    </section>
+      <section className="lab-cta container">
+        <div>
+          <span className="lab-eyebrow">PRUEBA EL SISTEMA</span>
+          <h2>¿Quieres ver la IA en acción?</h2>
+          <p>Pon a prueba PrivacyLens analizando una política de privacidad real.</p>
+        </div>
+        <Link to="/" className="lab-cta__button">
+          Ir al Analizador
+        </Link>
+      </section>
+    </div>
   )
 }
