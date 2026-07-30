@@ -1,0 +1,280 @@
+.extension-page {
+  min-height: 720px;
+  display: grid;
+  grid-template-columns: 0.85fr 1.15fr;
+  gap: 72px;
+  align-items: center;
+  padding-top: 76px;
+  padding-bottom: 110px;
+}
+
+.extension-page__copy h1 {
+  max-width: 540px;
+  margin-top: 14px;
+  color: var(--color-primary);
+  font-family: var(--font-display);
+  font-size: clamp(42px, 5vw, 62px);
+  line-height: 1.05;
+  letter-spacing: -2px;
+}
+
+.extension-page__copy > p {
+  max-width: 540px;
+  margin-top: 22px;
+  color: var(--color-muted);
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.extension-page__actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.primary-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 50px;
+  padding: 0 24px;
+  border-radius: 13px;
+  background: linear-gradient(120deg, var(--color-primary), var(--color-secondary));
+  box-shadow: 0 10px 24px rgba(29, 53, 87, 0.2);
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+  transition: transform 0.18s, box-shadow 0.18s;
+}
+
+.primary-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 28px rgba(29, 53, 87, 0.27);
+}
+
+.extension-page__status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--color-muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.extension-page__status i {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-accent);
+  box-shadow: 0 0 0 5px var(--color-teal-soft);
+}
+
+.extension-page__features {
+  display: grid;
+  gap: 12px;
+  margin-top: 32px;
+  list-style: none;
+  color: var(--color-text);
+  font-size: 14px;
+}
+
+.extension-page__features li::before {
+  content: '✓';
+  margin-right: 10px;
+  color: var(--color-accent);
+  font-weight: 800;
+}
+
+.browser-mockup {
+  overflow: hidden;
+  border: 1px solid rgba(69, 123, 157, 0.22);
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: var(--shadow-lg);
+  transform: perspective(1200px) rotateY(-3deg) rotateX(1deg);
+}
+
+.browser-mockup__top {
+  height: 58px;
+  display: grid;
+  grid-template-columns: 80px 1fr 32px;
+  gap: 12px;
+  align-items: center;
+  padding: 0 18px;
+  border-bottom: 1px solid var(--color-border);
+  background: #fff;
+}
+
+.browser-mockup__dots {
+  display: flex;
+  gap: 6px;
+}
+
+.browser-mockup__dots i {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--color-border);
+}
+
+.browser-mockup__dots i:first-child { background: #fb7185; }
+.browser-mockup__dots i:nth-child(2) { background: var(--color-amber); }
+.browser-mockup__dots i:last-child { background: var(--color-accent); }
+
+.browser-mockup__address {
+  padding: 9px 14px;
+  border-radius: 9px;
+  background: var(--color-bg);
+  color: var(--color-muted);
+  font-size: 11px;
+}
+
+.browser-mockup__lens,
+.extension-card__mark {
+  display: grid;
+  place-items: center;
+  border-radius: 9px;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent));
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 800;
+}
+
+.browser-mockup__lens { width: 28px; height: 28px; }
+
+.browser-mockup__body {
+  min-height: 470px;
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 24px;
+  padding: 30px;
+  background:
+    linear-gradient(145deg, rgba(234, 242, 248, 0.6), rgba(230, 246, 244, 0.45));
+}
+
+.browser-mockup__document {
+  padding: 28px 20px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.browser-mockup__document span {
+  display: block;
+  height: 9px;
+  margin-bottom: 17px;
+  border-radius: 20px;
+  background: rgba(69, 123, 157, 0.13);
+}
+
+.browser-mockup__document span:first-child {
+  width: 58%;
+  height: 16px;
+  background: rgba(29, 53, 87, 0.22);
+}
+.browser-mockup__document span:nth-child(3) { width: 86%; }
+.browser-mockup__document span:nth-child(4) { width: 72%; }
+.browser-mockup__document span:nth-child(5) { width: 92%; }
+
+.extension-card {
+  align-self: start;
+  padding: 20px;
+  border: 1px solid var(--color-border);
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: var(--shadow-md);
+}
+
+.extension-card__head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.extension-card__mark { width: 34px; height: 34px; }
+.extension-card__head b {
+  display: block;
+  color: var(--color-primary);
+  font-size: 13px;
+}
+.extension-card__head small {
+  color: var(--color-muted);
+  font-size: 10px;
+}
+.extension-card__signal {
+  width: 9px;
+  height: 9px;
+  margin-left: auto;
+  border-radius: 50%;
+  background: var(--color-accent);
+}
+
+.extension-card__score {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 12px;
+  border-radius: 11px;
+  background: var(--color-amber-soft);
+  color: var(--color-muted);
+  font-size: 11px;
+}
+.extension-card__score b { color: var(--color-amber-deep); }
+
+.extension-card__result {
+  margin-top: 14px;
+  padding: 14px;
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 11px 11px 0;
+  background: var(--color-teal-soft);
+}
+.extension-card__result small {
+  color: var(--color-accent);
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 0.8px;
+}
+.extension-card__result strong {
+  display: block;
+  margin-top: 6px;
+  color: var(--color-primary);
+  font-size: 12px;
+}
+.extension-card__result p {
+  margin-top: 6px;
+  color: var(--color-muted);
+  font-size: 10px;
+  line-height: 1.5;
+}
+.extension-card button {
+  width: 100%;
+  margin-top: 16px;
+  padding: 11px;
+  border: 0;
+  border-radius: 10px;
+  background: var(--color-primary);
+  color: #fff;
+  font: 700 10px var(--font-body);
+}
+
+@media (max-width: 980px) {
+  .extension-page {
+    grid-template-columns: 1fr;
+    gap: 52px;
+  }
+  .browser-mockup { transform: none; }
+}
+
+@media (max-width: 620px) {
+  .extension-page { padding-top: 52px; }
+  .browser-mockup__body {
+    grid-template-columns: 1fr;
+    padding: 18px;
+  }
+  .browser-mockup__document { display: none; }
+  .extension-card { width: 100%; }
+  .extension-page__actions {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
