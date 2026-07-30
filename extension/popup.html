@@ -3,62 +3,79 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Analizador de Privacidad IA</title>
+  <title>PrivacyLens</title>
   <link rel="stylesheet" href="popup.css">
 </head>
 <body>
   
-  <!-- Contenedor principal de la extensión con efecto cristal -->
+  <!-- Contenedor con borde transparente y efecto glassmorphism -->
   <div class="main-container">
     
-    <!-- Sección superior: Semáforo y Estado -->
-    <div class="top-bar">
-      <!-- El semáforo visual de riesgo -->
+    <!-- Barra Superior: Semáforo (luz única) y Estado -->
+    <div class="mac-title-bar">
       <div class="semaforo-container">
-        <span class="luz red disabled" title="Riesgo Alto"></span>
-        <span class="luz yellow active" title="Atención/Riesgo Medio"></span>
-        <span class="luz green disabled" title="Riesgo Bajo/Seguro"></span>
+        <!-- Por defecto solo se activa una (yellow en este ejemplo inicial) -->
+        <span id="luzRed" class="luz red disabled" title="Riesgo Alto"></span>
+        <span id="luzYellow" class="luz yellow active" title="Riesgo Medio"></span>
+        <span id="luzGreen" class="luz green disabled" title="Riesgo Bajo / Seguro"></span>
       </div>
       
-      <!-- Estado del análisis -->
-      <div class="status-badge">
-        <span class="status-text">✓ Analizado</span>
+      <div id="statusBadge" class="status-badge">
+        <span id="statusText" class="status-text"></span>
       </div>
     </div>
 
     <!-- Sección de Información del Sitio -->
-    <div class="site-header">
-      <div class="avatar">S</div>
-      <div class="site-details">
-        <h2 class="site-title">Spotify</h2>
-        <a href="#" class="site-url">spotify.com/legal/privacy-policy</a>
+    <div class="site-header-centered">
+      <h1 class="extension-name">PrivacyLens</h1>
+      
+      <div class="logo-wrapper">
+        <img id="siteAvatar" class="avatar-logo" src="fazt.png" alt="Logo del sitio">
+      </div>
+      
+      <div class="site-details-centered">
+        <h2 id="siteTitle" class="site-title"></h2>
+        <a id="siteUrl" href="#" target="_blank" class="site-url"></a>
       </div>
     </div>
 
-    <!-- Sección de Resumen de IA -->
-    <div class="ia-summary-box">
+    <!-- Resumen de IA -->
+    <div id="iaSummaryBox" class="ia-summary-box risk-low">
       <span class="summary-label">RESUMEN DE LA IA</span>
-      <p class="summary-content">
-        Describe prácticas habituales: comparte datos con proveedores, usa cookies de seguimiento y explica cómo ejercer tus derechos.
+      <p id="summaryContent" class="summary-content">
+       ....
       </p>
     </div>
 
-    <!-- Sección de Categorías Detectadas -->
-    <div class="categories-container">
-      <span class="tag-category tag-darkblue"><span class="dot"></span>Cookies</span>
-      <span class="tag-category tag-green"><span class="dot"></span>Third Party Sharing</span>
-      <span class="tag-category tag-lightpurple"><span class="dot"></span>Data Retention</span>
-      <span class="tag-category tag-yellow"><span class="dot"></span>User Rights</span>
+    <!-- Categorías Detectadas -->
+    <div id="categoriesContainer" class="categories-container-styled">
+      <span class="tag-category-styled tag-darkblue"><span class="dot-styled"></span></span>
+      <span class="tag-category-styled tag-green"><span class="dot-styled"></span></span>
+      <span class="tag-category-styled tag-lightpurple"><span class="dot-styled"></span></span>
+      <span class="tag-category-styled tag-yellow"><span class="dot-styled"></span></span>
     </div>
 
-    <!-- Sección de Evidencia del Documento -->
-    <div class="evidence-box">
-      <span class="evidence-label">EVIDENCIA DEL DOCUMENTO</span>
-      <p class="evidence-quote">"We share information with third-party service providers..."</p>
-      <a href="#" class="evidence-link">Apartado 4.2 · Ver en el documento →</a>
+    <!-- Evidencia del Documento -->
+    <div class="evidence-box-styled">
+      <span class="evidence-label-styled">EVIDENCIA DEL DOCUMENTO</span>
+      <p id="evidenceQuote" class="evidence-quote-styled">"We share information with third-party service providers..."</p>
+      <div class="evidence-subtext-styled">
+        <span id="evidenceSection" class="evidence-section-text">Apartado 4.2</span> · 
+        <a id="evidenceLink" href="#" class="evidence-link-styled">Ver en el documento →</a>
+      </div>
     </div>
+
+    <!-- Botón de Dashboard al final -->
+    <button id="dashboardBtn" class="dashboard-btn">
+      <svg class="dashboard-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="3" y="3" width="18" height="18" rx="2" ry="2"/>
+        <line x1="9" y1="3" x2="9" y2="21"/>
+      </svg>
+      Dashboard
+    </button>
 
   </div>
 
+  <script src="popup.js"></script>
 </body>
 </html>
