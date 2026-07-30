@@ -1,55 +1,72 @@
-# backend — API that serves the model
+# Backend de PrivacyLens
 
-FastAPI service for PrivacyLens. Serves the response contract in
-`specs/2_spec.md` §9 from a seeded stub, until the real model is wired in
-(see `specs/5_backend_contract.md` for the full contract and rationale).
+API FastAPI que conserva el contrato de análisis definido en `specs/5_backend_contract.md`. En esta rama utiliza un generador determinista de probabilidades, no un modelo entrenado.
 
-## Setup
+## Componentes
 
-1. Copy `backend/.env.example` to `backend/.env` and adjust
-   `CORS_ALLOWED_ORIGINS` if needed (defaults to the Vite dev server,
-   `http://localhost:5173`).
-2. From the repository root: `uv sync`.
+| Archivo | Responsabilidad |
+|---|---|
+| `app/main.py` | Aplicación, CORS y registro de rutas |
+| `app/routes/health.py` | Comprobación de salud |
+| `app/routes/analyze.py` | Validación de la petición |
+| `app/analyze.py` | Orquestación del análisis |
+| `app/chunker.py` | Fragmentación por párrafos y offsets |
+| `app/stub.py` | Probabilidades simuladas con semilla derivada del texto |
+| `app/translation.py` | Detección heurística y traducción no-op |
+| `app/exposure.py` | Exposición fija de demostración |
+| `app/gdpr.py` | Referencia RGPD pendiente |
+| `app/schemas.py` | Modelos Pydantic del contrato |
 
-## Run
+## Configuración
 
-From the repository root:
+Copie `backend/.env.example` a `backend/.env`:
 
+```env
+CORS_ALLOWED_ORIGINS=http://localhost:5173
 ```
+
+Se admiten varios orígenes separados por comas. No use `*`.
+
+## Instalación y ejecución
+
+Desde la raíz:
+
+```bash
+uv sync
 uv run uvicorn backend.app.main:app --reload --port 8000
 ```
 
-Port 8000 is required — the frontend's Vite dev proxy (`frontend/vite.config.js`)
-forwards `/api/*` to `http://localhost:8000`.
+## Endpoints
 
-## Try it
+### Salud
 
-```
+```bash
 curl http://localhost:8000/api/health
+```
 
+### Análisis de texto
+
+```bash
 curl -X POST http://localhost:8000/api/analyze \
   -H "Content-Type: application/json" \
-  -d "{\"text\": \"First paragraph about data collection.\n\nSecond paragraph about sharing with third parties.\"}"
+  -d "{\"text\":\"We collect account data.\\n\\nWe share data with providers.\"}"
 ```
 
-Calling `/api/analyze` twice with the same text returns byte-identical
-category/fragment scores (seeded stub).
+El texto vacío o superior a 100.000 caracteres produce HTTP 400. Enviar solo `url` produce HTTP 501 porque la descarga de políticas no está implementada.
 
-## What's stubbed vs. real
+## Funcionamiento real
 
-| Piece | Status |
-|---|---|
-| `document`/`fragments` shape (§9 contract) | Real — frozen, won't change when the model lands |
-| Category & fragment probabilities | **Stub**: seeded-random, not a trained model (`app/stub.py`) |
-| `exposure` (the "semaforo") | **Placeholder**: fixed `medium`/`0.5`; weights aren't decided yet (2_spec §7) |
-| `gdpr_reference` | **Placeholder**: always `"TODO"`; mapping not applied yet (2_spec §8) |
-| Translation (`app/translation.py`) | **Wired, no-op**: language is detected, but nothing is actually translated yet |
-| `{"url": ...}` requests | Returns `501` — footer scraping is a separate, not-yet-built layer (SSRF risk, 2_spec §11.1) |
+1. Detecta `es` o `en` mediante una heurística.
+2. La capa de traducción devuelve el texto sin modificar.
+3. Divide el original por párrafos y conserva offsets reales.
+4. Genera nueve probabilidades reproducibles por fragmento.
+5. Aplica un umbral fijo de `0.5`.
+6. Construye el contrato JSON con `stub: true` y versión `0.1.0`.
 
-## Errors
+La exposición siempre es `medium` con score `0.5`; `gdpr_reference` siempre es `"TODO"`.
 
-- Missing/empty `text` or text over 100,000 characters → `400` with
-  `{"error": "<message>"}`.
-- `url` without `text` → `501` (not implemented yet).
-- Anything unexpected → `500` with `{"error": "Internal server error."}`,
-  never a bare unhandled exception.
+## Integración pendiente
+
+Los modelos de `models/` no están conectados a esta API. Integrar uno requiere sustituir la fuente de probabilidades manteniendo los esquemas, revisar la correspondencia de clases y decidir cómo producir probabilidades. El experimento multiclase de diez clases tampoco está conectado al backend multietiqueta actual.
+
+No existe Dockerfile ni configuración Docker Compose.

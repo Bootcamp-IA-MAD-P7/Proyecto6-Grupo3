@@ -1,328 +1,45 @@
-# SPEC 3 — Plan
+# SPEC 3 — Estado y plan
 
-**Proyecto:** Clasificador de políticas de privacidad — Proyecto 6, Grupo 3
-**Versión:** 0.4 (25 de julio; Streamlit -> React, seguridad como diseño)
-**Plazo real restante:** 3 días de trabajo (lunes 27, martes 28 y miércoles 29) más el
-día de cierre (jueves 30)
+Este documento registra el estado observable; no promete funcionalidades no implementadas.
 
-> **⚠️ El calendario corrió un día.** El frente de datos necesitó una jornada adicional
-> para cerrar la tabla de entrenamiento (#31) y el conjunto de evaluación (#33). El
-> mapeo real de días es el de §5, no el de la v0.2. **Pendiente de confirmar por el
-> equipo.**
+## Completado
 
-> Este plan organiza el trabajo en fases verificables. Cada fase debe dejar el
-> proyecto en un estado **ejecutable y demostrable**, no a medias.
->
-> El *qué* vive en `2_spec`. Las tareas concretas viven en **GitHub Projects**, no en
-> este documento (ver anexo con la plantilla de issue).
+- Preparación multietiqueta de OPP-115.
+- Split agrupado y vectorización TF-IDF.
+- EDA y figuras principales.
+- Implementaciones LinearSVC, ComplementNB, LightGBM y DeBERTa.
+- Derivación y comparación multiclase.
+- API FastAPI con health, validación, fragmentación y contrato.
+- Frontend multipágina responsive.
+- Contenido de Riesgos, RGPD, Aprende, PrivacyLens Lab y Categorías.
+- Diálogos accesibles en Riesgos y Categorías.
 
----
+## Parcial
 
-## 1. Regla de prioridad
-
-```
-Primero el modelo, después el producto. Y nada nuevo el último día.
-```
-
-Los componentes que la consigna exige van primero. Lo que se corte, se corta por el
-final y se documenta (§7).
-
-## 2. Forma del plan: modelado en paralelo, después producto
-
-**Decisión tomada:** los tres primeros días se dedican al **modelado en paralelo**,
-con **una persona por modelo**, y después el equipo converge en el producto.
-
-**Por qué:** los ≥4 modelos base diversos + el meta-modelo son el núcleo evaluable del
-proyecto, y son la parte que no se puede improvisar en un día. Con cada persona
-llevando un modelo, tres días de trabajo simultáneo aprovechan a todo el equipo, en
-lugar de tener a la mayoría esperando a que exista un clasificador.
-
-**El coste que asumimos:** el suelo protegido (demo incluida) no está completo hasta el
-día 5. Eso concentra el riesgo de producto al final, y se mitiga con dos cosas que no
-cuestan tiempo (§3): congelar el contrato de datos el día 1, y montar el esqueleto de
-la interfaz en paralelo desde el primer día.
-
-**Descartado:** la rebanada vertical (un camino completo de extremo a extremo primero,
-y engordar después). Protege mejor la demo, pero dejaría a la mayoría del equipo sin
-trabajo de modelado durante los primeros días, con solo tres días después para los
-cuatro modelos y el meta.
-
-## 3. Lo que hay que congelar antes de entrenar (día 1, primeras horas)
-
-**Esto es la condición para que el plan funcione.** Cuatro personas entrenando en
-paralelo solo produce cuatro modelos comparables si comparten el punto de partida:
-
-| A congelar | Estado (24 jul) | Dónde vive |
-|---|---|---|
-| **Pipeline de preprocesado** común | ✅ **Congelado** | `2_spec` §4.5 · `scripts/05_vectorize.py` |
-| **Partición** train/val/test, por política, con semilla fija | ✅ **Congelada** | `2_spec` §4.4 · `split_assignment.csv` |
-| **Deduplicación** aplicada antes de partir | ✅ Hecha | `2_spec` §1.3 · `scripts/03_...` |
-| **Criterio de terminado** de un modelo base | ✅ Redactado, ❌ **sin adoptar en los issues** | `2_spec` §6.1 |
-| **Contrato de salida** (`2_spec` §9) | ❌ **Sin congelar** | bloquea al frente de producto (#19) |
-| **Formato de las métricas** y tabla comparativa | ❌ **Sin acordar** | issue #22 |
-| **Qué cuatro modelos y quién lleva cada uno** | ❌ **Sin decidir** | issues #2 y #1 |
-
-Las tres primeras filas son las que hacían falta antes de entrenar y ya están. **Las
-cuatro últimas bloquean el lunes**, y las tres últimas son decisiones de equipo que no
-puede tomar una persona sola.
-
-Además existe ya un **baseline de referencia**: macro-F1 **0,7466** en validación
-(`2_spec` §3.1). Es el suelo contra el que se comparan los cuatro modelos, y es alto:
-un modelo que quede en 0,72 no ha fracasado.
-
-**Contrato de datos pegable:** `specs/4_data_contract.md`. Cualquiera que vaya a
-escribir código —con o sin ayuda de una IA— empieza por ahí.
-
-## 4. Frentes de trabajo
-
-| Frente | Alcance |
+| Área | Situación |
 |---|---|
-| **Datos y modelo** | Dataset, EDA, preprocesado, partición, los ≥4 modelos base, meta-modelo, métricas |
-| **Producto** | Web React (PrivacyLens) + API, traducción (caché + degradación elegante), después extensión |
-| **Legal, exposición y QA** | Mapeo RGPD, pesos del semáforo, informe, coherencia entre demo/informe/presentación |
+| Analizador web | Flujo visual basado en mocks |
+| Página de resultados | Vista preliminar |
+| Backend | Contrato real con probabilidades simuladas |
+| PrivacyLens Lab | Tarjetas de acceso sin contenido navegable |
+| Extensión | Página promocional, sin paquete Chrome |
+| Evaluación externa | Datos preparados, pendientes de validación humana suficiente |
 
-Cómo se activan con este plan:
+## Pendiente para integración
 
-- **Fase A:** todo el equipo está en modelado, **una persona por modelo**. Los frentes
-  de Producto y Legal existen pero solo consumen ratos sueltos (§5).
-- **Fase B:** el equipo se reparte por frentes de verdad.
-- La **verificación en español** (§6) es tarea de todo el equipo, en una sola sesión.
-- El **Scrum Master no lleva un frente entero**: su trabajo es desatascar y mantener
-  `specs/` al día.
+1. Elegir formalmente enfoque y modelo de producción.
+2. Generar y versionar o distribuir el artefacto servible correspondiente.
+3. Conectar el backend al modelo y validar el orden de clases.
+4. Adaptar el frontend al contrato real de texto o implementar descarga segura de URL.
+5. Sustituir mocks sin depender de endpoints inexistentes.
+6. Alinear las taxonomías visual y técnica.
+7. Añadir pruebas automatizadas.
+8. Implementar, si se decide, traducción, exposición y referencias RGPD.
 
-- [ ] **TODO:** asignar personas a frentes y **dueño de cada modelo** (issue del tablero).
+## Criterios antes de declarar integración completa
 
-## 5. Fase A — Modelado en paralelo
-
-### Objetivo
-
-Los **≥4 modelos base diversos** entrenados, medidos con el mismo criterio y
-comparables entre sí, más el **meta-modelo** si da margen.
-
-### Jueves 23 — datos (hecho)
-
-Tabla de entrenamiento (#31) y conjunto de evaluación (#33) cerrados con evidencia.
-Flujo de ramas unificado, `dev` como rama por defecto (#21).
-
-### Viernes 24 — base común y EDA (hecho)
-
-- Partición congelada (#18) y vectorización congelada (#8). Ver `2_spec` §4.4 y §4.5.
-- EDA completo: los cuatro sub-issues del #6 (#48-#51). Ver `2_spec` §4.6.
-- Baseline de referencia en macro-F1 0,7466 (`2_spec` §3.1).
-- **No cerrado:** qué cuatro modelos, dueño de cada uno, formato de la tabla
-  comparativa. Son las decisiones que bloquean el lunes.
-
-### Lunes 27 — entrenamiento
-
-- Cada persona entrena su modelo cargando los artefactos de `artifacts/`, contra el
-  criterio de terminado común de `2_spec` §6.1.
-- Cada modelo se cierra con: **macro-F1** de train y validación, **gap** calculado,
-  **F1 por cada una de las nueve categorías**, y su fila en la tabla comparativa.
-- **Por la tarde, prioridad alta:** validar la premisa inglés→español por lotes con el
-  primer modelo disponible (`2_spec` §15). Es un go/no-go de arquitectura y hacerlo el
-  lunes deja tres días para reaccionar; hacerlo el miércoles deja cero.
-- Meta-modelo por stacking solo si sobra margen; si no, martes.
-- **Instalar hoy** `torch transformers` y `lightgbm` (`2_spec` §6.5): con mala conexión,
-  dejarlo para el lunes cuesta media mañana.
-
-### En paralelo, sin robar tiempo al modelado
-
-- **Producto:** la web React (PrivacyLens) ya existe en `frontend/`. Falta el backend:
-  se monta con un **stub** que devuelve el contrato del §9 con datos inventados, sin
-  esperar al modelo. Cuando el modelo llegue, se cambia solo esa función. **Puede
-  montarlo una persona en un rato suelto; no compite con el modelado del fin de semana.**
-- **Legal:** descargar y versionar el mapeo RGPD (83 KB) · esqueleto del informe ·
-  README iniciado · convención de idioma escrita en `specs/`.
-
-### Entregables
-
-Cuatro modelos entrenados · tabla comparativa con macro-F1 y gap de cada uno ·
-meta-modelo (o su bloqueo documentado) · EDA con visualizaciones · pipeline y
-partición versionados · backend con stub (contrato del §9) · web React ya existente.
-
-### Verificación
-
-- El pipeline y la partición se ejecutan desde un script y dan **el mismo resultado**
-  para cualquiera del equipo (semilla fija).
-- Ninguna política aparece en dos grupos de la partición (comprobable por script).
-- Los cuatro modelos están medidos **sobre la misma partición**.
-- La tabla comparativa está completa, con el gap de cada modelo.
-
-### Riesgos
-
-Cada persona preprocesa a su manera y los modelos no se pueden comparar (lo previene
-el §3) · gap por encima del 5% en varios modelos · `do_not_track` sin ejemplos en algún
-grupo por su escasez · el meta-modelo no cabe el lunes (se documenta y se hace el martes).
-
-## 6. Fase B — Producto y capas (martes 28 y miércoles 29)
-
-Aquí se cierra el suelo protegido y se suman las capas. El equipo converge.
-
-### Producto (prioridad máxima: aquí vive el suelo)
-
-- Conectar el modelo real a la API: reemplazar el *stub* del §9 por `predict_proba`.
-- Conectar la web React (PrivacyLens) a la API.
-- **Traducción** es→en con **caché** y **degradación elegante**: sin clave o sin red,
-  avisa y sigue funcionando en inglés (issue #27).
-- **Mínimos de seguridad del backend (`2_spec` §11.1):** límite de tamaño de entrada,
-  CORS restringido al origen de la web, saneo del texto renderizado, `.env.example`
-  versionado sin ninguna clave real. Es parte del suelo, no un extra.
-- La **API ya es Esencial**, no un si-da-tiempo: la web no funciona sin ella.
-
-### Legal, exposición y QA
-
-- **Semáforo:** fijar pesos y umbrales (`2_spec` §7.2), implementarlo como reglas sobre
-  la salida existente, y escribir la justificación de cada peso.
-- **Mapeo RGPD:** tabla de consulta categoría → artículo desde el zip versionado, con
-  texto para no juristas. Es la capa más barata: no entrena nada.
-- Informe con métricas, análisis de errores y límites declarados.
-
-### Verificación en español (todo el equipo, una sesión del martes)
-
-**30-40 fragmentos** en español revisados a mano entre todos, concentrados en las
-**4-5 categorías con volumen real** en español. `do_not_track` tiene 1 sola fila y no
-se puede cubrir; así se declara (`2_spec` §13.3). No es una métrica publicable: es una
-**verificación**, y así se presenta ("revisamos 40 fragmentos y el modelo acertó en N").
-
-**Descartado:** medir contra la preanotación automática de la extensión del dataset.
-Diría si nuestro modelo se parece a un buscador de palabras clave, no si acierta.
-
-### Verificación de la fase
-
-`uv sync`, la API arranca y la web PrivacyLens carga con el comando del README **sin
-configurar ninguna clave** · una política en inglés devuelve categorías · una en español
-también, y con la clave quitada avisa y sigue en inglés · el semáforo tiene pesos
-documentados · cada categoría muestra su artículo del RGPD · **CORS restringido y límite
-de tamaño de entrada verificados** (§11.1).
-
-## 7. Fase C — Cierre y defensa (jueves 30)
-
-**Día de congelación: no entra nada nuevo.** Solo se arregla lo que esté roto.
-
-- Informe cerrado: métricas, macro-F1, tabla comparativa de los cuatro modelos,
-  resultado de la verificación en español, análisis de errores y **límites declarados**
-  (que el semáforo es una estimación).
-- Presentaciones de negocio y técnica, alineadas con lo que el código hace de verdad.
-- Capturas y checklist de entrega.
-- Ensayo completo de la demo, de principio a fin, **como si el wifi fallara**.
-- README revisado por alguien que no lo escribió.
-
-### Verificación
-
-Las métricas del informe, del código y de la presentación **coinciden** · la demo
-funciona de principio a fin · no se promete ninguna funcionalidad que no exista ·
-cada persona sabe defender su parte.
-
-## 8. Orden de corte (si el tiempo aprieta)
-
-Decidido de antemano para no improvisar el último día. Se corta de arriba abajo:
-
-1. **Extensión de Chrome** — la más cara y la más frágil; se documenta como pendiente.
-2. **Búsqueda de política en footer (scraping)** — mejora, no suelo. El MVP acepta texto
-   pegado o URL directa. Además arrastra riesgo de SSRF (`2_spec` §11.1).
-3. **Meta-modelo** — se conservan los cuatro base y su comparativa.
-4. **Mapeo RGPD** — barato, así que solo se corta en caso extremo.
-
-**La API ya NO se corta:** subió al suelo protegido, la web no funciona sin ella.
-
-**No se cortan nunca:** la web PrivacyLens + API funcionando, los ≥4 modelos base con su
-comparativa, el informe, ni el semáforo (es el diferencial del proyecto).
-
-Lo que se corta **se documenta** como trabajo pendiente con su motivo. Un alcance
-recortado y explicado se defiende; una funcionalidad prometida y ausente, no.
-
-## 9. Riesgos del plan
-
-| Riesgo | Mitigación |
-|---|---|
-| El suelo no existe hasta el día 5 | Backend con stub desde ya (web React ya existe); la web se conecta al stub sin esperar al modelo |
-| Cuatro modelos no comparables entre sí | Congelar pipeline, partición y semilla el día 1 (§3) |
-| El producto no cabe en dos días | Orden de corte decidido de antemano (§8) |
-| ~~`main` y `dev` divergen~~ | ✅ Resuelto el 23 de julio (#21). `dev` es la rama por defecto |
-| Datos generados pesados en el repo | Norma escrita (`2_spec` §12); no se reescribe el historial a mitad de proyecto |
-| La presentación promete más que el código | El frente de QA revisa la coherencia el día 6 |
-| Todo se junta el último día | El día de cierre es de congelación: nada nuevo entra |
-| **Un modelo se entrena sobre datos partidos por su cuenta** y su métrica no es comparable | Contrato de datos pegable (`specs/4_data_contract.md`) + las tres reglas de `2_spec` §6.2. Ya ocurrió una vez en un script de EDA |
-| **La premisa inglés→español no funciona** y se descubre el miércoles | Validarla por lotes el lunes por la tarde, con el primer modelo |
-| **El equipo no sabe si su macro-F1 es bueno** porque falta la referencia de la literatura | Investigación del #2, hacer en paralelo. Sin ella, el informe declara que la elección fue por criterio propio |
-| Archivos pesados ya rastreados bloquean merges entre ramas | Ejecutar el destracking del `2_spec` §12.1 (#34). `.gitignore` no basta: hace falta `git rm --cached` |
-
----
-
-## Anexo — Plantilla de issue (el tablero es la fuente de las tareas)
-
-```markdown
-**Qué hay que hacer:** (verbo en infinitivo, una sola cosa)
-**Frente:** Datos y modelo / Producto / Legal-Exposición-QA
-**Archivos afectados:**
-**Depende de:**
-**Apto junior:** sí / con apoyo / no como responsable único
-**Criterio de terminado:**
-**Comando de verificación:**
-**Evidencia:** (archivo, captura, métrica o notebook que lo demuestra)
-```
-
-Los dos campos que no se saltan son **comando de verificación** y **evidencia**: son
-lo que convierte "creo que está hecho" en algo comprobable, y lo que hace que las
-dailies asíncronas funcionen.
-
-## Pendientes (TODO)
-
-- [ ] **Confirmar este calendario** en la daily. Es el cambio principal de la v0.3.
-- [ ] Asignar personas a frentes y **dueño de cada modelo** (#1).
-- [ ] Cerrar **qué cuatro modelos** (#2).
-- [ ] Acordar el **formato de la tabla comparativa** (#22) y su ubicación en `reports/`.
-- [ ] Adoptar el **criterio de terminado común** (`2_spec` §6.1) en #9, #23, #24, #25.
-- [ ] Confirmar en la consigna si los ≥4 modelos + meta son requisito calificable.
-- [x] ~~Unificar el flujo de ramas~~ — hecho el 23 de julio (#21).
-- [ ] Fijar hora de la sesión de verificación en español (martes).
-- [ ] Convención de nombres de figura en `reports/figures/`: ahora conviven dos estilos
-      (descriptivo, `target_distribution.png`; y por issue, `50_longitud_texto.png`).
-      Elegir una y escribirla en el README de `reports/`.
-
-## Normas de proceso acordadas
-
-- **Antes de desglosar un issue en sub-issues, se avisa en el issue madre.** El 23-24 de
-  julio se crearon dos árboles de EDA en paralelo y hubo que cerrar siete issues
-  duplicados.
-- **`test` se abre una sola vez, con el equipo presente.** No es una tarea individual.
-- **Un fallback que inventa datos es peor que un crash.** Ante un archivo o columna que
-  no aparece, `raise`, no `print` de advertencia (`2_spec` §6.2).
-- **Cualquiera que vaya a escribir código empieza pegando `specs/4_data_contract.md`**
-  en su asistente de IA.
-
-## Cambios respecto a la versión 0.3 (25 de julio de 2026)
-
-- **Streamlit -> web React (PrivacyLens) + API.** La API sube al suelo protegido y ya no
-  se corta. La web ya existe en `frontend/`; falta el backend, que se monta con un stub
-  sin esperar al modelo.
-- **Seguridad como diseño** en la Fase B y en la verificación: límite de tamaño, CORS
-  restringido, saneo del texto (`2_spec` §11.1).
-- **Orden de corte** actualizado: entra la búsqueda por footer (scraping) como
-  cortable; la API sale de la lista de cortables.
-- Recordatorio de instalar el entorno del transformer hoy (`2_spec` §6.5).
-
-## Cambios respecto a la versión 0.2 (24 de julio de 2026)
-
-- **El calendario corre un día.** Entrenamiento el lunes 27, producto martes y
-  miércoles, cierre jueves 30. Pendiente de confirmar en equipo.
-- §3 reescrito: ya no es una lista de cosas que congelar sino una **tabla de estado**.
-  Pipeline, partición y deduplicación están hechos; contrato de salida, formato de
-  métricas y elección de modelos siguen bloqueando el lunes.
-- §5 reescrito con lo realmente ejecutado el jueves y el viernes, y con el lunes
-  detallado.
-- Añadida la **validación de la premisa inglés→español** como tarea del lunes por la
-  tarde, no del final: es un go/no-go de arquitectura.
-- §9 riesgos: cuatro riesgos nuevos, todos observados durante la sesión del 24.
-- Nueva sección de **normas de proceso** acordadas.
-- Referencias al nuevo `specs/4_data_contract.md`.
-
-## Cambios respecto a la versión 0.1
-
-- La forma del plan pasa de **rebanada vertical** a **modelado en paralelo primero**,
-  con una persona por modelo (días 1-3) y producto después (días 4-5).
-- Nuevo §3: lo que hay que congelar **antes** de que nadie entrene. Es la condición
-  para que cuatro modelos entrenados en paralelo sean comparables y combinables.
-- El backend con stub se monta contra el contrato del §9 para compensar que el suelo
-  no se cierra hasta el día 5. (En v0.2 esto era un esqueleto de Streamlit.)
-- Días y fechas concretas en lugar de sprints de una semana.
+- Un clon limpio puede instalar y arrancar ambos procesos.
+- El artefacto requerido por el backend existe.
+- Una petición real llega desde el frontend y muestra la respuesta sin adaptación manual.
+- No se utiliza test para elegir modelo.
+- La documentación indica con precisión qué es cálculo real y qué es contenido educativo.
