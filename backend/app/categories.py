@@ -1,9 +1,9 @@
-"""The 9 official categories, in the fixed order from specs/4_data_contract.md.
-
-Do not reorder: this order is the one used across the dataset, the training
-table columns, and the API contract.
+"""The 10 classes of the multiclass target, in fixed order.
+The first 9 are the official categories from specs/4_data_contract.md; `Other`
+is the tenth class of the multiclass target (fragments that describe no data
+practice: introductions, contact details, definitions).
+Do not reorder: this order maps the columns of the model's probability matrix.
 """
-
 CATEGORIES = [
     "first_party_collection_use",
     "third_party_sharing_collection",
@@ -14,4 +14,5 @@ CATEGORIES = [
     "policy_change",
     "do_not_track",
     "international_specific_audiences",
+    "Other",
 ]

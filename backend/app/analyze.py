@@ -1,22 +1,19 @@
 """Orchestrates one /api/analyze call: chunk -> translate -> predict -> contract.
 
-This is the seam described in specs/5_backend_contract.md: swapping the stub
-for the real model means changing `stub.predict_proba`, not this function.
+This is the seam described in specs/5_backend_contract.md: the stub has been
+replaced by the real multiclass model in `predictor.predict_proba`. The response
+contract (§9) did not change — see `_build_fragment` for how a single-class
+prediction is expressed in the multi-label shape the frontend already consumes.
 """
 
 import numpy as np
 
-from . import exposure, gdpr, stub, translation
+from . import exposure, gdpr, predictor, translation
 from .categories import CATEGORIES
 from .chunker import split_into_fragments
 from .schemas import AnalyzeResponse, Category, Document, Fragment, Label
 
-MODEL_VERSION = "0.1.0"
-
-# Stub-only decision: score at/above this counts as "this category applies to
-# this fragment". Not part of the frozen contract — the real model may pick
-# its own operating point per category.
-LABEL_THRESHOLD = 0.5
+MODEL_VERSION = "1.0.0"
 
 
 def analyze_text(text: str) -> AnalyzeResponse:
@@ -25,7 +22,7 @@ def analyze_text(text: str) -> AnalyzeResponse:
 
     raw_fragments = split_into_fragments(text)
     fragment_texts = [fragment.text for fragment in raw_fragments]
-    probabilities = stub.predict_proba(fragment_texts, translation_result.text)
+    probabilities = predictor.predict_proba(fragment_texts, translation_result.text)
 
     fragments = [
         _build_fragment(index, raw_fragments[index], probabilities[index])
@@ -45,35 +42,53 @@ def analyze_text(text: str) -> AnalyzeResponse:
         fragment_count=len(fragments),
     )
     return AnalyzeResponse(
-        model_version=MODEL_VERSION, stub=True, document=document, fragments=fragments
+        model_version=MODEL_VERSION, stub=False, document=document, fragments=fragments
     )
 
 
 def _build_fragment(index: int, raw_fragment, scores: np.ndarray) -> Fragment:
-    labels = [
-        Label(id=CATEGORIES[i], score=round(float(scores[i]), 4))
-        for i in range(len(CATEGORIES))
-        if scores[i] >= LABEL_THRESHOLD
-    ]
-    labels.sort(key=lambda label: label.score, reverse=True)
+    """Build one fragment of the §9 contract from its class probabilities.
+
+    Multiclass: exactly one class wins (argmax), there is no threshold — the ten
+    classes compete and the highest takes it, be it 0.9 or 0.4. The LIST shape of
+    `labels` is kept so the frontend contract does not change; it simply always
+    carries a single item. Note that every fragment now gets a label: the `Other`
+    class absorbs paragraphs that describe no data practice.
+    """
+    winner = int(np.argmax(scores))
+    labels = [Label(id=CATEGORIES[winner], score=round(float(scores[winner]), 4))]
     return Fragment(
-        id=index, text=raw_fragment.text, start=raw_fragment.start,
-        end=raw_fragment.end, labels=labels,
+        id=index,
+        text=raw_fragment.text,
+        start=raw_fragment.start,
+        end=raw_fragment.end,
+        labels=labels,
     )
 
 
 def _build_category(
     category_index: int, category_id: str, probabilities: np.ndarray
 ) -> Category:
-    column = probabilities[:, category_index] if probabilities.size else np.array([])
-    present_mask = column >= LABEL_THRESHOLD
-    fragment_count = int(present_mask.sum())
-    present = fragment_count > 0
-    relevant = column[present_mask] if fragment_count else column
-    confidence = float(relevant.mean()) if relevant.size else 0.0
+    """Build one document-level category entry: how many fragments this class won.
+
+    `fragment_count` is the count of fragments whose winning class is this one, so
+    dividing it by document.fragment_count gives the share of the policy devoted to
+    this practice. That share is what the exposure layer will consume.
+    `confidence` is the mean probability across the fragments this class won.
+    """
+    if probabilities.size:
+        winners = probabilities.argmax(axis=1)
+        mask = winners == category_index
+        fragment_count = int(mask.sum())
+        confidence = (
+            float(probabilities[mask, category_index].mean()) if fragment_count else 0.0
+        )
+    else:
+        fragment_count, confidence = 0, 0.0
+
     return Category(
         id=category_id,
-        present=present,
+        present=fragment_count > 0,
         confidence=round(confidence, 4),
         fragment_count=fragment_count,
         gdpr_reference=gdpr.gdpr_reference_for(category_id),
