@@ -27,6 +27,9 @@ export default function Navbar() {
         <NavLink to="/rgpd" className="navbar__link">
           RGPD
         </NavLink>
+        <NavLink to="/aprende" className="navbar__link">
+          Aprende
+        </NavLink>
         <NavLink to="/modelo" className="navbar__link">
           Modelo
         </NavLink>

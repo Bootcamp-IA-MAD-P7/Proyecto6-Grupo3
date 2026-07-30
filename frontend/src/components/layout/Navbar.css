@@ -89,7 +89,7 @@
   box-shadow: 0 10px 24px rgba(42, 157, 143, 0.25);
 }
 
-@media (max-width: 760px) {
+@media (max-width: 900px) {
   .navbar {
     position: relative;
     top: 0;
