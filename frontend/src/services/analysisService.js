@@ -1,33 +1,42 @@
-// ============================================================
+/// ============================================================
 //  analysisService.js — Capa de acceso a datos (API)
 // ------------------------------------------------------------
 //  QUÉ HACE: es el ÚNICO punto del frontend que "habla" con
 //  el backend. Los componentes NUNCA hacen fetch directamente;
 //  siempre llaman a estas funciones.
 //
-//  CÓMO CONECTAR CON EL BACKEND (cuando esté listo):
-//   1. Cambiar USE_MOCK a false.
-//   2. Verificar el proxy '/api' en vite.config.js.
-//   3. Ajustar los nombres de campos si la API difiere.
+//  ESTADO (30 jul): el ANÁLISIS ya usa la API real, con el
+//  modelo multiclase conectado. Las estadísticas y el historial
+//  siguen en mock a propósito: esos endpoints no existen en el
+//  backend y no están previstos (ver MOCK_ONLY_ENDPOINTS).
 //
-//  CONTRATO ESPERADO DEL BACKEND (propuesta):
-//   POST /api/analyze        { url }  → AnalysisResult
-//   GET  /api/analyses/recent         → RecentAnalysis[]
-//   GET  /api/stats                   → GlobalStats
+//  CONTRATO REAL DEL BACKEND (specs/5_backend_contract.md):
+//   POST /api/analyze   { url } o { text }  → contrato §9   ✅
+//   GET  /api/health                        → { status }    ✅
 // ============================================================
 
 import { MOCK_ANALYSIS, MOCK_RECENT, MOCK_STATS } from './mockData'
 
-// 🔀 Interruptor mock ↔ API real
-const USE_MOCK = true
+// 🔀 Interruptor del ANÁLISIS: false = API real.
+const USE_MOCK = false
+
+// Estos dos endpoints NO existen en el backend y no están previstos, así que
+// su mock no es un interruptor temporal: es la implementación definitiva.
+//   /api/analyses/recent → exigiría base de datos, y se decidió no tener
+//     ninguna: la API es stateless, y no almacenar las políticas que la gente
+//     analiza es coherente con el propósito del proyecto.
+//   /api/stats → son las métricas del modelo, datos fijos del informe.
+const MOCK_ONLY_ENDPOINTS = true
 
 /** Pequeña ayuda: simula la latencia de red en modo mock. */
 const fakeDelay = (ms = 400) => new Promise((r) => setTimeout(r, ms))
 
 /**
  * Analiza la política de privacidad de una URL.
+ * El backend descarga la página y extrae su texto (capa fetcher, con guardas
+ * de SSRF). Si no consigue leerla, responde 4xx con un mensaje legible.
  * @param {string} url — URL de la política a analizar
- * @returns {Promise<object>} resultado del análisis
+ * @returns {Promise<object>} contrato §9: { model_version, stub, document, fragments }
  */
 export async function analyzeUrl(url) {
   if (USE_MOCK) {
@@ -41,16 +50,28 @@ export async function analyzeUrl(url) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ url }),
   })
-  if (!res.ok) throw new Error(`Error del servidor: ${res.status}`)
+  if (!res.ok) {
+    // El backend responde { error: "<mensaje legible>" }: se muestra ese texto
+    // en lugar de un código, para que el usuario sepa qué ocurrió.
+    let message = `Error del servidor: ${res.status}`
+    try {
+      const body = await res.json()
+      if (body?.error) message = body.error
+    } catch {
+      // respuesta sin JSON: se queda el mensaje genérico
+    }
+    throw new Error(message)
+  }
   return res.json()
 }
 
 /**
  * Devuelve los últimos análisis realizados (para la home
  * y, más adelante, para la extensión de Chrome).
+ * Mock permanente: no hay base de datos (ver MOCK_ONLY_ENDPOINTS).
  */
 export async function getRecentAnalyses() {
-  if (USE_MOCK) {
+  if (MOCK_ONLY_ENDPOINTS) {
     await fakeDelay(150)
     return MOCK_RECENT
   }
@@ -59,9 +80,10 @@ export async function getRecentAnalyses() {
   return res.json()
 }
 
-/** Devuelve las métricas globales del corpus y del modelo. */
+/** Devuelve las métricas globales del corpus y del modelo.
+ *  Mock permanente: son datos fijos del informe, no vienen de la API. */
 export async function getGlobalStats() {
-  if (USE_MOCK) {
+  if (MOCK_ONLY_ENDPOINTS) {
     await fakeDelay(150)
     return MOCK_STATS
   }
