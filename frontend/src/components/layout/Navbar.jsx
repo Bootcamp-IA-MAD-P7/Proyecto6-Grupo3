@@ -31,7 +31,7 @@ export default function Navbar() {
           Aprende
         </NavLink>
         <NavLink to="/modelo" className="navbar__link">
-          Modelo
+          🧪 PrivacyLens Lab
         </NavLink>
         <NavLink to="/categorias" className="navbar__link">
           Categorías
