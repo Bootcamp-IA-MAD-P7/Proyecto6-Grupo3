@@ -1,232 +1,357 @@
-/* Definición de variables y estilos base */
 :root {
-  /* Colores principales */
-  --main-bg-translucent: rgba(255, 255, 255, 0.7); /* Transparencia base */
-  --primary-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
-  --text-color: #334155;
-  --text-muted: #64748B;
+  /* Fondo y bordes cristalinos */
+  --main-bg-translucent: rgba(255, 255, 255, 0.55);
+  --border-translucent: rgba(255, 255, 255, 0.8);
+  --primary-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+  
+  --text-primary: #1F2937;
+  --text-secondary: #6B7280;
   
   /* Colores del semáforo */
   --red-luz: #EF4444;
   --yellow-luz: #F59E0B;
   --green-luz: #10B981;
-  --luz-disabled: #CBD5E1; /* Color apagado */
+  --luz-disabled: #CBD5E1; /* Estado apagado/gris */
   
-  /* Colores de categorías */
-  --bg-darkblue: rgba(14, 165, 233, 0.1);
-  --border-darkblue: #0EA5E9;
-  --bg-green: rgba(16, 185, 129, 0.1);
-  --border-green: #10B981;
-  --bg-lightpurple: rgba(139, 92, 246, 0.1);
-  --border-lightpurple: #8B5CF6;
-  --bg-yellow: rgba(245, 158, 11, 0.1);
-  --border-yellow: #F59E0B;
+  /* Colores de etiquetas */
+  --tag-blue-bg: #E0F2FE;
+  --tag-blue-border: #38BDF8;
+  --tag-blue-text: #0C4A6E;
+  
+  --tag-green-bg: #DCFCE7;
+  --tag-green-border: #4ADE80;
+  --tag-green-text: #166534;
+  
+  --tag-purple-bg: #F3E8FF;
+  --tag-purple-border: #C084FC;
+  --tag-purple-text: #581C87;
+  
+  --tag-yellow-bg: #FEF3C7;
+  --tag-yellow-border: #FBBF24;
+  --tag-yellow-text: #92400E;
+
+  --risk-high-border: #EF4444;
+  --risk-medium-border: #F59E0B;
+  --risk-low-border: #2DD4BF;
 }
 
-/* Reinicio de márgenes y fuentes */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
-body {
-  width: 350px; /* Ancho de la extensión */
-  padding: 15px;
-  background-color: #F1F5F9; /* Fondo suave del navegador para contrastar */
-  display: flex;
-  justify-content: center;
-  align-items: center;
+html, body {
+  width: 360px;             /* Ancho fijo exacto */
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent;  /* Fondo completamente transparente */
+  overflow: hidden;
 }
 
-/* --- Contenedor Principal (Efecto Cristal) --- */
+/* --- Contenedor Principal con Scroll Funcional --- */
 .main-container {
   width: 100%;
+  max-height: 580px;        /* Altura máxima permitida antes de hacer scroll */
+  overflow-y: auto;         /* Permite el desplazamiento vertical */
   background-color: var(--main-bg-translucent);
-  backdrop-filter: blur(16px) saturate(180%); /* Efecto de desenfoque de fondo */
-  -webkit-backdrop-filter: blur(10px); /* Para Safari */
-  border: 1px solid rgba(255, 255, 255, 0.5); /* Borde sutil */
-  border-radius: 16px;
-  padding: 20px;
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-translucent);
+  border-radius: 18px;
+  padding: 14px 14px 0 14px; /* Espaciado interno (sin padding inferior para el botón sticky) */
   box-shadow: var(--primary-shadow);
+  display: flex;
+  flex-direction: column;
 }
 
-/* --- Top Bar: Semáforo y Estado --- */
-.top-bar {
+/* --- Personalización de Barra de Scroll Elegante --- */
+.main-container::-webkit-scrollbar {
+  width: 5px;
+}
+
+.main-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.main-container::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+}
+
+.main-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+/* --- Barra Superior y Semáforo --- */
+.mac-title-bar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 
 .semaforo-container {
   display: flex;
-  gap: 6px;
+  gap: 8px;
 }
 
 .luz {
-  width: 14px;
-  height: 14px;
+  width: 13px;
+  height: 13px;
   border-radius: 50%;
-  border: 2px solid transparent;
+  border: 1px solid transparent;
+  transition: all 0.2s ease-in-out;
 }
 
-/* Estados de las luces del semáforo */
-.luz.red.active { background-color: var(--red-luz); border-color: #B91C1C; }
-.luz.yellow.active { background-color: var(--yellow-luz); border-color: #B45309; }
-.luz.green.active { background-color: var(--green-luz); border-color: #047857; }
-
+/* Solo se ilumina la luz activa */
 .luz.disabled {
   background-color: var(--luz-disabled);
+  border-color: transparent;
+  opacity: 0.6;
+}
+
+.luz.red.active { 
+  background-color: var(--red-luz); 
+  border-color: #B91C1C;
+  box-shadow: 0 0 6px rgba(239, 68, 68, 0.5);
+}
+
+.luz.yellow.active { 
+  background-color: var(--yellow-luz); 
+  border-color: #B45309;
+  box-shadow: 0 0 6px rgba(245, 158, 11, 0.5);
+}
+
+.luz.green.active { 
+  background-color: var(--green-luz); 
+  border-color: #047857;
+  box-shadow: 0 0 6px rgba(16, 185, 129, 0.5);
 }
 
 /* Insignia de estado */
 .status-badge {
-  background-color: #ECFDF5;
-  border: 1px solid #A7F3D0;
-  padding: 4px 10px;
+  background-color: #D1FAE5;
+  border: 1px solid #6EE7B7;
+  padding: 4px 12px;
   border-radius: 20px;
 }
 
 .status-text {
-  font-size: 11px;
-  color: #047857;
+  font-size: 12px;
+  color: #065F46;
   font-weight: 600;
 }
 
-/* --- Sección de Información del Sitio --- */
-.site-header {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 18px;
+/* --- Encabezado e Info del Sitio --- */
+.site-header-centered {
+  text-align: center;
+  margin-bottom: 14px;
 }
 
-.avatar {
-  width: 40px;
-  height: 40px;
-  background-color: #334155;
-  color: white;
+.extension-name {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.logo-wrapper {
   display: flex;
   justify-content: center;
+  margin-bottom: 6px;
+}
+
+.avatar-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.site-details-centered {
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  border-radius: 10px;
-  font-size: 18px;
-  font-weight: bold;
 }
 
 .site-title {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
-  color: #1E293B;
+  color: var(--text-primary);
+  word-break: break-word;
 }
 
 .site-url {
-  font-size: 12px;
-  color: var(--text-muted);
+  font-size: 11px;
+  color: var(--text-secondary);
   text-decoration: none;
+  margin-top: 2px;
+  word-break: break-all;
 }
 
 .site-url:hover {
   text-decoration: underline;
 }
 
-/* --- Caja de Resumen IA --- */
+/* --- Resumen IA --- */
 .ia-summary-box {
-  background-color: #F8FAFC;
-  border-left: 3px solid var(--border-green);
-  padding: 15px;
-  border-radius: 0 8px 8px 0;
-  margin-bottom: 18px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-left: 3px solid var(--risk-low-border);
+  padding: 10px 12px;
+  border-radius: 0 10px 10px 0;
+  margin-bottom: 10px;
 }
 
 .summary-label {
   font-size: 11px;
   font-weight: 800;
-  color: #0D9488;
-  letter-spacing: 0.5px;
+  color: #0F766E;
+  letter-spacing: 0.8px;
   display: block;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
 .summary-content {
-  font-size: 13px;
-  line-height: 1.5;
-  color: var(--text-color);
+  font-size: 12px;
+  line-height: 1.4;
+  color: #374151;
 }
 
-/* --- Sección de Categorías (Etiquetas) --- */
-.categories-container {
+/* --- Categorías --- */
+.categories-container-styled {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 18px;
+  gap: 6px;
+  margin-bottom: 10px;
 }
 
-.tag-category {
+.tag-category-styled {
   display: flex;
   align-items: center;
   gap: 6px;
   font-size: 11px;
   font-weight: 600;
-  padding: 6px 12px;
-  border-radius: 15px;
+  padding: 5px 10px;
+  border-radius: 20px;
   border: 1px solid;
 }
 
-.tag-category .dot {
+.dot-styled {
   width: 6px;
   height: 6px;
   border-radius: 50%;
 }
 
-/* Colores específicos de cada etiqueta */
-.tag-darkblue { background-color: var(--bg-darkblue); border-color: var(--border-darkblue); color: #0369A1; }
-.tag-darkblue .dot { background-color: var(--border-darkblue); }
+.tag-darkblue { background-color: var(--tag-blue-bg); border-color: var(--tag-blue-border); color: var(--tag-blue-text); }
+.tag-darkblue .dot-styled { background-color: var(--tag-blue-border); }
 
-.tag-green { background-color: var(--bg-green); border-color: var(--border-green); color: #059669; }
-.tag-green .dot { background-color: var(--border-green); }
+.tag-green { background-color: var(--tag-green-bg); border-color: var(--tag-green-border); color: var(--tag-green-text); }
+.tag-green .dot-styled { background-color: var(--tag-green-border); }
 
-.tag-lightpurple { background-color: var(--bg-lightpurple); border-color: var(--border-lightpurple); color: #6D28D9; }
-.tag-lightpurple .dot { background-color: var(--border-lightpurple); }
+.tag-lightpurple { background-color: var(--tag-purple-bg); border-color: var(--tag-purple-border); color: var(--tag-purple-text); }
+.tag-lightpurple .dot-styled { background-color: var(--tag-purple-border); }
 
-.tag-yellow { background-color: var(--bg-yellow); border-color: var(--border-yellow); color: #B45309; }
-.tag-yellow .dot { background-color: var(--border-yellow); }
+.tag-yellow { background-color: var(--tag-yellow-bg); border-color: var(--tag-yellow-border); color: var(--tag-yellow-text); }
+.tag-yellow .dot-styled { background-color: var(--tag-yellow-border); }
 
-/* --- Caja de Evidencia del Documento --- */
-.evidence-box {
+/* --- Evidencia --- */
+.evidence-box-styled {
   background-color: #FFFBEB;
   border: 1px solid #FDE68A;
-  border-left: 3px solid var(--border-yellow);
-  padding: 15px;
-  border-radius: 8px;
+  border-left: 3px solid var(--tag-yellow-border);
+  padding: 10px 12px;
+  border-radius: 10px;
+  margin-bottom: 14px;
 }
 
-.evidence-label {
+.evidence-label-styled {
   font-size: 11px;
   font-weight: 800;
   color: #B45309;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.8px;
   display: block;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
-.evidence-quote {
+.evidence-quote-styled {
   font-size: 12px;
   font-style: italic;
-  color: var(--text-color);
+  color: #374151;
   line-height: 1.4;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
 }
 
-.evidence-link {
-  font-size: 12px;
+.evidence-subtext-styled {
+  font-size: 11px;
+  color: #713F12;
+}
+
+.evidence-section-text {
   font-weight: 700;
-  color: #92400E;
+}
+
+.evidence-link-styled {
+  font-weight: 700;
+  color: #B45309;
   text-decoration: none;
 }
 
-.evidence-link:hover {
+.evidence-link-styled:hover {
   text-decoration: underline;
+}
+
+/* Modificadores dinámicos de color de riesgo */
+.ia-summary-box.risk-high { border-left-color: var(--risk-high-border); }
+.ia-summary-box.risk-medium { border-left-color: var(--risk-medium-border); }
+.ia-summary-box.risk-low { border-left-color: var(--risk-low-border); }
+
+/* --- Botón de Dashboard Fijo (Sticky Glassmorphism) --- */
+.dashboard-btn {
+  /* Se mantiene siempre al final de la vista aunque haya scroll */
+  position: sticky;
+  bottom: 0;
+  width: calc(100% + 28px); /* Extiende el botón hasta los bordes */
+  margin-left: -14px;
+  margin-top: auto;
+  padding: 12px;
+  border: none;
+  border-top: 1px solid rgba(226, 232, 240, 0.8);
+  border-radius: 0 0 18px 18px;
+  
+  /* Efecto de cristal con respaldo semi-opaco */
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  
+  color: #0F2027;
+  font-size: 13px;
+  font-weight: 700;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.2s ease-in-out;
+}
+
+.dashboard-btn:hover {
+  background-color: rgba(255, 255, 255, 0.95);
+  color: #1E3A5F;
+}
+
+.dashboard-btn:active {
+  background-color: rgba(240, 240, 240, 0.9);
+}
+
+.dashboard-icon {
+  width: 20px;
+  height: 20px;
+  stroke: #0F2027;
 }

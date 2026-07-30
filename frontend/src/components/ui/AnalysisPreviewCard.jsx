@@ -1,67 +1,96 @@
-// ============================================================
-//  AnalysisPreviewCard.jsx — Tarjeta flotante de análisis
-// ------------------------------------------------------------
-//  QUÉ HACE: la tarjeta inclinada de la home que muestra un
-//  EJEMPLO de resultado de análisis (resumen IA + categorías
-//  + evidencia). Es el "escaparate" del producto: el visitante
-//  entiende qué hace PrivacyLens sin leer nada más.
-//
-//  DECISIÓN DE DISEÑO (documentada para el equipo):
-//   · Turquesa → "RESUMEN DE LA IA" (la máquina habla)
-//   · Ámbar    → "EVIDENCIA DEL DOCUMENTO" (el texto legal habla)
-//
-//  PROPS:
-//   · analysis (object) — resultado con la forma de
-//     MOCK_ANALYSIS (ver src/services/mockData.js)
-// ============================================================
-import CategoryChip from './CategoryChip'
+import React from 'react'
 import './AnalysisPreviewCard.css'
 
+// Mapeo de IDs de categorías del backend a textos legibles
+const CATEGORY_LABELS = {
+  first_party_collection_use: 'Recolección y Uso (Primera parte)',
+  third_party_sharing_collection: 'Compartición con Terceros',
+  user_choice_control: 'Control del Usuario',
+  user_access_edit_deletion: 'Acceso y Supresión',
+  data_retention: 'Retención de Datos',
+  data_security: 'Seguridad de Datos',
+  policy_change: 'Cambios de Política',
+  do_not_track: 'Do Not Track',
+  international_specific_audiences: 'Audiencias Internacionales',
+  Other: 'Otros'
+}
+
+
+
 export default function AnalysisPreviewCard({ analysis }) {
+  console.log('🔍 [API COMPLETA RECIBIDA EN COMPONENTE]:', analysis) //este codigo sirve para probar si trae el backend inspeccionando
+ 
+  // 1. Si no hay objeto de análisis, no renderizar nada
   if (!analysis) return null
 
+  // 2. Extracción ultra-segura con fallbacks (evita que cualquier campo sea undefined)
+  const documentData = analysis?.document || {}
+  const exposure = documentData?.exposure || analysis?.exposure || {}
+  const rawCategories = documentData?.categories || analysis?.categories || []
+  const fragments = analysis?.fragments || []
+
+  
+
+  // 3. Filtrar solo las categorías activas (si viene formato objeto API real)
+  // O mantenerlas si vienen como un array de strings (formato mock antiguo)
+  const activeCategories = Array.isArray(rawCategories)
+    ? rawCategories.filter((cat) => (typeof cat === 'object' ? cat?.present === true : true))
+    : []
+
+  // 4. Obtención segura del primer fragmento (Línea 34 blindada)
+  const firstFragment = Array.isArray(fragments) && fragments.length > 0 ? fragments[0] : null
+  const firstLabel = firstFragment?.labels?.[0]?.id || ''
+
+  const riskLevel = exposure?.level || 'low'
+  const score = exposure?.score ?? 0
+  const disclaimer = exposure?.disclaimer || ''
+ 
+  
   return (
-    <div className="preview">
-      {/* Sombra/tarjeta decorativa detrás, ligeramente rotada */}
-      <div className="preview__back" aria-hidden="true" />
+    <div className={`analysis-card risk-${riskLevel}`}>
+      <div className="analysis-card__header">
+        <h2>
+          Nivel de Riesgo: <span className="risk-tag">{String(riskLevel).toUpperCase()}</span>
+        </h2>
+        <span className="analysis-card__score">Score: {score}</span>
+      </div>
 
-      <article className="analysis-card">
-        {/* --- Cabecera: empresa analizada + estado --- */}
-        <header className="analysis-card__head">
-          <div className="analysis-card__title">
-            {/* Avatar monocromo: SIN colores corporativos de marca
-                (decisión de identidad: solo habla la paleta PrivacyLens) */}
-            <span className="analysis-card__logo">{analysis.company[0]}</span>
-            <div>
-              <h3>{analysis.company}</h3>
-              <span className="analysis-card__domain">{analysis.url.replace('https://', '')}</span>
-            </div>
-          </div>
-          <span className="analysis-card__badge">✓ Analizado</span>
-        </header>
+      {disclaimer && <p className="analysis-card__disclaimer">{disclaimer}</p>}
 
-        {/* --- Resumen en lenguaje llano (voz de la IA: turquesa) --- */}
-        <div className="analysis-card__summary">
-          <small>RESUMEN DE LA IA</small>
-          {analysis.summary}
+      <div className="analysis-card__categories">
+        <h3>Categorías Detectadas ({activeCategories.length})</h3>
+        {activeCategories.length === 0 ? (
+          <p>No se detectaron categorías de riesgo.</p>
+        ) : (
+          <ul className="category-tags">
+            {activeCategories.map((cat, index) => {
+              const catId = typeof cat === 'object' ? cat?.id : cat
+              const confidence = typeof cat === 'object' ? cat?.confidence : null
+
+              return (
+                <li key={catId || index} className="category-tag-item">
+                  <span className="category-name">
+                    {CATEGORY_LABELS[catId] || catId}
+                  </span>
+                  {confidence !== null && confidence !== undefined && (
+                    <span className="category-confidence">
+                      ({(confidence * 100).toFixed(0)}%)
+                    </span>
+                  )}
+                </li>
+              )
+            })}
+          </ul>
+        )}
+      </div>
+
+      {firstFragment?.text && (
+        <div className="analysis-card__evidence">
+          <h4>Evidencia destacada:</h4>
+          <blockquote>"{firstFragment.text}"</blockquote>
+          {firstLabel && <small>Categoría: {CATEGORY_LABELS[firstLabel] || firstLabel}</small>}
         </div>
-
-        {/* --- Categorías detectadas (cada una con su color) --- */}
-        <div className="analysis-card__chips">
-          {analysis.categories.map((id) => (
-            <CategoryChip key={id} categoryId={id} />
-          ))}
-        </div>
-
-        {/* --- Evidencia literal del documento (voz del texto: ámbar) --- */}
-        <blockquote className="analysis-card__evidence">
-          <small>EVIDENCIA DEL DOCUMENTO</small>
-          {analysis.evidence.quote}
-          <b>
-            {analysis.evidence.section} · Ver en el documento →
-          </b>
-        </blockquote>
-      </article>
+      )}
     </div>
   )
 }
