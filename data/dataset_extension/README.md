@@ -16,7 +16,7 @@ Extensión moderna del dataset académico [OPP-115](https://usableprivacy.org/da
 | Sectores | 16 |
 | Idiomas | Español (21 políticas) · Inglés (12) |
 | Párrafos | 10.797 |
-| Categorías | Las 10 oficiales de OPP-115 |
+| Categorías | 9 prácticas OPP-115 más la clase auxiliar `Other` |
 | Mapeo RGPD | **Oficial: Poplavska et al. 2020 (JURIX)** |
 | Versión | **v1.1.0** (2026-07-22) |
 | Estado QA | APROBADO CON OBSERVACIONES (ver `dataset_quality_report.md`) |
@@ -63,7 +63,7 @@ Clasificación de cada párrafo en las categorías OPP-115 con clasificador de r
 
 14 fases de validación (estructura, contenido, explicabilidad, insights, perfiles, contradicciones, métricas, versionado). 9/9 checks críticos PASS. Release v1.0.0 → **v1.1.0** (mapeo RGPD oficial Poplavska).
 
-- 📄 `privacylens_dataset_v1_1.parquet` ← **archivo autorizado para entrenar**
+- 📄 `privacylens_dataset_v1_1.parquet` ← archivo principal para evaluación externa y demo; no se usa para entrenar los modelos actuales
 - 📄 `privacylens_dataset_v1_1.csv` (espejo)
 - 📄 `dataset_metadata.json` · `dataset_statistics.json` · `validation_report.json`
 - 📋 `dataset_quality_report.md` · `release_notes.md` · `CHANGELOG.md` · `informe_agente4.md`

@@ -15,14 +15,18 @@ from .schemas import AnalyzeResponse, Category, Document, Fragment, Label
 
 MODEL_VERSION = "1.0.0"
 
-
 def analyze_text(text: str) -> AnalyzeResponse:
     source_language = translation.detect_language(text)
-    translation_result = translation.translate(text, source_language)
 
+    # Se trocea PRIMERO y se traduce fragmento a fragmento despues. El orden
+    # importa: la respuesta tiene que llevar el texto ORIGINAL con sus posiciones
+    # de caracter originales (2_spec.md §5, regla 1: la extension las usa para
+    # resaltar), asi que la traduccion se le da al modelo y luego se descarta.
     raw_fragments = split_into_fragments(text)
-    fragment_texts = [fragment.text for fragment in raw_fragments]
-    probabilities = predictor.predict_proba(fragment_texts, translation_result.text)
+    original_texts = [fragment.text for fragment in raw_fragments]
+
+    translation_result = translation.translate_fragments(original_texts, source_language)
+    probabilities = predictor.predict_proba(translation_result.texts, text)
 
     fragments = [
         _build_fragment(index, raw_fragments[index], probabilities[index])
