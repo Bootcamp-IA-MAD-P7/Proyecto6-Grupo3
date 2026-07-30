@@ -3,6 +3,10 @@
 PrivacyLens es un proyecto educativo que ayuda a comprender políticas de privacidad. Combina una interfaz React, una API FastAPI y experimentos de clasificación de texto basados en OPP-115.
 
 > Los resultados son orientativos y no constituyen asesoramiento jurídico.
+> ## WEB
+> https://privacylens-project.onrender.com/
+> https://privacylensproject.onrender.com/docs
+> 
 
 ## Estado actual
 
