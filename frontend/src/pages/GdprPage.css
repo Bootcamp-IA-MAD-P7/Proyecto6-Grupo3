@@ -45,20 +45,20 @@
 
 .gdpr-hero__visual {
   position: relative;
-  height: 330px;
+  height: 390px;
 }
 
 .gdpr-hero__visual img {
-  width: 125%;
+  width: 145%;
   height: 100%;
   object-fit: cover;
   object-position: center;
   border-radius: 46% 28% 48% 30%;
-  opacity: 0.14;
+  opacity: 0.22;
   mix-blend-mode: multiply;
-  -webkit-mask-image: radial-gradient(ellipse 75% 72% at center, #000 42%, transparent 100%);
-  mask-image: radial-gradient(ellipse 75% 72% at center, #000 42%, transparent 100%);
-  transform: scale(1.12);
+  -webkit-mask-image: radial-gradient(ellipse 82% 80% at center, #000 55%, transparent 100%);
+  mask-image: radial-gradient(ellipse 82% 80% at center, #000 55%, transparent 100%);
+  transform: translateX(-12%) scale(1.18);
 }
 
 .gdpr-rights {
@@ -151,6 +151,11 @@
   border-top: 1px solid var(--color-border);
   border-bottom: 1px solid var(--color-border);
   background: rgba(234, 242, 248, 0.52);
+}
+
+.gdpr-rights + .gdpr-steps {
+  margin-top: 64px;
+  margin-bottom: 64px;
 }
 
 .gdpr-steps__grid {
@@ -355,6 +360,10 @@
   }
   .gdpr-right-card { min-height: 200px; }
   .gdpr-steps { padding: 56px 0; }
+  .gdpr-rights + .gdpr-steps {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
   .gdpr-detection {
     gap: 34px;
     padding-top: 60px;
