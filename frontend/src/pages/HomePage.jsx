@@ -4,7 +4,7 @@ import UrlAnalyzerBox from '../components/ui/UrlAnalyzerBox'
 import AnalysisPreviewCard from '../components/ui/AnalysisPreviewCard'
 import StatCard from '../components/ui/StatCard'
 import RecentAnalyses from '../components/ui/RecentAnalyses'
-import { analyzeUrl, getRecentAnalyses, getGlobalStats } from '../services/analysisService'
+import { getRecentAnalyses, getGlobalStats } from '../services/analysisService'
 import fingerprintImage from '../../huella-digital.png'
 import './HomePage.css'
 
@@ -12,14 +12,12 @@ const STAT_TONES = ['primary', 'secondary', 'accent', 'amber']
 
 export default function HomePage() {
   const navigate = useNavigate()
-  const [preview, setPreview] = useState(null)
   const [recent, setRecent] = useState([])
   const [stats, setStats] = useState([])
 
   useEffect(() => {
     getRecentAnalyses().then(setRecent)
     getGlobalStats().then(setStats)
-    analyzeUrl('https://spotify.com/legal/privacy-policy').then(setPreview)
   }, [])
 
   const handleAnalyze = async (url) => {
@@ -72,7 +70,7 @@ export default function HomePage() {
             alt=""
             aria-hidden="true"
           />
-          <AnalysisPreviewCard analysis={preview} />
+          <AnalysisPreviewCard variant="placeholder" />
         </div>
       </section>
 
