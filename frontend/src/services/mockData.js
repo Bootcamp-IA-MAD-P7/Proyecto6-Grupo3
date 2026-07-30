@@ -1,32 +1,10 @@
 // ============================================================
 //  mockData.js — Datos de ejemplo (MOCK)
 // ------------------------------------------------------------
-//  QUÉ HACE: alimenta la interfaz mientras el backend de
-//  inferencia no está disponible. TODOS los datos de este
-//  archivo son ficticios y existen solo para desarrollo.
-//
-//  ⚠️ Cuando el equipo de backend entregue la API, estos
-//  datos dejarán de usarse automáticamente al cambiar
-//  USE_MOCK a false en analysisService.js. NINGÚN componente
-//  importa este archivo directamente: siempre pasan por el
-//  servicio. Así el cambio a datos reales es transparente.
+//  QUÉ HACE: conserva únicamente los datos simulados de
+//  estadísticas e historial. Esos endpoints no existen en el
+//  backend. El análisis principal siempre usa POST /api/analyze.
 // ============================================================
-
-/** Análisis de ejemplo (el que se muestra en la tarjeta flotante de la home). */
-export const MOCK_ANALYSIS = {
-  company: 'Spotify',
-  url: 'https://spotify.com/legal/privacy-policy',
-  analyzedAt: 'hace 2 min',
-  summary:
-    'Describe prácticas habituales: comparte datos con proveedores, usa cookies de seguimiento y explica cómo ejercer tus derechos.',
-  categories: ['cookies', 'third_party', 'data_retention', 'user_rights'],
-  evidence: {
-    quote: '“We share information with third-party service providers...”',
-    section: 'Apartado 4.2',
-    categoryId: 'third_party',
-  },
-  gdprArticles: ['Art. 6', 'Art. 13', 'Art. 14'],
-}
 
 /** Análisis recientes que se muestran en la home. */
 export const MOCK_RECENT = [

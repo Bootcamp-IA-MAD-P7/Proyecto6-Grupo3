@@ -15,10 +15,7 @@
 //   GET  /api/health                        → { status }    ✅
 // ============================================================
 
-import { MOCK_ANALYSIS, MOCK_RECENT, MOCK_STATS } from './mockData'
-
-// 🔀 Interruptor del ANÁLISIS: false = API real.
-const USE_MOCK = false
+import { MOCK_RECENT, MOCK_STATS } from './mockData'
 
 // Estos dos endpoints NO existen en el backend y no están previstos, así que
 // su mock no es un interruptor temporal: es la implementación definitiva.
@@ -39,12 +36,6 @@ const fakeDelay = (ms = 400) => new Promise((r) => setTimeout(r, ms))
  * @returns {Promise<object>} contrato §9: { model_version, stub, document, fragments }
  */
 export async function analyzeUrl(url) {
-  if (USE_MOCK) {
-    await fakeDelay()
-    // En mock devolvemos siempre el mismo análisis de ejemplo,
-    // pero conservamos la URL que pidió el usuario.
-    return { ...MOCK_ANALYSIS, requestedUrl: url }
-  }
   const res = await fetch('/api/analyze', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -57,12 +48,17 @@ export async function analyzeUrl(url) {
     try {
       const body = await res.json()
       if (body?.error) message = body.error
+      else if (typeof body?.detail === 'string') message = body.detail
     } catch {
       // respuesta sin JSON: se queda el mensaje genérico
     }
     throw new Error(message)
   }
-  return res.json()
+  const body = await res.json()
+  if (!body || typeof body !== 'object' || !body.document) {
+    throw new Error('El servidor devolvió una respuesta de análisis incompleta.')
+  }
+  return body
 }
 
 /**
