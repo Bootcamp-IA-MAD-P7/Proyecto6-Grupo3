@@ -5,7 +5,6 @@ import AnalysisPreviewCard from '../components/ui/AnalysisPreviewCard'
 import StatCard from '../components/ui/StatCard'
 import RecentAnalyses from '../components/ui/RecentAnalyses'
 import { getRecentAnalyses, getGlobalStats } from '../services/analysisService'
-import { MOCK_ANALYSIS } from '../services/mockData'
 import fingerprintImage from '../../huella-digital.png'
 import './HomePage.css'
 
@@ -13,7 +12,6 @@ const STAT_TONES = ['primary', 'secondary', 'accent', 'amber']
 
 export default function HomePage() {
   const navigate = useNavigate()
-  const [preview] = useState(MOCK_ANALYSIS)
   const [recent, setRecent] = useState([])
   const [stats, setStats] = useState([])
 
@@ -72,7 +70,7 @@ export default function HomePage() {
             alt=""
             aria-hidden="true"
           />
-          <AnalysisPreviewCard analysis={preview} />
+          <AnalysisPreviewCard variant="placeholder" />
         </div>
       </section>
 

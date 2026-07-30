@@ -4,7 +4,7 @@
 
 .analysis-page {
   padding: 48px 24px 90px;
-  max-width: 760px; /* la radiografía se lee mejor en columna estrecha */
+  max-width: 1120px;
 }
 
 .analysis-page__back {
@@ -28,4 +28,21 @@
   font-size: 16px;
   line-height: 1.6;
   margin-bottom: 24px;
+}
+
+.analysis-page__error {
+  padding: 18px 20px;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  border-radius: 16px;
+  background: var(--color-amber-soft);
+  color: var(--color-text);
+}
+
+.analysis-page__error strong {
+  color: var(--color-primary);
+}
+
+.analysis-page__error p {
+  margin: 6px 0 0;
+  color: var(--color-muted);
 }

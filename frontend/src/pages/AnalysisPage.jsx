@@ -28,11 +28,22 @@ export default function AnalysisPage() {
 
   const [analysis, setAnalysis] = useState(null)
   const [loading, setLoading] = useState(Boolean(requestedUrl))
+  const [error, setError] = useState('')
 
   useEffect(() => {
     if (!requestedUrl) return
+    setAnalysis(null)
+    setError('')
+    setLoading(true)
     analyzeUrl(requestedUrl)
       .then(setAnalysis)
+      .catch((requestError) => {
+        setError(
+          requestError instanceof Error
+            ? requestError.message
+            : 'No se ha podido completar el análisis.',
+        )
+      })
       .finally(() => setLoading(false))
   }, [requestedUrl])
 
@@ -49,11 +60,13 @@ export default function AnalysisPage() {
         </p>
       )}
       {loading && <p className="analysis-page__note">Analizando {requestedUrl}…</p>}
-      {analysis && <AnalysisPreviewCard analysis={analysis} />}
-
-      {/* TODO(FASE 2): añadir aquí las secciones completas:
-          cobertura por categoría, lista de evidencias,
-          artículos RGPD y visor del documento original. */}
+      {!loading && error && (
+        <div className="analysis-page__error" role="alert">
+          <strong>No se pudo analizar la política.</strong>
+          <p>{error}</p>
+        </div>
+      )}
+      {!loading && !error && analysis && <AnalysisPreviewCard analysis={analysis} />}
     </section>
   )
 }
