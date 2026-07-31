@@ -81,7 +81,9 @@ El corpus OPP-115 es multietiqueta en origen, un mismo fragmento puede pertenece
 
 ## 6. Métricas
 
-Para el enfoque multietiqueta se reportan macro-F1, micro-F1, F1 por etiqueta y gap train-validación. Para multiclase se reportan accuracy, macro-F1, F1 por clase y esos mismos gaps. `models/README.md` trae la tabla de resultados versionados de los tres modelos multiclase comparados.
+Para el enfoque multietiqueta se reportan macro-F1, micro-F1, F1 por etiqueta y gap train-validación. Para multiclase se reportan accuracy, macro-F1, F1 por clase y esos mismos gaps. `models/README.md` trae la tabla de resultados versionados de los tres modelos multiclase comparados en validación, y la evaluación final del modelo de producción sobre el split test de OPP-115, nunca tocado hasta esa evaluación.
+
+Aparte, `models/14_evaluate_test_and_extension.py` compara el modelo de producción contra `dataset_extension`. No es una métrica de accuracy en el mismo sentido que las anteriores, las etiquetas de ese conjunto son preanotación automática por reglas, no anotación humana, así que el resultado mide acuerdo entre dos clasificadores automáticos, sirve para ver cómo reacciona el modelo a vocabulario de políticas de 2025-2026 frente al corpus de entrenamiento, de 2016, no como benchmark de calidad. `models/README.md` trae los números y esa misma salvedad.
 
 ## 7. Contrato de salida
 

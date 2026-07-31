@@ -62,6 +62,10 @@ Archivos, `privacylens_dataset_v1_1.parquet`, el archivo principal para evaluaci
 
 Columnas, `dataset_version`, `document_id`, `paragraph_id`, `company`, `sector`, `language`, `paragraph_language`, `section`, `subsection`, `paragraph_number`, `relative_position`, `text`, `characters`, `words`, `sentences`, `categoria_principal`, `categoria_alternativa`, `confidence`, `ambiguity`, `privacy_insight`, `explanation`, `evidence`, `rgpd_articles`, `rgpd_principles_poplavska`, `keywords`, `status`.
 
+## Uso en evaluación
+
+`models/14_evaluate_test_and_extension.py` compara el modelo de producción, entrenado sobre OPP-115 de 2016, contra `evaluation_es.csv` y `evaluation_en.csv`, derivados de este dataset. No es una medición de accuracy contra ground truth, las etiquetas de comparación son las mismas preanotaciones automáticas por reglas de este dataset, así que el resultado mide acuerdo entre dos clasificadores automáticos, no calidad del modelo en sentido estricto. Sirve para ver cómo reacciona el modelo a vocabulario y prácticas de políticas modernas, ausentes en 2016. Resultados y la salvedad completa en `models/README.md` y `reports/dataset_extension_evaluation.json`.
+
 ## Limitaciones conocidas, leer antes de usar
 
 1. Etiquetas de plata por reglas, confianza media 58,8 %, revisión humana pendiente.

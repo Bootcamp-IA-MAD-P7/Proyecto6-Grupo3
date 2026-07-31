@@ -12,7 +12,9 @@ Este documento registra el estado observable, no promete funcionalidades no impl
 - API FastAPI con modelo real cargado desde `artifacts/`, análisis por texto y por URL, exposición calculada, y contrato estable.
 - Extensión de Chrome (MV3) que analiza la pestaña activa y llama a la API real desplegada en Render.
 - Descarga de URL en el backend con guardas SSRF, extracción de texto y detección de contenido cargado por JavaScript.
-- Traducción de español a inglés antes de clasificar, vía la API de Google Cloud Translation.
+- Traducción de español a inglés antes de clasificar, vía la API de Google Cloud Translation, verificada funcionando de extremo a extremo en un backend local.
+- Evaluación final del modelo de producción sobre el split test de OPP-115, 663 filas nunca usadas hasta ahora, accuracy 0,6968, macro-F1 0,6753.
+- Primera comparación automática del modelo de producción contra `dataset_extension`, documentada con su salvedad de etiquetas no humanas, en `models/README.md`.
 - Frontend multipágina responsive, con la página de análisis conectada a la API real.
 - Contenido de Riesgos, RGPD, Aprende, PrivacyLens Lab y Categorías.
 - Diálogos accesibles en Riesgos y Categorías.
@@ -21,12 +23,13 @@ Este documento registra el estado observable, no promete funcionalidades no impl
 
 | Área | Situación |
 |---|---|
-| Traducción | Implementada, pero depende de una clave de API que hoy no está configurada en el backend desplegado, así que el español se clasifica sin traducir |
+| Traducción | Funciona en un backend local con la clave puesta, verificado con una petición real. En el backend desplegado en Render la clave todavía no está configurada, así que ahí el español se sigue clasificando sin traducir |
 | Frontend, portada | Análisis recientes y estadísticas siguen siendo datos fijos, por decisión de diseño |
 | Taxonomía visual | El catálogo educativo de `/categorias` usa identificadores propios, sin traducción formal a las categorías reales del backend |
 | Referencias RGPD | El campo existe en cada categoría de la respuesta, devuelve siempre `"TODO"` |
 | PrivacyLens Lab | Tarjetas de acceso con métricas reales, sin submódulos navegables |
 | Frontend en producción | Desplegado en Render como sitio estático, depende de que `VITE_API_BASE_URL` esté puesta en el entorno de build de ese servicio |
+| Evaluación externa | Comparación automática hecha contra el modelo de producción, macro-F1 0,2266 en español traducido, 0,3473 en inglés. Sigue sin validación humana de las etiquetas de `dataset_extension`, así que no sustituye una evaluación real de calidad |
 
 ## Pendiente
 
@@ -42,6 +45,7 @@ Este documento registra el estado observable, no promete funcionalidades no impl
 - El artefacto requerido por el backend existe y se carga sin error.
 - Una petición real llega desde el frontend y desde la extensión, y muestra la respuesta sin adaptación manual.
 - No se utiliza el conjunto de test para elegir modelo.
+- El conjunto de test, una vez usado para la evaluación final, no se vuelve a usar para ajustar el modelo.
 - La documentación indica con precisión qué es cálculo real y qué sigue siendo contenido educativo o dato de ejemplo.
 
-Todos estos criterios se cumplen a fecha de esta revisión, salvo la traducción real, que cumple el criterio de código pero no el de configuración, porque la clave de API todavía no está puesta en el servicio desplegado.
+Todos estos criterios se cumplen a fecha de esta revisión, salvo la traducción real en el backend desplegado, que cumple el criterio de código, verificado también en local, pero no el de configuración en Render, porque la clave de API todavía no está puesta en ese servicio.

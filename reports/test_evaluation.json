@@ -1,0 +1,68 @@
+{
+  "label": "opp115_test",
+  "n": 663,
+  "accuracy": 0.6968325791855203,
+  "macro_f1": 0.675268632562265,
+  "per_class": {
+    "Other": {
+      "precision": 0.7283950617283951,
+      "recall": 0.5412844036697247,
+      "f1-score": 0.6210526315789474,
+      "support": 109.0
+    },
+    "data_retention": {
+      "precision": 0.7142857142857143,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.45454545454545453,
+      "support": 15.0
+    },
+    "data_security": {
+      "precision": 0.6666666666666666,
+      "recall": 0.6363636363636364,
+      "f1-score": 0.6511627906976745,
+      "support": 44.0
+    },
+    "do_not_track": {
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1-score": 0.8,
+      "support": 5.0
+    },
+    "first_party_collection_use": {
+      "precision": 0.7578125,
+      "recall": 0.7132352941176471,
+      "f1-score": 0.7348484848484849,
+      "support": 136.0
+    },
+    "international_specific_audiences": {
+      "precision": 0.6551724137931034,
+      "recall": 0.9047619047619048,
+      "f1-score": 0.76,
+      "support": 42.0
+    },
+    "policy_change": {
+      "precision": 0.6774193548387096,
+      "recall": 0.6774193548387096,
+      "f1-score": 0.6774193548387096,
+      "support": 31.0
+    },
+    "third_party_sharing_collection": {
+      "precision": 0.7014218009478673,
+      "recall": 0.8131868131868132,
+      "f1-score": 0.7531806615776081,
+      "support": 182.0
+    },
+    "user_access_edit_deletion": {
+      "precision": 0.9,
+      "recall": 0.5806451612903226,
+      "f1-score": 0.7058823529411765,
+      "support": 31.0
+    },
+    "user_choice_control": {
+      "precision": 0.55,
+      "recall": 0.6470588235294118,
+      "f1-score": 0.5945945945945946,
+      "support": 68.0
+    }
+  }
+}
