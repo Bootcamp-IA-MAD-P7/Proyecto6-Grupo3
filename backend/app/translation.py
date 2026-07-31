@@ -9,11 +9,17 @@ value the model returns when nothing matches its vocabulary) and headings like
 English scored up to 0.93 and classified correctly. So translation is not a
 nicety: without it, Spanish output is noise.
 
-ENGINE: Opus-MT local (Helsinki-NLP/opus-mt-es-en, Apache-2.0)
-Chosen over NLLB, which is better quality but CC-BY-NC (non-commercial), clashing
-with the open-source nature of the project; and over cloud APIs, which need a key
-and send the user's policy to a third party. Running locally means the text never
-leaves the machine — for a privacy tool that is an argument, not just a detail.
+ENGINE: Google Cloud Translation API (v2, REST over httpx)
+Previously a local Opus-MT model (transformers + torch). That pipeline needed
+~300MB just to load into memory on first use, which reliably OOM-crashed the
+Render free-tier instance (512MB total) on the first Spanish request — the
+whole API went unresponsive, not just translation. A REST call has no local
+memory footprint and no multi-hundred-MB dependency to install. The trade-off,
+accepted deliberately: text is sent to Google instead of staying on-box.
+
+Auth: GOOGLE_TRANSLATE_API_KEY (backend/.env locally, an env var on Render).
+Not set -> translation degrades to unavailable, same as any other failure
+(see GRACEFUL DEGRADATION below); the API keeps working in English-only mode.
 
 WHAT IS TRANSLATED AND WHAT IS RETURNED
 Translation is INTERNAL AND DISPOSABLE. It is fed to the classifier; the user
@@ -23,33 +29,29 @@ document: translating the whole thing would shift every offset and break the
 `start`/`end` contract the browser extension needs for highlighting.
 
 GRACEFUL DEGRADATION (floor requirement)
-Any failure — package missing, no network to download the model, out of memory,
-time budget exceeded — sets available=False and the pipeline continues in the
-original language. It NEVER raises. A user who gets a warning plus a worse result
-is better served than one who gets a 500.
+Any failure — missing API key, network error, API error, malformed response —
+sets available=False (or leaves affected fragments untranslated) and the
+pipeline continues in the original language. It NEVER raises. A user who gets
+a warning plus a worse result is better served than one who gets a 500.
 
 CACHE
 Keyed by text hash, in memory. A demo that analyses the same policy twice
-translates only once. Warming the cache before a live demo makes it instant.
+translates only once, and identical boilerplate paragraphs across a document
+are only sent to the API once each.
 """
 
 import hashlib
-import time
-from dataclasses import dataclass, field
+import os
+from dataclasses import dataclass
 
-MODEL_NAME = "Helsinki-NLP/opus-mt-es-en"
+import httpx
 
-# Time budget for translating ONE document. Past this, whatever is already
-# translated is used and the rest goes through untranslated. This is the guard
-# against a live demo hanging: a partial result beats a spinner.
-TIME_BUDGET_SECONDS = 0.0
+TRANSLATE_URL = "https://translation.googleapis.com/language/translate/v2"
+TIMEOUT_SECONDS = 10.0
 
-# Fragments translated per forward pass. Bigger is faster but uses more memory;
-# 16 runs comfortably on a laptop.
-BATCH_SIZE = 16
-
-# Opus-MT truncates beyond its own limit anyway; this keeps memory predictable.
-MAX_TOKENS = 512
+# Google's v2 API accepts up to 128 `q` values per request; batching keeps
+# every request comfortably under that regardless of how long the policy is.
+BATCH_SIZE = 100
 
 _SPANISH_CHARS = set("áéíóúñ¿¡")
 _SPANISH_STOPWORDS = {
@@ -60,16 +62,13 @@ _SPANISH_STOPWORDS = {
 # text hash -> translation. Module level, so it survives across requests.
 _CACHE: dict[str, str] = {}
 
-# Loaded lazily and kept: (tokenizer, model), or False if loading failed.
-_ENGINE = None
-
 
 def detect_language(text: str) -> str:
     """Trivial heuristic (Spanish diacritics/punctuation or common stopwords).
 
     Good enough to decide whether to translate; not a real language detector.
-    A false negative costs accuracy, a false positive costs time — neither breaks
-    anything, which is why a heuristic is acceptable here.
+    A false negative costs accuracy, a false positive costs an API call —
+    neither breaks anything, which is why a heuristic is acceptable here.
     """
     lowered = text.lower()
     if any(char in lowered for char in _SPANISH_CHARS):
@@ -96,32 +95,10 @@ class FragmentTranslation:
     translated: bool
     available: bool
     note: str = ""
-    stats: dict = field(default_factory=dict)
 
 
-def _load_engine():
-    """Load tokenizer and model once, on first Spanish request.
-
-    Deliberately NOT at import time: the model is ~300 MB and downloads on first
-    use, so loading eagerly would make the API slow to boot even for English-only
-    traffic. Returns False on any failure — the caller degrades, does not raise.
-    """
-    global _ENGINE
-    if _ENGINE is not None:
-        return _ENGINE
-
-    try:
-        from transformers import MarianMTModel, MarianTokenizer
-
-        tokenizer = MarianTokenizer.from_pretrained(MODEL_NAME)
-        model = MarianMTModel.from_pretrained(MODEL_NAME)
-        model.eval()  # inference only: no gradients, less memory
-        _ENGINE = (tokenizer, model)
-    except Exception as exc:  # noqa: BLE001 - any failure must degrade, not raise
-        print(f"[translation] engine unavailable, continuing untranslated: {exc}")
-        _ENGINE = False
-
-    return _ENGINE
+def _api_key() -> str | None:
+    return os.environ.get("GOOGLE_TRANSLATE_API_KEY") or None
 
 
 def translate_fragments(fragment_texts: list[str], source_lang: str) -> FragmentTranslation:
@@ -132,104 +109,69 @@ def translate_fragments(fragment_texts: list[str], source_lang: str) -> Fragment
     fragment i. Anything that cannot be translated comes back unchanged.
     """
     if source_lang != "es" or not fragment_texts:
-        return FragmentTranslation(
-            texts=fragment_texts, translated=False, available=True
-        )
+        return FragmentTranslation(texts=fragment_texts, translated=False, available=True)
 
-    engine = _load_engine()
-    if engine is False:
+    api_key = _api_key()
+    if not api_key:
         return FragmentTranslation(
             texts=fragment_texts,
             translated=False,
             available=False,
-            note="Translation engine unavailable; classified in the original language.",
+            note="GOOGLE_TRANSLATE_API_KEY is not configured; classified in the original language.",
         )
 
-    tokenizer, model = engine
-    import torch
-
-    started = time.monotonic()
-    out: list[str] = []
+    out: list[str] = list(fragment_texts)
+    pending: list[str] = []
+    pending_index: list[int] = []
     from_cache = 0
-    translated_now = 0
-    skipped_over_budget = 0
 
-    for start in range(0, len(fragment_texts), BATCH_SIZE):
-        batch = fragment_texts[start : start + BATCH_SIZE]
-
-        # Time budget checked per batch, not per fragment: cheap, and granular
-        # enough. Everything left goes through untranslated.
-        if time.monotonic() - started > TIME_BUDGET_SECONDS:
-            out.extend(batch)
-            skipped_over_budget += len(batch)
+    for i, text in enumerate(fragment_texts):
+        if not text.strip():
             continue
+        key = hashlib.sha256(text.encode("utf-8")).hexdigest()
+        if key in _CACHE:
+            out[i] = _CACHE[key]
+            from_cache += 1
+        else:
+            pending.append(text)
+            pending_index.append(i)
 
-        pending, pending_index = [], []
-        batch_out = [None] * len(batch)
-
-        for i, text in enumerate(batch):
-            key = hashlib.sha256(text.encode("utf-8")).hexdigest()
-            if key in _CACHE:
-                batch_out[i] = _CACHE[key]
-                from_cache += 1
-            elif not text.strip():
-                batch_out[i] = text  # nothing to translate
-            else:
-                pending.append(text)
-                pending_index.append(i)
-
-        if pending:
-            try:
-                with torch.no_grad():  # inference only
-                    encoded = tokenizer(
-                        pending,
-                        return_tensors="pt",
-                        padding=True,
-                        truncation=True,
-                        max_length=MAX_TOKENS,
-                    )
-                    generated = model.generate(**encoded, max_length=MAX_TOKENS)
-                decoded = tokenizer.batch_decode(generated, skip_special_tokens=True)
-
-                for i, text, translation in zip(pending_index, pending, decoded):
-                    batch_out[i] = translation
-                    _CACHE[hashlib.sha256(text.encode("utf-8")).hexdigest()] = translation
-                    translated_now += 1
-            except Exception as exc:  # noqa: BLE001 - degrade this batch, keep going
-                print(f"[translation] batch failed, keeping original text: {exc}")
-                for i, text in zip(pending_index, pending):
-                    batch_out[i] = text
-
-        out.extend(batch_out)
-
-    elapsed = time.monotonic() - started
+    translated_now = 0
     note = ""
-    if skipped_over_budget:
-        note = (
-            f"{skipped_over_budget} of {len(fragment_texts)} fragments were not "
-            f"translated: the {TIME_BUDGET_SECONDS:.0f}s budget was exhausted. Those "
-            f"fragments were classified in the original language."
-        )
 
-    print(
-        f"[translation] {len(fragment_texts)} fragments in {elapsed:.1f}s "
-        f"(translated {translated_now}, cached {from_cache}, "
-        f"skipped {skipped_over_budget})"
-    )
+    if pending:
+        try:
+            with httpx.Client(timeout=TIMEOUT_SECONDS) as client:
+                for start in range(0, len(pending), BATCH_SIZE):
+                    batch = pending[start : start + BATCH_SIZE]
+                    batch_index = pending_index[start : start + BATCH_SIZE]
+
+                    response = client.post(
+                        TRANSLATE_URL,
+                        params={"key": api_key},
+                        json={"q": batch, "source": "es", "target": "en", "format": "text"},
+                    )
+                    response.raise_for_status()
+                    translations = response.json()["data"]["translations"]
+
+                    for i, original, item in zip(batch_index, batch, translations):
+                        translated_text = item["translatedText"]
+                        out[i] = translated_text
+                        _CACHE[hashlib.sha256(original.encode("utf-8")).hexdigest()] = translated_text
+                        translated_now += 1
+        except Exception as exc:  # noqa: BLE001 - degrade, never raise; batches already
+            # translated before the failure are kept, the rest stay in the original language.
+            print(f"[translation] Google Translate call failed, continuing untranslated: {exc}")
+            note = (
+                "Translation was interrupted by a service error; some fragments are "
+                "classified in the original language."
+            )
 
     return FragmentTranslation(
         texts=out,
         translated=translated_now > 0 or from_cache > 0,
-        # Partial translation is still a working translation: available stays True
-        # and the shortfall is reported in `note`.
         available=True,
         note=note,
-        stats={
-            "seconds": round(elapsed, 1),
-            "translated": translated_now,
-            "cached": from_cache,
-            "skipped": skipped_over_budget,
-        },
     )
 
 

@@ -2016,7 +2016,6 @@ name = "proyecto6-grupo3"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
-    { name = "accelerate" },
     { name = "beautifulsoup4" },
     { name = "fastapi" },
     { name = "httpx" },
@@ -2032,15 +2031,20 @@ dependencies = [
     { name = "scikit-learn" },
     { name = "scipy" },
     { name = "seaborn" },
+    { name = "uvicorn", extra = ["standard"] },
+]
+
+[package.optional-dependencies]
+training = [
+    { name = "accelerate" },
     { name = "sentencepiece" },
     { name = "torch" },
     { name = "transformers" },
-    { name = "uvicorn", extra = ["standard"] },
 ]
 
 [package.metadata]
 requires-dist = [
-    { name = "accelerate", specifier = ">=1.1.0" },
+    { name = "accelerate", marker = "extra == 'training'", specifier = ">=1.1.0" },
     { name = "beautifulsoup4", specifier = ">=4.15.0" },
     { name = "fastapi", specifier = ">=0.140.0" },
     { name = "httpx", specifier = ">=0.28.1" },
@@ -2056,11 +2060,12 @@ requires-dist = [
     { name = "scikit-learn", specifier = ">=1.9.0" },
     { name = "scipy", specifier = ">=1.18.0" },
     { name = "seaborn", specifier = ">=0.13.2" },
-    { name = "sentencepiece", specifier = ">=0.2.2" },
-    { name = "torch", specifier = ">=2.13.0" },
-    { name = "transformers", specifier = ">=5.14.1" },
+    { name = "sentencepiece", marker = "extra == 'training'", specifier = ">=0.2.2" },
+    { name = "torch", marker = "extra == 'training'", specifier = ">=2.13.0" },
+    { name = "transformers", marker = "extra == 'training'", specifier = ">=5.14.1" },
     { name = "uvicorn", extras = ["standard"], specifier = ">=0.51.0" },
 ]
+provides-extras = ["training"]
 
 [[package]]
 name = "psutil"
