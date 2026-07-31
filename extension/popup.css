@@ -61,7 +61,7 @@ html, body {
   -webkit-backdrop-filter: blur(16px);
   border: 1px solid var(--border-translucent);
   border-radius: 18px;
-  padding: 14px 14px 0 14px; /* Espaciado interno (sin padding inferior para el botón sticky) */
+  padding: 14px; /* Espaciado interno */
   box-shadow: var(--primary-shadow);
   display: flex;
   flex-direction: column;
@@ -145,6 +145,16 @@ html, body {
   font-weight: 600;
 }
 
+/* Insignia de estado en error */
+.status-badge.error {
+  background-color: #FEE2E2;
+  border-color: #FCA5A5;
+}
+
+.status-badge.error .status-text {
+  color: #991B1B;
+}
+
 /* --- Encabezado e Info del Sitio --- */
 .site-header-centered {
   text-align: center;
@@ -206,19 +216,43 @@ html, body {
   margin-bottom: 10px;
 }
 
+.summary-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
 .summary-label {
   font-size: 11px;
   font-weight: 800;
   color: #0F766E;
   letter-spacing: 0.8px;
   display: block;
-  margin-bottom: 4px;
+}
+
+.exposure-score {
+  font-size: 11px;
+  font-weight: 700;
+  color: #374151;
+  background: rgba(0, 0, 0, 0.06);
+  padding: 2px 8px;
+  border-radius: 10px;
+  white-space: nowrap;
 }
 
 .summary-content {
   font-size: 12px;
   line-height: 1.4;
   color: #374151;
+}
+
+.disclaimer-text {
+  font-size: 10px;
+  font-style: italic;
+  color: #9CA3AF;
+  line-height: 1.3;
+  margin-top: 6px;
 }
 
 /* --- Categorías --- */
@@ -308,50 +342,24 @@ html, body {
 .ia-summary-box.risk-high { border-left-color: var(--risk-high-border); }
 .ia-summary-box.risk-medium { border-left-color: var(--risk-medium-border); }
 .ia-summary-box.risk-low { border-left-color: var(--risk-low-border); }
+.ia-summary-box.risk-error { border-left-color: #9CA3AF; }
 
-/* --- Botón de Dashboard Fijo (Sticky Glassmorphism) --- */
-.dashboard-btn {
-  /* Se mantiene siempre al final de la vista aunque haya scroll */
-  position: sticky;
-  bottom: 0;
-  width: calc(100% + 28px); /* Extiende el botón hasta los bordes */
-  margin-left: -14px;
-  margin-top: auto;
-  padding: 12px;
-  border: none;
-  border-top: 1px solid rgba(226, 232, 240, 0.8);
-  border-radius: 0 0 18px 18px;
-  
-  /* Efecto de cristal con respaldo semi-opaco */
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  
-  color: #0F2027;
-  font-size: 13px;
+/* --- Botón de reintento (solo visible tras un error) --- */
+.retry-btn {
+  width: 100%;
+  margin-top: 4px;
+  margin-bottom: 14px;
+  padding: 10px;
+  border: 1px solid #FCA5A5;
+  border-radius: 10px;
+  background: #FEF2F2;
+  color: #991B1B;
+  font-size: 12px;
   font-weight: 700;
-  
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 4px;
   cursor: pointer;
-  z-index: 10;
-  transition: all 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
 }
 
-.dashboard-btn:hover {
-  background-color: rgba(255, 255, 255, 0.95);
-  color: #1E3A5F;
-}
-
-.dashboard-btn:active {
-  background-color: rgba(240, 240, 240, 0.9);
-}
-
-.dashboard-icon {
-  width: 20px;
-  height: 20px;
-  stroke: #0F2027;
+.retry-btn:hover {
+  background: #FEE2E2;
 }

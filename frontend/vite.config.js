@@ -15,12 +15,13 @@ export default defineConfig({
   server: {
     port: 5173,
     proxy: {
-      // Todas las llamadas a /api/* se reenvían al backend local.
-      // TODO(backend): cambiar el target cuando el equipo de
-      // datos despliegue el servicio de inferencia.
+      // Todas las llamadas a /api/* se reenvían al backend real en Render.
+      // Si en algún momento vuelves a correr el backend en local, cambia
+      // el target de nuevo a 'http://localhost:8000'.
       '/api': {
-        target: 'http://localhost:8000',
+        target: 'https://privacylensproject.onrender.com',
         changeOrigin: true,
+        secure: true,
       },
     },
   },

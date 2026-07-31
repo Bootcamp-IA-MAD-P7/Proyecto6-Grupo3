@@ -22,3 +22,5 @@ data/dataset_extension/external_datasets/
 
 # Ignorar artefactos generados localmente (SPEC 1, SPEC 2 §12 y SPEC 4) 
 artifacts/*
+!artifacts/multiclass_complementnb.joblib
+!artifacts/tfidf_vectorizer.joblib

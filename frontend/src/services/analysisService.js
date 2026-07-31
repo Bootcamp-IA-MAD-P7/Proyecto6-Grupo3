@@ -54,7 +54,12 @@ export async function analyzeUrl(url) {
     }
     throw new Error(message)
   }
-  const body = await res.json()
+  let body
+  try {
+    body = await res.json()
+  } catch {
+    throw new Error('El servidor respondió sin datos válidos. Inténtalo de nuevo en unos segundos.')
+  }
   if (!body || typeof body !== 'object' || !body.document) {
     throw new Error('El servidor devolvió una respuesta de análisis incompleta.')
   }
