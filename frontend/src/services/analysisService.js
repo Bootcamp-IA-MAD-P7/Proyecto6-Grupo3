@@ -17,6 +17,14 @@
 
 import { MOCK_RECENT, MOCK_STATS } from './mockData'
 
+// Base del backend. En local se deja vacío: vite.config.js hace de proxy de
+// /api -> el backend real (server.proxy), así el navegador nunca sale del
+// origin de Vite y no hay que pelear con CORS en dev. En un build de
+// producción (Vercel/Render estático) ese proxy no existe: hay que fijar
+// VITE_API_BASE_URL al backend desplegado en el entorno de build, o toda
+// llamada a /api/* se va contra el propio dominio del frontend y falla.
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || ''
+
 // Estos dos endpoints NO existen en el backend y no están previstos, así que
 // su mock no es un interruptor temporal: es la implementación definitiva.
 //   /api/analyses/recent → exigiría base de datos, y se decidió no tener
@@ -36,7 +44,7 @@ const fakeDelay = (ms = 400) => new Promise((r) => setTimeout(r, ms))
  * @returns {Promise<object>} contrato §9: { model_version, stub, document, fragments }
  */
 export async function analyzeUrl(url) {
-  const res = await fetch('/api/analyze', {
+  const res = await fetch(`${API_BASE_URL}/api/analyze`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ url }),
