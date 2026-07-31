@@ -15,10 +15,16 @@ MAX_TEXT_LENGTH = 100_000
 
 class Settings(BaseSettings):
     cors_allowed_origins: str
+    google_translate_api_key: str | None = None
 
     model_config = SettingsConfigDict(
         env_file=BACKEND_DIR / ".env",
         env_file_encoding="utf-8",
+        # Other modules (translation.py) read their own vars straight from
+        # os.environ, without going through this class. Without "ignore",
+        # pydantic-settings rejects the whole .env file as soon as it has any
+        # variable this class doesn't declare, e.g. GOOGLE_TRANSLATE_API_KEY.
+        extra="ignore",
     )
 
     @property

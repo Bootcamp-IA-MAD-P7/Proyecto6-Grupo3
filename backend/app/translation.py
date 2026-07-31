@@ -41,10 +41,12 @@ are only sent to the API once each.
 """
 
 import hashlib
-import os
 from dataclasses import dataclass
+from functools import lru_cache
 
 import httpx
+
+from .config import load_settings
 
 TRANSLATE_URL = "https://translation.googleapis.com/language/translate/v2"
 TIMEOUT_SECONDS = 10.0
@@ -97,8 +99,12 @@ class FragmentTranslation:
     note: str = ""
 
 
+@lru_cache(maxsize=1)
 def _api_key() -> str | None:
-    return os.environ.get("GOOGLE_TRANSLATE_API_KEY") or None
+    # Routed through config.py, not os.environ directly, because a local
+    # backend/.env is parsed by pydantic-settings for its own Settings
+    # fields and never copied into the real process environment.
+    return load_settings().google_translate_api_key
 
 
 def translate_fragments(fragment_texts: list[str], source_lang: str) -> FragmentTranslation:

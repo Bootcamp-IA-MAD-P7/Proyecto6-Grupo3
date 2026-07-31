@@ -19,11 +19,11 @@ Las figuras se guardan en `reports/figures/`.
 - Macro-F1 es necesaria para no ocultar el rendimiento de clases minoritarias.
 - La extensión moderna tiene muy pocos ejemplos de `do_not_track`.
 
-El target multiclase del proyecto es una derivación posterior con regla de prioridad; no invalida la naturaleza multietiqueta del corpus original.
+El target multiclase del proyecto es una derivación posterior con regla de prioridad, no invalida la naturaleza multietiqueta del corpus original.
 
 ## Ejecución
 
-Desde la raíz:
+Desde la raíz.
 
 ```bash
 uv run python eda/01_target_distribution.py

@@ -1,15 +1,15 @@
-# SPEC 4 — Contrato de datos
+# SPEC 4. Contrato de datos
 
 ## 1. Tabla multietiqueta
 
 `data/processed/training_table.csv` contiene 3.792 filas.
 
-Columnas:
+Columnas.
 
-- `policy`: identificador de política.
-- `segment`: posición del fragmento.
-- `text`: texto en inglés.
-- Nueve columnas binarias, en este orden:
+- `policy`, identificador de política.
+- `segment`, posición del fragmento.
+- `text`, texto en inglés.
+- Nueve columnas binarias, en este orden.
 
 ```text
 first_party_collection_use
@@ -27,15 +27,15 @@ La clave natural es `(policy, segment)`. Las filas con nueve ceros son válidas.
 
 ## 2. Partición
 
-`data/processed/split_assignment.csv` contiene:
+`data/processed/split_assignment.csv` contiene estas columnas.
 
 ```text
 policy, segment, split
 ```
 
-Valores de `split`: `train`, `val`, `test`.
+Valores de `split`, `train`, `val` o `test`.
 
-Distribución congelada:
+Distribución congelada.
 
 | Split | Filas | Políticas |
 |---|---:|---:|
@@ -57,6 +57,9 @@ La unión con la tabla se hace por ambas columnas y debe validarse como uno a un
 | `y_val.npy` | Nueve targets binarios |
 | `y_test.npy` | Targets reservados |
 | `linear_svc_model.joblib` | Modelo multietiqueta generado |
+| `multiclass_complementnb.joblib` | Modelo multiclase, el que carga `backend/app/predictor.py` en producción |
+
+El backend en producción no lee `X_train.npz` ni los demás `.npz`/`.npy`, esos son insumos intermedios del entrenamiento. Solo carga `tfidf_vectorizer.joblib` y `multiclass_complementnb.joblib`.
 
 ## 4. Evaluación externa
 
@@ -66,13 +69,13 @@ Las etiquetas de la extensión son automáticas y requieren revisión humana ant
 
 ## 5. Target multiclase
 
-`scripts/10_build_multiclass_target.py` puede crear:
+`scripts/10_build_multiclass_target.py` puede crear estas columnas.
 
 ```text
 policy, segment, label, split
 ```
 
-El target usa prioridad explícita para resolver fragmentos multietiqueta y añade `Other`. Este archivo no está presente actualmente en `data/processed/`; debe generarse antes de ejecutar los modelos multiclase.
+El target usa prioridad explícita para resolver fragmentos multietiqueta y añade `Other`. Este archivo ya está generado en `data/processed/multiclass_target.csv`, es el que consumen `models/11_multiclass_baseline.py` y `models/12_multiclass_compare.py`.
 
 ## 6. Reglas obligatorias
 

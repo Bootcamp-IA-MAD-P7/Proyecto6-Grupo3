@@ -1,12 +1,10 @@
 # PrivacyLens Extended Dataset 2026
 
-Extensión moderna del dataset académico [OPP-115](https://usableprivacy.org/data) (Wilson et al., 2016) construida por el **Grupo 3 — Proyecto 6** (IA School, Factoría F5 Madrid).
+Extensión moderna del dataset académico [OPP-115](https://usableprivacy.org/data) (Wilson et al., 2016), construida por el Grupo 3, Proyecto 6 (IA School, Factoría F5 Madrid).
 
-**Rol en el proyecto (spec §1.3):** material de **evaluación y demo, no de entrenamiento**. Aporta lo que OPP-115 no tiene: políticas actuales (post-RGPD, mayoría 2025-2026), reales y en español. Es la fuente del conjunto de prueba en español.
+Su rol en el proyecto, según `specs/1_intent.md`, es material de evaluación y demostración, no de entrenamiento. Aporta lo que OPP-115 no tiene, políticas actuales, la mayoría posteriores al RGPD y de 2025-2026, reales y en español. Es la fuente del conjunto de prueba en español.
 
-> ⚠️ Las etiquetas son **preanotación automática por reglas** (etiquetas de plata), pendientes de revisión humana. No entrenar ni medir contra ellas sin validar.
-
----
+Aviso. Las etiquetas son preanotación automática por reglas, etiquetas de plata, pendientes de revisión humana. No entrenar ni medir contra ellas sin validar antes.
 
 ## Resumen
 
@@ -14,87 +12,77 @@ Extensión moderna del dataset académico [OPP-115](https://usableprivacy.org/da
 |---|---|
 | Empresas | 33 |
 | Sectores | 16 |
-| Idiomas | Español (21 políticas) · Inglés (12) |
+| Idiomas | Español, 21 políticas, e inglés, 12 |
 | Párrafos | 10.797 |
 | Categorías | 9 prácticas OPP-115 más la clase auxiliar `Other` |
-| Mapeo RGPD | **Oficial: Poplavska et al. 2020 (JURIX)** |
-| Versión | **v1.1.0** (2026-07-22) |
-| Estado QA | APROBADO CON OBSERVACIONES (ver `dataset_quality_report.md`) |
+| Mapeo RGPD | Oficial, Poplavska et al. 2020 (JURIX) |
+| Versión | v1.1.0, del 22 de julio de 2026 |
+| Estado QA | Aprobado con observaciones, ver `dataset_quality_report.md` |
 
-## Pipeline de construcción (5 agentes)
+## Pipeline de construcción, cinco agentes
 
 ```
-AGENTE 0 ──► AGENTE 1 ──► AGENTE 2 ──► AGENTE 3 ──► Revisión ──► AGENTE 4
-Fuentes      Extracción   Segmentación Preanotación  Humana       QA + Release
+AGENTE 0 --> AGENTE 1 --> AGENTE 2 --> AGENTE 3 --> Revisión --> AGENTE 4
+Fuentes      Extracción   Segmentación Preanotación  Humana       QA y Release
 ```
 
-### Agente 0 — Descubrimiento y validación de fuentes
+### Agente 0, descubrimiento y validación de fuentes
 
-Catálogo de fuentes oficiales verificadas. 77 empresas investigadas → 33 VALIDATED · 42 REVIEW_REQUIRED · 2 DISCARDED (duplicadas). Cada fuente con URL oficial, fecha de actualización, idioma y longitud estimada.
+Catálogo de fuentes oficiales verificadas. De 77 empresas investigadas, 33 quedaron `VALIDATED`, 42 `REVIEW_REQUIRED` y 2 `DISCARDED` por duplicadas, cifras confirmadas en `sources_catalog.csv`. Cada fuente trae URL oficial, fecha de actualización, idioma y longitud estimada.
 
-- 📄 `sources_catalog.csv` · `company_metadata.json` · `company_metadata/` · `proposals.json`
-- 📋 `informe_agente0.md`
+Archivos, `sources_catalog.csv`, `company_metadata.json`, `company_metadata/` (con 77 archivos, uno por empresa investigada, no solo las validadas), `proposals.json`, `informe_agente0.md`.
 
-### Agente 1 — Extracción, limpieza y normalización
+### Agente 1, extracción, limpieza y normalización
 
-Descarga y limpieza de las 33 políticas validadas. Eliminación de navegación/banners/scripts, normalización UTF-8, conservación de la estructura jurídica y hash SHA-256 por documento para control de versiones. 33/33 procesados (2 parciales documentados: Reddit, Renfe).
+Descarga y limpieza de las 33 políticas validadas, confirmado por los 33 archivos en `dataset/clean_documents/`. Elimina navegación, banners y scripts, normaliza a UTF-8, conserva la estructura jurídica y calcula un hash SHA-256 por documento para control de versiones. Procesó las 33, con 2 casos parciales documentados, Reddit y Renfe.
 
-- 📄 `dataset/raw_documents/` · `dataset/clean_documents/` · `dataset/metadata/`
-- 📄 `processing_log.json` · `errors_report.json`
-- 📋 `informe_agente1.md`
+Archivos, `dataset/raw_documents/`, `dataset/clean_documents/`, `dataset/metadata/`, `processing_log.json`, `errors_report.json`, `informe_agente1.md`.
 
-### Agente 2 — Segmentación y construcción del dataset
+### Agente 2, segmentación y construcción del dataset
 
-Segmentación en 10.797 párrafos con IDs únicos (`DOC_XXXXX_PXXXX`), detección de estructura (H1-H4), metadatos estructurales, features booleanas, NER jurídico por reglas (es/en), idioma por párrafo y embeddings TF-IDF (256 dims).
+Segmenta en párrafos con identificador único (`DOC_XXXXX_PXXXX`), detecta estructura de encabezados H1 a H4, calcula metadatos estructurales y features booleanas, aplica reconocimiento de entidades jurídicas por reglas en español e inglés, detecta idioma por párrafo y genera incrustaciones TF-IDF de 256 dimensiones. La salida de esta etapa, en `paragraphs_raw.csv`, tiene más filas que el dataset final, la etapa siguiente filtra y deduplica antes de fijar los 10.797 párrafos publicados.
 
-- 📄 `paragraphs_raw.csv` · `paragraph_statistics.json` · `paragraph_index.json`
-- 📄 `document_structure.json` · `paragraph_entities.json` · `paragraph_embeddings.parquet`
-- 📋 `informe_agente2.md`
+Archivos, `paragraphs_raw.csv`, `paragraph_statistics.json`, `paragraph_index.json`, `document_structure.json`, `paragraph_entities.json`, `paragraph_embeddings.parquet`, `informe_agente2.md`.
 
-### Agente 3 — Preanotación IA (Legal Intelligence)
+### Agente 3, preanotación
 
-Clasificación de cada párrafo en las categorías OPP-115 con clasificador de reglas jurídicas bilingües: categoría principal + alternativa, confianza, evidencias **literales**, explicación, insight en lenguaje sencillo, artículos RGPD, score de ambigüedad y detección de contradicciones. Sin juicios legales (verificado por QC).
+Clasifica cada párrafo en las categorías OPP-115 con un clasificador de reglas jurídicas bilingüe, categoría principal más una alternativa, confianza, evidencia literal, explicación, un resumen en lenguaje sencillo, artículos RGPD relacionados, un score de ambigüedad y detección de contradicciones entre párrafos del mismo documento. Sin juicios legales, según su propio control de calidad. La confianza media de esta etapa, medida directamente sobre `paragraph_predictions.csv`, es 58,8 %.
 
-- 📄 `paragraph_predictions.csv` · `privacy_insights.csv` · `policy_profile.json`
-- 📄 `contradictions.json` · `ambiguity_report.json` · `explainability.json`
-- 📋 `informe_agente3.md`
+Archivos, `paragraph_predictions.csv`, `privacy_insights.csv`, `policy_profile.json`, `contradictions.json`, `ambiguity_report.json`, `explainability.json`, `informe_agente3.md`.
 
-### Agente 4 — QA, validación y release
+### Agente 4, control de calidad y release
 
-14 fases de validación (estructura, contenido, explicabilidad, insights, perfiles, contradicciones, métricas, versionado). 9/9 checks críticos PASS. Release v1.0.0 → **v1.1.0** (mapeo RGPD oficial Poplavska).
+14 fases de validación, sobre estructura, contenido, explicabilidad, insights, perfiles, contradicciones, métricas y versionado. De los checks críticos y de alta prioridad, 9 de 9 pasaron, con una advertencia no crítica por duplicados de texto intra-documento, según `validation_report.json`. Pasó de la versión v1.0.0 a la v1.1.0 al incorporar el mapeo RGPD oficial de Poplavska et al.
 
-- 📄 `privacylens_dataset_v1_1.parquet` ← archivo principal para evaluación externa y demo; no se usa para entrenar los modelos actuales
-- 📄 `privacylens_dataset_v1_1.csv` (espejo)
-- 📄 `dataset_metadata.json` · `dataset_statistics.json` · `validation_report.json`
-- 📋 `dataset_quality_report.md` · `release_notes.md` · `CHANGELOG.md` · `informe_agente4.md`
+Archivos, `privacylens_dataset_v1_1.parquet`, el archivo principal para evaluación externa y demo, no se usa para entrenar los modelos actuales, con espejo en `privacylens_dataset_v1_1.csv`, más `dataset_metadata.json`, `dataset_statistics.json`, `validation_report.json`, `dataset_quality_report.md`, `release_notes.md`, `CHANGELOG.md`, `informe_agente4.md`.
 
 ## Archivo principal
 
-**`privacylens_dataset_v1_1.parquet`** — 10.797 filas × 26 columnas:
+`privacylens_dataset_v1_1.parquet`, 10.797 filas por 26 columnas, verificado con un parser CSV real sobre su espejo en `.csv` (contar líneas de texto sobre ese archivo da un número mayor, porque el campo `text` trae saltos de línea dentro de celdas entre comillas).
 
-`dataset_version, document_id, paragraph_id, company, sector, language, paragraph_language, section, subsection, paragraph_number, relative_position, text, characters, words, sentences, categoria_principal, categoria_alternativa, confidence, ambiguity, privacy_insight, explanation, evidence, rgpd_articles, rgpd_principles_poplavska, keywords, status`
+Columnas, `dataset_version`, `document_id`, `paragraph_id`, `company`, `sector`, `language`, `paragraph_language`, `section`, `subsection`, `paragraph_number`, `relative_position`, `text`, `characters`, `words`, `sentences`, `categoria_principal`, `categoria_alternativa`, `confidence`, `ambiguity`, `privacy_insight`, `explanation`, `evidence`, `rgpd_articles`, `rgpd_principles_poplavska`, `keywords`, `status`.
 
-## Limitaciones conocidas (leer antes de usar)
+## Limitaciones conocidas, leer antes de usar
 
-1. **Etiquetas de plata** por reglas (confianza media 58,8 %): revisión humana pendiente.
-2. **76 % de párrafos en `Other`** → coherente con dejar `Other` fuera del target (spec §2.2).
-3. **Desbalance extremo**: `Do Not Track` tiene 9 ejemplos.
-4. **3.434 duplicados exactos intra-documento** → deduplicar antes de partir (spec §4.2).
-5. **Mono-etiqueta** (2,8 % con alternativa) — no es multi-etiqueta como OPP-115.
-6. Granularidad más fina que OPP-115 (mediana ~20 palabras/párrafo).
-7. 2 documentos incompletos conocidos (Reddit, Renfe).
+1. Etiquetas de plata por reglas, confianza media 58,8 %, revisión humana pendiente.
+2. 75,9 % de los párrafos caen en `Other`, según `dataset_quality_report.md`, coherente con dejar `Other` fuera del target de entrenamiento multietiqueta.
+3. Desbalance extremo entre categorías, `Do Not Track` tiene 9 ejemplos en todo el dataset.
+4. 3.434 duplicados exactos de texto dentro del mismo documento, deduplicar antes de partir en train o test si se usa para entrenar en el futuro.
+5. Mono-etiqueta en la práctica, solo 2,8 % de los párrafos trae una categoría alternativa, a diferencia de OPP-115, que sí es multietiqueta.
+6. Granularidad más fina que OPP-115, mediana de unas 20 palabras por párrafo.
+7. 2 documentos incompletos conocidos, Reddit y Renfe.
 
 ## Fuentes externas versionadas
 
 | Recurso | Referencia |
 |---|---|
-| `external_datasets/JURIX_2020_OPP115_GDPR/` | Poplavska et al. 2020 (JURIX) — mapeo OPP-115 ↔ RGPD. DOI: 10.3233/FAIA200874 |
-| `external_datasets/MAPP_Corpus/` | Arora et al. 2022 (LREC) — corpus bilingüe de 155 políticas de apps (gold standard) |
+| `external_datasets/JURIX_2020_OPP115_GDPR/` | Poplavska et al. 2020 (JURIX), mapeo OPP-115 y RGPD. DOI 10.3233/FAIA200874 |
+| `external_datasets/MAPP_Corpus/` | Arora et al. 2022 (LREC), corpus bilingüe de 155 políticas de apps, gold standard |
 | `poplavska_jurix_2020.pdf` | Paper del mapeo RGPD |
 
 ## Citación y licencias
 
-- Políticas de privacidad: texto oficial de cada empresa, descargado de su dominio oficial en julio 2026 (`sources_catalog.csv`).
-- Taxonomía: Wilson et al. (2016), *The Creation and Analysis of a Website Privacy Policy Corpus*, ACL 2016.
-- Mapeo RGPD: Poplavska, Norton, Wilson & Sadeh (2020), JURIX 2020.
-- MAPP Corpus: Arora et al. (2022), LREC — solo investigación/docencia, citando el paper.
+- Políticas de privacidad, texto oficial de cada empresa, descargado de su dominio oficial en julio de 2026, ver `sources_catalog.csv`.
+- Taxonomía, Wilson et al. (2016), *The Creation and Analysis of a Website Privacy Policy Corpus*, ACL 2016.
+- Mapeo RGPD, Poplavska, Norton, Wilson y Sadeh (2020), JURIX 2020.
+- MAPP Corpus, Arora et al. (2022), LREC, solo para investigación y docencia, citando el paper original.

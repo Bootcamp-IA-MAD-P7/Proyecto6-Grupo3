@@ -16,4 +16,4 @@ Estas especificaciones describen el estado implementado y separan las decisiones
 2. `4_data_contract.md` para pipelines y artefactos.
 3. `5_backend_contract.md` para la API.
 
-El experimento multiclase no sustituye automáticamente el contrato multietiqueta del backend. Cualquier cambio de enfoque debe alinear código, artefactos, categorías del frontend y contrato de API.
+El modelo multiclase es el que sirve la API en producción, el enfoque multietiqueta original de OPP-115 sigue documentado y disponible en `models/` como comparación, pero no está conectado al backend. Cualquier cambio de enfoque de nuevo debe alinear código, artefactos, categorías del frontend y contrato de API, tal como quedó documentado el paso de stub a modelo real.

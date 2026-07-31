@@ -1,4 +1,4 @@
-# SPEC 1 — Intención del proyecto
+# SPEC 1. Intención del proyecto
 
 ## Propósito
 
@@ -16,24 +16,25 @@ No determina cumplimiento legal, no emite dictámenes y no sustituye asesoramien
 
 - Aplicación React responsive con páginas educativas.
 - Catálogos interactivos de riesgos y categorías.
-- Página RGPD, Aprende y PrivacyLens Lab.
-- API FastAPI con contrato estable y predicción simulada.
+- Páginas RGPD, Aprende y PrivacyLens Lab.
+- API FastAPI con un modelo real entrenado (ComplementNB multiclase, 10 categorías), que analiza texto pegado directamente o el texto de una URL.
+- Extensión de Chrome (MV3) que analiza la página activa desde el propio navegador, conectada a esa misma API.
 - Pipeline OPP-115, EDA y experimentos multietiqueta y multiclase.
-- Dataset moderno separado para evaluación externa y demostración.
+- Dataset moderno propio, separado para evaluación externa y demostración.
 
 ## Límites actuales
 
-- La interfaz funciona con mocks y no consume el backend.
-- El backend no descarga URLs ni ejecuta modelos entrenados.
-- Traducción, exposición y mapeo RGPD son placeholders.
+- Las estadísticas y los análisis recientes de la portada son datos fijos por decisión de diseño, no hay base de datos de análisis persistente ni está prevista.
+- El mapeo de cada categoría a su artículo del RGPD no está implementado, la API devuelve un valor fijo para ese campo.
+- La traducción de español a inglés antes de clasificar depende de una clave de API de Google Cloud Translation puesta como variable de entorno, sin ella el texto en español se clasifica sin traducir.
+- La taxonomía visual del catálogo de categorías del frontend usa identificadores propios que no coinciden con las categorías reales del backend.
 - PrivacyLens Lab presenta módulos visuales, pero no tiene submódulos funcionales.
-- No existe una extensión Chrome instalable en esta rama.
-- No existe despliegue ni Docker documentable desde el código actual.
+- No hay Dockerfile ni configuración Docker Compose en el repositorio, el backend y el frontend se despliegan por separado en Render.
 
 ## Principios
 
-- Transparencia sobre datos simulados y resultados orientativos.
+- Transparencia sobre qué resultado es cálculo real y cuál sigue siendo contenido educativo u orientativo.
 - Separación estricta entre entrenamiento y evaluación externa.
 - Reproducibilidad mediante splits y artefactos compartidos.
-- Seguridad básica: límite de texto, CORS configurado y errores legibles.
+- Seguridad básica, límite de longitud de texto, CORS configurado por entorno sin comodín, validación de la URL antes de descargarla, errores legibles.
 - Accesibilidad y lenguaje comprensible.
